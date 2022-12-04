@@ -37,7 +37,7 @@ acknowledgements: ""
 <div class="row">
   <div class="col-xs-12">
     <p>
-    The Colloquium on Fundamental Challenges on Causality aims to encourage and highlight novel approaches to handle the challenges on causal inferences with a focus on ....
+    The Colloquium on When Causal Inference meets Statistical Analysis aims to encourage and highlight novel approaches to handle the challenges on causal inferences with a focus on ....
 Specifically, the colloquium will explore topics related to (but are not limited to):
     </p>
     <ul>

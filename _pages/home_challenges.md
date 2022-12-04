@@ -17,7 +17,7 @@ acknowledgements: ""
     <center><h1>Fundamental Challenges in Causality</h1></center>
     <center><h2>Grenoble, France</h2></center>
     <center><strong>From</strong> May 9th <strong>to</strong> May 12th</center>
-    <center>Location: <b>XXX</b></center>
+    <center><b>Location</b>: <a href="https://batiment.imag.fr/en" target="_blank">IMAG Building</a>, <a href="https://www.openstreetmap.org/#map=19/45.19034/5.76707&layers=N" target="_blank">Direction</a></center>
   </div>
 </div>
 
@@ -196,7 +196,7 @@ Robins Evans is an Associate Professor in Statistics at the University of Oxford
     <div class="row speaker">
       <div class="col-sm-3 speaker-pic">
         <a href="https://people.csail.mit.edu/recasens/">
-          <img class="people-pic" src="/challenges/img/people/runge.jpeg" />
+          <img class="people-pic" src="/challenges/img/people/runge.jpg" />
         </a>
         <div class="people-name">
           <a href="https://climateinformaticslab.com/">Jakob Runge</a>
