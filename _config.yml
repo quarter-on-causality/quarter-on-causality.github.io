@@ -1,0 +1,13 @@
+title: Thematic Quarter on Causality
+email: 
+description: Thematic Quarter on Causality
+  ---
+baseurl: "" # the subpath of your site, e.g. /blog
+
+# Build settings
+markdown: kramdown
+include: ['_pages']
+
+# Google Analytics
+google_analytics:
+

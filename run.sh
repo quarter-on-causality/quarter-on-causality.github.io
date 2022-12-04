@@ -1,0 +1,1 @@
+docker run --platform linux/amd64 --rm -it --name jekyll-thematic -v "$PWD:/srv/jekyll" -p 4000:4000 jekyll/jekyll:4 jekyll serve
