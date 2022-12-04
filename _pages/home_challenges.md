@@ -196,7 +196,7 @@ Robins Evans is an Associate Professor in Statistics at the University of Oxford
     <div class="row speaker">
       <div class="col-sm-3 speaker-pic">
         <a href="https://people.csail.mit.edu/recasens/">
-          <img class="people-pic" src="/challenges/img/people/runge.jpg" />
+          <img class="people-pic" src="/challenges/img/people/runge.jpeg" />
         </a>
         <div class="people-name">
           <a href="https://climateinformaticslab.com/">Jakob Runge</a>
