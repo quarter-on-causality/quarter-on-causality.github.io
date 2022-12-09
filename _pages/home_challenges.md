@@ -139,22 +139,22 @@ This colloquium will several keynote speakers including Robin Evans, Hervé Isam
     <br>
     <div class="row speaker">
       <div class="col-sm-3 speaker-pic">
-        <a href="https://www.stats.ox.ac.uk/~evans/">
+        <a href="https://www.stats.ox.ac.uk/~evans/" target="_blank">
           <img class="people-pic" src="/challenges/img/people/evans.jpg" />
         </a>
         <div class="people-name">
-          <a href="https://www.stats.ox.ac.uk/~evans/">Robin Evans</a>
+          <a href="https://www.stats.ox.ac.uk/~evans/" target="_blank">Robin Evans</a>
           <h6>University of Oxford</h6>
         </div>
       </div>
       <div class="col-sm-9">
         <h3>TBD</h3><br />
-        <b>Abstract</b><p class="speaker-abstract"> XXXX</p>
+        <b>Abstract</b><p class="speaker-abstract">TBD</p>
         <div class="panel panel-default">
-          <div class="panel-heading" data-toggle="collapse" href="#jr-bio" style="cursor:pointer;text-align:center">
+          <div class="panel-heading" data-toggle="collapse" href="#re-bio" style="cursor:pointer;text-align:center">
             <b>Biography <span style="font-weight:normal">(click to expand/collapse)</span></b>
           </div>
-          <div id="jr-bio" class="panel-collapse collapse in"><div class="panel-body">
+          <div id="re-bio" class="panel-collapse collapse in"><div class="panel-body">
             <p class="speaker-bio">
 Robins Evans is an Associate Professor in Statistics at the University of Oxford, and a fellow of <a href="http://www.jesus.ox.ac.uk/" target="_blank">Jesus College</a>. He received his PhD in Statistics from the University of Washington in 2011, and he was a Postdoctoral Research Fellow at the Statistical Laboratory in Cambridge from 2011 to 2013. His research interests include graphical models, causal inference, latent variable models and algebraic, and semi-parametric statistics.
             </p>
@@ -167,11 +167,11 @@ Robins Evans is an Associate Professor in Statistics at the University of Oxford
 
     <div class="row speaker">
       <div class="col-sm-3 speaker-pic">
-        <a href="https://institut-curie.org/personne/herve-isambert">
+        <a href="https://institut-curie.org/personne/herve-isambert" target="_blank">
           <img class="people-pic" src="/challenges/img/people/isambert.jpeg" />
         </a>
         <div class="people-name">
-          <a href="https://institut-curie.org/personne/herve-isambert">Hervé Isambert</a>
+          <a href="https://institut-curie.org/personne/herve-isambert" target="_blank">Hervé Isambert</a>
           <h6>Institut Curie</h6>
         </div>
       </div>
@@ -179,12 +179,12 @@ Robins Evans is an Associate Professor in Statistics at the University of Oxford
 	<h3>TBD.</h3><br />
 	<b>Abstract</b><p class="speaker-abstract"></p>	
 	<div class="panel panel-default">
-          <div class="panel-heading" data-toggle="collapse" href="#me-bio" style="cursor:pointer;text-align:center">
+          <div class="panel-heading" data-toggle="collapse" href="#hi-bio" style="cursor:pointer;text-align:center">
             <b>Biography <span style="font-weight:normal">(click to expand/collapse)</span></b>
           </div>
-          <div id="me-bio" class="panel-collapse collapse"><div class="panel-body">
+          <div id="hi-bio" class="panel-collapse collapse in"><div class="panel-body">
             <p class="speaker-bio">
-	          Hervé Isambert is .....
+	          Hervé Isambert is a research director at CNRS. He received his PhD at École de physique-chimie de Paris, and did a postdoc at Cornell and another at Rockefeller university. He works since 2003 at Institut Curie, where he leads the team <a href="https://institut-curie.org/team/isambert" target="_blank">RNA DYNAMICS AND BIOMOLECULAR SYSTEMS</a>. His research interests include causal inference, latent variables, and particularly applications to RNA data. 
             </p>
           </div></div>
         </div>
@@ -195,11 +195,11 @@ Robins Evans is an Associate Professor in Statistics at the University of Oxford
 
     <div class="row speaker">
       <div class="col-sm-3 speaker-pic">
-        <a href="https://people.csail.mit.edu/recasens/">
+        <a href="https://climateinformaticslab.com/" target="_blank">
           <img class="people-pic" src="/challenges/img/people/runge.jpeg" />
         </a>
         <div class="people-name">
-          <a href="https://climateinformaticslab.com/">Jakob Runge</a>
+          <a href="https://climateinformaticslab.com/" target="_blank">Jakob Runge</a>
           <h6>German Aerospace Center and TU Berlin</h6>
         </div>
       </div>
@@ -209,12 +209,12 @@ Robins Evans is an Associate Professor in Statistics at the University of Oxford
 	TBD
 	</p>
         <div class="panel panel-default">
-          <div class="panel-heading" data-toggle="collapse" href="#ar-bio" style="cursor:pointer;text-align:center">
+          <div class="panel-heading" data-toggle="collapse" href="#jr-bio" style="cursor:pointer;text-align:center">
             <b>Biography <span style="font-weight:normal">(click to expand/collapse)</span></b>
           </div>
-          <div id="ar-bio" class="panel-collapse collapse"><div class="panel-body">
+          <div id="jr-bio" class="panel-collapse collapse in"><div class="panel-body">
             <p class="speaker-bio">
-	    Jakob Runge is ....
+	    Jakob Runge heads the Causal Inference group at the German Aerospace Center’s Institute of Data Science in Jena since 2017 and is chair of Climate Informatics at TU Berlin since 2021. Jakob studied physics at Humboldt University Berlin and obtained his PhD at the Potsdam Institute for Climate Impact Research in 2014. For his studies he was funded by the German National Foundation (Studienstiftung) and his thesis was awarded the Carl-Ramsauer prize by the Berlin Physical Society. In 2020 he won an ERC Starting Grant with his interdisciplinary project CausalEarth. His research interests include causality and time series graphs, quantification of causal interaction strength, information theory, and application to climate data. 
             </p>
           </div></div>
         </div>
@@ -225,11 +225,11 @@ Robins Evans is an Associate Professor in Statistics at the University of Oxford
 
     <div class="row speaker">
       <div class="col-sm-3 speaker-pic">
-        <a href="https://people.csail.mit.edu/recasens/">
+        <a href="https://www.lri.fr/~sebag/" target="_blank">
           <img class="people-pic" src="/challenges/img/people/sebag.jpeg" />
         </a>
         <div class="people-name">
-          <a href="https://www.lri.fr/~sebag/">Michèle Sébag</a>
+          <a href="https://www.lri.fr/~sebag/" target="_blank">Michèle Sébag</a>
           <h6>TAU, CNRS, Paris-Saclay University</h6>
         </div>
       </div>
@@ -239,20 +239,84 @@ Robins Evans is an Associate Professor in Statistics at the University of Oxford
 	TBD
 	</p>
         <div class="panel panel-default">
-          <div class="panel-heading" data-toggle="collapse" href="#ar-bio" style="cursor:pointer;text-align:center">
+          <div class="panel-heading" data-toggle="collapse" href="#ms-bio" style="cursor:pointer;text-align:center">
             <b>Biography <span style="font-weight:normal">(click to expand/collapse)</span></b>
           </div>
-          <div id="ar-bio" class="panel-collapse collapse"><div class="panel-body">
+          <div id="ms-bio" class="panel-collapse collapse in"><div class="panel-body">
             <p class="speaker-bio">
-	    Michèle Sébag is  ....
+              With a background in maths (Ecole Normale Supérieure), Michèle Sebag went to industry (Thalès) where she started to learn about computer science, project management, and artificial intelligence. She got interested in AI, became consulting engineer, and realized that machine learning was something to be. She was offered the opportunity to start research on machine learning for applications in numerical engineering at <a href="http://www.lms.polytechnique.fr/">Laboratoire de Mécanique des Solides</a> at Ecole Polytechnique.
+              
+              After her PhD at the crossroad of machine learning (<a href="http://www.lri.fr">LRI</a>, Université Paris-Sud), data analysis (<a href="http://www.ceremade.dauphine.fr/">Ceremade</a>, Université Paris-10 Dauphine) and numerical engineering (<a href="http://www.lms.polytechnique.fr">LMS</a>, Ecole Polytechnique), she entered <a href="http://www.cnrs.fr">CNRS</a> as research fellow (CR1) in 1991.
+              
+              In 2001, she took the lead of the Inference and ML group, now ML & Optimization, at LRI, Université Paris-Sud. In 2003 she founded together with <a href="https://www.lri.fr/~marc/">Marc Schoenauer</a> the <a href="http://tao.lri.fr">TAO</a> (ML & Optimization) <a href="http://www.inria.fr">INRIA</a> project.
+              
+              Her research interests include causal modelling, preference learning, surrogate optimization, and machine learning applications to social sciences.
             </p>
           </div></div>
         </div>
       </div>
     </div>
 
+    <br>
 
+    <div class="row speaker">
+      <div class="col-sm-3 speaker-pic">
+        <a href="https://www.vanderschaar-lab.com/prof-mihaela-van-der-schaar/">
+          <img class="people-pic" src="/challenges/img/people/mihaela.jpg" />
+        </a>
+        <div class="people-name">
+          <a href="https://www.vanderschaar-lab.com/prof-mihaela-van-der-schaar/" target="_blank">Mihaela van der Schaar</a>
+          <h6>University of Cambridge, Alan Turing Institute, London</h6>
+        </div>
+      </div>
+      <div class="col-sm-9">
+	<h3>TBD</h3><br />
+	<b>Abstract</b><p class="speaker-abstract">
+	TBD
+	</p>
+        <div class="panel panel-default">
+          <div class="panel-heading" data-toggle="collapse" href="#mvds-bio" style="cursor:pointer;text-align:center">
+            <b>Biography <span style="font-weight:normal">(click to expand/collapse)</span></b>
+          </div>
+          <div id="mvds-bio" class="panel-collapse collapse in"><div class="panel-body">
+            <p class="speaker-bio">
+              Mihaela van der Schaar is the John Humphrey Plummer Professor of Machine Learning, Artificial Intelligence and Medicine at the University of Cambridge and a Fellow at The Alan Turing Institute in London. In addition to leading the van der Schaar Lab, Mihaela is founder and director of the Cambridge Centre for AI in Medicine (CCAIM). Mihaela was elected IEEE Fellow in 2009. She has received numerous awards, including the Oon Prize on Preventative Medicine from the University of Cambridge (2018), a National Science Foundation CAREER Award (2004), 3 IBM Faculty Awards, the IBM Exploratory Stream Analytics Innovation Award, the Philips Make a Difference Award and several best paper awards, including the IEEE Darlington Award. Mihaela is personally credited as inventor on 35 USA patents (the majority of which are listed here), many of which are still frequently cited and adopted in standards. She has made over 45 contributions to international standards for which she received 3 ISO Awards. In 2019, a Nesta report determined that Mihaela was the most-cited female AI researcher in the U.K.
+            </p>
+          </div></div>
+        </div>
+      </div>
+    </div>
 
+    <br>
+
+    <div class="row speaker">
+      <div class="col-sm-3 speaker-pic">
+        <a href="https://www.andrew.cmu.edu/user/kunz1/" target="_blank">
+          <img class="people-pic" src="/challenges/img/people/zhang.jpg" />
+        </a>
+        <div class="people-name">
+          <a href="https://www.andrew.cmu.edu/user/kunz1/" target="_blank">Kun Zhang</a>
+          <h6>Carnegie Mellon University (CMU), Mohamed bin Zayed University of Artificial Intelligence (MBZUAI)</h6>
+        </div>
+      </div>
+      <div class="col-sm-9">
+	<h3>TBD</h3><br />
+	<b>Abstract</b><p class="speaker-abstract">
+	TBD
+	</p>
+        <div class="panel panel-default">
+          <div class="panel-heading" data-toggle="collapse" href="#kz-bio" style="cursor:pointer;text-align:center">
+            <b>Biography <span style="font-weight:normal">(click to expand/collapse)</span></b>
+          </div>
+          <div id="kz-bio" class="panel-collapse collapse in"><div class="panel-body">
+            <p class="speaker-bio">
+              Kun Zhang is an associate professor of machine learning at Mohamed bin Zayed University of Artificial Intelligence (MBZUAI), on leave from Carnegie Mellon University. His research interests lie in machine learning and artificial intelligence, especially in causal discovery and causality-based learning. He develops methods for automated causal discovery from various kinds of data, investigate learning problems including transfer learning, concept learning, and deep learning from a causal view, and study philosophical foundations of causation and various machine learning tasks. Recently he has been focusing on causal representation learning. On the application side, he is interested in neuroscience, computer vision, computational finance, and climate analysis.
+            </p>
+          </div></div>
+        </div>
+      </div>
+    </div>
+    <br/>
   </div>
 </div>
 
@@ -296,8 +360,15 @@ Robins Evans is an Associate Professor in Statistics at the University of Oxford
 </div>
 <div class="row">
   <div class="col-xs-3">
+    <div class="people-name"><a target="_blank" href="https://helios2.mi.parisdescartes.fr/~chambaz/index.php?choix=1">Antoine Chambaz</a><h6>Université Paris Cité</h6></div>
+    <div class="people-name"><a target="_blank" href="https://sites.google.com/site/marianneclausel">Marianne Clausel</a><h6>Université of Lorraine University</h6></div>
     <div class="people-name"><a target="_blank" href="http://ama.liglab.fr/~devijvee">Emilie Devijver</a><h6>CNRS and University of Grenoble Alpes </h6></div>
-    <div class="people-name"><a target="_blank" href="https://sites.google.com/site/marianneclausel">Marianne Clausel</a><h6>Université of Lorraine University</h6></div>    
+    <div class="people-name"><a target="_blank" href="http://ama.liglab.fr/~gaussier/">Eric Gaussier</a><h6>University of Grenoble Alpes </h6></div>
+    <div class="people-name"><a target="_blank" href="https://institut-curie.org/personne/herve-isambert">Hervé Isambert</a><h6>Institut Curie</h6></div>
+    <div class="people-name"><a target="_blank" href="">Alessandro Leite</a><h6>TAU, INRIA, Paris-Saclay University</h6></div>
+    <div class="people-name"><a target="_blank" href="https://sites.google.com/site/codpleray/">Philippe Leray</a><h6>Nantes University</h6></div>
+    <div class="people-name"><a target="_blank" href="https://www.lri.fr/~sebag">Michèle Sébag</a><h6>TAU, CNRS, Paris-Saclay University</h6></div>
+    <div class="people-name"><a target="_blank" href="https://www.lip6.fr/Pierre-Henri.Wuillemin">Pierre-Henri Wuillemin</a><h6>Sorbonne University</h6></div>
   </div>
   <div class="col-xs-3">        
   </div>
@@ -344,6 +415,7 @@ Robins Evans is an Associate Professor in Statistics at the University of Oxford
 </div>
 <div class="row">
   <div class="col-xs-4 sponsor">
-    <a href="https://scai.sorbonne-universite.fr/"><img src="img/scai.jpg"/></a>
+    <a href="https://scai.sorbonne-universite.fr" target="_blank"><img src="img/scai.jpg"/></a>
+    <a href="https://cnrs.fr" target="_blank"><img src="img/cnrs.png"/></a>
   </div>  
 </div>
