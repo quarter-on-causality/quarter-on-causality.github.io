@@ -94,12 +94,13 @@ This colloquium will several keynote speakers including Robin Evans, Hervé Isam
         </tr>
         <tr>
           <td>Camera-Ready Deadline</td>
-          <td>February XX, 2023</td>
+          <td>February 28, 2023 (23:59 AOE)</td>
+          <td><span class="countdown" reference="01 Mars 2023 12:59:59 UTC"></span></td>
         </tr>
         <tr>
           <td>Colloquium</td>
           <td>From May 9th to May 12th, 2023</td>
-	  <td><span class="countdown" reference="9 May 2023 23:59:59 UTC"></span></td>
+	        <td><span class="countdown" reference="9 May 2023 23:59:59 UTC"></span></td>
         </tr>
       </tbody>
     </table>
@@ -109,8 +110,9 @@ This colloquium will several keynote speakers including Robin Evans, Hervé Isam
 <div class="row">
   <div class="col-xs-12"><a class="anchor" id="schedule"></a>
      <h2>Schedule</h2>
-     <br>     
-     <table class="table schedule" style="border:none !important;">
+     <br>
+     To be announced soon
+     <!-- <table class="table schedule" style="border:none !important;">
       <thead class="thead-light">
         <tr>
 	        <th>Time in UTC</th>
@@ -119,16 +121,11 @@ This colloquium will several keynote speakers including Robin Evans, Hervé Isam
       </thead>
       <tbody>
         <tr>
-          <td>9:00am - 9:15am</td>          
+          <td>9:00am - 9:15am</td>
           <td>Opening Remarks and Awards</td>
         </tr>
-        <!-- <tr>
-          <td>3:05pm - 3:40pm</td>
-          <td class="to-local-time">20 Jun 2021 15:05:00 UTC</td>
-          <td>Challenge Winner Talks</td>
-        </tr> -->
       </tbody>
-     </table>     
+     </table> -->
   </div>
 </div><br><br>
 
@@ -321,13 +318,12 @@ Robins Evans is an Associate Professor in Statistics at the University of Oxford
 </div>
 
 
-
 <div class="row">
   <div class="col-xs-12"><a class="anchor" id="accepted-papers"></a>
     <h2>Accepted Full Papers</h2>
     <div class="paper">
-        <span class="title">Title</span>
-        <span class="authors">Authors</span>
+        <!-- <span class="title">Title</span>
+        <span class="authors">Authors</span> -->
         <div class="btn-group btn-group-xs" role="group">          
           <button class="btn btn-poster-id">Poster #1</button>	  
 	        <a class="btn btn-default" target="_blank" href="https://arxiv.org/"><i class="fas fa-archive"></i> arXiv</a>
@@ -340,15 +336,14 @@ Robins Evans is an Associate Professor in Statistics at the University of Oxford
     <a class="anchor" id="invited-posters"></a>
     <h2>Invited Posters</h2>
     <div class="paper">
-        <span class="title">Title</span>
-        <span class="authors">Authors</span>
+        <!-- <span class="title">Title</span>
+        <span class="authors">Authors</span> -->
         <div class="btn-group btn-group-xs" role="group">          
           <button class="btn btn-poster-id">Poster #1</button>
 	        <a class="btn btn-default" target="_blank" href="https://arxiv.org/"><i class="fas fa-archive"></i> arXiv</a>
           <a class="btn btn-default" target="_blank" href="https://github.com/"><i class="fas fa-code"></i> Code</a>
         </div>
-    </div>    
-
+    </div>     
   </div>
 </div>
 <br>
@@ -363,7 +358,7 @@ Robins Evans is an Associate Professor in Statistics at the University of Oxford
     <div class="people-name"><a target="_blank" href="https://helios2.mi.parisdescartes.fr/~chambaz/index.php?choix=1">Antoine Chambaz</a><h6>Université Paris Cité</h6></div>
     <div class="people-name"><a target="_blank" href="https://sites.google.com/site/marianneclausel">Marianne Clausel</a><h6>Université of Lorraine University</h6></div>
     <div class="people-name"><a target="_blank" href="http://ama.liglab.fr/~devijvee">Emilie Devijver</a><h6>CNRS and University of Grenoble Alpes </h6></div>
-    <div class="people-name"><a target="_blank" href="http://ama.liglab.fr/~gaussier/">Eric Gaussier</a><h6>University of Grenoble Alpes </h6></div>
+    <div class="people-name"><a target="_blank" href="http://ama.liglab.fr/~gaussier/">Eric Gaussier</a><h6>University of Grenoble Alpes</h6></div>
     <div class="people-name"><a target="_blank" href="https://institut-curie.org/personne/herve-isambert">Hervé Isambert</a><h6>Institut Curie</h6></div>
     <div class="people-name"><a target="_blank" href="">Alessandro Leite</a><h6>TAU, INRIA, Paris-Saclay University</h6></div>
     <div class="people-name"><a target="_blank" href="https://sites.google.com/site/codpleray/">Philippe Leray</a><h6>Nantes University</h6></div>
@@ -386,7 +381,7 @@ Robins Evans is an Associate Professor in Statistics at the University of Oxford
 </div>
 
 <div class="row">
-  <div class="col-xs-1"></div>
+  <!-- <div class="col-xs-1"></div> -->
   <div class="col-xs-2">
     <a href="http://ama.liglab.fr/~devijvee/">
       <img class="people-pic" src="{{ "img/people/devijver.jpeg" | prepend:site.baseurl }}">
@@ -397,12 +392,12 @@ Robins Evans is an Associate Professor in Statistics at the University of Oxford
     </div>
   </div>
   <div class="col-xs-2">
-    <a href="https://sites.google.com/site/marianneclausel">
-      <img class="people-pic" src="{{ "img/people/clausel.jpg" | prepend:site.baseurl }}">
+    <a href="hhttps://ckassaad.github.io" target="_blank">
+      <img class="people-pic" src="{{ "img/people/ckassad.jpeg" | prepend:site.baseurl }}">
     </a>
     <div class="people-name">
-      <a href="https://sites.google.com/site/marianneclausel">Marianne Clausel</a>
-      <h6>University of Lorraine</h6>
+      <a href="hhttps://ckassaad.github.io" target="_blank">Charles K. Assaad</a>
+      <h6>EasyVista</h6>
     </div>
   </div>  
 </div>

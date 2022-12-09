@@ -61,10 +61,15 @@ acknowledgements: ""
           <td><span class="countdown" reference="9 May 2023 10:00:00 UTC"></span></td>
         </tr>
         <tr>
-          <td>Causality in Practice</td>
-          <td>July 12th, 2023</td>
-          <td><span class="countdown" reference="12 July 2023 10:00:00 UTC"></span></td>
-        </tr>        
+          <td>Causality in Practice, I</td>
+          <td>From June 12th to June 16th, 2023</td>
+          <td><span class="countdown" reference="12 June 2023 10:00:00 UTC"></span></td>
+        </tr>
+        <tr>
+          <td>Causality in Practice, II</td>
+          <td>From July 3rd to June 7th, 2023</td>
+          <td><span class="countdown" reference="3 July 2023 10:00:00 UTC"></span></td>
+        </tr>
       </tbody>
     </table>
   </div>
@@ -94,8 +99,15 @@ acknowledgements: ""
 
 <div class="row">
   <div class="col-xs-3">
+    <div class="people-name"><a target="_blank" href="https://helios2.mi.parisdescartes.fr/~chambaz/index.php?choix=1">Antoine Chambaz</a><h6>Université Paris Cité</h6></div>
+    <div class="people-name"><a target="_blank" href="https://sites.google.com/site/marianneclausel">Marianne Clausel</a><h6>Université of Lorraine University</h6></div>
     <div class="people-name"><a target="_blank" href="http://ama.liglab.fr/~devijvee">Emilie Devijver</a><h6>CNRS and University of Grenoble Alpes </h6></div>
-    <div class="people-name"><a target="_blank" href="https://sites.google.com/site/marianneclausel">Marianne Clausel</a><h6>Université of Lorraine University</h6></div>    
+    <div class="people-name"><a target="_blank" href="http://ama.liglab.fr/~gaussier/">Eric Gaussier</a><h6>University of Grenoble Alpes </h6></div>
+    <div class="people-name"><a target="_blank" href="https://institut-curie.org/personne/herve-isambert">Hervé Isambert</a><h6>Institut Curie</h6></div>
+    <div class="people-name"><a target="_blank" href="">Alessandro Leite</a><h6>TAU, INRIA, Paris-Saclay University</h6></div>
+    <div class="people-name"><a target="_blank" href="https://sites.google.com/site/codpleray/">Philippe Leray</a><h6>Nantes University</h6></div>
+    <div class="people-name"><a target="_blank" href="https://www.lri.fr/~sebag">Michèle Sébag</a><h6>TAU, CNRS, Paris-Saclay University</h6></div>
+    <div class="people-name"><a target="_blank" href="https://www.lip6.fr/Pierre-Henri.Wuillemin">Pierre-Henri Wuillemin</a><h6>Sorbonne University</h6></div>
   </div>
   <div class="col-xs-3">        
   </div>
@@ -113,7 +125,16 @@ acknowledgements: ""
 </div>
 
 <div class="row">
-  <div class="col-xs-1"></div>
+  <!-- <div class="col-xs-1"></div> -->
+  <div class="col-xs-2">
+    <a href="https://sites.google.com/site/marianneclausel">
+      <img class="people-pic" src="{{ "quarter/img/people/clausel.jpg" | prepend:site.baseurl }}">
+    </a>
+    <div class="people-name">
+      <a href="https://sites.google.com/site/marianneclausel">Marianne Clausel</a>
+      <h6>University of Lorraine</h6>
+    </div>
+  </div>
   <div class="col-xs-2">
     <a href="http://ama.liglab.fr/~devijvee/">
       <img class="people-pic" src="{{ "quarter/img/people/devijver.jpeg" | prepend:site.baseurl }}">
@@ -124,15 +145,54 @@ acknowledgements: ""
     </div>
   </div>
   <div class="col-xs-2">
-    <a href="https://sites.google.com/site/marianneclausel">
-      <img class="people-pic" src="{{ "quarter/img/people/clausel.jpg" | prepend:site.baseurl }}">
+    <a href="http://ama.liglab.fr/~gaussier" target="_blank">
+      <img class="people-pic" src="{{ "quarter/img/people/EG.jpeg" | prepend:site.baseurl }}">
     </a>
     <div class="people-name">
-      <a href="https://sites.google.com/site/marianneclausel">Marianne Clausel</a>
-      <h6>University of Lorraine</h6>
+      <a href="http://ama.liglab.fr/~gaussier">Eric Gaussier</a>
+      <h6>University of Grenoble Alpes</h6>
+    </div>
+  </div>
+  <div class="col-xs-2">
+    <a href="#" target="_blank">
+      <img class="people-pic" src="{{ "quarter/img/people/aleite.jpg" | prepend:site.baseurl }}">
+    </a>
+    <div class="people-name">
+      <a href="#">Alessandro Leite</a>
+      <h6>TAU,INRIA,Paris-Saclay University</h6>
     </div>
   </div>  
 </div>
+<div class="row">
+  <div class="col-xs-2">
+    <a href="#" target="_blank">
+      <img class="people-pic" src="{{ "quarter/img/people/GO.jpeg" | prepend:site.baseurl }}">
+    </a>
+    <div class="people-name">
+      <a href="#">Georges Oppenheim</a>
+      <h6>Paris-Saclay University</h6>
+    </div>
+  </div>
+  <div class="col-xs-2">
+    <a href="https://www.lri.fr/~sebag/" target="_blank">
+      <img class="people-pic" src="{{ "quarter/img/people/sebag.jpeg" | prepend:site.baseurl }}">
+    </a>
+    <div class="people-name">
+      <a href="#">Michèle Sébag</a>
+      <h6>TAU,CNRS,Paris-Saclay University</h6>
+    </div>
+  </div>
+  <div class="col-xs-2">
+    <a href="https://www.lip6.fr/Pierre-Henri.Wuillemin" target="_blank">
+      <img class="people-pic" src="{{ "quarter/img/people/PH.png" | prepend:site.baseurl }}">
+    </a>
+    <div class="people-name">
+      <a href="#">Pierre-Henri Wuillemin</a>
+      <h6>Sorbonne University</h6>
+    </div>
+  </div>
+</div>
+
 <br>
 
 <div class="row">
