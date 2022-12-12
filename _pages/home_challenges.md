@@ -38,17 +38,24 @@ acknowledgements: ""
 <div class="row">
   <div class="col-xs-12">
     <p>
-    The Colloquium on Fundamental Challenges on Causality aims to encourage and highlight novel approaches to handle the challenges on causal inferences with a focus on ....
-Specifically, the colloquium will explore topics related to (but are not limited to):
+    The Colloquium on Fundamental Challenges on Causality aims to encourage and highlight novel approaches to handle the challenges on causal inferences. The colloquium will explore topics related to, but not limited to:
     </p>
     <ul>
-      <li>A....</li>
-      <li>B..</li>
+      <li>Causal discovery</li>
+      <li>Causal learning and control problems</li>
+      <li>Theoretical foundation of causal inference</li>
+      <li>Causal inference and active learning</li>
+      <li>Causal learning in low data regime</li>
+      <li>Reinforcement learning</li>
+      <li>Causal machine learning</li>
+      <li>Causal generative models</li>
+      <li>Benchmark for causal discovery and causal reasoning</li>
     </ul>
 
 This colloquium will several keynote speakers including Robin Evans, Hervé Isambert, Jakob Runge, Michèle Sebag, Ilya Shiptser, Mihaela Van der Schaar, and Kun Zhang. In addition, it will also include invite papers contributing to all aspects of causality. Accepted papers will be published online and presented either within an oral or a poster session.
   </div>
-</div> <br>
+</div>
+<br/>
 
 <div class="row">
   <div class="col-xs-12 panel-group"><a class="anchor" id="calls"></a>
@@ -58,7 +65,7 @@ This colloquium will several keynote speakers including Robin Evans, Hervé Isam
       <div class="panel-heading" data-toggle="collapse" data-parent="#call" href="#call-papers" style="cursor:pointer;">
         <h3 style="margin:0;">Full Colloquium Papers</h3>
       </div>
-      <div id="call-papers" class="panel-collapse collapse" data-parent="#call">
+      <div id="call-papers" class="panel-collapse collapse in" data-parent="#call">
         <div class="panel-body">
           <p>
 	    <span style="font-weight:500;">Submission:</span> We invite authors to submit unpublished papers of any length between 2 and 6 pages, excluding references. All submissions must be in English, in PDF format, following the ACM two-column format. Suitable LaTeX and Word templates are available from the ACM website: <a href="https://www.acm.org/publications/proceedings-template" target="_blank">https://www.acm.org/publications/proceedings-template</a>.

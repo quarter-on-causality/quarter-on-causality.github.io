@@ -31,25 +31,20 @@ acknowledgements: ""
 
 <div class="row">
   <div class="col-xs-12"><a class="anchor" id="intro"></a>
-    <h2>Introduction</h2>
+    <!-- <h2>Introduction</h2> -->
   </div>
 </div>
 <div class="row">
   <div class="col-xs-12">
-    <p>
-    The Colloquium on Fundamental Challenges on Causality aims to encourage and highlight novel approaches to handle the challenges on causal inferences with a focus on ....
-Specifically, the colloquium will explore topics related to (but are not limited to):
-    </p>
-    <ul>
+    <p></p>
+    <!-- <ul>
       <li>A....</li>
       <li>B..</li>
-    </ul>
-
-This colloquium will several keynote speakers including Robin Evans, Hervé Isambert, Jakob Runge, Michèle Sebag, Ilya Shiptser, Mihaela Van der Schaar, and Kun Zhang. In addition, it will also include invite papers contributing to all aspects of causality. Accepted papers will be published online and presented either within an oral or a poster session.
+    </ul> -->
   </div>
 </div> <br>
 
-<div class="row">
+<!-- <div class="row">
   <div class="col-xs-12 panel-group"><a class="anchor" id="calls"></a>
     <h2>Call for Contributions</h2>
     <br>
@@ -66,17 +61,17 @@ This colloquium will several keynote speakers including Robin Evans, Hervé Isam
       <p>
       Note that authors are encouraged to adhere to the best practices of Reproducible Research (RR), by making available data and software tools for reproducing the results reported in their papers. For the sake of persistence and proper authorship attribution, we require the use of standard repository hosting services such as dataverse, mldata, openml, etc., for data sets, and mloss, Bitbucket, GitHub, etc. for source code. Authors who submit their work to the colloquium commit themselves to presenting their paper at the colloquium if it is accepted.	    
 	  </p>
-	  <!-- <p>
+	  <p>
 	    Accepted papers will be published in the official
-	  </p> -->
+	  </p>
         </div>
       </div>
     </div>
     <br>    
   </div>
-</div><br>
+</div><br> -->
 
-<div class="row">
+<!-- <div class="row">
   <div class="col-xs-12"><a class="anchor" id="dates"></a>
     <h2>Important Dates</h2>
     <br>
@@ -103,13 +98,13 @@ This colloquium will several keynote speakers including Robin Evans, Hervé Isam
       </tbody>
     </table>
   </div>
-</div><br>
+</div><br> -->
 
 <div class="row">
   <div class="col-xs-12"><a class="anchor" id="schedule"></a>
      <h2>Schedule</h2>
      <br>     
-     <table class="table schedule" style="border:none !important;">
+     <!-- <table class="table schedule" style="border:none !important;">
       <thead class="thead-light">
         <tr>
 	        <th>Time in UTC</th>
@@ -121,19 +116,14 @@ This colloquium will several keynote speakers including Robin Evans, Hervé Isam
           <td>9:00am - 9:15am</td>          
           <td>Opening Remarks and Awards</td>
         </tr>
-        <!-- <tr>
-          <td>3:05pm - 3:40pm</td>
-          <td class="to-local-time">20 Jun 2021 15:05:00 UTC</td>
-          <td>Challenge Winner Talks</td>
-        </tr> -->
       </tbody>
-     </table>     
-  </div>
+     </table>
+  </div>      -->
 </div><br><br>
 
 
 <div class="row">
-  <div class="col-xs-12"><a class="anchor" id="speakers"></a>
+  <!-- <div class="col-xs-12"><a class="anchor" id="speakers"></a>
     <h2>Invited Keynote Speakers</h2>
     <br>
     <div class="row speaker">
@@ -148,7 +138,7 @@ This colloquium will several keynote speakers including Robin Evans, Hervé Isam
       </div>
       <div class="col-sm-9">
         <h3>TBD</h3><br />
-        <b>Abstract</b><p class="speaker-abstract"> XXXX</p>
+        <b>Abstract</b><p class="speaker-abstract">TBD</p>
         <div class="panel panel-default">
           <div class="panel-heading" data-toggle="collapse" href="#jr-bio" style="cursor:pointer;text-align:center">
             <b>Biography <span style="font-weight:normal">(click to expand/collapse)</span></b>
@@ -160,130 +150,8 @@ Robins Evans is an Associate Professor in Statistics at the University of Oxford
           </div></div>
         </div>
       </div>
-    </div>
-
-    <br>
-
-    <div class="row speaker">
-      <div class="col-sm-3 speaker-pic">
-        <a href="https://institut-curie.org/personne/herve-isambert">
-          <img class="people-pic" src="/challenges/img/people/isambert.jpeg" />
-        </a>
-        <div class="people-name">
-          <a href="https://institut-curie.org/personne/herve-isambert">Hervé Isambert</a>
-          <h6>Institut Curie</h6>
-        </div>
-      </div>
-      <div class="col-sm-9">
-	<h3>TBD.</h3><br />
-	<b>Abstract</b><p class="speaker-abstract"></p>	
-	<div class="panel panel-default">
-          <div class="panel-heading" data-toggle="collapse" href="#me-bio" style="cursor:pointer;text-align:center">
-            <b>Biography <span style="font-weight:normal">(click to expand/collapse)</span></b>
-          </div>
-          <div id="me-bio" class="panel-collapse collapse"><div class="panel-body">
-            <p class="speaker-bio">
-	          Hervé Isambert is .....
-            </p>
-          </div></div>
-        </div>
-      </div>
-    </div>
-
-    <br>
-
-    <div class="row speaker">
-      <div class="col-sm-3 speaker-pic">
-        <a href="https://people.csail.mit.edu/recasens/">
-          <img class="people-pic" src="/challenges/img/people/runge.jpeg" />
-        </a>
-        <div class="people-name">
-          <a href="https://climateinformaticslab.com/">Jakob Runge</a>
-          <h6>German Aerospace Center and TU Berlin</h6>
-        </div>
-      </div>
-      <div class="col-sm-9">
-	<h3>TBD</h3><br />
-	<b>Abstract</b><p class="speaker-abstract">
-	TBD
-	</p>
-        <div class="panel panel-default">
-          <div class="panel-heading" data-toggle="collapse" href="#ar-bio" style="cursor:pointer;text-align:center">
-            <b>Biography <span style="font-weight:normal">(click to expand/collapse)</span></b>
-          </div>
-          <div id="ar-bio" class="panel-collapse collapse"><div class="panel-body">
-            <p class="speaker-bio">
-	    Jakob Runge is ....
-            </p>
-          </div></div>
-        </div>
-      </div>
-    </div>
-
-    <br>
-
-    <div class="row speaker">
-      <div class="col-sm-3 speaker-pic">
-        <a href="https://people.csail.mit.edu/recasens/">
-          <img class="people-pic" src="/challenges/img/people/sebag.jpeg" />
-        </a>
-        <div class="people-name">
-          <a href="https://www.lri.fr/~sebag/">Michèle Sébag</a>
-          <h6>TAU, CNRS, Paris-Saclay University</h6>
-        </div>
-      </div>
-      <div class="col-sm-9">
-	<h3>TBD</h3><br />
-	<b>Abstract</b><p class="speaker-abstract">
-	TBD
-	</p>
-        <div class="panel panel-default">
-          <div class="panel-heading" data-toggle="collapse" href="#ar-bio" style="cursor:pointer;text-align:center">
-            <b>Biography <span style="font-weight:normal">(click to expand/collapse)</span></b>
-          </div>
-          <div id="ar-bio" class="panel-collapse collapse"><div class="panel-body">
-            <p class="speaker-bio">
-	    Michèle Sébag is  ....
-            </p>
-          </div></div>
-        </div>
-      </div>
-    </div>
-
-
-
-  </div>
-</div>
-
-
-
-<div class="row">
-  <div class="col-xs-12"><a class="anchor" id="accepted-papers"></a>
-    <h2>Accepted Full Papers</h2>
-    <div class="paper">
-        <span class="title">Title</span>
-        <span class="authors">Authors</span>
-        <div class="btn-group btn-group-xs" role="group">          
-          <button class="btn btn-poster-id">Poster #1</button>	  
-	        <a class="btn btn-default" target="_blank" href="https://arxiv.org/"><i class="fas fa-archive"></i> arXiv</a>
-          <a class="btn btn-default" target="_blank" href="https://github.com/"><i class="fas fa-code"></i> Code</a>
-        </div>
-    </div>
-
-    <br><br>
-
-    <a class="anchor" id="invited-posters"></a>
-    <h2>Invited Posters</h2>
-    <div class="paper">
-        <span class="title">Title</span>
-        <span class="authors">Authors</span>
-        <div class="btn-group btn-group-xs" role="group">          
-          <button class="btn btn-poster-id">Poster #1</button>
-	        <a class="btn btn-default" target="_blank" href="https://arxiv.org/"><i class="fas fa-archive"></i> arXiv</a>
-          <a class="btn btn-default" target="_blank" href="https://github.com/"><i class="fas fa-code"></i> Code</a>
-        </div>
-    </div>    
-
+    </div> -->
+    <br/>
   </div>
 </div>
 <br>
@@ -295,8 +163,15 @@ Robins Evans is an Associate Professor in Statistics at the University of Oxford
 </div>
 <div class="row">
   <div class="col-xs-3">
+    <div class="people-name"><a target="_blank" href="https://helios2.mi.parisdescartes.fr/~chambaz/index.php?choix=1">Antoine Chambaz</a><h6>Université Paris Cité</h6></div>
+    <div class="people-name"><a target="_blank" href="https://sites.google.com/site/marianneclausel">Marianne Clausel</a><h6>Université of Lorraine University</h6></div>
     <div class="people-name"><a target="_blank" href="http://ama.liglab.fr/~devijvee">Emilie Devijver</a><h6>CNRS and University of Grenoble Alpes </h6></div>
-    <div class="people-name"><a target="_blank" href="https://sites.google.com/site/marianneclausel">Marianne Clausel</a><h6>Université of Lorraine University</h6></div>    
+    <div class="people-name"><a target="_blank" href="http://ama.liglab.fr/~gaussier/">Eric Gaussier</a><h6>University of Grenoble Alpes</h6></div>
+    <div class="people-name"><a target="_blank" href="https://institut-curie.org/personne/herve-isambert">Hervé Isambert</a><h6>Institut Curie</h6></div>
+    <div class="people-name"><a target="_blank" href="">Alessandro Leite</a><h6>TAU, INRIA, Paris-Saclay University</h6></div>
+    <div class="people-name"><a target="_blank" href="https://sites.google.com/site/codpleray/">Philippe Leray</a><h6>Nantes University</h6></div>
+    <div class="people-name"><a target="_blank" href="https://www.lri.fr/~sebag">Michèle Sébag</a><h6>TAU, CNRS, Paris-Saclay University</h6></div>
+    <div class="people-name"><a target="_blank" href="https://www.lip6.fr/Pierre-Henri.Wuillemin">Pierre-Henri Wuillemin</a><h6>Sorbonne University</h6></div>
   </div>
   <div class="col-xs-3">        
   </div>
@@ -313,17 +188,7 @@ Robins Evans is an Associate Professor in Statistics at the University of Oxford
   </div>
 </div>
 
-<div class="row">
-  <div class="col-xs-1"></div>
-  <div class="col-xs-2">
-    <a href="http://ama.liglab.fr/~devijvee/">
-      <img class="people-pic" src="{{ "img/people/devijver.jpeg" | prepend:site.baseurl }}">
-    </a>
-    <div class="people-name">
-      <a href="http://ama.liglab.fr/~devijvee/">Emilie Devijver</a>
-      <h6>CNRS and University of Grenoble Alpes</h6>
-    </div>
-  </div>
+<div class="row">  
   <div class="col-xs-2">
     <a href="https://sites.google.com/site/marianneclausel">
       <img class="people-pic" src="{{ "img/people/clausel.jpg" | prepend:site.baseurl }}">
@@ -332,7 +197,16 @@ Robins Evans is an Associate Professor in Statistics at the University of Oxford
       <a href="https://sites.google.com/site/marianneclausel">Marianne Clausel</a>
       <h6>University of Lorraine</h6>
     </div>
-  </div>  
+  </div>
+  <div class="col-xs-2">
+    <a href="#">
+      <img class="people-pic" src="{{"/quarter/img/people/aleite.jpg" | prepend:site.baseurl }}">
+    </a>
+    <div class="people-name">
+      <a href="#">Alessandro Leite</a>
+      <h6>TAU, INRIA, Paris-Saclay University</h6>
+    </div>
+  </div>
 </div>
 <br>
 

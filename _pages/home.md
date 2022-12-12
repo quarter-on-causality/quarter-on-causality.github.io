@@ -27,8 +27,19 @@ acknowledgements: ""
 <div class="row">
   <div class="col-xs-12">
     <p>
-    This thematic quarter aims to underline the interactions between Statistical, Probability, Theory, Causal Inference theory, as well as theoretical computer science methods for causal inference. It will enable researchers, student, and practitioners to explore a rich and cross-disciplinary topic.
+    This thematic quarter aims to underline the interactions between Statistical, Probability, Theory, Causal Inference theory, as well as theoretical computer science methods for causal inference. It will enable researchers, student, and practitioners to explore a rich and cross-disciplinary topic. This thematic quarter will explore topics related to, but not limited to:
     </p>
+    <ul>
+      <li>Causal discovery</li>
+      <li>Causal learning and control problems</li>
+      <li>Theoretical foundation of causal inference</li>
+      <li>Causal inference and active learning</li>
+      <li>Causal learning in low data regime</li>
+      <li>Reinforcement learning</li>
+      <li>Causal machine learning</li>
+      <li>Causal generative models</li>
+      <li>Benchmark for causal discovery and causal reasoning</li>
+    </ul>    
   </div>
 </div> <br>
 
@@ -183,7 +194,16 @@ acknowledgements: ""
     </div>
   </div>
   <div class="col-xs-2">
-    <a href="https://www.lip6.fr/Pierre-Henri.Wuillemin" target="_blank">
+    <a href="https://myriamtami.github.io" target="_blank">
+      <img class="people-pic" src="{{ "quarter/img/people/tami.jpeg" | prepend:site.baseurl }}">
+    </a>
+    <div class="people-name">
+      <a href="#">Myriam Tami</a>
+      <h6>CentraleSupélec, Paris-Saclay University</h6>
+    </div>
+  </div>
+  <div class="col-xs-2">
+    <a href="https://myriamtami.github.io/" target="_blank">
       <img class="people-pic" src="{{ "quarter/img/people/PH.png" | prepend:site.baseurl }}">
     </a>
     <div class="people-name">
