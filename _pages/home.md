@@ -48,9 +48,9 @@ acknowledgements: ""
     <h2>Colloquia</h2>
     <br/>
       <ul>
-        <li>When Causal Inference meets Statistical Analysis</li>
-        <li>Fundamental Challenges in Causality</li>
-        <li>Causality in Practice</li>
+        <li><a href="/analysis/" style="cursor:pointer;">When Causal Inference meets Statistical Analysis</a></li>
+        <li><a href="/challenges/" style="cursor:pointer;">Fundamental Challenges in Causality</a></li>
+        <li><a href="/practice/" style="cursor:pointer;">Causality in Practice</a></li>
       </ul>
   </div>
 </div><br>
