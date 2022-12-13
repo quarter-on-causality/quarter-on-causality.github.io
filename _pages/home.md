@@ -221,7 +221,7 @@ acknowledgements: ""
   </div>
 </div>
 <div class="row">
-  <div class="col-xs-4 sponsor">
+  <div class="col-xs-2 sponsor">
     <a href="https://scai.sorbonne-universite.fr/"><img src="quarter/img/scai.jpg"/></a>
   </div>  
 </div>

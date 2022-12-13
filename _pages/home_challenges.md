@@ -58,14 +58,14 @@ This colloquium will several keynote speakers including Robin Evans, Hervé Isam
 <br/>
 
 <div class="row">
-  <div class="col-xs-12 panel-group"><a class="anchor" id="calls"></a>
+  <div class="col-xs-12 panel-group"><a class="anchor" id="cfp"></a>
     <h2>Call for Contributions</h2>
     <br>
     <div class="panel panel-default">
-      <div class="panel-heading" data-toggle="collapse" data-parent="#call" href="#call-papers" style="cursor:pointer;">
+      <div class="panel-heading" data-toggle="collapse" data-parent="#cfp" href="#call-papers" style="cursor:pointer;">
         <h3 style="margin:0;">Full Colloquium Papers</h3>
       </div>
-      <div id="call-papers" class="panel-collapse collapse in" data-parent="#call">
+      <div id="call-papers" class="panel-collapse collapse in" data-parent="#cfp">
         <div class="panel-body">
           <p>
 	    <span style="font-weight:500;">Submission:</span> We invite authors to submit unpublished papers of any length between 2 and 6 pages, excluding references. All submissions must be in English, in PDF format, following the ACM two-column format. Suitable LaTeX and Word templates are available from the ACM website: <a href="https://www.acm.org/publications/proceedings-template" target="_blank">https://www.acm.org/publications/proceedings-template</a>.
@@ -328,30 +328,30 @@ Robins Evans is an Associate Professor in Statistics at the University of Oxford
 <div class="row">
   <div class="col-xs-12"><a class="anchor" id="accepted-papers"></a>
     <h2>Accepted Full Papers</h2>
-    <div class="paper">
-        <!-- <span class="title">Title</span>
-        <span class="authors">Authors</span> -->
+    <p>To be announced soon</p>
+    <!-- <div class="paper">
+        <span class="title">Title</span>
+        <span class="authors">Authors</span>
         <div class="btn-group btn-group-xs" role="group">          
           <button class="btn btn-poster-id">Poster #1</button>	  
 	        <a class="btn btn-default" target="_blank" href="https://arxiv.org/"><i class="fas fa-archive"></i> arXiv</a>
           <a class="btn btn-default" target="_blank" href="https://github.com/"><i class="fas fa-code"></i> Code</a>
-        </div>
+        </div> -->
     </div>
-
-    <br><br>
-
+    <br>
     <a class="anchor" id="invited-posters"></a>
     <h2>Invited Posters</h2>
-    <div class="paper">
-        <!-- <span class="title">Title</span>
-        <span class="authors">Authors</span> -->
+    <p>To be announced soon</p>
+    <!-- <div class="paper">
+        <span class="title">Title</span>
+        <span class="authors">Authors</span>
         <div class="btn-group btn-group-xs" role="group">          
           <button class="btn btn-poster-id">Poster #1</button>
 	        <a class="btn btn-default" target="_blank" href="https://arxiv.org/"><i class="fas fa-archive"></i> arXiv</a>
           <a class="btn btn-default" target="_blank" href="https://github.com/"><i class="fas fa-code"></i> Code</a>
         </div>
-    </div>     
-  </div>
+    </div>
+  </div>-->
 </div>
 <br>
 
