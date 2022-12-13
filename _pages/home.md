@@ -87,6 +87,33 @@ acknowledgements: ""
 </div><br>
 
 <div class="row">
+  <div class="col-xs-12 panel-group"><a class="anchor" id="cfp"></a>
+    <h2>Call for Contributions</h2>
+    <br>
+    <div class="panel panel-default">
+      <div class="panel-heading" data-toggle="collapse" data-parent="#cfp" href="#call-papers" style="cursor:pointer;">
+        <h3 style="margin:0;">Full Colloquium Papers</h3>
+      </div>
+      <div id="call-papers" class="panel-collapse collapse in" data-parent="#cfp">
+        <div class="panel-body">
+          <p>
+	    <span style="font-weight:500;">Submission:</span> We invite authors to submit unpublished papers of any length between 2 and 6 pages, excluding references. All submissions must be in English, in PDF format, following the ACM two-column format. Suitable LaTeX and Word templates are available from the ACM website: <a href="https://www.acm.org/publications/proceedings-template" target="_blank">https://www.acm.org/publications/proceedings-template</a>.
+      
+      Authors should submit their papers via EasyChair <a href="https://easychair.org/conferences/?conf=funcausal2023" target="_blank">https://easychair.org/conferences/?conf=funcausal2023</a>.</p> 
+      <p>
+      Note that authors are encouraged to adhere to the best practices of Reproducible Research (RR), by making available data and software tools for reproducing the results reported in their papers. For the sake of persistence and proper authorship attribution, we require the use of standard repository hosting services such as dataverse, mldata, openml, etc., for data sets, and mloss, Bitbucket, GitHub, etc. for source code. Authors who submit their work to the colloquium commit themselves to presenting their paper at the colloquium if it is accepted.
+	  </p>
+	  <!-- <p>
+	    Accepted papers will be published in the official
+	  </p> -->
+        </div>
+      </div>
+    </div>
+    <br>    
+  </div>
+</div><br>
+
+<div class="row">
   <div class="col-xs-12"><a class="anchor" id="courses"></a>
      <h2>Courses</h2>
      <br>
@@ -120,11 +147,11 @@ acknowledgements: ""
     <div class="people-name"><a target="_blank" href="https://www.lri.fr/~sebag">Michèle Sébag</a><h6>TAU, CNRS, Paris-Saclay University</h6></div>
     <div class="people-name"><a target="_blank" href="https://www.lip6.fr/Pierre-Henri.Wuillemin">Pierre-Henri Wuillemin</a><h6>Sorbonne University</h6></div>
   </div>
-  <div class="col-xs-3">        
+  <div class="col-xs-3">
   </div>
-  <div class="col-xs-3">    
+  <div class="col-xs-3">
   </div>
-  <div class="col-xs-3">    
+  <div class="col-xs-3">
   </div>
 </div>
 <br>
@@ -192,25 +219,7 @@ acknowledgements: ""
       <a href="#">Michèle Sébag</a>
       <h6>TAU,CNRS,Paris-Saclay University</h6>
     </div>
-  </div>
-  <!-- <div class="col-xs-2">
-    <a href="https://myriamtami.github.io" target="_blank">
-      <img class="people-pic" src="{{ "quarter/img/people/tami.jpeg" | prepend:site.baseurl }}">
-    </a>
-    <div class="people-name">
-      <a href="#">Myriam Tami</a>
-      <h6>CentraleSupélec, Paris-Saclay University</h6>
-    </div>
-  </div>
-  <div class="col-xs-2">
-    <a href="https://myriamtami.github.io/" target="_blank">
-      <img class="people-pic" src="{{ "quarter/img/people/PH.png" | prepend:site.baseurl }}">
-    </a>
-    <div class="people-name">
-      <a href="#">Pierre-Henri Wuillemin</a>
-      <h6>Sorbonne University</h6>
-    </div>
-  </div> -->
+  </div>  
 </div>
 
 <br>

@@ -430,7 +430,7 @@ Robins Evans is an Associate Professor in Statistics at the University of Oxford
   </div>
   <div class="col-xs-2 sponsor">
     <a href="https://www.cnrs.fr" target="_blank">
-       <img src="img/cnrs.png" style="height:50px;width:50px;" alt="CNRS"/>
+       <img src="img/cnrs.png"  alt="CNRS"/>
     </a>
   </div>
   <!-- <br />
@@ -445,6 +445,6 @@ Robins Evans is an Associate Professor in Statistics at the University of Oxford
 </div>
 <div class="row">
   <div class="col-xs-2 sponsor">
-    <a href="https://miai.univ-grenoble-alpes.fr/" target="_blank"><img src="img/MIAI.jpeg"/></a>
+    <a href="https://miai.univ-grenoble-alpes.fr" target="_blank"><img src="img/MIAI.jpeg" alt="MIAI"/></a>
   </div>
 </div>
