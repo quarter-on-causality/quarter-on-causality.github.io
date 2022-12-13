@@ -113,7 +113,7 @@ acknowledgements: ""
     <div class="people-name"><a target="_blank" href="https://helios2.mi.parisdescartes.fr/~chambaz/index.php?choix=1">Antoine Chambaz</a><h6>Université Paris Cité</h6></div>
     <div class="people-name"><a target="_blank" href="https://sites.google.com/site/marianneclausel">Marianne Clausel</a><h6>Université of Lorraine University</h6></div>
     <div class="people-name"><a target="_blank" href="http://ama.liglab.fr/~devijvee">Emilie Devijver</a><h6>CNRS and University of Grenoble Alpes </h6></div>
-    <div class="people-name"><a target="_blank" href="http://ama.liglab.fr/~gaussier/">Eric Gaussier</a><h6>University of Grenoble Alpes </h6></div>
+    <div class="people-name"><a target="_blank" href="http://ama.liglab.fr/~gaussier">Eric Gaussier</a><h6>University of Grenoble Alpes </h6></div>
     <div class="people-name"><a target="_blank" href="https://institut-curie.org/personne/herve-isambert">Hervé Isambert</a><h6>Institut Curie</h6></div>
     <div class="people-name"><a target="_blank" href="">Alessandro Leite</a><h6>TAU, INRIA, Paris-Saclay University</h6></div>
     <div class="people-name"><a target="_blank" href="https://sites.google.com/site/codpleray/">Philippe Leray</a><h6>Nantes University</h6></div>
@@ -164,6 +164,8 @@ acknowledgements: ""
       <h6>University of Grenoble Alpes</h6>
     </div>
   </div>
+</div>
+<div class="row">
   <div class="col-xs-2">
     <a href="#" target="_blank">
       <img class="people-pic" src="{{ "quarter/img/people/aleite.jpg" | prepend:site.baseurl }}">
@@ -172,9 +174,7 @@ acknowledgements: ""
       <a href="#">Alessandro Leite</a>
       <h6>TAU,INRIA,Paris-Saclay University</h6>
     </div>
-  </div>  
-</div>
-<div class="row">
+  </div>
   <div class="col-xs-2">
     <a href="#" target="_blank">
       <img class="people-pic" src="{{ "quarter/img/people/GO.jpeg" | prepend:site.baseurl }}">
@@ -193,7 +193,7 @@ acknowledgements: ""
       <h6>TAU,CNRS,Paris-Saclay University</h6>
     </div>
   </div>
-  <div class="col-xs-2">
+  <!-- <div class="col-xs-2">
     <a href="https://myriamtami.github.io" target="_blank">
       <img class="people-pic" src="{{ "quarter/img/people/tami.jpeg" | prepend:site.baseurl }}">
     </a>
@@ -210,18 +210,22 @@ acknowledgements: ""
       <a href="#">Pierre-Henri Wuillemin</a>
       <h6>Sorbonne University</h6>
     </div>
-  </div>
+  </div> -->
 </div>
 
 <br>
 
 <div class="row">
   <div class="col-xs-12"><a class="anchor" id="sponsors"></a>
-    <h2>Sponsors</h2>
+    <h2>With the support of</h2>
   </div>
 </div>
 <div class="row">
   <div class="col-xs-2 sponsor">
-    <a href="https://scai.sorbonne-universite.fr/"><img src="quarter/img/scai.jpg"/></a>
+    <a href="https://scai.sorbonne-universite.fr/"><img src="/quarter/img/scai.jpg" alt="SCAI"/></a>
+    <!-- <a href="https://www.cnrs.fr"><img src="/quarter/img/cnrs.png"/></a> -->
   </div>  
+  <div class="col-xs-2 sponsor">
+    <a href="https://www.cnrs.fr"><img src="/quarter/img/cnrs.png" alt="CNRS"/></a>
+  </div>
 </div>

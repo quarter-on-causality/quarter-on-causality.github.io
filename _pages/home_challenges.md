@@ -399,7 +399,16 @@ Robins Evans is an Associate Professor in Statistics at the University of Oxford
     </div>
   </div>
   <div class="col-xs-2">
-    <a href="hhttps://ckassaad.github.io" target="_blank">
+    <a href="http://ama.liglab.fr/~gaussier/" target="_blank">
+      <img class="people-pic" src="{{ "/quarter/img/people/EG.jpeg" | prepend:site.baseurl }}">
+    </a>
+    <div class="people-name">
+      <a href="hhttps://ckassaad.github.io" target="_blank">Eric Gaussier</a>
+      <h6>University of Grenoble Alpes</h6>
+    </div>
+  </div>
+  <div class="col-xs-2">
+    <a href="https://ckassaad.github.io" target="_blank">
       <img class="people-pic" src="{{ "img/people/ckassad.jpeg" | prepend:site.baseurl }}">
     </a>
     <div class="people-name">
@@ -412,12 +421,30 @@ Robins Evans is an Associate Professor in Statistics at the University of Oxford
 
 <div class="row">
   <div class="col-xs-12"><a class="anchor" id="sponsors"></a>
-    <h2>Colloquium sponsored by:</h2>
+    <h2>With the support of</h2>
   </div>
 </div>
 <div class="row">
-  <div class="col-xs-4 sponsor">
-    <a href="https://scai.sorbonne-universite.fr" target="_blank"><img src="img/scai.jpg"/></a>
-    <a href="https://cnrs.fr" target="_blank"><img src="img/cnrs.png"/></a>
-  </div>  
+  <div class="col-xs-2 sponsor">
+    <a href="https://scai.sorbonne-universite.fr" target="_blank"><img src="/quarter/img/scai.jpg"/></a>    
+  </div>
+  <div class="col-xs-2 sponsor">
+    <a href="https://www.cnrs.fr" target="_blank">
+       <img src="img/cnrs.png" style="height:50px;width:50px;" alt="CNRS"/>
+    </a>
+  </div>
+  <!-- <br />
+  <div class="col-xs-2 sponsor">
+    <a href="https://miai.univ-grenoble-alpes.fr/" target="_blank"><img src="img/MIAI.jpeg"/></a>
+  </div> -->
+</div>
+<div class="row">
+  <div class="col-xs-12"><a class="anchor" id=""></a>
+    <h2></h2>
+  </div>
+</div>
+<div class="row">
+  <div class="col-xs-2 sponsor">
+    <a href="https://miai.univ-grenoble-alpes.fr/" target="_blank"><img src="img/MIAI.jpeg"/></a>
+  </div>
 </div>

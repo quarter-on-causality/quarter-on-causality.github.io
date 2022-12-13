@@ -282,11 +282,14 @@ Chandler Squires is PhD student at MIT. His research is centered on learning the
 
 <div class="row">
   <div class="col-xs-12"><a class="anchor" id="sponsors"></a>
-    <h2>Colloquium sponsored by:</h2>
+    <h2>With the support of</h2>
   </div>
 </div>
 <div class="row">
   <div class="col-xs-2 sponsor">
-    <a href="https://scai.sorbonne-universite.fr/"><img src="img/scai.jpg"/></a>
+    <a href="https://scai.sorbonne-universite.fr" target="_blank"><img src="/quarter/img/scai.jpg"/></a>    
   </div>  
+  <div class="col-xs-2 sponsor">
+    <a href="https://www.cnrs.fr" target="_blank"><img src="/quarter/img/cnrs.png"/></a>
+  </div>
 </div>
