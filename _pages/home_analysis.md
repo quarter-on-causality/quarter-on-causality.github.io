@@ -166,6 +166,32 @@ This colloquium will several keynote speakers including David Blei, Chandler Squ
     <br/>
     <div class="row speaker">
       <div class="col-sm-3 speaker-pic">
+        <a href="http://yingzhenli.net/home/en/">
+          <img class="people-pic" src="img/people/yingzhen.jpeg" />
+        </a>
+        <div class="people-name">
+          <a href="http://yingzhenli.net/home/en">Yingzhen Li</a>
+          <h6>Imperial College London</h6>
+        </div>
+      </div>
+      <div class="col-sm-9">
+        <h3>TBD</h3><br />
+        <b>Abstract</b><p class="speaker-abstract">TBD</p>
+        <div class="panel panel-default">
+          <div class="panel-heading" data-toggle="collapse" href="#yl-bio" style="cursor:pointer;text-align:center">
+            <b>Biography <span style="font-weight:normal">(click to expand/collapse)</span></b>
+          </div>
+          <div id="yl-bio" class="panel-collapse collapse in"><div class="panel-body">
+            <p class="speaker-bio">
+            Yingzhen Li is an Assistant Professor at the Department of Computing at Imperial College London. She is interested in building reliable machine learning systems which can generalize to unseen environments. She approaches this goal by using probabilistic modeling and representation learning, some of her research topics include: (deep) probabilistic graphical model design, fast and accurate (Bayesian) inference/computation techniques, uncertainty quantification for computation and downstream tasks, and robust and adaptive machine learning systems.
+            </p>
+          </div></div>
+        </div>
+      </div>
+    </div>
+    <br/>
+    <div class="row speaker">
+      <div class="col-sm-3 speaker-pic">
         <a href="https://personal.math.ubc.ca/~erobeva">
           <img class="people-pic" src="img/people/robeva.png" />
         </a>
