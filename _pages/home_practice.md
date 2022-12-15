@@ -208,8 +208,7 @@ Robins Evans is an Associate Professor in Statistics at the University of Oxford
       <h6>TAU, INRIA, Paris-Saclay University</h6>
     </div>
   </div>
-</div>
-<div class="col-xs-2">
+  <div class="col-xs-2">
     <a href="#">
       <img class="people-pic" src="/quarter/img/people/GO.jpeg">
     </a>
@@ -218,6 +217,7 @@ Robins Evans is an Associate Professor in Statistics at the University of Oxford
       <h6>Paris-Saclay University</h6>
     </div>
   </div>
+</div>
 <br>
 
 <div class="row">
