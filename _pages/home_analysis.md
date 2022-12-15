@@ -408,7 +408,7 @@ Chandler Squires is PhD student at MIT. His research is centered on learning the
   </div>
   <div class="col-xs-2">
     <a href="#">
-      <img class="people-pic" src=""/quarter/img/people/GO.jpeg"">
+      <img class="people-pic" src="/quarter/img/people/GO.jpeg">
     </a>
     <div class="people-name">
       <a href="#">Georges Oppenheim</a>
@@ -418,7 +418,7 @@ Chandler Squires is PhD student at MIT. His research is centered on learning the
 </div>
 <br>
 
-<div class="row">
+<!-- <div class="row">
   <div class="col-xs-12"><a class="anchor" id="sponsors"></a>
     <h2>Organized by</h2>
   </div>
@@ -427,13 +427,13 @@ Chandler Squires is PhD student at MIT. His research is centered on learning the
 <div class="col-xs-4 award-sponsor">
     <img src="/quarter/img/organizers_sponsors.jpg"/>
   </div>  
-  <!-- <div class="col-xs-2 award-sponsor">
+  <div class="col-xs-2 award-sponsor">
     <img src="/quarter/img/scai.jpg"/>
   </div>  
   <div class="col-xs-1 award-sponsor">
     <img src="/quarter/img/cnrs.png"/>
-  </div>   -->
-</div>
+  </div>  
+</div> -->
 
 <div class="row">
   <div class="col-xs-12"><a class="anchor" id="support"></a>
@@ -444,17 +444,5 @@ Chandler Squires is PhD student at MIT. His research is centered on learning the
 <div class="row">
   <div class="col-xs-3 award-sponsor">
      <img src="/quarter/img/support_sponsors.jpg"/>
-  </div>
-  <!-- <div class="col-xs-1 award-sponsor">
-     <img src="/quarter/img/1607-LOGO_SU_HORIZ_SEUL_RVB.png"/>
-  </div>
-  <div class="col-xs-1 award-sponsor">
-    <img src="/quarter/img/1605-Logo_Universite_Paris-Saclay.png"/>
-  </div>
-  <div class="col-xs-1 award-sponsor">
-    <img src="/quarter/img/1972-dataia.jpg"/>
   </div>  
-  <div class="col-xs-1 award-sponsor">
-    <img src="/quarter/img/MIAI.jpeg"/>
-  </div> -->
 </div>

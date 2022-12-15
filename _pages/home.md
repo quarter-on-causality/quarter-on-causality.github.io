@@ -224,7 +224,7 @@ acknowledgements: ""
 
 <br>
 
-<div class="row">
+<!-- <div class="row">
   <div class="col-xs-12"><a class="anchor" id="sponsors"></a>
     <h2>Organized by</h2>
   </div>
@@ -232,14 +232,8 @@ acknowledgements: ""
 <div class="row"> 
 <div class="col-xs-4 award-sponsor">
     <img src="/quarter/img/organizers_sponsors.jpg"/>
-  </div>  
-  <!-- <div class="col-xs-2 award-sponsor">
-    <img src="/quarter/img/scai.jpg"/>
-  </div>  
-  <div class="col-xs-1 award-sponsor">
-    <img src="/quarter/img/cnrs.png"/>
-  </div>   -->
-</div>
+  </div>    
+</div> -->
 
 <div class="row">
   <div class="col-xs-12"><a class="anchor" id="support"></a>
