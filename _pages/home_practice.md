@@ -209,6 +209,15 @@ Robins Evans is an Associate Professor in Statistics at the University of Oxford
     </div>
   </div>
 </div>
+<div class="col-xs-2">
+    <a href="#">
+      <img class="people-pic" src="/quarter/img/people/GO.jpeg">
+    </a>
+    <div class="people-name">
+      <a href="#">Georges Oppenheim</a>
+      <h6>Paris-Saclay University</h6>
+    </div>
+  </div>
 <br>
 
 <div class="row">

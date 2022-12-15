@@ -1,4 +1,4 @@
----
+_pages/home_analysis.md ---
 layout: layout_analysis
 urltitle:  "When Causal Inference meets Statistical Analysis"
 title: "Fundamental Challenges in Causality"
@@ -434,6 +434,17 @@ Chandler Squires is PhD student at MIT. His research is centered on learning the
     <img src="/quarter/img/cnrs.png"/>
   </div>  
 </div> -->
+
+<div class="row">
+  <div class="col-xs-12"><a class="anchor" id="sponsors"></a>
+    <h2>Organized by</h2>
+  </div>
+</div>
+<div class="row"> 
+<div class="col-xs-4 award-sponsor">
+    <img src="/quarter/img/organizers_sponsors.jpg"/>
+</div>
+</div>
 
 <div class="row">
   <div class="col-xs-12"><a class="anchor" id="support"></a>

@@ -224,16 +224,17 @@ acknowledgements: ""
 
 <br>
 
-<!-- <div class="row">
+<div class="row">
   <div class="col-xs-12"><a class="anchor" id="sponsors"></a>
     <h2>Organized by</h2>
   </div>
 </div>
+
 <div class="row"> 
-<div class="col-xs-4 award-sponsor">
+  <div class="col-xs-4 award-sponsor">
     <img src="/quarter/img/organizers_sponsors.jpg"/>
   </div>    
-</div> -->
+</div>
 
 <div class="row">
   <div class="col-xs-12"><a class="anchor" id="support"></a>
