@@ -1,7 +1,7 @@
-_pages/home_analysis.md ---
+---
 layout: layout_analysis
 urltitle:  "When Causal Inference meets Statistical Analysis"
-title: "Fundamental Challenges in Causality"
+title:  "When Causal Inference meets Statistical Analysis"
 categories: causality, statistical analysis
 permalink: /analysis/
 favicon: /analysis/img/icon.jpg
