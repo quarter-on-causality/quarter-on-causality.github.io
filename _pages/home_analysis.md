@@ -406,6 +406,15 @@ Chandler Squires is PhD student at MIT. His research is centered on learning the
       <h6>TAU, INRIA, Paris-Saclay University</h6>
     </div>
   </div>
+  <div class="col-xs-2">
+    <a href="#">
+      <img class="people-pic" src=""/quarter/img/people/GO.jpeg"">
+    </a>
+    <div class="people-name">
+      <a href="#">Georges Oppenheim</a>
+      <h6>Paris-Saclay University</h6>
+    </div>
+  </div>
 </div>
 <br>
 
