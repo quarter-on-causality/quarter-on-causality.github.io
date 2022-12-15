@@ -51,7 +51,7 @@ acknowledgements: ""
       <li>Benchmark for causal discovery and causal reasoning</li>
     </ul>
 
-This colloquium will several keynote speakers including David Blei, Chandler Squires, among others
+This colloquium will several keynote speakers including Antoine Chambaz, Eric Gaussier, Yingzhen Li, Elina Robeva, Chandler Squires, Bin Yu, among others.
   </div>
 </div> <br>
 
@@ -139,6 +139,31 @@ This colloquium will several keynote speakers including David Blei, Chandler Squ
     <br>
     <div class="row speaker">
       <div class="col-sm-3 speaker-pic">
+        <a href="https://helios2.mi.parisdescartes.fr/~chambaz/index.php?choix=1">
+          <img class="people-pic" src="/analysis/img/people/AC.jpeg" />
+        </a>
+        <div class="people-name">
+          <a href="https://helios2.mi.parisdescartes.fr/~chambaz/index.php?choix=1">Antoine Chambaz</a>
+          <h6>Paris Cité University</h6>
+        </div>
+      </div>
+      <div class="col-sm-9">
+        <h3>TBD</h3><br />
+        <b>Abstract</b><p class="speaker-abstract">TBD</p>
+        <div class="panel panel-default">
+          <div class="panel-heading" data-toggle="collapse" href="#ac-bio" style="cursor:pointer;text-align:center">
+            <b>Biography <span style="font-weight:normal">(click to expand/collapse)</span></b>
+          </div>
+          <div id="ac-bio" class="panel-collapse collapse in"><div class="panel-body">
+            <p class="speaker-bio">
+            Antoine Chambaz is a Professor at Université Paris Cité, member of the applied mathematics laboratory (MAP5). He is the head of the Statistics group since June 2018, and the director of the FP2M research federation. From 2012 to 2017, he was a member of Modal'X, the stochastic modeling laboratory of Paris Nanterre University. He chaired Modal'X from February 2014 to October 2017. His main research interest is in theoretical, computational and applied statistics.
+            </p>
+          </div></div>
+        </div>
+      </div>
+    </div>
+    <!-- <div class="row speaker">
+      <div class="col-sm-3 speaker-pic">
         <a href="http://www.cs.columbia.edu/~blei">
           <img class="people-pic" src="/analysis/img/people/blei.jpeg" />
         </a>
@@ -158,6 +183,32 @@ This colloquium will several keynote speakers including David Blei, Chandler Squ
             <p class="speaker-bio">
             David Blei is a professor of Statistics and Computer Science at Columbia University. 
             He is also a member of the Columbia Data Science Institute. He works primarily in the fields of machine learning and Bayesian statistics.
+            </p>
+          </div></div>
+        </div>
+      </div>
+    </div> -->
+    <br/>
+    <div class="row speaker">
+      <div class="col-sm-3 speaker-pic">
+        <a href="http://ama.liglab.fr/~gaussier">
+          <img class="people-pic" src="/quarter/img/people/EG.jpeg" />
+        </a>
+        <div class="people-name">
+          <a href="http://ama.liglab.fr/~gaussier">Eric Gaussier</a>
+          <h6>University of Grenoble Alpes</h6>
+        </div>
+      </div>
+      <div class="col-sm-9">
+        <h3>TBD</h3><br />
+        <b>Abstract</b><p class="speaker-abstract">TBD</p>
+        <div class="panel panel-default">
+          <div class="panel-heading" data-toggle="collapse" href="#dmb-bio" style="cursor:pointer;text-align:center">
+            <b>Biography <span style="font-weight:normal">(click to expand/collapse)</span></b>
+          </div>
+          <div id="dmb-bio" class="panel-collapse collapse in"><div class="panel-body">
+            <p class="speaker-bio">
+            Eric Gaussier is a Professor of Computer Science at University Grenoble Alps and Director of the Grenoble Interdisciplinary Institute in Artificial Intelligence. His research lies at the intersection machine learning, information retrieval and computational linguistics. The data on which he has primarily worked are large-scale, multi-lingual collections and he is particularly interested in theoretical models that explain and take into account the properties of the collections considered, and in large-scale, practical implementations of these models. He has also been interested in modeling how (textual) information is shared in social (content) networks, and how such networks evolve over time. He has also worked on improving job scheduling techniques through machine learning, and in learning representations for different types of sequences, as texts and time series.
             </p>
           </div></div>
         </div>
@@ -236,6 +287,32 @@ This colloquium will several keynote speakers including David Blei, Chandler Squ
           <div id="ch-bio" class="panel-collapse collapse in"><div class="panel-body">
             <p class="speaker-bio">
 Chandler Squires is PhD student at MIT. His research is centered on learning the effects of intervening in complex systems, with a particular focus on cellular biology and healthcare. This spans causal structure learning, active learning for causal structure discovery, causal representation learning, and treatment effect estimation. He is co-advised by Caroline Uhler and David Sontag.
+            </p>
+          </div></div>
+        </div>
+      </div>
+    </div>
+    <br/>
+    <div class="row speaker">
+      <div class="col-sm-3 speaker-pic">
+        <a href="https://binyu.stat.berkeley.edu/">
+          <img class="people-pic" src="img/people/BYu.jpeg" />
+        </a>
+        <div class="people-name">
+          <a href="https://binyu.stat.berkeley.edu/">Bin Yu</a>
+          <h6>University of California, Berkeley</h6>
+        </div>
+      </div>
+      <div class="col-sm-9">
+        <h3>TBD</h3><br />
+        <b>Abstract</b><p class="speaker-abstract">TBD</p>
+        <div class="panel panel-default">
+          <div class="panel-heading" data-toggle="collapse" href="#by-bio" style="cursor:pointer;text-align:center">
+            <b>Biography <span style="font-weight:normal">(click to expand/collapse)</span></b>
+          </div>
+          <div id="by-bio" class="panel-collapse collapse in"><div class="panel-body">
+            <p class="speaker-bio">
+               Bin Yu is the head of the Yu Group at Berkeley, which consists of 15-20 students and postdocs from Statistics and EECS. She was formally trained as a statistician, but her research interests and achievements extend beyond the realm of statistics. Together with her group, her work has leveraged new computational developments to solve important scientific problems by combining novel statistical machine learning approaches with the domain expertise of my many collaborators in neuroscience, genomics and precision medicine. They also develop relevant theory to understand random forests and deep learning for insight into and guidance for practice. They have developed the PCS framework for veridical data science (or responsible, reliable, and transparent data analysis and decision-making). PCS stands for predictability, computability and stability, and it unifies, streamlines, and expands on ideas and best practices of machine learning and statistics.
             </p>
           </div></div>
         </div>
@@ -334,14 +411,41 @@ Chandler Squires is PhD student at MIT. His research is centered on learning the
 
 <div class="row">
   <div class="col-xs-12"><a class="anchor" id="sponsors"></a>
+    <h2>Organized by</h2>
+  </div>
+</div>
+<div class="row"> 
+<div class="col-xs-4 award-sponsor">
+    <img src="/quarter/img/organizers_sponsors.jpg"/>
+  </div>  
+  <!-- <div class="col-xs-2 award-sponsor">
+    <img src="/quarter/img/scai.jpg"/>
+  </div>  
+  <div class="col-xs-1 award-sponsor">
+    <img src="/quarter/img/cnrs.png"/>
+  </div>   -->
+</div>
+
+<div class="row">
+  <div class="col-xs-12"><a class="anchor" id="support"></a>
     <h2>With the support of</h2>
   </div>
 </div>
+
 <div class="row">
-  <div class="col-xs-2 sponsor">
-    <a href="https://scai.sorbonne-universite.fr" target="_blank"><img src="/quarter/img/scai.jpg"/></a>    
-  </div>  
-  <div class="col-xs-2 sponsor">
-    <a href="https://www.cnrs.fr" target="_blank"><img src="/quarter/img/cnrs.png"/></a>
+  <div class="col-xs-3 award-sponsor">
+     <img src="/quarter/img/support_sponsors.jpg"/>
   </div>
+  <!-- <div class="col-xs-1 award-sponsor">
+     <img src="/quarter/img/1607-LOGO_SU_HORIZ_SEUL_RVB.png"/>
+  </div>
+  <div class="col-xs-1 award-sponsor">
+    <img src="/quarter/img/1605-Logo_Universite_Paris-Saclay.png"/>
+  </div>
+  <div class="col-xs-1 award-sponsor">
+    <img src="/quarter/img/1972-dataia.jpg"/>
+  </div>  
+  <div class="col-xs-1 award-sponsor">
+    <img src="/quarter/img/MIAI.jpeg"/>
+  </div> -->
 </div>

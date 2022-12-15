@@ -213,14 +213,29 @@ Robins Evans is an Associate Professor in Statistics at the University of Oxford
 
 <div class="row">
   <div class="col-xs-12"><a class="anchor" id="sponsors"></a>
+    <h2>Organized by</h2>
+  </div>
+</div>
+<div class="row"> 
+<div class="col-xs-4 award-sponsor">
+    <img src="/quarter/img/organizers_sponsors.jpg"/>
+  </div>  
+  <!-- <div class="col-xs-2 award-sponsor">
+    <img src="/quarter/img/scai.jpg"/>
+  </div>  
+  <div class="col-xs-1 award-sponsor">
+    <img src="/quarter/img/cnrs.png"/>
+  </div>   -->
+</div>
+
+<div class="row">
+  <div class="col-xs-12"><a class="anchor" id="support"></a>
     <h2>With the support of</h2>
   </div>
 </div>
+
 <div class="row">
-  <div class="col-xs-2 sponsor">
-    <a href="https://scai.sorbonne-universite.fr" target="_blank"><img src="/quarter/img/scai.jpg"/></a>    
-  </div>  
-  <div class="col-xs-2 sponsor">
-    <a href="https://www.cnrs.fr" target="_blank"><img src="/quarter/img/cnrs.png"/></a>
-  </div>      
+  <div class="col-xs-3 award-sponsor">
+     <img src="/quarter/img/support_sponsors.jpg"/>
+  </div>
 </div>
