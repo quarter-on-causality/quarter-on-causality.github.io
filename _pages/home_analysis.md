@@ -322,8 +322,6 @@ Chandler Squires is PhD student at MIT. His research is centered on learning the
   </div>
 </div>
 
-
-
 <div class="row">
   <div class="col-xs-12"><a class="anchor" id="accepted-papers"></a>
     <h2>Accepted Papers</h2>
@@ -369,6 +367,7 @@ Chandler Squires is PhD student at MIT. His research is centered on learning the
     <div class="people-name"><a target="_blank" href="https://institut-curie.org/personne/herve-isambert">Hervé Isambert</a><h6>Institut Curie</h6></div>
     <div class="people-name"><a target="_blank" href="">Alessandro Leite</a><h6>TAU, INRIA, Paris-Saclay University</h6></div>
     <div class="people-name"><a target="_blank" href="https://sites.google.com/site/codpleray/">Philippe Leray</a><h6>Nantes University</h6></div>
+    <div class="people-name"><a target="_blank" href="#">Georges Oppenheim</a><h6>Paris-Saclay University</h6></div>
     <div class="people-name"><a target="_blank" href="https://www.lri.fr/~sebag">Michèle Sébag</a><h6>TAU, CNRS, Paris-Saclay University</h6></div>
     <div class="people-name"><a target="_blank" href="https://www.lip6.fr/Pierre-Henri.Wuillemin">Pierre-Henri Wuillemin</a><h6>Sorbonne University</h6></div>
   </div>

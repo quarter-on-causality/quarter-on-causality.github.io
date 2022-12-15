@@ -369,6 +369,7 @@ Robins Evans is an Associate Professor in Statistics at the University of Oxford
     <div class="people-name"><a target="_blank" href="https://institut-curie.org/personne/herve-isambert">Hervé Isambert</a><h6>Institut Curie</h6></div>
     <div class="people-name"><a target="_blank" href="">Alessandro Leite</a><h6>TAU, INRIA, Paris-Saclay University</h6></div>
     <div class="people-name"><a target="_blank" href="https://sites.google.com/site/codpleray/">Philippe Leray</a><h6>Nantes University</h6></div>
+    <div class="people-name"><a target="_blank" href="#">Georges Oppenheim</a><h6>Paris-Saclay University</h6></div>
     <div class="people-name"><a target="_blank" href="https://www.lri.fr/~sebag">Michèle Sébag</a><h6>TAU, CNRS, Paris-Saclay University</h6></div>
     <div class="people-name"><a target="_blank" href="https://www.lip6.fr/Pierre-Henri.Wuillemin">Pierre-Henri Wuillemin</a><h6>Sorbonne University</h6></div>
   </div>
@@ -427,13 +428,7 @@ Robins Evans is an Associate Professor in Statistics at the University of Oxford
 <div class="row"> 
 <div class="col-xs-4 award-sponsor">
     <img src="/quarter/img/organizers_sponsors.jpg"/>
-  </div>  
-  <!-- <div class="col-xs-2 award-sponsor">
-    <img src="/quarter/img/scai.jpg"/>
-  </div>  
-  <div class="col-xs-1 award-sponsor">
-    <img src="/quarter/img/cnrs.png"/>
-  </div>   -->
+  </div>    
 </div>
 
 <div class="row">
