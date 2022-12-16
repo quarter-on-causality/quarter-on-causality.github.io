@@ -99,7 +99,7 @@ acknowledgements: ""
           <p>
 	    <span style="font-weight:500;">Submission:</span> We invite authors to submit unpublished papers of any length between 2 and 6 pages, excluding references. All submissions must be in English, in PDF format, following the ACM two-column format. Suitable LaTeX and Word templates are available from the ACM website: <a href="https://www.acm.org/publications/proceedings-template" target="_blank">https://www.acm.org/publications/proceedings-template</a>.
       
-      Authors should submit their papers via EasyChair <a href="https://easychair.org/conferences/?conf=funcausal2023" target="_blank">https://easychair.org/conferences/?conf=funcausal2023</a>.</p> 
+      Authors should submit their papers via EasyChair <a href="https://easychair.org/conferences/?conf=causalstats23" target="_blank">https://easychair.org/conferences/?conf=causalstats23</a>.</p> 
       <p>
       Note that authors are encouraged to adhere to the best practices of Reproducible Research (RR), by making available data and software tools for reproducing the results reported in their papers. For the sake of persistence and proper authorship attribution, we require the use of standard repository hosting services such as dataverse, mldata, openml, etc., for data sets, and mloss, Bitbucket, GitHub, etc. for source code. Authors who submit their work to the colloquium commit themselves to presenting their paper at the colloquium if it is accepted.
 	  </p>
@@ -239,7 +239,7 @@ acknowledgements: ""
 
 <div class="row">
   <div class="col-xs-12"><a class="anchor" id="support"></a>
-    <h2>With the support of</h2>
+    <h2>With additional support from</h2>
   </div>
 </div>
 

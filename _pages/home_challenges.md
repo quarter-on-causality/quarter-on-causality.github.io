@@ -433,7 +433,7 @@ Robins Evans is an Associate Professor in Statistics at the University of Oxford
 
 <div class="row">
   <div class="col-xs-12"><a class="anchor" id="support"></a>
-    <h2>With the support of</h2>
+    <h2>With additional support from</h2>
   </div>
 </div>
 
