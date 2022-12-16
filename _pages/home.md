@@ -39,7 +39,8 @@ acknowledgements: ""
       <li>Causal machine learning</li>
       <li>Causal generative models</li>
       <li>Benchmark for causal discovery and causal reasoning</li>
-    </ul>    
+    </ul>
+    During this quarter, several colloquia and schools will be organized, and some satellite events will be scheduled. 
   </div>
 </div> <br>
 
