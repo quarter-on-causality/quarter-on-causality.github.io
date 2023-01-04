@@ -355,7 +355,7 @@ Robins Evans is an Associate Professor in Statistics at the University of Oxford
 </div>
 <br>
 
-<div class="row" id="programcommittee">
+<!-- <div class="row" id="programcommittee">
   <div class="col-xs-12">
     <h2>Program Committee</h2>
   </div>
@@ -380,7 +380,7 @@ Robins Evans is an Associate Professor in Statistics at the University of Oxford
   <div class="col-xs-3">    
   </div>
 </div>
-<br>
+<br> -->
 
 <div class="row">
   <div class="col-xs-12"><a class="anchor" id="organizers"></a>
@@ -404,7 +404,7 @@ Robins Evans is an Associate Professor in Statistics at the University of Oxford
       <img class="people-pic" src="{{ "/quarter/img/people/EG.jpeg" | prepend:site.baseurl }}">
     </a>
     <div class="people-name">
-      <a href="hhttps://ckassaad.github.io" target="_blank">Eric Gaussier</a>
+      <a href="https://ckassaad.github.io" target="_blank">Eric Gaussier</a>
       <h6>University of Grenoble Alpes</h6>
     </div>
   </div>

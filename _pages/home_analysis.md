@@ -353,7 +353,7 @@ Chandler Squires is PhD student at MIT. His research is centered on learning the
 </div>
 <br/>
 
-<div class="row" id="programcommittee">
+<!-- <div class="row" id="programcommittee">
   <div class="col-xs-12">
     <h2>Program Committee</h2>
   </div>
@@ -378,7 +378,7 @@ Chandler Squires is PhD student at MIT. His research is centered on learning the
   <div class="col-xs-3">
   </div>
 </div>
-<br>
+<br> -->
 
 <div class="row">
   <div class="col-xs-12"><a class="anchor" id="organizers"></a>

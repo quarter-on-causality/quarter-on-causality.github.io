@@ -157,7 +157,7 @@ Robins Evans is an Associate Professor in Statistics at the University of Oxford
 </div>
 <br>
 
-<div class="row" id="programcommittee">
+<!-- <div class="row" id="programcommittee">
   <div class="col-xs-12">
     <h2>Program Committee</h2>
   </div>
@@ -182,7 +182,7 @@ Robins Evans is an Associate Professor in Statistics at the University of Oxford
   <div class="col-xs-3">    
   </div>
 </div>
-<br>
+<br> -->
 
 <div class="row">
   <div class="col-xs-12"><a class="anchor" id="organizers"></a>
