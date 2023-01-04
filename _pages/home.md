@@ -1,4 +1,4 @@
-_pages/home.md ---
+---
 layout: layout_home
 urltitle:  "A Thematic Quarter on Causality"
 title: "A Thematic Quarter on Causality"
