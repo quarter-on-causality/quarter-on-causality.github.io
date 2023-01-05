@@ -148,7 +148,7 @@ This colloquium will several keynote speakers including Antoine Chambaz, Eric Ga
         </div>
       </div>
       <div class="col-sm-9">
-        <h3>TBD</h3><br />
+        <h3><b>Title:</b> TBD</h3><br />
         <b>Abstract</b><p class="speaker-abstract">TBD</p>
         <div class="panel panel-default">
           <div class="panel-heading" data-toggle="collapse" href="#ac-bio" style="cursor:pointer;text-align:center">
@@ -200,7 +200,7 @@ This colloquium will several keynote speakers including Antoine Chambaz, Eric Ga
         </div>
       </div>
       <div class="col-sm-9">
-        <h3>TBD</h3><br />
+        <h3><b>Title:</b> TBD</h3><br />
         <b>Abstract</b><p class="speaker-abstract">TBD</p>
         <div class="panel panel-default">
           <div class="panel-heading" data-toggle="collapse" href="#dmb-bio" style="cursor:pointer;text-align:center">
@@ -226,7 +226,7 @@ This colloquium will several keynote speakers including Antoine Chambaz, Eric Ga
         </div>
       </div>
       <div class="col-sm-9">
-        <h3>TBD</h3><br />
+        <h3><b>Title:</b> TBD</h3><br />
         <b>Abstract</b><p class="speaker-abstract">TBD</p>
         <div class="panel panel-default">
           <div class="panel-heading" data-toggle="collapse" href="#yl-bio" style="cursor:pointer;text-align:center">
@@ -252,7 +252,7 @@ This colloquium will several keynote speakers including Antoine Chambaz, Eric Ga
         </div>
       </div>
       <div class="col-sm-9">
-        <h3>TBD</h3><br />
+        <h3><b>Title:</b> TBD</h3><br />
         <b>Abstract</b><p class="speaker-abstract">TBD</p>
         <div class="panel panel-default">
           <div class="panel-heading" data-toggle="collapse" href="#er-bio" style="cursor:pointer;text-align:center">
@@ -278,7 +278,7 @@ This colloquium will several keynote speakers including Antoine Chambaz, Eric Ga
         </div>
       </div>
       <div class="col-sm-9">
-        <h3>TBD</h3><br />
+        <h3><b>Title:</b> TBD</h3><br />
         <b>Abstract</b><p class="speaker-abstract">TBD</p>
         <div class="panel panel-default">
           <div class="panel-heading" data-toggle="collapse" href="#ch-bio" style="cursor:pointer;text-align:center">
@@ -304,7 +304,7 @@ Chandler Squires is PhD student at MIT. His research is centered on learning the
         </div>
       </div>
       <div class="col-sm-9">
-        <h3>TBD</h3><br />
+        <h3><b>Title:</b> TBD</h3><br />
         <b>Abstract</b><p class="speaker-abstract">TBD</p>
         <div class="panel panel-default">
           <div class="panel-heading" data-toggle="collapse" href="#by-bio" style="cursor:pointer;text-align:center">
