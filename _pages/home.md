@@ -97,6 +97,11 @@ acknowledgements: ""
   <div class="col-xs-12"><a class="anchor" id="courses"></a>
      <h2>Courses</h2>
      <br>
+     <ul>
+       <li><strong>Contributions of the causal approach: exploration of concrete use cases</strong></li>
+          <p><strong>When</strong>: 📅 January 31st, 2023 <strong>from</strong> 2:00 to 6:00 PM, EST <br />
+          <strong>Inscription</strong>: <a href="https://shortest.link/bwMx" target="_blank" alt="Inscription to Datacraft's course">https://shortest.link/bwMx</a></p>
+     </ul>
   </div>
 </div><br><br>
 
