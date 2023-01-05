@@ -262,6 +262,34 @@ Robins Evans is an Associate Professor in Statistics at the University of Oxford
     </div>
 
     <br>
+<div class="row speaker">
+      <div class="col-sm-3 speaker-pic">
+        <a href="https://www.cs.jhu.edu/~ilyas/" target="_blank">
+          <img class="people-pic" src="/challenges/img/people/Shpitser-retouched.jpg" />
+        </a>
+        <div class="people-name">
+          <a href="hhttps://www.cs.jhu.edu/~ilyas/" target="_blank">Ilyas Shpitser</a>
+          <h6>Johns Hopkins University</h6>
+        </div>
+      </div>
+      <div class="col-sm-9">
+	<h3><b>Title:</b> TBD</h3><br />
+	<b>Abstract</b><p class="speaker-abstract">
+	TBD
+	</p>
+        <div class="panel panel-default">
+          <div class="panel-heading" data-toggle="collapse" href="#ishp-bio" style="cursor:pointer;text-align:center">
+            <b>Biography <span style="font-weight:normal">(click to expand/collapse)</span></b>
+          </div>
+          <div id="ishp-bio" class="panel-collapse collapse in"><div class="panel-body">
+            <p class="speaker-bio">
+              Ilyas Shpitser is a John C. Malone Associate Professor in the Department of Computer Science in the Whiting School of Engineering at the Johns Hopkins University. He is a member of the Malone Center For Engineering in Healthcare. He graduated from UCLA where he had great privilege to be advised by Judea Pearl. As a postdoctoral scholar at the Harvard School of Public Health, he was fortunate to receive mentorship from James M. Robins.
+            </p>
+          </div></div>
+        </div>
+      </div>
+    </div>
+    <br>
 
     <div class="row speaker">
       <div class="col-sm-3 speaker-pic">
@@ -320,37 +348,7 @@ Robins Evans is an Associate Professor in Statistics at the University of Oxford
         </div>
       </div>
     </div>
-    <br>
-
-<!-- #### -->
-<div class="row speaker">
-      <div class="col-sm-3 speaker-pic">
-        <a href="https://www.cs.jhu.edu/~ilyas/" target="_blank">
-          <img class="people-pic" src="/challenges/img/people/Shpitser-retouched.jpg" />
-        </a>
-        <div class="people-name">
-          <a href="hhttps://www.cs.jhu.edu/~ilyas/" target="_blank">Ilyas Shpitser</a>
-          <h6>Johns Hopkins University</h6>
-        </div>
-      </div>
-      <div class="col-sm-9">
-	<h3><b>Title:</b> TBD</h3><br />
-	<b>Abstract</b><p class="speaker-abstract">
-	TBD
-	</p>
-        <div class="panel panel-default">
-          <div class="panel-heading" data-toggle="collapse" href="#ishp-bio" style="cursor:pointer;text-align:center">
-            <b>Biography <span style="font-weight:normal">(click to expand/collapse)</span></b>
-          </div>
-          <div id="ishp-bio" class="panel-collapse collapse in"><div class="panel-body">
-            <p class="speaker-bio">
-              Ilyas Shpitser is a John C. Malone Associate Professor in the Department of Computer Science in the Whiting School of Engineering at the Johns Hopkins University. He is a member of the Malone Center For Engineering in Healthcare. He graduated from UCLA where he had great privilege to be advised by Judea Pearl. As a postdoctoral scholar at the Harvard School of Public Health, he was fortunate to receive mentorship from James M. Robins.
-            </p>
-          </div></div>
-        </div>
-      </div>
-    </div>
-    <br>   
+    <br/>
   </div>
 </div>
 
