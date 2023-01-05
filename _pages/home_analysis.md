@@ -213,8 +213,35 @@ This colloquium will several keynote speakers including Antoine Chambaz, Eric Ga
           </div></div>
         </div>
       </div>
+    </div>    
+    <br/>
+    <div class="row speaker">
+      <div class="col-sm-3 speaker-pic">
+        <a href="https://janzing.github.io/">
+          <img class="people-pic" src="img/people/dj.jpeg" />
+        </a>
+        <div class="people-name">
+          <a href="https://janzing.github.io/">Dominik Janzing</a>
+          <h6>Amazon Research</h6>
+        </div>
+      </div>
+      <div class="col-sm-9">
+        <h3><b>Title:</b> TBD</h3><br />
+        <b>Abstract</b><p class="speaker-abstract">TBD</p>
+        <div class="panel panel-default">
+          <div class="panel-heading" data-toggle="collapse" href="#dj-bio" style="cursor:pointer;text-align:center">
+            <b>Biography <span style="font-weight:normal">(click to expand/collapse)</span></b>
+          </div>
+          <div id="dj-bio" class="panel-collapse collapse in"><div class="panel-body">
+            <p class="speaker-bio">
+               Dominik Janzing is a Principal Research Scientist at Amazon Research. Since 2003, he works on causal inference from statistical data and the foundation of new causal inference rules. From 1995 to 2007, he worked on quantum information theory, quantum computing, complexity theory, and thermodynamics. This work can be summarized as physics of Information and he thinks that causal inference also relies on assumptions that connect physics with information. He believes that the science of causality is "abstract physics". 
+            </p>
+          </div></div>
+        </div>
+      </div>
     </div>
     <br/>
+    <!--  -->
     <div class="row speaker">
       <div class="col-sm-3 speaker-pic">
         <a href="http://yingzhenli.net/home/en/">
