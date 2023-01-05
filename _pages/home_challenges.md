@@ -152,7 +152,7 @@ This colloquium will several keynote speakers including Robin Evans, Hervé Isam
         </div>
       </div>
       <div class="col-sm-9">
-	<h3>Title TBD</h3><br />
+	<h3><b>Title</b> TBD</h3><br />
         <b>Abstract</b><p class="speaker-abstract">TBD</p>
         <div class="panel panel-default">
           <div class="panel-heading" data-toggle="collapse" href="#re-bio" style="cursor:pointer;text-align:center">
@@ -180,7 +180,7 @@ Robins Evans is an Associate Professor in Statistics at the University of Oxford
         </div>
       </div>
       <div class="col-sm-9">
-	<h3>Title TBD</h3><br />
+	<h3><b>Title</b> TBD</h3><br />
 	<b>Abstract</b><p class="speaker-abstract"></p>	
 	<div class="panel panel-default">
           <div class="panel-heading" data-toggle="collapse" href="#hi-bio" style="cursor:pointer;text-align:center">
@@ -208,7 +208,7 @@ Robins Evans is an Associate Professor in Statistics at the University of Oxford
         </div>
       </div>
       <div class="col-sm-9">
-	<h3>Title TBD</h3><br />
+	<h3><b>Title</b> TBD</h3><br />
 	<b>Abstract</b><p class="speaker-abstract">
 	TBD
 	</p>
@@ -238,7 +238,7 @@ Robins Evans is an Associate Professor in Statistics at the University of Oxford
         </div>
       </div>
       <div class="col-sm-9">
-	<h3>Title TBD</h3><br />
+	<h3><b>Title</b> TBD</h3><br />
 	<b>Abstract</b><p class="speaker-abstract">
 	TBD
 	</p>
@@ -274,7 +274,7 @@ Robins Evans is an Associate Professor in Statistics at the University of Oxford
         </div>
       </div>
       <div class="col-sm-9">
-	<h3>Title TBD</h3><br />
+	<h3><b>Title</b> TBD</h3><br />
 	<b>Abstract</b><p class="speaker-abstract">
 	TBD
 	</p>
@@ -304,7 +304,7 @@ Robins Evans is an Associate Professor in Statistics at the University of Oxford
         </div>
       </div>
       <div class="col-sm-9">
-	<h3>Title TBD</h3><br />
+	<h3><b>Title</b> TBD</h3><br />
 	<b>Abstract</b><p class="speaker-abstract">
 	TBD
 	</p>
@@ -334,7 +334,7 @@ Robins Evans is an Associate Professor in Statistics at the University of Oxford
         </div>
       </div>
       <div class="col-sm-9">
-	<h3>Title TBD</h3><br />
+	<h3><b>Title</b> TBD</h3><br />
 	<b>Abstract</b><p class="speaker-abstract">
 	TBD
 	</p>
