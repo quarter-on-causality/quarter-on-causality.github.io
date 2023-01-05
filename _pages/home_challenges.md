@@ -52,7 +52,7 @@ acknowledgements: ""
       <li>Benchmark for causal discovery and causal reasoning</li>
     </ul>
 
-This colloquium will several keynote speakers including Robin Evans, Hervé Isambert, Jakob Runge, Michèle Sebag, Ilya Shiptser, Mihaela Van der Schaar, and Kun Zhang. In addition, it will also include invite papers contributing to all aspects of causality. Accepted papers will be published online and presented either within an oral or a poster session.
+This colloquium will several keynote speakers including Robin Evans, Hervé Isambert, Jakob Runge, Michèle Sebag, Ilya Shpitser, Mihaela Van der Schaar, and Kun Zhang. In addition, it will also include invite papers contributing to all aspects of causality. Accepted papers will be published online and presented either within an oral or a poster session.
   </div>
 </div>
 <br/>
@@ -152,7 +152,7 @@ This colloquium will several keynote speakers including Robin Evans, Hervé Isam
         </div>
       </div>
       <div class="col-sm-9">
-        <h3>TBD</h3><br />
+	<h3><b>Title</b> TBD</h3><br />
         <b>Abstract</b><p class="speaker-abstract">TBD</p>
         <div class="panel panel-default">
           <div class="panel-heading" data-toggle="collapse" href="#re-bio" style="cursor:pointer;text-align:center">
@@ -180,7 +180,7 @@ Robins Evans is an Associate Professor in Statistics at the University of Oxford
         </div>
       </div>
       <div class="col-sm-9">
-	<h3>TBD.</h3><br />
+	<h3><b>Title</b> TBD</h3><br />
 	<b>Abstract</b><p class="speaker-abstract"></p>	
 	<div class="panel panel-default">
           <div class="panel-heading" data-toggle="collapse" href="#hi-bio" style="cursor:pointer;text-align:center">
@@ -208,7 +208,7 @@ Robins Evans is an Associate Professor in Statistics at the University of Oxford
         </div>
       </div>
       <div class="col-sm-9">
-	<h3>TBD</h3><br />
+	<h3><b>Title</b> TBD</h3><br />
 	<b>Abstract</b><p class="speaker-abstract">
 	TBD
 	</p>
@@ -238,7 +238,7 @@ Robins Evans is an Associate Professor in Statistics at the University of Oxford
         </div>
       </div>
       <div class="col-sm-9">
-	<h3>TBD</h3><br />
+	<h3><b>Title</b> TBD</h3><br />
 	<b>Abstract</b><p class="speaker-abstract">
 	TBD
 	</p>
@@ -274,7 +274,7 @@ Robins Evans is an Associate Professor in Statistics at the University of Oxford
         </div>
       </div>
       <div class="col-sm-9">
-	<h3>TBD</h3><br />
+	<h3><b>Title</b> TBD</h3><br />
 	<b>Abstract</b><p class="speaker-abstract">
 	TBD
 	</p>
@@ -304,7 +304,7 @@ Robins Evans is an Associate Professor in Statistics at the University of Oxford
         </div>
       </div>
       <div class="col-sm-9">
-	<h3>TBD</h3><br />
+	<h3><b>Title</b> TBD</h3><br />
 	<b>Abstract</b><p class="speaker-abstract">
 	TBD
 	</p>
@@ -320,7 +320,37 @@ Robins Evans is an Associate Professor in Statistics at the University of Oxford
         </div>
       </div>
     </div>
-    <br/>
+	  
+    <br>
+	  
+    <div class="row speaker">
+      <div class="col-sm-3 speaker-pic">
+        <a href="https://www.cs.jhu.edu/~ilyas/">
+          <img class="people-pic" src="/challenges/img/people/Shpitser-retouched.jpg" />
+        </a>
+        <div class="people-name">
+          <a href="https://www.cs.jhu.edu/~ilyas/" target="_blank">Ilyas Shpitser</a>
+          <h6>Johns Hopkins University</h6>
+        </div>
+      </div>
+      <div class="col-sm-9">
+	<h3><b>Title</b> TBD</h3><br />
+	<b>Abstract</b><p class="speaker-abstract">
+	TBD
+	</p>
+        <div class="panel panel-default">
+          <div class="panel-heading" data-toggle="collapse" href="#mvds-bio" style="cursor:pointer;text-align:center">
+            <b>Biography <span style="font-weight:normal">(click to expand/collapse)</span></b>
+          </div>
+          <div id="mvds-bio" class="panel-collapse collapse in"><div class="panel-body">
+            <p class="speaker-bio">
+              I am a John C. Malone Associate Professor in the Department of Computer Science in the Whiting School of Engineering at the Johns Hopkins University. I am a member of the Malone Center For Engineering in Healthcare. I graduated from UCLA where I had great privilege to be advised by Judea Pearl. As a postdoctoral scholar at the Harvard School of Public Health, I was fortunate to receive mentorship from James M. Robins.
+            </p>
+          </div></div>
+        </div>
+      </div>
+    </div>
+   <br/>
   </div>
 </div>
 
