@@ -92,12 +92,12 @@ This colloquium will several keynote speakers including Robin Evans, Hervé Isam
       <tbody>        
         <tr>
           <td>Paper Submission Deadline</td>
-          <td>31 January 2023 (23:59 AOE)</td>
+          <td>January 31st, 2023 (23:59 AOE)</td>
 	        <td><span class="countdown" reference="01 February 2023 13:59:59 UTC"></span></td>
         </tr>
         <tr>
           <td>Notification to Authors</td>
-          <td>February 20, 2023</td>
+          <td>February 20th, 2023</td>
         </tr>
         <!-- <tr>
           <td>Camera-Ready Deadline</td>

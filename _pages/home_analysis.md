@@ -90,17 +90,17 @@ This colloquium will several keynote speakers including Antoine Chambaz, Eric Ga
       <tbody>        
         <tr>
           <td>Paper Submission Deadline</td>
-          <td>15 January 2023 (23:59 AOE)</td>
-	        <td><span class="countdown" reference="16 January 2023 13:59:59 UTC"></span></td>
+          <td>February 9th, 2023 (23:59 AOE)</td>
+	        <td><span class="countdown" reference="10 February 2023 13:59:59 UTC"></span></td>
         </tr>
         <tr>
           <td>Notification to Authors</td>
-          <td>January 31, 2023</td>
+          <td>February 28th, 2023</td>
         </tr>
-        <tr>
+        <!-- <tr>
           <td>Camera-Ready Deadline</td>
           <td>February 28, 2023</td>
-        </tr>
+        </tr> -->
         <tr>
           <td>Colloquium</td>
           <td>From April 17th to April 21st, 2023</td>
