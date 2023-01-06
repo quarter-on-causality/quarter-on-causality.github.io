@@ -71,14 +71,11 @@ This colloquium will several keynote speakers including Antoine Chambaz, Eric Ga
       Authors should submit their papers via EasyChair <a href="https://easychair.org/conferences/?conf=causalstats23" target="_blank">https://easychair.org/conferences/?conf=causalstats23</a>.</p> 
       <p>
       Note that authors are encouraged to adhere to the best practices of Reproducible Research (RR), by making available data and software tools for reproducing the results reported in their papers. For the sake of persistence and proper authorship attribution, we require the use of standard repository hosting services such as dataverse, mldata, openml, etc., for data sets, and mloss, Bitbucket, GitHub, etc. for source code. Authors who submit their work to the colloquium commit themselves to presenting their paper at the colloquium if it is accepted.
-	  </p>
-	  <!-- <p>
-	    Accepted papers will be published in the official
-	  </p> -->
+	  </p>	  
         </div>
       </div>
     </div>
-    <br>    
+    <br>
   </div>
 </div><br>
 
@@ -87,20 +84,17 @@ This colloquium will several keynote speakers including Antoine Chambaz, Eric Ga
     <h2>Important Dates</h2>
     <br>
     <table class="table table-striped">
-      <tbody>        
+      <tbody>
         <tr>
           <td>Paper Submission Deadline</td>
           <td>February 9th, 2023 (23:59 AOE)</td>
-	        <td><span class="countdown" reference="10 February 2023 13:59:59 UTC"></span></td>
+          <td><span class="countdown" reference="10 February 2023 13:59:59 UTC"></span></td>
         </tr>
         <tr>
           <td>Notification to Authors</td>
           <td>February 28th, 2023</td>
+          <td><span class="countdown" reference="01 March 2023 13:59:59 UTC"></span></td>
         </tr>
-        <!-- <tr>
-          <td>Camera-Ready Deadline</td>
-          <td>February 28, 2023</td>
-        </tr> -->
         <tr>
           <td>Colloquium</td>
           <td>From April 17th to April 21st, 2023</td>
@@ -268,6 +262,32 @@ This colloquium will several keynote speakers including Antoine Chambaz, Eric Ga
       </div>
     </div>
     <br/>
+    <div class="row speaker">
+      <div class="col-sm-3 speaker-pic">
+        <a href="http://web.math.ku.dk/~peters/" target="_blank">
+          <img class="people-pic" src="/analysis/img/people/JP.jpeg" />
+        </a>
+        <div class="people-name">
+          <a href="http://web.math.ku.dk/~peters/" target="_blank">Jonas Peters</a>
+          <h6>University of Copenhagen</h6>
+        </div>
+      </div>
+      <div class="col-sm-9">
+        <h3><b>Title:</b> TBD</h3><br />
+        <b>Abstract</b><p class="speaker-abstract">TBD</p>
+        <div class="panel panel-default">
+          <div class="panel-heading" data-toggle="collapse" href="#jp-bio" style="cursor:pointer;text-align:center">
+            <b>Biography <span style="font-weight:normal">(click to expand/collapse)</span></b>
+          </div>
+          <div id="jp-bio" class="panel-collapse collapse in"><div class="panel-body">
+            <p class="speaker-bio">
+            Jonas Peters is a Professor in statistics at the Department of Mathematical Sciences at the University of Copenhagen. Previously, he has been a group leader at the Max-Planck-Institute for Intelligent Systems in Tuebingen and a Marie Curie fellow at the Seminar for Statistics, ETH Zurich. He studied Mathematics at the University of Heidelberg and the University of Cambridge and obtained his PhD jointly from MPI and ETH. He is interested in inferring causal relationships from different types of data and in building statistical methods that are robust with respect to distributional shifts. In his research, Peters seeks to combine theory, methodology, and applications. His work relates to areas such as computational statistics, causal inference, graphical models, independence testing or high-dimensional statistics.
+            </p>
+          </div></div>
+        </div>
+      </div>
+    </div>
+    <br/>    
     <div class="row speaker">
       <div class="col-sm-3 speaker-pic">
         <a href="https://personal.math.ubc.ca/~erobeva">
