@@ -98,12 +98,7 @@ This colloquium will several keynote speakers including Robin Evans, Hervé Isam
         <tr>
           <td>Notification to Authors</td>
           <td>February 20th, 2023</td>
-        </tr>
-        <!-- <tr>
-          <td>Camera-Ready Deadline</td>
-          <td>February 28, 2023 (23:59 AOE)</td>
-          <td><span class="countdown" reference="01 Mars 2023 12:59:59 UTC"></span></td>
-        </tr> -->
+        </tr>        
         <tr>
           <td>Colloquium</td>
           <td>From May 9th to May 12th, 2023</td>

@@ -130,7 +130,34 @@ This colloquium will several keynote speakers including Antoine Chambaz, Eric Ga
 <div class="row">
   <div class="col-xs-12"><a class="anchor" id="speakers"></a>
     <h2>Invited Keynote Speakers</h2>
-    <br>
+    <br/>
+    <div class="row speaker">
+      <div class="col-sm-3 speaker-pic">
+        <a href="http://www.cs.columbia.edu/~blei">
+          <img class="people-pic" src="/analysis/img/people/blei.jpeg" />
+        </a>
+        <div class="people-name">
+          <a href="http://www.cs.columbia.edu/~blei">David Blei</a>
+          <h6>Columbia University</h6>
+        </div>
+      </div>
+      <div class="col-sm-9">
+        <h3><b>Title:</b> TBD</h3><br />
+        <b>Abstract</b><p class="speaker-abstract">TBD</p>
+        <div class="panel panel-default">
+          <div class="panel-heading" data-toggle="collapse" href="#dmb-bio" style="cursor:pointer;text-align:center">
+            <b>Biography <span style="font-weight:normal">(click to expand/collapse)</span></b>
+          </div>
+          <div id="dmb-bio" class="panel-collapse collapse in"><div class="panel-body">
+            <p class="speaker-bio">
+            David Blei is a professor of Statistics and Computer Science at Columbia University. 
+            He is also a member of the Columbia Data Science Institute. He works primarily in the fields of machine learning and Bayesian statistics.
+            </p>
+          </div></div>
+        </div>
+      </div>
+    </div>
+    <br/>
     <div class="row speaker">
       <div class="col-sm-3 speaker-pic">
         <a href="https://helios2.mi.parisdescartes.fr/~chambaz/index.php?choix=1">
@@ -155,33 +182,7 @@ This colloquium will several keynote speakers including Antoine Chambaz, Eric Ga
           </div></div>
         </div>
       </div>
-    </div>
-    <!-- <div class="row speaker">
-      <div class="col-sm-3 speaker-pic">
-        <a href="http://www.cs.columbia.edu/~blei">
-          <img class="people-pic" src="/analysis/img/people/blei.jpeg" />
-        </a>
-        <div class="people-name">
-          <a href="http://www.cs.columbia.edu/~blei">David Blei</a>
-          <h6>Columbia University</h6>
-        </div>
-      </div>
-      <div class="col-sm-9">
-        <h3>TBD</h3><br />
-        <b>Abstract</b><p class="speaker-abstract">TBD</p>
-        <div class="panel panel-default">
-          <div class="panel-heading" data-toggle="collapse" href="#dmb-bio" style="cursor:pointer;text-align:center">
-            <b>Biography <span style="font-weight:normal">(click to expand/collapse)</span></b>
-          </div>
-          <div id="dmb-bio" class="panel-collapse collapse in"><div class="panel-body">
-            <p class="speaker-bio">
-            David Blei is a professor of Statistics and Computer Science at Columbia University. 
-            He is also a member of the Columbia Data Science Institute. He works primarily in the fields of machine learning and Bayesian statistics.
-            </p>
-          </div></div>
-        </div>
-      </div>
-    </div> -->
+    </div>    
     <br/>
     <div class="row speaker">
       <div class="col-sm-3 speaker-pic">
