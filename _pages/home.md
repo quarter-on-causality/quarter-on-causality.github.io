@@ -27,7 +27,7 @@ acknowledgements: ""
 <div class="row">
   <div class="col-xs-12">
     <p>
-    This thematic quarter aims to underline the interactions between Statistical, Probability, Theory, Causal Inference theory, as well as theoretical computer science methods for causal inference. It will enable researchers, student, and practitioners to explore a rich and cross-disciplinary topic. This thematic quarter will explore topics related to, but not limited to:
+    This thematic quarter aims to underline the interactions between Statistical, Probability Theory, Causal Inference theory, and theoretical computer science methods for causal inference. It will enable researchers, students, and practitioners to explore a rich and cross-disciplinary topic. This thematic quarter will explore topics related to, but not limited to:
     </p>
     <ul>
       <li>Causal discovery</li>
