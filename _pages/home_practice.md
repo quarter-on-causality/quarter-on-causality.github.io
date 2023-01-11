@@ -218,6 +218,15 @@ Robins Evans is an Associate Professor in Statistics at the University of Oxford
       <h6>Paris-Saclay University</h6>
     </div>
   </div>
+  <div class="col-xs-2">
+    <a href="https://myriamtami.github.io" target="_blank">
+      <img class="people-pic" src="{{"/quarter/img/people/tami.jpeg" | prepend:site.baseurl }}">
+    </a>
+    <div class="people-name">
+      <a href="https://myriamtami.github.io" target="_blank">Myriam Tami</a>
+      <h6>CentraleSupélec, Paris-Saclay University</h6>
+    </div>
+  </div>
 </div>
 <br>
 

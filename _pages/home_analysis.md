@@ -229,7 +229,7 @@ This colloquium will several keynote speakers including Antoine Chambaz, Eric Ga
           </div>
           <div id="dj-bio" class="panel-collapse collapse in"><div class="panel-body">
             <p class="speaker-bio">
-               Dominik Janzing is a Principal Research Scientist at Amazon Research. Since 2003, he works on causal inference from statistical data and the foundation of new causal inference rules. From 1995 to 2007, he worked on quantum information theory, quantum computing, complexity theory, and thermodynamics. This work can be summarized as physics of Information and he thinks that causal inference also relies on assumptions that connect physics with information. He believes that the science of causality is "abstract physics". 
+               Dominik Janzing is a Principal Research Scientist at Amazon Research. Since 2003, he works on causal inference from statistical data and the foundation of new causal inference rules. From 1995 to 2007, he worked on quantum information theory, quantum computing, complexity theory, and thermodynamics. This work can be summarized as physics of Information and he thinks that causal inference also relies on assumptions that connect physics with information. He believes that the science of causality is "abstract physics".
             </p>
           </div></div>
         </div>
@@ -437,7 +437,7 @@ Chandler Squires is PhD student at MIT. His research is centered on learning the
 <div class="row">  
   <div class="col-xs-2">
     <a href="https://sites.google.com/site/marianneclausel">
-      <img class="people-pic" src="{{ "img/people/clausel.jpg" | prepend:site.baseurl }}">
+      <img class="people-pic" src="{{ "/quarter/img/people/clausel.jpg" | prepend:site.baseurl }}">
     </a>
     <div class="people-name">
       <a href="https://sites.google.com/site/marianneclausel">Marianne Clausel</a>
@@ -460,6 +460,15 @@ Chandler Squires is PhD student at MIT. His research is centered on learning the
     <div class="people-name">
       <a href="#">Georges Oppenheim</a>
       <h6>Paris-Saclay University</h6>
+    </div>
+  </div>
+  <div class="col-xs-2">
+    <a href="https://myriamtami.github.io" target="_blank">
+      <img class="people-pic" src="{{"/quarter/img/people/tami.jpeg" | prepend:site.baseurl }}">
+    </a>
+    <div class="people-name">
+      <a href="https://myriamtami.github.io" target="_blank">Myriam Tami</a>
+      <h6>CentraleSupélec, Paris-Saclay University</h6>
     </div>
   </div>
 </div>
