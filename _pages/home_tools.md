@@ -165,6 +165,15 @@ acknowledgements: ""
 <div class="row">
   <!-- <div class="col-xs-1"></div> -->
   <div class="col-xs-2">
+    <a href="https://ckassaad.github.io" target="_blank">
+      <img class="people-pic" src="{{ "/challenges/img/people/ckassad.jpeg" | prepend:site.baseurl }}">
+    </a>
+    <div class="people-name">
+      <a href="hhttps://ckassaad.github.io" target="_blank">Charles K. Assaad</a>
+      <h6>EasyVista</h6>
+    </div>
+  </div>  
+  <div class="col-xs-2">
     <a href="http://ama.liglab.fr/~devijvee/">
       <img class="people-pic" src="{{ "/challenges/img/people/devijver.jpeg" | prepend:site.baseurl }}">
     </a>
@@ -178,17 +187,17 @@ acknowledgements: ""
       <img class="people-pic" src="{{ "/quarter/img/people/EG.jpeg" | prepend:site.baseurl }}">
     </a>
     <div class="people-name">
-      <a href="https://ckassaad.github.io" target="_blank">Eric Gaussier</a>
+      <a href="http://ama.liglab.fr/~gaussier/" target="_blank">Eric Gaussier</a>
       <h6>University of Grenoble Alpes</h6>
     </div>
   </div>
   <div class="col-xs-2">
-    <a href="https://ckassaad.github.io" target="_blank">
-      <img class="people-pic" src="{{ "/challenges/img/people/ckassad.jpeg" | prepend:site.baseurl }}">
+    <a href="http://pop-art.inrialpes.fr/~goessler/" target="_blank">
+      <img class="people-pic" src="{{ "img/people/GregorG.jpeg" | prepend:site.baseurl }}">
     </a>
     <div class="people-name">
-      <a href="hhttps://ckassaad.github.io" target="_blank">Charles K. Assaad</a>
-      <h6>EasyVista</h6>
+      <a href="http://pop-art.inrialpes.fr/~goessler/" target="_blank">Gregor Goessler</a>
+      <h6>Inria</h6>
     </div>
   </div>  
 </div>
