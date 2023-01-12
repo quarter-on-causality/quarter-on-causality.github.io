@@ -193,7 +193,7 @@ acknowledgements: ""
   </div>
   <div class="col-xs-2">
     <a href="http://pop-art.inrialpes.fr/~goessler/" target="_blank">
-      <img class="people-pic" src="{{ "img/people/GregorG.jpeg" | prepend:site.baseurl }}">
+      <img class="people-pic" src="{{ "/challenges/img/people/GregorG.jpeg" | prepend:site.baseurl }}">
     </a>
     <div class="people-name">
       <a href="http://pop-art.inrialpes.fr/~goessler/" target="_blank">Gregor Goessler</a>
