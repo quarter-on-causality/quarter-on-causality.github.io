@@ -85,7 +85,7 @@ acknowledgements: ""
         </tr>
         <tr>
           <td>Causality in Practice, II</td>
-          <td>From July 3rd to June 7th, 2023</td>
+          <td>From July 3rd to July 7th, 2023</td>
           <td><span class="countdown" reference="3 July 2023 10:00:00 UTC"></span></td>
         </tr>
       </tbody>
