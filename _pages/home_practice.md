@@ -16,7 +16,7 @@ acknowledgements: ""
   <div class="col-xs-12">
     <center><h1>Causality in Practice</h1></center>
     <center><h2>Saclay, France</h2></center>
-    <center><strong>From</strong> June 12th <strong>to</strong> June 12th</center>
+    <center><strong>From</strong> June 12th <strong>to</strong> June 16th</center>
     <center>Location: <b><a href="https://www.institut-pascal.universite-paris-saclay.fr/en" target="_blank">Institut Pascal</a></b></center>
   </div>
 </div>
