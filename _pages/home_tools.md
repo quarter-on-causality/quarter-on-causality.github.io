@@ -1,4 +1,4 @@
----
+_pages/home_tools.md ---
 layout: layout_tools
 urltitle:  "Tools for Causality"
 title: "Tools for Causality"
@@ -15,7 +15,7 @@ acknowledgements: ""
 <div class="row">
   <div class="col-xs-12">
     <center><h1>Tools for Causality</h1></center>
-    <center><h2>Autrans-Méaudre en Vercors, France</h2></center>
+    <center><h2>Autrans-Méaudre-en-Vercors, France</h2></center>
     <center><strong>From</strong> May 21st <strong>to</strong> May 26th</center>
     <center>Location: <b><a href="https://escandille.com" target="_blank">L'Escandille</a></b></center>
   </div>
@@ -71,33 +71,82 @@ acknowledgements: ""
 <div class="row">
   <div class="col-xs-12"><a class="anchor" id="speakers"></a>
     <h2>Invited Speakers</h2>
-    <br>
+    <br/>
     <div class="row speaker">
       <div class="col-sm-3 speaker-pic">
-        <a href="https://sites.google.com/site/spindlermartin/">
-          <img class="people-pic" src="/tools/img/people/Spindler.jpeg" />
+        <a href="https://philippbach.github.io" target="_blank">
+          <img class="people-pic" src="/tools/img/people/philipp.jpg" />
         </a>
         <div class="people-name">
-          <a href="https://sites.google.com/site/spindlermartin/">Martin Spindler</a>
+          <a href="https://philippbach.github.io" target="_blank">Philipp Bach</a>
           <h6>University of Hamburg</h6>
         </div>
       </div>
       <div class="col-sm-9">
         <h3>Double Machine Learning</h3><br />
-        <b>Abstract</b><p class="speaker-abstract">TBD</p>
         <div class="panel panel-default">
-          <div class="panel-heading" data-toggle="collapse" href="#ms-bio" style="cursor:pointer;text-align:center">
+          <div class="panel-heading" data-toggle="collapse" href="#pb-bio" style="cursor:pointer;text-align:center">
             <b>Biography <span style="font-weight:normal">(click to expand/collapse)</span></b>
           </div>
-          <div id="ms-bio" class="panel-collapse collapse in"><div class="panel-body">
+          <div id="pb-bio" class="panel-collapse collapse in"><div class="panel-body">
             <p class="speaker-bio">
-           Martin Spindler is a Professor of Statistics at the University of Hamburg, Germany. His research interest is Econometrics, Statistics, and Machine Learning with applications to Finance, Insurance and Health Economics. He has been a visiting scholar at Columbia University, New York, and Singapore Management University and a Postdoc researcher at the Massachusetts Institute of Technology (MIT), Cambridge, in the academic year 2013/2014. From 2012 to 2016, he was a Senior Researcher / Postdoc at the Max Planck Society / Munich Center for the Economics of Aging (MEA), Munich, Germany.
+           Philipp Bach is a postdoctoral researcher in Statistics, at University of Hamburg. He holds the chair of Statistics with Application in Business Administration. He did a PhD at Hamburg university, supervised by Martin Spindler. His main research fields are estimation of causal effects and inference in high dimensional settings with machine learning methods, machine learning, and deep learning, with applications in labor, health and financial economics.
+            </p>
+          </div></div>
+        </div>
+      </div>
+    </div>
+    <br/>    
+    <div class="row speaker">
+      <div class="col-sm-3 speaker-pic">
+        <a href="https://juliejosse.com" target="_blank">
+          <img class="people-pic" src="/tools/img/people/jj.png" />
+        </a>
+        <div class="people-name">
+          <a href="https://juliejosse.com" target="_blank">Julie Josse</a>
+          <h6>INRIA</h6>
+        </div>
+      </div>
+      <div class="col-sm-9">
+        <h3>Introduction</h3><br />        
+        <div class="panel panel-default">
+          <div class="panel-heading" data-toggle="collapse" href="#jj-bio" style="cursor:pointer;text-align:center">
+            <b>Biography <span style="font-weight:normal">(click to expand/collapse)</span></b>
+          </div>
+          <div id="jj-bio" class="panel-collapse collapse in"><div class="panel-body">
+            <p class="speaker-bio">
+           Julie Josse is  a Senior Researcher at Inria (National research center in digital science) and the head of the Inria-Inserm (National research center in health) team PreMeDICaL (precision medicine by data integration and causal learning). Her main research fields are missing values (EM algorithms, imputation, supervised learning), causal inference (treatment effect estimation, combining RCT and observational data; survival analysis), visualization with dimensionality reduction (PCA, correspondence analysis, questionnaire analyses, multi-blocks data), low rank matrix estimation; with applications mainly in bio-sciences and health
             </p>
           </div></div>
         </div>
       </div>
     </div>
     <br/>
+    <div class="row speaker">
+      <div class="col-sm-3 speaker-pic">
+        <a href="https://www.bwl.uni-hamburg.de/statistik/team/klaassen.html" target="_blank">
+          <img class="people-pic" src="/tools/img/people/klaassen.jpeg" />
+        </a>
+        <div class="people-name">
+          <a href="https://www.bwl.uni-hamburg.de/statistik/team/klaassen.html" target="_blank">Sven Klaassen</a>
+          <h6>University of Hamburg</h6>
+        </div>
+      </div>
+      <div class="col-sm-9">
+        <h3>Double Machine Learning</h3><br />
+        <div class="panel panel-default">
+          <div class="panel-heading" data-toggle="collapse" href="#sk-bio" style="cursor:pointer;text-align:center">
+            <b>Biography <span style="font-weight:normal">(click to expand/collapse)</span></b>
+          </div>
+          <div id="sk-bio" class="panel-collapse collapse in"><div class="panel-body">
+            <p class="speaker-bio">
+            Sven Klaassen is a postdoctoral researcher in Statistics at University of Hamburg, and a visiting Scholar at MIT, Department of Economics. He did a PhD at Hamburg University, supervised by Martin Spindler. His main research fields are inference in high-dimensional settings, machine learning, causal inference, deep learning and empirical processes.
+            </p>
+          </div></div>
+        </div>
+      </div>
+    </div>    
+    <br/>    
     <div class="row speaker">
       <div class="col-sm-3 speaker-pic">
         <a href="https://www.microsoft.com/en-us/research/people/robertness/">
@@ -109,8 +158,7 @@ acknowledgements: ""
         </div>
       </div>
       <div class="col-sm-9">
-        <h3>DoWhy</h3><br />
-        <b>Abstract</b><p class="speaker-abstract">TBD</p>
+        <h3>DoWhy</h3><br />        
         <div class="panel panel-default">
           <div class="panel-heading" data-toggle="collapse" href="#rn-bio" style="cursor:pointer;text-align:center">
             <b>Biography <span style="font-weight:normal">(click to expand/collapse)</span></b>
@@ -118,6 +166,31 @@ acknowledgements: ""
           <div id="rn-bio" class="panel-collapse collapse in"><div class="panel-body">
             <p class="speaker-bio">
             Robert Ness is a Senior Researcher at Microsoft Research AI in the Societal Resilience group. In his research, he explores how to combine causal discovery, causal inference, deep probabilistic modeling, and programming languages to power new capabilities in AI.
+            </p>
+          </div></div>
+        </div>
+      </div>
+    </div>
+    <br/>
+    <div class="row speaker">
+      <div class="col-sm-3 speaker-pic">
+        <a href="https://yjzheng.com" target="_blank">
+          <img class="people-pic" src="/tools/img/people/YujiaZheng.jpg" />
+        </a>
+        <div class="people-name">
+          <a href="https://yjzheng.com" target="_blank">Yujia Zheng</a>
+          <h6>University of Hamburg</h6>
+        </div>
+      </div>
+      <div class="col-sm-9">
+        <h3>Causal Learn</h3><br />        
+        <div class="panel panel-default">
+          <div class="panel-heading" data-toggle="collapse" href="#yz-bio" style="cursor:pointer;text-align:center">
+            <b>Biography <span style="font-weight:normal">(click to expand/collapse)</span></b>
+          </div>
+          <div id="yz-bio" class="panel-collapse collapse in"><div class="panel-body">
+            <p class="speaker-bio">
+            Yujia Zheng is a MS student at CMU Philosophy, advised by Prof. Kun Zhang. He has recently completed his BS from UESTC, and has interned at UC Berkeley and NLPR, and was a summer fellow at EPFL. His research interests lie primarily in the linear span of causality and machine learning.
             </p>
           </div></div>
         </div>
