@@ -193,7 +193,7 @@ Robins Evans is an Associate Professor in Statistics at the University of Oxford
 <div class="row">  
   <div class="col-xs-2">
     <a href="https://sites.google.com/site/marianneclausel">
-      <img class="people-pic" src="{{ "img/people/clausel.jpg" | prepend:site.baseurl }}">
+      <img class="people-pic" src="{{ "/quarter/img/people/clausel.jpg" | prepend:site.baseurl }}">
     </a>
     <div class="people-name">
       <a href="https://sites.google.com/site/marianneclausel">Marianne Clausel</a>
