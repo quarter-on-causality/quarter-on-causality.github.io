@@ -1,4 +1,4 @@
-_pages/home_tools.md ---
+---
 layout: layout_tools
 urltitle:  "Tools for Causality"
 title: "Tools for Causality"
