@@ -28,7 +28,6 @@ acknowledgements: ""
   </div>
 </div>
 
-
 <div class="row">
   <div class="col-xs-12"><a class="anchor" id="intro"></a>
     <!-- <h2>Introduction</h2> -->
