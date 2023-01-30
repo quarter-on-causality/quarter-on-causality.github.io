@@ -52,7 +52,7 @@ acknowledgements: ""
       <li>Benchmark for causal discovery and causal reasoning</li>
     </ul>
 
-This colloquium will several keynote speakers including Robin Evans, Hervé Isambert, Jakob Runge, Michèle Sebag, Ilya Shpitser, Mihaela Van der Schaar, and Kun Zhang. In addition, it will also include invite papers contributing to all aspects of causality. Accepted papers will be published online and presented either within an oral or a poster session.
+This colloquium will welcome several keynote speakers including Robin Evans, Hervé Isambert, Jakob Runge, Michèle Sebag, Ilya Shpitser, Mihaela Van der Schaar, and Kun Zhang. In addition, it will also include invite papers contributing to all aspects of causality. Accepted papers will be published online and presented either within an oral or a poster session.
   </div>
 </div>
 <br/>
@@ -68,7 +68,7 @@ This colloquium will several keynote speakers including Robin Evans, Hervé Isam
       <div id="call-papers" class="panel-collapse collapse in" data-parent="#cfp">
         <div class="panel-body">
           <p>
-	    <span style="font-weight:500;">Submission:</span> We invite authors to submit unpublished papers of any length between 2 and 6 pages, excluding references. All submissions must be in English, in PDF format, following the ACM two-column format. Suitable LaTeX and Word templates are available from the ACM website: <a href="https://www.acm.org/publications/proceedings-template" target="_blank">https://www.acm.org/publications/proceedings-template</a>.
+	    <span style="font-weight:500;">Submission:</span> We invite authors to submit papers of any length between 2 and 6 pages, excluding references. All submissions must be in English, in PDF format, following the ACM two-column format. Suitable LaTeX and Word templates are available from the ACM website: <a href="https://www.acm.org/publications/proceedings-template" target="_blank">https://www.acm.org/publications/proceedings-template</a>.
       
       Authors should submit their papers via EasyChair <a href="https://easychair.org/conferences/?conf=funcausal2023" target="_blank">https://easychair.org/conferences/?conf=funcausal2023</a>.</p> 
       <p>
