@@ -52,7 +52,7 @@ acknowledgements: ""
       <li>Benchmark for causal discovery and causal reasoning</li>
     </ul>
 
-This colloquium will welcome seven keynote speakers: Robin Evans, Hervé Isambert, Jakob Runge, Michèle Sebag, Ilya Shpitser, Mihaela Van der Schaar, and Kun Zhang. In addition, authors of papers submitted to the colloquium (see Call for Papers below) will have the opportunity to present their work within oral and/or poster sessions.
+<i>This colloquium will welcome seven keynote speakers: Robin Evans, Hervé Isambert, Jakob Runge, Michèle Sebag, Ilya Shpitser, Mihaela Van der Schaar, and Kun Zhang. In addition, authors of papers submitted to the colloquium (see Call for Papers below) will have the opportunity to present their work within oral and/or poster sessions.</i>
   </div>
 </div>
 <br/>
