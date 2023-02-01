@@ -38,7 +38,7 @@ acknowledgements: ""
 <div class="row">
   <div class="col-xs-12">
     <p>
-    The colloquium on Fundamental Challenges on Causality aims to bring together researchers interested in causality and willing to discuss novel approaches to causal discovery and causal inference. The colloquium will explore topics related to, but not limited to:
+    The colloquium on Fundamental Challenges on Causality (FunCausal) aims to bring together researchers interested in causality and willing to discuss novel approaches to causal discovery and causal inference. FunCausal will explore topics related to, but not limited to:
     </p>
     <ul>
       <li>Causal discovery</li>
@@ -52,7 +52,7 @@ acknowledgements: ""
       <li>Benchmark for causal discovery and causal reasoning</li>
     </ul>
 
-<i>This colloquium will welcome seven keynote speakers: Robin Evans, Hervé Isambert, Jakob Runge, Michèle Sebag, Ilya Shpitser, Mihaela Van der Schaar, and Kun Zhang. In addition, authors of papers submitted to the colloquium (see Call for Papers below) will have the opportunity to present their work within oral and/or poster sessions.</i>
+<i>FunCausal will welcome seven keynote speakers: Robin Evans, Hervé Isambert, Jakob Runge, Michèle Sebag, Ilya Shpitser, Mihaela Van der Schaar, and Kun Zhang. In addition, authors of papers submitted to the colloquium (see Call for Papers below) will have the opportunity to present their work within oral and/or poster sessions.</i>
   </div>
 </div>
 <br/>
