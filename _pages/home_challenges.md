@@ -38,7 +38,7 @@ acknowledgements: ""
 <div class="row">
   <div class="col-xs-12">
     <p>
-    The Colloquium on Fundamental Challenges on Causality aims to encourage and highlight novel approaches to handle the challenges on causal inferences. The colloquium will explore topics related to, but not limited to:
+    The colloquium on Fundamental Challenges on Causality aims to bring together researchers interested in causality and willing to discuss novel approaches to causal discovery and causal inference. The colloquium will explore topics related to, but not limited to:
     </p>
     <ul>
       <li>Causal discovery</li>
@@ -52,23 +52,23 @@ acknowledgements: ""
       <li>Benchmark for causal discovery and causal reasoning</li>
     </ul>
 
-This colloquium will welcome several keynote speakers including Robin Evans, Hervé Isambert, Jakob Runge, Michèle Sebag, Ilya Shpitser, Mihaela Van der Schaar, and Kun Zhang. In addition, it will also include invite papers contributing to all aspects of causality. Accepted papers will be published online and presented either within an oral or a poster session.
+This colloquium will welcome seven keynote speakers: Robin Evans, Hervé Isambert, Jakob Runge, Michèle Sebag, Ilya Shpitser, Mihaela Van der Schaar, and Kun Zhang. In addition, authors of papers submitted to the colloquium (see Call for Papers below) will have the opportunity to present their work within oral and/or poster sessions.
   </div>
 </div>
 <br/>
 
 <div class="row">
   <div class="col-xs-12 panel-group"><a class="anchor" id="cfp"></a>
-    <h2>Call for Contributions</h2>
+    <!-- <h2>Call for Contributions</h2> -->
     <br>
     <div class="panel panel-default">
       <div class="panel-heading" data-toggle="collapse" data-parent="#cfp" href="#call-papers" style="cursor:pointer;">
-        <h3 style="margin:0;">Full Colloquium Papers</h3>
+        <h3 style="margin:0;">Call for Papers</h3>
       </div>
       <div id="call-papers" class="panel-collapse collapse in" data-parent="#cfp">
         <div class="panel-body">
           <p>
-	    <span style="font-weight:500;">Submission:</span> We invite authors to submit papers of any length between 2 and 6 pages, excluding references. All submissions must be in English, in PDF format, following the ACM two-column format. Suitable LaTeX and Word templates are available from the ACM website: <a href="https://www.acm.org/publications/proceedings-template" target="_blank">https://www.acm.org/publications/proceedings-template</a>.
+	    <span style="font-weight:500;">Submission:</span> We invite authors to submit papers of any length between 2 and 6 pages, excluding references. Submissions are not anonymous and must be in English, in PDF format, following the ACM two-column format. Suitable LaTeX and Word templates are available from the ACM website: <a href="https://www.acm.org/publications/proceedings-template" target="_blank">https://www.acm.org/publications/proceedings-template</a>.
       
       Authors should submit their papers via EasyChair <a href="https://easychair.org/conferences/?conf=funcausal2023" target="_blank">https://easychair.org/conferences/?conf=funcausal2023</a>.</p> 
       <p>
@@ -92,12 +92,12 @@ This colloquium will welcome several keynote speakers including Robin Evans, Her
       <tbody>        
         <tr>
           <td>Paper Submission Deadline</td>
-          <td>January 31st, 2023 (23:59 AOE)</td>
+          <td>February 10, 2023 (23:59 AOE)</td>
 	        <td><span class="countdown" reference="01 February 2023 13:59:59 UTC"></span></td>
         </tr>
         <tr>
           <td>Notification to Authors</td>
-          <td>February 20th, 2023</td>
+          <td>February 27, 2023</td>
         </tr>        
         <tr>
           <td>Colloquium</td>
