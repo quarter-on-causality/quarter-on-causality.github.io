@@ -100,12 +100,12 @@ acknowledgements: ""
      <ul>
        <li><strong>Contributions of the causal approach: exploration of concrete use cases</strong></li>
           <p>
-            <strong>When</strong>: 📅 January 31st, 2023 <strong>from</strong> 2:00 to 6:00 PM, EST <br />
+            <strong>When</strong>: 📅 February 14th, 2023 <strong>from</strong> 2:00 to 6:00 PM, EST <br />
             <strong>Registration</strong>: <a href="https://shortest.link/bwMx" target="_blank" alt="Click here to register to the workshop: contributions of the causal approach works">https://shortest.link/bwMx</a>
           </p>
         <li><strong>Causal Discovery</strong></li>
         <p>
-           <strong>When</strong>: 📅 February 15th, 2023 <strong>from</strong> 2:00 to 6:00 PM, EST <br />
+           <strong>When</strong>: 📅 March 16th, 2023 <strong>from</strong> 2:00 to 6:00 PM, EST <br />
            <strong>Registration</strong>: <a href="https://shortest.link/bwMx" target="_blank" alt="Click here to register to the causal discovery workshop"></a>
         </p>
      </ul>
