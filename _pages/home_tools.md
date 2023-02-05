@@ -114,8 +114,7 @@ acknowledgements: ""
           </div>
           <div id="jj-bio" class="panel-collapse collapse in"><div class="panel-body">
             <p class="speaker-bio">
-           Julie Josse is  a Senior Researcher at Inria (National research center in digital science) and the head of the Inria-Inserm (National research center in health) team PreMeDICaL (precision medicine by data integration and causal learning). Her main research fields are missing values (EM algorithms, imputation, supervised learning), causal inference (treatment effect estimation, combining RCT and observational data; survival analysis), visualization with dimensionality reduction (PCA, correspondence analysis, questionnaire analyses, multi-blocks data), low rank matrix estimation; with applications mainly in bio-sciences and health
-            </p>
+           Julie Josse is  a Senior Researcher at Inria (National research center in digital science) and the head of the Inria-Inserm (National research center in health) team PreMeDICaL (precision medicine by data integration and causal learning). Her main research fields are missing values (EM algorithms, imputation, supervised learning), causal inference (treatment effect estimation, combining RCT and observational data; survival analysis), visualization with dimensionality reduction (PCA, correspondence analysis, questionnaire analyses, multi-blocks data), low rank matrix estimation; with applications mainly in bio-sciences and health.</p>
           </div></div>
         </div>
       </div>

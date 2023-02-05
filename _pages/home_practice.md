@@ -122,19 +122,125 @@ acknowledgements: ""
   </div>      -->
 </div><br><br>
 
+<!-- ###### -->
 
 <div class="row">
-  <!-- <div class="col-xs-12"><a class="anchor" id="speakers"></a>
-    <h2>Invited Keynote Speakers</h2>
-    <br>
+  <div class="col-xs-12"><a class="anchor" id="speakers"></a>
+    <h2>Invited Speakers</h2>
+    <br/>
+    <br/>    
     <div class="row speaker">
       <div class="col-sm-3 speaker-pic">
-        <a href="https://www.stats.ox.ac.uk/~evans/">
-          <img class="people-pic" src="/challenges/img/people/evans.jpg" />
+        <a href="https://orcid.org/0000-0001-5191-5209" target="_blank">
+          <img class="people-pic" src="img/people/amelo.png" />
         </a>
         <div class="people-name">
-          <a href="https://www.stats.ox.ac.uk/~evans/">Robin Evans</a>
-          <h6>University of Oxford</h6>
+          <a href="https://orcid.org/0000-0001-5191-5209" target="_blank">Alba Cristina Magalhaes Alves de Melo</a>
+          <h6>University of Brasilia</h6>
+        </div>
+      </div>
+      <div class="col-sm-9">
+        <h3>TBD</h3><br />
+        <div class="panel panel-default">
+          <div class="panel-heading" data-toggle="collapse" href="#am-bio" style="cursor:pointer;text-align:center">
+            <b>Biography <span style="font-weight:normal">(click to expand/collapse)</span></b>
+          </div>
+          <div id="am-bio" class="panel-collapse collapse in"><div class="panel-body">
+            <p class="speaker-bio">Alba Cristina de Melo is a Full Professor at the Department of Computer Science at the University of Brasilia (UnB), Brazil. She is also a CNPq Research Fellow level 1D. Her research interests are high-performance computing, Bioinformatics, and cloud computing.</p>
+          </div></div>
+        </div>
+      </div>
+    </div>
+    <br/>
+    <div class="row speaker">
+      <div class="col-sm-3 speaker-pic">
+        <a href="https://juliejosse.com" target="_blank">
+          <img class="people-pic" src="/tools/img/people/jj.png" />
+        </a>
+        <div class="people-name">
+          <a href="https://juliejosse.com" target="_blank">Julie Josse</a>
+          <h6>INRIA</h6>
+        </div>
+      </div>
+      <div class="col-sm-9">
+        <h3>TBD</h3><br />        
+        <div class="panel panel-default">
+          <div class="panel-heading" data-toggle="collapse" href="#jj-bio" style="cursor:pointer;text-align:center">
+            <b>Biography <span style="font-weight:normal">(click to expand/collapse)</span></b>
+          </div>
+          <div id="jj-bio" class="panel-collapse collapse in"><div class="panel-body">
+            <p class="speaker-bio">
+           Julie Josse is  a Senior Researcher at Inria (National research center in digital science) and the head of the Inria-Inserm (National research center in health) team PreMeDICaL (precision medicine by data integration and causal learning). Her main research fields are missing values (EM algorithms, imputation, supervised learning), causal inference (treatment effect estimation, combining RCT and observational data; survival analysis), visualization with dimensionality reduction (PCA, correspondence analysis, questionnaire analyses, multi-blocks data), low rank matrix estimation; with applications mainly in bio-sciences and health.</p>
+          </div></div>
+        </div>
+      </div>
+    </div>
+    <br/>    
+    <div class="row speaker">
+      <div class="col-sm-3 speaker-pic">
+        <a href="https://www.imkemayer.com/" target="_blank">
+          <img class="people-pic" src="img/people/imayer.jpg" />
+        </a>
+        <div class="people-name">
+          <a href="https://www.imkemayer.com" target="_blank">Imke Mayer</a>
+          <h6>Charité – Universitätsmedizin</h6>
+        </div>
+      </div>
+      <div class="col-sm-9">
+        <h3>TBD</h3><br />        
+        <div class="panel panel-default">
+          <div class="panel-heading" data-toggle="collapse" href="#ima-bio" style="cursor:pointer;text-align:center">
+            <b>Biography <span style="font-weight:normal">(click to expand/collapse)</span></b>
+          </div>
+          <div id="ima-bio" class="panel-collapse collapse in"><div class="panel-body">
+            <p class="speaker-bio">
+           Imke Mayer is an associate researcher in the PreMeDICaL team at Inria Sophia Antipolis. In Spring 2022, she spent several weeks at the Simons Institute for the Theory of Computing at UC Berkeley to participate in the Causality research program. In October 2021 she joined the Institute of Public Health at the Charité Universitätsmedizin Berlin, to work on the NeTKoH project with Innovation Fund (Federal Committee on strengthening care provision), and it has the goal to introduce and assess neurological teleconsultations with primary care physicians to enhance access to specialist care in rural areas. </p>
+          </div></div>
+        </div>
+      </div>
+    </div>    
+    <br/>
+    <div class="row speaker">
+      <div class="col-sm-3 speaker-pic">
+        <a href="https://people.bordeaux.inria.fr/melanie.prague" target="_blank">
+          <img class="people-pic" src="img/people/mp.jpeg" />
+        </a>
+        <div class="people-name">
+          <a href="https://people.bordeaux.inria.fr/melanie.prague/" target="_blank">Mélanie Prague</a>
+          <h6>Inria</h6>
+        </div>
+      </div>
+      <div class="col-sm-9">
+        <h3>TBD</h3><br />        
+        <div class="panel panel-default">
+          <div class="panel-heading" data-toggle="collapse" href="#mp-bio" style="cursor:pointer;text-align:center">
+            <b>Biography <span style="font-weight:normal">(click to expand/collapse)</span></b>
+          </div>
+          <div id="mp-bio" class="panel-collapse collapse in"><div class="panel-body">
+            <p class="speaker-bio">Mélanie Prague is a permanent researcher at Inria Bordeaux Sud-Ouest Center, in the team SISTM (Statistics for Immunology and Translational Medicine, common with Inserm in Bordeaux Population Health-U1219 and Université de Bordeaux). She is responsible for the mechanistic modeling research axis of SISTM. He got a PhD in Public Health option Biostatistics at the University of Bordeaux in 2013 on the Monitoring of patients infected with HIV. Before that, She was an engineer in statistics from ENSAI and she got a master degree in mathematical statistics and econometrics. Following her thesis, she conducted a short invited researcher stay at the University of Oslo (Norway), then she was a postdoctoral fellow for 2 years and a half at Harvard School of Public Health (Boston, USA). Her work is devoted to the development and the application of statistical methods for the analysis of health data. She is particularly focused on the application of her methods to infectious diseases such as the Human Immunodeficiency Virus (HIV), Ebola, NIPAH virus and more recently SARS-CoV-2.</p>
+          </div></div>
+        </div>
+      </div>
+    </div>
+    <br/>
+  </div>
+</div>
+
+<!-- ##### -->
+
+
+<!-- <div class="row">
+  <div class="col-xs-12"><a class="anchor" id="speakers"></a>
+    <h2>Invited Keynote Speakers</h2>
+    <br/>
+    <div class="row speaker">
+      <div class="col-sm-3 speaker-pic">
+        <a href="https://www.imkemayer.com" target="_blank">
+          <img class="people-pic" src="img/people/imayer.jpg" />
+        </a>
+        <div class="people-name">
+          <a href="https://www.imkemayer.com" target="_blank">Imke Mayer</a>
+          <h6>Charité – Universitätsmedizin, Inria</h6>
         </div>
       </div>
       <div class="col-sm-9">
@@ -144,18 +250,69 @@ acknowledgements: ""
           <div class="panel-heading" data-toggle="collapse" href="#jr-bio" style="cursor:pointer;text-align:center">
             <b>Biography <span style="font-weight:normal">(click to expand/collapse)</span></b>
           </div>
-          <div id="jr-bio" class="panel-collapse collapse in"><div class="panel-body">
+          <div id="im-bio" class="panel-collapse collapse"><div class="panel-body">
             <p class="speaker-bio">
-Robins Evans is an Associate Professor in Statistics at the University of Oxford, and a fellow of <a href="http://www.jesus.ox.ac.uk/" target="_blank">Jesus College</a>. He received his PhD in Statistics from the University of Washington in 2011, and he was a Postdoctoral Research Fellow at the Statistical Laboratory in Cambridge from 2011 to 2013. His research interests include graphical models, causal inference, latent variable models and algebraic, and semi-parametric statistics.
+Imke Mayer is an associate researcher in the PreMeDICaL team at Inria Sophia Antipolis. In Spring 2022, she spent several weeks at the Simons Institute for the Theory of Computing at UC Berkeley to participate in the Causality research program. In October 2021 she joined the Institute of Public Health at the Charité Universitätsmedizin Berlin, to work on the NeTKoH project with Innovation Fund (Federal Committee on strengthening care provision), and it has the goal to introduce and assess neurological teleconsultations with primary care physicians to enhance access to specialist care in rural areas. 
             </p>
           </div></div>
         </div>
       </div>
-    </div> -->
+    </div>
+    <br/>
+    <div class="row speaker">
+      <div class="col-sm-3 speaker-pic">
+        <a href="https://orcid.org/0000-0001-5191-5209" target="_blank">
+          <img class="people-pic" src="img/people/amelo.png" />
+        </a>
+        <div class="people-name">
+          <a href="https://orcid.org/0000-0001-5191-5209" target="_blank">Alba Cristina Magalhaes Alves de Melo</a>
+          <h6>University of Brasilia</h6>
+        </div>
+      </div>
+      <div class="col-sm-9">
+        <h3>TBD</h3><br />
+        <b>Abstract</b><p class="speaker-abstract">TBD</p>
+        <div class="panel panel-default">
+          <div class="panel-heading" data-toggle="collapse" href="#jr-bio" style="cursor:pointer;text-align:center">
+            <b>Biography <span style="font-weight:normal">(click to expand/collapse)</span></b>
+          </div>
+          <div id="am-bio" class="panel-collapse collapse"><div class="panel-body">
+            <p class="speaker-bio">
+Alba Cristina Magalhaes Alves de Melo is a Full Professor at the Department of Computer Science at the University of Brasilia (UnB), Brazil. She is also a CNPq Research Fellow level 1D. Her research interests are high-performance computing, BioInformatics, and cloud computing.
+            </p>
+          </div></div>
+        </div>
+      </div>
+    </div>
+    <br/>
+    <div class="row speaker">
+      <div class="col-sm-3 speaker-pic">
+        <a href="https://people.bordeaux.inria.fr/melanie.prague/" target="_blank">
+          <img class="people-pic" src="img/people/mp.jpeg" />
+        </a>
+        <div class="people-name">
+          <a href="https://people.bordeaux.inria.fr/melanie.prague" target="_blank">Mélanie Prague</a>
+          <h6>University of Brasilia</h6>
+        </div>
+      </div>
+      <div class="col-sm-9">
+        <h3>TBD</h3><br />
+        <b>Abstract</b><p class="speaker-abstract">TBD</p>
+        <div class="panel panel-default">
+          <div class="panel-heading" data-toggle="collapse" href="#jr-bio" style="cursor:pointer;text-align:center">
+            <b>Biography <span style="font-weight:normal">(click to expand/collapse)</span></b>
+          </div>
+          <div id="am-bio" class="panel-collapse collapse"><div class="panel-body">
+            <p class="speaker-bio">
+Mélanie Prague is a permanent researcher at Inria Bordeaux Sud-Ouest Center, in the team SISTM (Statistics for Immunology and Translational Medicine, common with Inserm in Bordeaux Population Health-U1219 and Université de Bordeaux). She is responsible for the mechanistic modeling research axis of SISTM. He got a PhD in Public Health option Biostatistics at the University of Bordeaux in 2013 on the Monitoring of patients infected with HIV. Before that, She was an engineer in statistics from ENSAI and she got a master degree in mathematical statistics and econometrics. Following her thesis, she conducted a short invited researcher stay at the University of Oslo (Norway), then she was a postdoctoral fellow for 2 years and a half at Harvard School of Public Health (Boston, USA). Her work is devoted to the development and the application of statistical methods for the analysis of health data. She is particularly focused on the application of her methods to infectious diseases such as the Human Immunodeficiency Virus (HIV), Ebola, NIPAH virus and more recently SARS-CoV-2.</p>
+          </div></div>
+        </div>
+      </div>
+    </div>
     <br/>
   </div>
 </div>
-<br>
+<br> -->
 
 <!-- <div class="row" id="programcommittee">
   <div class="col-xs-12">
