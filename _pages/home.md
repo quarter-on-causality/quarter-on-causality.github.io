@@ -62,7 +62,12 @@ acknowledgements: ""
     <h2>Important Dates</h2>
     <br>
     <table class="table table-striped">
-      <tbody>        
+      <tbody>
+       <tr>
+          <td>Research School</td>
+          <td>From March 29th to March 31st, 2023</td>
+	        <td><span class="countdown" reference="29 March 2023 10:00:00 UTC"></span></td>
+        </tr>
         <tr>
           <td>When Causal Inference meets Statistical Analysis</td>
           <td>From April 17th to April 21st, 2023</td>
