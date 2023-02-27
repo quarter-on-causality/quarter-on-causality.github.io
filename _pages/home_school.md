@@ -16,7 +16,7 @@ acknowledgements: ""
   <div class="col-xs-12">
     <center><h1>Research School on Causality</h1></center>
     <center><h2>Paris, France</h2></center>
-    <center><strong>From</strong> March 29th-31st, 2023</center>
+    <center><strong>From</strong> March 29th <strong>to</strong> March 31st, 2023</center>
     <center>Location: <b><a href="" target="_blank"></a></b></center>
   </div>
 </div>

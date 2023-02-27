@@ -17,7 +17,7 @@ acknowledgements: ""
     <center><h1>When Causal Inference meets Statistical Analysis</h1></center>
     <center><h2>Paris, France</h2></center>
     <center><strong>From</strong> April 17th <strong>to</strong> April 21st</center>
-    <center>Location:<b>CNAM</b></center>
+    <center>Location: <b>CNAM</b></center>
   </div>
 </div>
 
