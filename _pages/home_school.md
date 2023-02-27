@@ -23,7 +23,7 @@ acknowledgements: ""
 
 <div class="row" id="intro">
   <div class="col-md-12">    
-    <center><img class="img-fluid" src="{{ "img/La_Tour_Eiffel_vue_de_la_Tour_Saint-Jacques,_Paris_août_2014.jpeg" | prepend:site.baseurl }}" width="100%" height="45%"></center>
+    <center><img class="img-fluid" src="{{ "img/La_Tour_Eiffel_vue_de_la_Tour_Saint-Jacques_Paris_aout_2014.jpeg" | prepend:site.baseurl }}" width="100%" height="45%"></center>
     <small style="float:right;margin-top:1mm;margin-right:5mm;">Image credit to <a href="https://www.flickr.com/people/10288162@N07" target="_blank">Yann Caradec</a></small>
   </div>
 </div>
