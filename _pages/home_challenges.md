@@ -112,7 +112,7 @@ acknowledgements: ""
      <table class="table schedule" style="border:none !important;">
       <thead class="thead-light">
         <tr>
-	        <th>Tuesday 9 May (local time)</th>
+	        <th>Tuesday 9 May</th>
 	        <!-- <th>Item</th> -->
         </tr>
       </thead>
@@ -138,9 +138,8 @@ acknowledgements: ""
           <td>Coktail & Posters</td>
         </tr>
       </tbody>
-      <thead>
 	      <tr>
-	        <th>Wednesday 10 May (local time)</th>
+	        <th>Wednesday 10 May</th>
 	        <!-- <th>Item</th> -->
         </tr>
       </thead>
@@ -151,7 +150,42 @@ acknowledgements: ""
         </tr>
 	      <tr>
           <td>10:30am - 11:00am</td>
-          <td>Coffe break & Posters</td>
+          <td>Coffe break & posters</td>
+        </tr>
+        <tr>
+          <td>11:00am - 12:30am</td>
+          <td>Oral presentations</td>
+        </tr>
+	 <tr>
+          <td>12:30am - 2:00pm</td>
+          <td>Lunch (buffet served on the conference premises)</i></td>
+        </tr>
+	<tr>
+          <td>2:00pm - 3:30pm</td>
+          <td>Keynote by J. Runge</td>
+        </tr>
+	<tr>
+          <td>3:30pm - 4:00pm</td>
+          <td>Coffe break & posters</td>
+        </tr>
+	<tr>
+          <td>4:00pm - 5:30pm</td>
+          <td>Keynote by M. Sebag</td>
+        </tr>
+      </tbody>
+      	      <tr>
+	        <th>Thursday 11 May</th>
+	        <!-- <th>Item</th> -->
+        </tr>
+      </thead>
+      <tbody>
+        <tr>
+          <td>9:00am - 10:30am</td>
+          <td>Keynote by I. Shpitser</td>
+        </tr>
+	<tr>
+          <td>10:30am - 11:00am</td>
+          <td>Coffe break & posters</td>
         </tr>
         <tr>
           <td>11:00am - 12:30am</td>
@@ -162,8 +196,43 @@ acknowledgements: ""
           <td>Lunch (buffet served on the conference premises)</i></td>
         </tr>
 	<tr>
-          <td>6:00pm - 7:30pm</td>
-          <td>Coktail & Posters</td>
+          <td>2:00pm - 3:30pm</td>
+          <td>Keynote by M. van der Schaar</td>
+        </tr>
+	<tr>
+          <td>3:30pm - 4:00pm</td>
+          <td>Coffe break & posters</td>
+        </tr>
+	<tr>
+          <td>4:00pm - 5:30pm</td>
+          <td>Oral presentations</td>
+        </tr>
+      </tbody>
+      	      <tr>
+	        <th>Friday 11 May</th>
+	        <!-- <th>Item</th> -->
+        </tr>
+      </thead>
+      <tbody>
+        <tr>
+          <td>9:00am - 10:30am</td>
+          <td>Keynote by K. Zhang</td>
+        </tr>
+	<tr>
+          <td>10:30am - 10:45am</td>
+          <td>Coffe break & Posters</td>
+        </tr>
+        <tr>
+          <td>10:45am - 11:30am</td>
+          <td>Oral presentations</td>
+        </tr>
+	 <tr>
+          <td>11:30am - 12:00am</td>
+	  <td>Discussion & conclusion</td>
+        </tr> 
+        <tr>
+          <td>12:30am - </td>
+          <td>Lunch (buffet served on the conference premises)</i></td>
         </tr>
       </tbody>
      </table>
