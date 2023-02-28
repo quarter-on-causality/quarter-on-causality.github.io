@@ -117,13 +117,13 @@ acknowledgements: ""
      <table class="table schedule" style="border:none !important;">
       <thead class="thead-light">
         <tr>
-	        <th>Day and time (local time)</th>
-	        <th>Item</th>
+	        <th>Tuesday 9 May (all time are olocal time)</th>
+	        <! -- <th>Item</th> -->
         </tr>
       </thead>
       <tbody>
         <tr>
-          <td>Tuesady 9 May; 2:00am - 2:15am</td>
+          <td>2:00pm - 2:15pm</td>
           <td>Opening Remarks</td>
         </tr>
       </tbody>
