@@ -114,11 +114,11 @@ acknowledgements: ""
      <h2>Schedule (tentative)</h2>
      <br>
      <table class="table schedule" style="border:none !important;">
-      <thead class="thead-light">
+      <!-- <thead class="thead-light"> -->
         <tr>
 	        <th>Tuesday 9 May</th>
         </tr>
-      </thead>
+      <!-- </thead> -->
       <tbody>
         <tr>
           <td>2:00pm - 2:15pm</td>
@@ -144,7 +144,6 @@ acknowledgements: ""
       <thead class="thead-light">
 	<tr>
 	        <th>Wednesday 10 May</th>
-	        <!-- <th>Item</th> -->
         </tr>
       </thead>
       <tbody>
@@ -180,7 +179,6 @@ acknowledgements: ""
       <thead class="thead-light">
       	      <tr>
 	        <th>Thursday 11 May</th>
-	        <!-- <th>Item</th> -->
         </tr>
       </thead>
       <tbody>
@@ -214,9 +212,8 @@ acknowledgements: ""
         </tr>
       </tbody>
       <thead class="thead-light">
-      	      <tr>
-	        <th>Friday 11 May</th>
-	        <!-- <th>Item</th> -->
+      	 <tr>
+	   <th>Friday 11 May</th>
         </tr>
       </thead>
       <tbody>
