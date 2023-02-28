@@ -15,9 +15,9 @@ acknowledgements: ""
 <div class="row">
   <div class="col-xs-12">
     <center><h1>Fundamental Challenges in Causality</h1></center>
-    <center><h2>Grenoble, France</h2></center>
-    <center><strong>From</strong> May 9th <strong>to</strong> May 12th</center>
-    <center><b>Location</b>: <a href="https://batiment.imag.fr/en" target="_blank">IMAG Building</a>, <a href="https://www.openstreetmap.org/#map=19/45.19034/5.76707&layers=N" target="_blank">Direction</a></center>
+    <center><h5>Grenoble Alpes University, Grenoble, France</h5></center>
+    <center><h5><strong>From</strong> May 9th <strong>to</strong> May 12th</h5></center>
+    <center><b>Location</b>:<a href="https://batiment.imag.fr/en" target="_blank">IMAG Building, Grenoble Alpes University  700, avenue centrale 38401 Saint Martin d'Hères</a>, <a href="https://www.openstreetmap.org/#map=19/45.19034/5.76707&layers=N" target="_blank">Direction</a></center>
   </div>
 </div>
 

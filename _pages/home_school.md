@@ -14,39 +14,23 @@ acknowledgements: ""
 
 <div class="row">
   <div class="col-xs-12">
-    <center><h1>Research School on Causality</h1></center>
-    <center><h2>Paris, France</h2></center>
-    <center><strong>From</strong> March 29th <strong>to</strong> March 31st, 2023</center>
-    <center>Location: <b><a href="" target="_blank"></a></b></center>
+    <center><h1>Spring School on Causality</h1></center>
+    <center><h3>Sorbonne Center for Artificial Intelligence (SCAI), Paris, France</h3></center>
+    <center><h3><strong>From</strong> March 29th <strong>to</strong> March 31st, 2023</h3></center>
+    <center><strong>Location: </strong><a href="https://scai.sorbonne-universite.fr" target="_blank">Sorbonne University Pierre and Marie Curie Campus, 4 Place Jussieu, 75005 Paris, France</a></center>
   </div>
 </div>
 
 <div class="row" id="intro">
   <div class="col-md-12">    
-    <center><img class="img-fluid" src="{{ "img/La_Tour_Eiffel_vue_de_la_Tour_Saint-Jacques_Paris_aout_2014.jpeg" | prepend:site.baseurl }}" width="100%" height="45%"></center>
-    <small style="float:right;margin-top:1mm;margin-right:5mm;">Image credit to <a href="https://www.flickr.com/people/10288162@N07" target="_blank">Yann Caradec</a></small>
+    <center><img class="img-fluid" src="{{ "img/01_place_de_la_sorbonne_paris.jpg" | prepend:site.baseurl }}" width="100%" height="45%"></center>
+    <small style="float:right;margin-top:1mm;margin-right:5mm;">Image credit to <a href="https://studyabroad.nd.edu/programs/paris-sorbonne-nouvelle" target="_blank">University of Notre Dame Study Abroad</a></small>
   </div>
 </div>
-
-<div class="row">
-  <div class="col-xs-12"><a class="anchor" id="intro"></a>
-    <!-- <h2>Introduction</h2> -->
-  </div>
-</div>
-<div class="row">
-  <div class="col-xs-12">
-    <p></p>
-    <!-- <ul>
-      <li>A....</li>
-      <li>B..</li>
-    </ul> -->
-  </div>
-</div> <br>
 
 <div class="row">
   <div class="col-xs-12"><a class="anchor" id="schedule"></a>
      <h2>Schedule</h2>
-     <br>     
      <p>To be announced soon</p>
      <!-- <table class="table schedule" style="border:none !important;">
       <thead class="thead-light">
@@ -61,15 +45,15 @@ acknowledgements: ""
           <td>Opening Remarks and Awards</td>
         </tr>
       </tbody>
-     </table>
-  </div>      -->
-</div><br><br>
+     </table>-->
+  </div>
+</div>
 
 <!-- ########## -->
 
 <div class="row">
   <div class="col-xs-12"><a class="anchor" id="speakers"></a>
-    <h2>Invited Speakers</h2>
+    <h2>Speakers</h2>
     <br/>
     <div class="row speaker">
       <div class="col-sm-3 speaker-pic">
@@ -82,8 +66,7 @@ acknowledgements: ""
         </div>
       </div>
       <div class="col-sm-9">
-        <h3><b>Title:</b> TBD</h3><br />
-        <b>Abstract</b><p class="speaker-abstract">TBD</p>
+        <h3><b>Title:</b> TBD</h3><br />        
         <div class="panel panel-default">
           <div class="panel-heading" data-toggle="collapse" href="#ac-bio" style="cursor:pointer;text-align:center">
             <b>Biography <span style="font-weight:normal">(click to expand/collapse)</span></b>
@@ -95,7 +78,7 @@ acknowledgements: ""
           </div></div>
         </div>
       </div>
-    </div>    
+    </div>
     <br/>
     <div class="row speaker">
       <div class="col-sm-3 speaker-pic">
@@ -142,7 +125,22 @@ acknowledgements: ""
           </div></div>
         </div>
       </div>
-    </div>    
+    </div>
+  </div>
+</div>
+
+<div class="row">
+  <div class="col-xs-12"><a class="anchor" id="registration"></a>
+  <h2>Registration</h2>
+  <p>The <b>Spring School on Causality</b> will be held at the <a href="https://scai.sorbonne-universite.fr" target="_blank">Sorbonne Center for Artificial Intelligence (SCAI)</a>, <b>Paris</b>, <b>France</b> on <b>March 29-21, 2023</b>.</p>
+  <p>Please register for the Spring School on Causality <a href="https://forms.gle/GGf12kqDyVDy5u9p7" target="_blank">here</a>. Please let us know if you need letters for visa application.</p>
+  </div>
+</div>
+
+<div class="row">
+  <div class="col-xs-12"><a class="anchor" id="CodeOfConduct"></a>
+  <h2>Code of Conduct</h2>
+  <p>Our Spring School on Causality is dedicated to providing a harassment-free experience for everyone, regardless of gender, gender identity and expression, age, sexual orientation, disability, physical appearance, body size, race, ethnicity, religion (or lack thereof), or technology choices. We do not tolerate harassment of participants in any form. Sexual language and imagery is not appropriate for any venue, including talks, workshops, parties, Twitter and other online media. Participants violating these rules may be sanctioned or expelled from the event at the discretion of the conference organizers. If you have any concerns about possible violation of the policies, please contact the organizers (organizers.quarter.causality@gmail.com) as soon as possible.</p>
   </div>
 </div>
 

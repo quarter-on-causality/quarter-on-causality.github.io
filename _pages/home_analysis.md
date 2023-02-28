@@ -15,9 +15,9 @@ acknowledgements: ""
 <div class="row">
   <div class="col-xs-12">
     <center><h1>When Causal Inference meets Statistical Analysis</h1></center>
-    <center><h2>Paris, France</h2></center>
-    <center><strong>From</strong> April 17th <strong>to</strong> April 21st</center>
-    <center>Location: <b>CNAM</b></center>
+    <center><h5>National Conservatory of Arts and Crafts, Paris, France</h5></center>
+    <center><h5><strong>From</strong> April 17th <strong>to</strong> April 21st</h5></center>
+    <center><h5><b>Location: </b><a href="https://www.cnam.fr" target="_blank">292 Rue Saint-Martin, 75003 Paris, France</a></h5></center>
   </div>
 </div>
 

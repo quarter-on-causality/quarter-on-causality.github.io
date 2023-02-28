@@ -61,15 +61,14 @@ acknowledgements: ""
           <td>Opening Remarks and Awards</td>
         </tr>
       </tbody>
-     </table>
-  </div>      -->
-</div><br><br>
-
+     </table>-->
+  </div>      
+</div>
 <!-- ########## -->
 
 <div class="row">
   <div class="col-xs-12"><a class="anchor" id="speakers"></a>
-    <h2>Invited Speakers</h2>
+    <h2>Speakers</h2>
     <br/>
     <div class="row speaker">
       <div class="col-sm-3 speaker-pic">
