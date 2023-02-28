@@ -113,13 +113,13 @@ acknowledgements: ""
       <thead class="thead-light">
         <tr>
 	        <th>Tuesday 9 May (local time)</th>
-	        <th>Activity</th>
+	        <!-- <th>Item</th> -->
         </tr>
       </thead>
       <tbody>
         <tr>
           <td>2:00pm - 2:15pm</td>
-          <td>Opening Remarks</td>
+          <td>Opening remarks</td>
         </tr>
 	      <tr>
           <td>2:15pm - 3:45pm</td>
@@ -131,17 +131,17 @@ acknowledgements: ""
         </tr>
 	      <tr>
           <td>4:15pm - 5:45pm</td>
-          <td>Round Table on <i>Causality: what does it mean?</i></td>
+          <td>Round table on <i>Causality: what does it mean?</i></td>
         </tr>
 	      <tr>
           <td>6:00pm - 7:30pm</td>
-          <td>Cocktail & Posters</td>
+          <td>Coktail & Posters</td>
         </tr>
       </tbody>
       <thead>
 	      <tr>
 	        <th>Wednesday 10 May (local time)</th>
-	        <th></th>
+	        <!-- <th>Item</th> -->
         </tr>
       </thead>
       <tbody>
@@ -151,19 +151,19 @@ acknowledgements: ""
         </tr>
 	      <tr>
           <td>10:30am - 11:00am</td>
-          <td>Coffee break & Posters</td>
+          <td>Coffe break & Posters</td>
         </tr>
         <tr>
           <td>11:00am - 12:30am</td>
-          <td>Presentations</td>
+		<td>Round table on <i>What's the place of causality in ML?</i></td>
         </tr>
 	      <tr>
           <td>12:30am - 2:00pm</td>
           <td>Lunch (buffet served on the conference premises)</i></td>
         </tr>
-	      <tr>
+	<tr>
           <td>6:00pm - 7:30pm</td>
-          <td>Cocktail & Posters</td>
+          <td>Coktail & Posters</td>
         </tr>
       </tbody>
      </table>
