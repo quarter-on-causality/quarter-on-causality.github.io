@@ -117,7 +117,6 @@ acknowledgements: ""
       <thead class="thead-light">
         <tr>
 	        <th>Tuesday 9 May</th>
-	        <!-- <th>Item</th> -->
         </tr>
       </thead>
       <tbody>
@@ -142,7 +141,8 @@ acknowledgements: ""
           <td>Coktail & posters</td>
         </tr>
       </tbody>
-	      <tr>
+      <thead class="thead-light">
+	<tr>
 	        <th>Wednesday 10 May</th>
 	        <!-- <th>Item</th> -->
         </tr>
@@ -177,6 +177,7 @@ acknowledgements: ""
           <td>Keynote by M. Sebag</td>
         </tr>
       </tbody>
+      <thead class="thead-light">
       	      <tr>
 	        <th>Thursday 11 May</th>
 	        <!-- <th>Item</th> -->
@@ -212,6 +213,7 @@ acknowledgements: ""
           <td>Oral presentations</td>
         </tr>
       </tbody>
+      <thead class="thead-light">
       	      <tr>
 	        <th>Friday 11 May</th>
 	        <!-- <th>Item</th> -->
