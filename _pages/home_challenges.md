@@ -114,11 +114,11 @@ acknowledgements: ""
      <h2>Schedule (tentative)</h2>
      <br>
      <table class="table schedule" style="border:none !important;">
-      <!-- <thead class="thead-light"> -->
+      <thead class="thead-light">
         <tr>
 	        <th>Tuesday 9 May</th>
         </tr>
-      <!-- </thead> -->
+      </thead>
       <tbody>
         <tr>
           <td>2:00pm - 2:15pm</td>
