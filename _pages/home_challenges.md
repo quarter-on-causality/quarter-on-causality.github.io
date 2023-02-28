@@ -134,7 +134,7 @@ acknowledgements: ""
         </tr>
 	 <tr>
           <td>4:15pm - 5:45pm</td>
-          <td>Round table on <i>Causality: what does it mean?</i></td>
+          <td>Round table: <i>Causality: what does it mean?</i> </td>
         </tr>
 	<tr>
           <td>6:00pm - 7:30pm</td>
