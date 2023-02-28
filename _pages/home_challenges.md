@@ -72,11 +72,7 @@ acknowledgements: ""
       
       Authors should submit their papers via EasyChair <a href="https://easychair.org/conferences/?conf=funcausal2023" target="_blank">https://easychair.org/conferences/?conf=funcausal2023</a>.</p> 
       <p>
-      Note that authors are encouraged to adhere to the best practices of Reproducible Research (RR), by making available data and software tools for reproducing the results reported in their papers. For the sake of persistence and proper authorship attribution, we require the use of standard repository hosting services such as dataverse, mldata, openml, etc., for data sets, and mloss, Bitbucket, GitHub, etc. for source code. Authors who submit their work to the colloquium commit themselves to presenting their paper at the colloquium if it is accepted.	    
-	  </p>
-	  <!-- <p>
-	    Accepted papers will be published in the official
-	  </p> -->
+      Note that authors are encouraged to adhere to the best practices of Reproducible Research (RR), by making available data and software tools for reproducing the results reported in their papers. For the sake of persistence and proper authorship attribution, we require the use of standard repository hosting services such as dataverse, mldata, openml, etc., for data sets, and mloss, Bitbucket, GitHub, etc. for source code. Authors who submit their work to the colloquium commit themselves to presenting their paper at the colloquium if it is accepted.</p>	  
         </div>
       </div>
     </div>
@@ -117,7 +113,7 @@ acknowledgements: ""
       <thead class="thead-light">
         <tr>
 	        <th>Tuesday 9 May (local time)</th>
-	        <!-- <th>Item</th> -->
+	        <th>Activity</th>
         </tr>
       </thead>
       <tbody>
@@ -125,26 +121,27 @@ acknowledgements: ""
           <td>2:00pm - 2:15pm</td>
           <td>Opening Remarks</td>
         </tr>
-	<tr>
+	      <tr>
           <td>2:15pm - 3:45pm</td>
           <td>Keynote by R. Evans</td>
         </tr>
         <tr>
           <td>3:45pm - 4:15pm</td>
-          <td>Coffe break</td>
+          <td>Coffee break</td>
         </tr>
-	 <tr>
+	      <tr>
           <td>4:15pm - 5:45pm</td>
           <td>Round Table on <i>Causality: what does it mean?</i></td>
         </tr>
-	<tr>
+	      <tr>
           <td>6:00pm - 7:30pm</td>
-          <td>Coktail & Posters</td>
+          <td>Cocktail & Posters</td>
         </tr>
       </tbody>
+      <thead>
 	      <tr>
 	        <th>Wednesday 10 May (local time)</th>
-	        <!-- <th>Item</th> -->
+	        <th></th>
         </tr>
       </thead>
       <tbody>
@@ -152,21 +149,21 @@ acknowledgements: ""
           <td>9:00am - 10:30am</td>
           <td>Keynote by H. Isambert</td>
         </tr>
-	<tr>
+	      <tr>
           <td>10:30am - 11:00am</td>
-          <td>Coffe break & Posters</td>
+          <td>Coffee break & Posters</td>
         </tr>
         <tr>
           <td>11:00am - 12:30am</td>
           <td>Presentations</td>
         </tr>
-	 <tr>
+	      <tr>
           <td>12:30am - 2:00pm</td>
           <td>Lunch (buffet served on the conference premises)</i></td>
         </tr>
-	<tr>
+	      <tr>
           <td>6:00pm - 7:30pm</td>
-          <td>Coktail & Posters</td>
+          <td>Cocktail & Posters</td>
         </tr>
       </tbody>
      </table>
@@ -402,9 +399,12 @@ Robins Evans is an Associate Professor in Statistics at the University of Oxford
 	        <a class="btn btn-default" target="_blank" href="https://arxiv.org/"><i class="fas fa-archive"></i> arXiv</a>
           <a class="btn btn-default" target="_blank" href="https://github.com/"><i class="fas fa-code"></i> Code</a>
         </div> -->
-    </div>
-    <br>
-    <a class="anchor" id="invited-posters"></a>
+    <!-- </div> -->
+  </div>
+  </div>
+  <br>
+  <div class="row">    
+    <div class="col-xs-12"><a class="anchor" id="posters"></a>
     <h2>Invited Posters</h2>
     <p>To be announced soon</p>
     <!-- <div class="paper">
@@ -417,8 +417,9 @@ Robins Evans is an Associate Professor in Statistics at the University of Oxford
         </div>
     </div>
   </div>-->
+ </div>
 </div>
-<br>
+<br/>
 
 <!-- <div class="row" id="programcommittee">
   <div class="col-xs-12">
@@ -446,6 +447,13 @@ Robins Evans is an Associate Professor in Statistics at the University of Oxford
   </div>
 </div>
 <br> -->
+
+<div class="row">
+  <div class="col-xs-12"><a class="anchor" id="CodeOfConduct"></a>
+  <h2>Code of Conduct</h2>
+  <p>Our Fundamental Challenges in Causality is dedicated to providing a harassment-free experience for everyone, regardless of gender, gender identity and expression, age, sexual orientation, disability, physical appearance, body size, race, ethnicity, religion (or lack thereof), or technology choices. We do not tolerate harassment of participants in any form. Sexual language and imagery is not appropriate for any venue, including talks, workshops, parties, Twitter and other online media. Participants violating these rules may be sanctioned or expelled from the event at the discretion of the conference organizers. If you have any concerns about possible violation of the policies, please contact the organizers (organizers.quarter.causality@gmail.com) as soon as possible.</p>
+  </div>
+</div>
 
 <div class="row">
   <div class="col-xs-12"><a class="anchor" id="organizers"></a>

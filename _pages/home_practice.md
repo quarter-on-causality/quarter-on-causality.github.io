@@ -342,6 +342,14 @@ Mélanie Prague is a permanent researcher at Inria Bordeaux Sud-Ouest Center, in
 <br> -->
 
 <div class="row">
+  <div class="col-xs-12"><a class="anchor" id="CodeOfConduct"></a>
+  <h2>Code of Conduct</h2>
+  <p>Our Causality in Practice is dedicated to providing a harassment-free experience for everyone, regardless of gender, gender identity and expression, age, sexual orientation, disability, physical appearance, body size, race, ethnicity, religion (or lack thereof), or technology choices. We do not tolerate harassment of participants in any form. Sexual language and imagery is not appropriate for any venue, including talks, workshops, parties, Twitter and other online media. Participants violating these rules may be sanctioned or expelled from the event at the discretion of the conference organizers. If you have any concerns about possible violation of the policies, please contact the organizers (organizers.quarter.causality@gmail.com) as soon as possible.</p>
+  </div>
+</div>
+
+
+<div class="row">
   <div class="col-xs-12"><a class="anchor" id="organizers"></a>
     <h2>Organizers</h2>
   </div>
