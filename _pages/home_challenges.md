@@ -111,23 +111,65 @@ acknowledgements: ""
 
 <div class="row">
   <div class="col-xs-12"><a class="anchor" id="schedule"></a>
-     <h2>Schedule</h2>
+     <h2>Schedule (tentative)</h2>
      <br>
-     <p>To be announced soon</p>
-     <!-- <table class="table schedule" style="border:none !important;">
+     <table class="table schedule" style="border:none !important;">
       <thead class="thead-light">
         <tr>
-	        <th>Time in UTC</th>
-	        <th>Item</th>
+	        <th>Tuesday 9 May (local time)</th>
+	        <!-- <th>Item</th> -->
         </tr>
       </thead>
       <tbody>
         <tr>
-          <td>9:00am - 9:15am</td>
-          <td>Opening Remarks and Awards</td>
+          <td>2:00pm - 2:15pm</td>
+          <td>Opening Remarks</td>
+        </tr>
+	<tr>
+          <td>2:15pm - 3:45pm</td>
+          <td>Keynote by R. Evans</td>
+        </tr>
+        <tr>
+          <td>3:45pm - 4:15pm</td>
+          <td>Coffe break</td>
+        </tr>
+	 <tr>
+          <td>4:15pm - 5:45pm</td>
+          <td>Round Table on <i>Causality: what does it mean?</i></td>
+        </tr>
+	<tr>
+          <td>6:00pm - 7:30pm</td>
+          <td>Coktail & Posters</td>
         </tr>
       </tbody>
-     </table> -->
+	      <tr>
+	        <th>Wednesday 10 May (local time)</th>
+	        <!-- <th>Item</th> -->
+        </tr>
+      </thead>
+      <tbody>
+        <tr>
+          <td>9:00am - 10:30am</td>
+          <td>Keynote by H. Isambert</td>
+        </tr>
+	<tr>
+          <td>10:30am - 11:00am</td>
+          <td>Coffe break & Posters</td>
+        </tr>
+        <tr>
+          <td>11:00am - 12:30am</td>
+          <td>Presentations</td>
+        </tr>
+	 <tr>
+          <td>12:30am - 2:00pm</td>
+          <td>Lunch (buffet served on the conference premises)</i></td>
+        </tr>
+	<tr>
+          <td>6:00pm - 7:30pm</td>
+          <td>Coktail & Posters</td>
+        </tr>
+      </tbody>
+     </table>
   </div>
 </div><br><br>
 
