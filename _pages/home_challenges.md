@@ -141,7 +141,7 @@ acknowledgements: ""
       <thead class="thead-light">
 	      <tr>
 	        <th>Wednesday 10 May</th>
-	        <th></th>
+	        <!-- <th>Item</th> -->
         </tr>
       </thead>
       <tbody>
@@ -177,7 +177,7 @@ acknowledgements: ""
       <thead class="thead-light">
       	<tr>
 	        <th>Thursday 11 May</th>
-	        <th></th>
+	        <!-- <th>Item</th> -->
         </tr>
       </thead>
       <tbody>
@@ -211,9 +211,9 @@ acknowledgements: ""
         </tr>
       </tbody>
       <thead class="thead-light">
-      	<tr>
+      	      <tr>
 	        <th>Friday 11 May</th>
-	        <th></th>
+	        <!-- <th>Item</th> -->
         </tr>
       </thead>
       <tbody>
