@@ -238,7 +238,7 @@ acknowledgements: ""
 	        <td>Discussion & conclusion</td>
         </tr> 
         <tr>
-          <td>12:30am - </td>
+          <td>12:30am - 2:00pm</td>
           <td>Lunch <i>(buffet served on the conference premises)</i></td>
         </tr>
       </tbody>
