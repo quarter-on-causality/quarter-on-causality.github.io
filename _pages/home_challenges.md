@@ -220,7 +220,7 @@ acknowledgements: ""
       <tbody>
         <tr>
           <td>9:00am - 10:30am</td>
-          <td>Keynote by K. Zang</td>
+          <td>Keynote by K. Zhang</td>
         </tr>
 	<tr>
           <td>10:30am - 10:45am</td>
