@@ -111,23 +111,23 @@ acknowledgements: ""
 
 <div class="row">
   <div class="col-xs-12"><a class="anchor" id="schedule"></a>
-     <h2>Schedule</h2>
+     <h2>Schedule (tentative)</h2>
      <br>
      <p>To be announced soon</p>
-     <!-- <table class="table schedule" style="border:none !important;">
+     <table class="table schedule" style="border:none !important;">
       <thead class="thead-light">
         <tr>
-	        <th>Time in UTC</th>
+	        <th>Day and time (local time)</th>
 	        <th>Item</th>
         </tr>
       </thead>
       <tbody>
         <tr>
-          <td>9:00am - 9:15am</td>
-          <td>Opening Remarks and Awards</td>
+          <td>Tuesady 9 May; 2:00am - 2:15am</td>
+          <td>Opening Remarks</td>
         </tr>
       </tbody>
-     </table> -->
+     </table>
   </div>
 </div><br><br>
 
