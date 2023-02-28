@@ -195,7 +195,7 @@ acknowledgements: ""
         </tr>
 	      <tr>
           <td>12:30am - 2:00pm</td>
-          <td>Lunch (buffet served on the conference premises)</i></td>
+          <td>Lunch <i>(buffet served on the conference premises)</i></td>
         </tr>
 	      <tr>
           <td>2:00pm - 3:30pm</td>
@@ -209,15 +209,15 @@ acknowledgements: ""
           <td>4:00pm - 5:30pm</td>
           <td>Oral presentations</td>
         </tr>
-	<tr>
+	      <tr>
           <td>7:30pm - 10:30pm</td>
           <td>Dinner</td>
         </tr>
       </tbody>
       <thead class="thead-light">
-      	      <tr>
+      	<tr>
 	        <th>Friday 11 May</th>
-	        <!-- <th>Item</th> -->
+	        <th></th>
         </tr>
       </thead>
       <tbody>
@@ -239,7 +239,7 @@ acknowledgements: ""
         </tr> 
         <tr>
           <td>12:30am - </td>
-          <td>Lunch (buffet served on the conference premises)</i></td>
+          <td>Lunch <i>(buffet served on the conference premises)</i></td>
         </tr>
       </tbody>
      </table>
@@ -262,7 +262,7 @@ acknowledgements: ""
         </div>
       </div>
       <div class="col-sm-9">
-	<h3><b>Title:</b> TBD</h3><br />
+	  <h3><b>Title:</b> TBD</h3><br />
         <b>Abstract</b><p class="speaker-abstract">TBD</p>
         <div class="panel panel-default">
           <div class="panel-heading" data-toggle="collapse" href="#re-bio" style="cursor:pointer;text-align:center">
