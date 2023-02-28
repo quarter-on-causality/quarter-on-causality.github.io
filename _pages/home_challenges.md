@@ -465,7 +465,7 @@ Robins Evans is an Associate Professor in Statistics at the University of Oxford
 
 <div class="row">
   <div class="col-xs-12"><a class="anchor" id="accepted-papers"></a>
-    <h2>Accepted Full Papers</h2>
+    <h2>Accepted presentations</h2>
     <p>To be announced soon</p>
     <!-- <div class="paper">
         <span class="title">Title</span>
@@ -478,24 +478,6 @@ Robins Evans is an Associate Professor in Statistics at the University of Oxford
     <!-- </div> -->
   </div>
   </div>
-  <br>
-  <div class="row">    
-    <div class="col-xs-12"><a class="anchor" id="posters"></a>
-    <h2>Invited Posters</h2>
-    <p>To be announced soon</p>
-    <!-- <div class="paper">
-        <span class="title">Title</span>
-        <span class="authors">Authors</span>
-        <div class="btn-group btn-group-xs" role="group">          
-          <button class="btn btn-poster-id">Poster #1</button>
-	        <a class="btn btn-default" target="_blank" href="https://arxiv.org/"><i class="fas fa-archive"></i> arXiv</a>
-          <a class="btn btn-default" target="_blank" href="https://github.com/"><i class="fas fa-code"></i> Code</a>
-        </div>
-    </div>
-  </div>-->
- </div>
-</div>
-<br/>
 
 <!-- <div class="row" id="programcommittee">
   <div class="col-xs-12">
