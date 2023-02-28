@@ -131,7 +131,7 @@ acknowledgements: ""
         </tr>
 	      <tr>
           <td>4:15pm - 5:45pm</td>
-          <td>Round table on <i>Causality: what does it mean?</i></td>
+          <td>Round table: <i>Causality: what does it mean?</i> </td>
         </tr>
 	      <tr>
           <td>6:00pm - 7:30pm</td>
@@ -209,6 +209,10 @@ acknowledgements: ""
           <td>4:00pm - 5:30pm</td>
           <td>Oral presentations</td>
         </tr>
+	<tr>
+          <td>7:30pm - 10:30pm</td>
+          <td>Dinner</td>
+        </tr>
       </tbody>
       <thead class="thead-light">
       	      <tr>
@@ -235,7 +239,7 @@ acknowledgements: ""
         </tr> 
         <tr>
           <td>12:30am - </td>
-          <td>Lunch <i>(buffet served on the conference premises)</i></td>
+          <td>Lunch (buffet served on the conference premises)</i></td>
         </tr>
       </tbody>
      </table>
