@@ -191,7 +191,7 @@ acknowledgements: ""
         </tr>
         <tr>
           <td>11:00am - 12:30am</td>
-		      <td>Round table on <i>What's the place of causality in ML?</i></td>
+		      <td>Round table: <i>What's the place of causality in ML?</i></td>
         </tr>
 	      <tr>
           <td>12:30am - 2:00pm</td>
