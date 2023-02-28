@@ -107,6 +107,14 @@ acknowledgements: ""
 
 <div class="row">
   <div class="col-xs-12"><a class="anchor" id="schedule"></a>
+     <h2>Registration</h2>
+     <br>
+     Participation is free of charge but registration is mandatory. Please register <a href="[url](https://causality.sciencesconf.org/registration?forward-action=index&forward-controller=registration&lang=en)">here</a>before Friday 28 of April (12:00pm AOE).
+     </br>
+  </div>
+</div>
+<div class="row">
+  <div class="col-xs-12"><a class="anchor" id="schedule"></a>
      <h2>Schedule (tentative)</h2>
      <br>
      <table class="table schedule" style="border:none !important;">
