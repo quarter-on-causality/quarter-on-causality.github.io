@@ -210,6 +210,10 @@ acknowledgements: ""
           <td>4:00pm - 5:30pm</td>
           <td>Oral presentations</td>
         </tr>
+	<tr>
+          <td>7:30pm - 10:30pm</td>
+          <td>Dinner</td>
+        </tr>
       </tbody>
       <thead class="thead-light">
       	 <tr>
@@ -234,7 +238,7 @@ acknowledgements: ""
 	  <td>Discussion & conclusion</td>
         </tr> 
         <tr>
-          <td>12:30am - </td>
+          <td>12:30am - 2:00pm</td>
           <td>Lunch (buffet served on the conference premises)</i></td>
         </tr>
       </tbody>
