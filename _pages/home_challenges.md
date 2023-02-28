@@ -113,18 +113,33 @@ acknowledgements: ""
   <div class="col-xs-12"><a class="anchor" id="schedule"></a>
      <h2>Schedule (tentative)</h2>
      <br>
-     <p>To be announced soon</p>
      <table class="table schedule" style="border:none !important;">
       <thead class="thead-light">
         <tr>
-	        <th>Tuesday 9 May (all time are olocal time)</th>
-	        <! -- <th>Item</th> -->
+	        <th>Tuesday 9 May (local time)</th>
+	        <!-- <th>Item</th> -->
         </tr>
       </thead>
       <tbody>
         <tr>
           <td>2:00pm - 2:15pm</td>
           <td>Opening Remarks</td>
+        </tr>
+	<tr>
+          <td>2:15pm - 3:45pm</td>
+          <td>Keynote 1 by R. Evans</td>
+        </tr>
+        <tr>
+          <td>3:45pm - 4:15pm</td>
+          <td>Coffe break</td>
+        </tr>
+	 <tr>
+          <td>4:15pm - 5:45pm</td>
+          <td>Round Table on <i>Causality: what does it mean?</i></td>
+        </tr>
+	<tr>
+          <td>6:00pm - 7:30pm</td>
+          <td>Coktail & Posters</td>
         </tr>
       </tbody>
      </table>
