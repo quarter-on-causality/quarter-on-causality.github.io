@@ -116,7 +116,7 @@ acknowledgements: ""
      <table class="table schedule" style="border:none !important;">
       <thead class="thead-light">
         <tr>
-	        <th>Tuesday 9 May (local time)</th>
+	        <th>Tuesday 9 May</th>
 	        <!-- <th>Item</th> -->
         </tr>
       </thead>
@@ -237,18 +237,6 @@ acknowledgements: ""
         <tr>
           <td>12:30am - </td>
           <td>Lunch (buffet served on the conference premises)</i></td>
-        </tr>
-	<tr>
-          <td>2:00pm - 3:30pm</td>
-          <td>Keynote by J. Runge</td>
-        </tr>
-	<tr>
-          <td>3:30pm - 4:00pm</td>
-          <td>Coffe break & Posters</td>
-        </tr>
-	<tr>
-          <td>4:00pm - 5:30pm</td>
-          <td>Keynote by M. Sebag</td>
         </tr>
       </tbody>
      </table>
