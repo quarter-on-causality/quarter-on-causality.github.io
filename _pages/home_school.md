@@ -23,8 +23,8 @@ acknowledgements: ""
 
 <div class="row" id="intro">
   <div class="col-md-12">    
-    <center><img class="img-fluid" src="{{ "img/01_place_de_la_sorbonne_paris.jpg" | prepend:site.baseurl }}" width="100%" height="45%"></center>
-    <small style="float:right;margin-top:1mm;margin-right:5mm;">Image credit to <a href="https://studyabroad.nd.edu/programs/paris-sorbonne-nouvelle" target="_blank">University of Notre Dame Study Abroad</a></small>
+    <center><img class="img-fluid" src="{{ "img/acces_campus_pierre_et_marie_curie_r.jpg" | prepend:site.baseurl }}" width="100%"></center>
+    <small style="float:right;margin-top:1mm;margin-right:5mm;">Image credit to <a href="https://iees-paris.fr/en/" target="_blank">iEES Paris</a></small>
   </div>
 </div>
 
@@ -73,7 +73,7 @@ acknowledgements: ""
           </div>
           <div id="ac-bio" class="panel-collapse collapse in"><div class="panel-body">
             <p class="speaker-bio">
-            Antoine Chambaz is a Professor at Université Paris Cité, member of the applied mathematics laboratory (MAP5). He is the head of the Statistics group since June 2018, and the director of the FP2M research federation. From 2012 to 2017, he was a member of Modal'X, the stochastic modeling laboratory of Paris Nanterre University. He chaired Modal'X from February 2014 to October 2017. His main research interest is in theoretical, computational and applied statistics.
+            Antoine Chambaz is a Professor at Université Paris Cité, member of the applied mathematics laboratory (MAP5). He is the head of the Statistics group since June 2018, and the director of the FP2M research federation. His main research interest is in theoretical, computational and applied statistics
             </p>
           </div></div>
         </div>
@@ -138,13 +138,6 @@ acknowledgements: ""
 </div>
 
 <div class="row">
-  <div class="col-xs-12"><a class="anchor" id="CodeOfConduct"></a>
-  <h2>Code of Conduct</h2>
-  <p>Our Spring School on Causality is dedicated to providing a harassment-free experience for everyone, regardless of gender, gender identity and expression, age, sexual orientation, disability, physical appearance, body size, race, ethnicity, religion (or lack thereof), or technology choices. We do not tolerate harassment of participants in any form. Sexual language and imagery is not appropriate for any venue, including talks, workshops, parties, Twitter and other online media. Participants violating these rules may be sanctioned or expelled from the event at the discretion of the conference organizers. If you have any concerns about possible violation of the policies, please contact the organizers (organizers.quarter.causality@gmail.com) as soon as possible.</p>
-  </div>
-</div>
-
-<div class="row">
   <div class="col-xs-12"><a class="anchor" id="organizers"></a>
     <h2>Organizers</h2>
   </div>
@@ -201,5 +194,12 @@ acknowledgements: ""
 <div class="row">
   <div class="col-xs-3 award-sponsor">
      <img src="/quarter/img/support_sponsors.jpg"/>
+  </div>
+</div>
+<br />
+<div class="row">
+  <div class="col-xs-12"><a class="anchor" id="CodeOfConduct"></a>
+  <h2>Code of Conduct</h2>
+  <p>Our Spring School on Causality is dedicated to providing a harassment-free experience for everyone, regardless of gender, gender identity and expression, age, sexual orientation, disability, physical appearance, body size, race, ethnicity, religion (or lack thereof), or technology choices. We do not tolerate harassment of participants in any form. Sexual language and imagery is not appropriate for any venue, including talks, workshops, parties, Twitter and other online media. Participants violating these rules may be sanctioned or expelled from the event at the discretion of the conference organizers. If you have any concerns about possible violation of the policies, please contact the organizers (organizers.quarter.causality@gmail.com) as soon as possible.</p>
   </div>
 </div>
