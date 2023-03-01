@@ -106,6 +106,12 @@ acknowledgements: ""
 </div><br>
 
 <div class="row">
+  <div class="col-xs-12"><a class="anchor" id="registration"></a>
+     <h2>Registration</h2> Participation is free of charge but registration is mandatory. Please register <a href="[url](https://causality.sciencesconf.org/registration?forward-action=index&forward-controller=registration&lang=en)">here</a> before Friday 28 of April (12:00pm AOE).
+  </div>
+</div><br>
+
+<div class="row">
   <div class="col-xs-12"><a class="anchor" id="schedule"></a>
      <h2>Schedule (tentative)</h2>
      <br>
@@ -191,7 +197,7 @@ acknowledgements: ""
         </tr>
         <tr>
           <td>11:00am - 12:30am</td>
-		      <td>Round table on <i>What's the place of causality in ML?</i></td>
+		      <td>Round table: <i>What's the place of causality in ML?</i></td>
         </tr>
 	      <tr>
           <td>12:30am - 2:00pm</td>
@@ -238,7 +244,7 @@ acknowledgements: ""
 	        <td>Discussion & conclusion</td>
         </tr> 
         <tr>
-          <td>12:30am - </td>
+          <td>12:30am - 2:00pm</td>
           <td>Lunch <i>(buffet served on the conference premises)</i></td>
         </tr>
       </tbody>
@@ -465,7 +471,7 @@ Robins Evans is an Associate Professor in Statistics at the University of Oxford
 
 <div class="row">
   <div class="col-xs-12"><a class="anchor" id="accepted-papers"></a>
-    <h2>Accepted Full Papers</h2>
+    <h2>Accepted presentations</h2>
     <p>To be announced soon</p>
     <!-- <div class="paper">
         <span class="title">Title</span>
@@ -478,24 +484,6 @@ Robins Evans is an Associate Professor in Statistics at the University of Oxford
     <!-- </div> -->
   </div>
   </div>
-  <br>
-  <div class="row">    
-    <div class="col-xs-12"><a class="anchor" id="posters"></a>
-    <h2>Invited Posters</h2>
-    <p>To be announced soon</p>
-    <!-- <div class="paper">
-        <span class="title">Title</span>
-        <span class="authors">Authors</span>
-        <div class="btn-group btn-group-xs" role="group">          
-          <button class="btn btn-poster-id">Poster #1</button>
-	        <a class="btn btn-default" target="_blank" href="https://arxiv.org/"><i class="fas fa-archive"></i> arXiv</a>
-          <a class="btn btn-default" target="_blank" href="https://github.com/"><i class="fas fa-code"></i> Code</a>
-        </div>
-    </div>
-  </div>-->
- </div>
-</div>
-<br/>
 
 <!-- <div class="row" id="programcommittee">
   <div class="col-xs-12">
