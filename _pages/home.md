@@ -64,9 +64,9 @@ acknowledgements: ""
     <table class="table table-striped">
       <tbody>
        <tr>
-          <td>Research School</td>
-          <td>From March 29th to March 31st, 2023</td>
-	        <td><span class="countdown" reference="29 March 2023 10:00:00 UTC"></span></td>
+          <td>Spring School on Causality</td>
+          <td>From March 28th to March 31st, 2023</td>
+	        <td><span class="countdown" reference="28 March 2023 08:00:00 UTC"></span></td>
         </tr>
         <tr>
           <td>When Causal Inference meets Statistical Analysis</td>

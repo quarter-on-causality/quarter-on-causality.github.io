@@ -1,7 +1,7 @@
 ---
 layout: layout_school
-urltitle:  "Research School on Causality"
-title: "Research School on Causality"
+urltitle:  "Spring School on Causality"
+title: "Spring School on Causality"
 categories: causality, tools, causal inference
 permalink: /school/
 favicon: /quarter/img/icon.jpg
@@ -16,7 +16,7 @@ acknowledgements: ""
   <div class="col-xs-12">
     <center><h1>Spring School on Causality</h1></center>
     <center><h3>Sorbonne Center for Artificial Intelligence (SCAI), Paris, France</h3></center>
-    <center><h3><strong>From</strong> March 29th <strong>to</strong> March 31st, 2023</h3></center>
+    <center><h3><strong>From</strong> March 28th <strong>to</strong> March 31st, 2023</h3></center>
     <center><strong>Location: </strong><a href="https://scai.sorbonne-universite.fr" target="_blank">Sorbonne University Pierre and Marie Curie Campus, 4 Place Jussieu, 75005 Paris, France</a></center>
   </div>
 </div>
@@ -33,7 +33,7 @@ acknowledgements: ""
 <div class="row">
   <div class="col-xs-12"><a class="anchor" id="registration"></a>
   <h2>Registration</h2>
-  <p>The <b>Spring School on Causality</b> will be held at the <a href="https://scai.sorbonne-universite.fr" target="_blank">Sorbonne Center for Artificial Intelligence (SCAI)</a>, <b>Paris</b>, <b>France</b> on <b>March 29-21, 2023</b>.</p>
+  <p>The <b>Spring School on Causality</b> will be held at the <a href="https://scai.sorbonne-universite.fr" target="_blank">Sorbonne Center for Artificial Intelligence (SCAI)</a>, <b>Paris</b>, <b>France</b> on <b>March 28-31, 2023</b>.</p>
   <p> Participation is free of charge, but registration is mandatory.</p>
   <p> Please register <a href="https://forms.gle/GGf12kqDyVDy5u9p7" target="_blank">here</a> <b>before March 24th AoE</b>. Please let us know if you need letters for visa application.</p>
   </div>
@@ -79,7 +79,7 @@ acknowledgements: ""
         </div>
       </div>
       <div class="col-sm-9">
-        <h3><b>Title:</b> TBD</h3><br />        
+        <!-- <h3><b>Title:</b> TBD</h3><br /> -->
         <div class="panel panel-default">
           <div class="panel-heading" data-toggle="collapse" href="#ac-bio" style="cursor:pointer;text-align:center">
             <b>Biography <span style="font-weight:normal">(click to expand/collapse)</span></b>
