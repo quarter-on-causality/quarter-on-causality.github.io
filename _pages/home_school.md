@@ -73,8 +73,7 @@ acknowledgements: ""
           </div>
           <div id="ac-bio" class="panel-collapse collapse in"><div class="panel-body">
             <p class="speaker-bio">
-            Antoine Chambaz is a Professor at Université Paris Cité, member of the applied mathematics laboratory (MAP5). He is the head of the Statistics group since June 2018, and the director of the FP2M research federation. His main research interest is in theoretical, computational and applied statistics
-            </p>
+            Antoine Chambaz is a Professor at Université Paris Cité, member of the applied mathematics laboratory (MAP5). He is the head of the Statistics group since June 2018, and the director of the FP2M research federation. His main research interest is in theoretical, computational and applied statistics.</p>
           </div></div>
         </div>
       </div>
@@ -129,13 +128,16 @@ acknowledgements: ""
   </div>
 </div>
 
+<br/>
 <div class="row">
   <div class="col-xs-12"><a class="anchor" id="registration"></a>
   <h2>Registration</h2>
   <p>The <b>Spring School on Causality</b> will be held at the <a href="https://scai.sorbonne-universite.fr" target="_blank">Sorbonne Center for Artificial Intelligence (SCAI)</a>, <b>Paris</b>, <b>France</b> on <b>March 29-21, 2023</b>.</p>
-  <p>Please register for the Spring School on Causality <a href="https://forms.gle/GGf12kqDyVDy5u9p7" target="_blank">here</a>. Please let us know if you need letters for visa application.</p>
+  <p> Participation is free of charge, but registration is mandatory. Please register <a href="https://forms.gle/GGf12kqDyVDy5u9p7" target="_blank">here</a> before March 24th AoE. Please let us know if you need letters for visa application.</p>
   </div>
 </div>
+
+<br/>
 
 <div class="row">
   <div class="col-xs-12"><a class="anchor" id="organizers"></a>
