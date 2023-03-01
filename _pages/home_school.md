@@ -28,6 +28,19 @@ acknowledgements: ""
   </div>
 </div>
 
+<br />
+
+<div class="row">
+  <div class="col-xs-12"><a class="anchor" id="registration"></a>
+  <h2>Registration</h2>
+  <p>The <b>Spring School on Causality</b> will be held at the <a href="https://scai.sorbonne-universite.fr" target="_blank">Sorbonne Center for Artificial Intelligence (SCAI)</a>, <b>Paris</b>, <b>France</b> on <b>March 29-21, 2023</b>.</p>
+  <p> Participation is free of charge, but registration is mandatory.</p>
+  <p> Please register <a href="https://forms.gle/GGf12kqDyVDy5u9p7" target="_blank">here</a> <b>before March 24th AoE</b>. Please let us know if you need letters for visa application.</p>
+  </div>
+</div>
+
+<br/>
+
 <div class="row">
   <div class="col-xs-12"><a class="anchor" id="schedule"></a>
      <h2>Schedule</h2>
@@ -125,15 +138,6 @@ acknowledgements: ""
         </div>
       </div>
     </div>
-  </div>
-</div>
-
-<br/>
-<div class="row">
-  <div class="col-xs-12"><a class="anchor" id="registration"></a>
-  <h2>Registration</h2>
-  <p>The <b>Spring School on Causality</b> will be held at the <a href="https://scai.sorbonne-universite.fr" target="_blank">Sorbonne Center for Artificial Intelligence (SCAI)</a>, <b>Paris</b>, <b>France</b> on <b>March 29-21, 2023</b>.</p>
-  <p> Participation is free of charge, but registration is mandatory. Please register <a href="https://forms.gle/GGf12kqDyVDy5u9p7" target="_blank">here</a> before March 24th AoE. Please let us know if you need letters for visa application.</p>
   </div>
 </div>
 
