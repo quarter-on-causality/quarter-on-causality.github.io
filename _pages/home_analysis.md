@@ -265,6 +265,32 @@ This colloquium will several keynote speakers including Antoine Chambaz, Eric Ga
     <br/>
     <div class="row speaker">
       <div class="col-sm-3 speaker-pic">
+        <a href="hhttp://www.dmalinsky.com" target="_blank">
+          <img class="people-pic" src="img/people/malinsky.png" />
+        </a>
+        <div class="people-name">
+          <a href="http://www.dmalinsky.com" target="_blank">Daniel Malinsky</a>
+          <h6>Columbia University</h6>
+        </div>
+      </div>
+      <div class="col-sm-9">
+        <h3><b>Title:</b> TBD</h3><br />
+        <b>Abstract</b><p class="speaker-abstract">TBD</p>
+        <div class="panel panel-default">
+          <div class="panel-heading" data-toggle="collapse" href="#dm-bio" style="cursor:pointer;text-align:center">
+            <b>Biography <span style="font-weight:normal">(click to expand/collapse)</span></b>
+          </div>
+          <div id="dm-bio" class="panel-collapse collapse in"><div class="panel-body">
+            <p class="speaker-bio">
+            Daniel Malinsky is an Assistant Professor of Biostatistics in the Mailman School of Public Health at Columbia University. His research focuses mostly on causal inference: developing statistical methods and machine learning tools to support inference about treatment effects, interventions, and policies. His current research topics include structure learning (a.k.a. causal discovery or causal model selection), semiparametric inference, time series analysis, and missing data. He also works on algorithmic fairness: understanding and counteracting the biases introduced by data science tools deployed in socially-impactful settings. Finally, He has interests in the philosophy of science and the foundations of statistics.
+            </p>
+          </div></div>
+        </div>
+      </div>
+    </div>
+    <br/>
+    <div class="row speaker">
+      <div class="col-sm-3 speaker-pic">
         <a href="http://web.math.ku.dk/~peters/" target="_blank">
           <img class="people-pic" src="/analysis/img/people/JP.jpeg" />
         </a>
