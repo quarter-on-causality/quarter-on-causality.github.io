@@ -226,129 +226,6 @@ acknowledgements: ""
   </div>
 </div>
 
-<!-- ##### -->
-
-
-<!-- <div class="row">
-  <div class="col-xs-12"><a class="anchor" id="speakers"></a>
-    <h2>Invited Keynote Speakers</h2>
-    <br/>
-    <div class="row speaker">
-      <div class="col-sm-3 speaker-pic">
-        <a href="https://www.imkemayer.com" target="_blank">
-          <img class="people-pic" src="img/people/imayer.jpg" />
-        </a>
-        <div class="people-name">
-          <a href="https://www.imkemayer.com" target="_blank">Imke Mayer</a>
-          <h6>Charité – Universitätsmedizin, Inria</h6>
-        </div>
-      </div>
-      <div class="col-sm-9">
-        <h3>TBD</h3><br />
-        <b>Abstract</b><p class="speaker-abstract">TBD</p>
-        <div class="panel panel-default">
-          <div class="panel-heading" data-toggle="collapse" href="#jr-bio" style="cursor:pointer;text-align:center">
-            <b>Biography <span style="font-weight:normal">(click to expand/collapse)</span></b>
-          </div>
-          <div id="im-bio" class="panel-collapse collapse"><div class="panel-body">
-            <p class="speaker-bio">
-Imke Mayer is an associate researcher in the PreMeDICaL team at Inria Sophia Antipolis. In Spring 2022, she spent several weeks at the Simons Institute for the Theory of Computing at UC Berkeley to participate in the Causality research program. In October 2021 she joined the Institute of Public Health at the Charité Universitätsmedizin Berlin, to work on the NeTKoH project with Innovation Fund (Federal Committee on strengthening care provision), and it has the goal to introduce and assess neurological teleconsultations with primary care physicians to enhance access to specialist care in rural areas. 
-            </p>
-          </div></div>
-        </div>
-      </div>
-    </div>
-    <br/>
-    <div class="row speaker">
-      <div class="col-sm-3 speaker-pic">
-        <a href="https://orcid.org/0000-0001-5191-5209" target="_blank">
-          <img class="people-pic" src="img/people/amelo.png" />
-        </a>
-        <div class="people-name">
-          <a href="https://orcid.org/0000-0001-5191-5209" target="_blank">Alba Cristina Magalhaes Alves de Melo</a>
-          <h6>University of Brasilia</h6>
-        </div>
-      </div>
-      <div class="col-sm-9">
-        <h3>TBD</h3><br />
-        <b>Abstract</b><p class="speaker-abstract">TBD</p>
-        <div class="panel panel-default">
-          <div class="panel-heading" data-toggle="collapse" href="#jr-bio" style="cursor:pointer;text-align:center">
-            <b>Biography <span style="font-weight:normal">(click to expand/collapse)</span></b>
-          </div>
-          <div id="am-bio" class="panel-collapse collapse"><div class="panel-body">
-            <p class="speaker-bio">
-Alba Cristina Magalhaes Alves de Melo is a Full Professor at the Department of Computer Science at the University of Brasilia (UnB), Brazil. She is also a CNPq Research Fellow level 1D. Her research interests are high-performance computing, BioInformatics, and cloud computing.
-            </p>
-          </div></div>
-        </div>
-      </div>
-    </div>
-    <br/>
-    <div class="row speaker">
-      <div class="col-sm-3 speaker-pic">
-        <a href="https://people.bordeaux.inria.fr/melanie.prague/" target="_blank">
-          <img class="people-pic" src="img/people/mp.jpeg" />
-        </a>
-        <div class="people-name">
-          <a href="https://people.bordeaux.inria.fr/melanie.prague" target="_blank">Mélanie Prague</a>
-          <h6>University of Brasilia</h6>
-        </div>
-      </div>
-      <div class="col-sm-9">
-        <h3>TBD</h3><br />
-        <b>Abstract</b><p class="speaker-abstract">TBD</p>
-        <div class="panel panel-default">
-          <div class="panel-heading" data-toggle="collapse" href="#jr-bio" style="cursor:pointer;text-align:center">
-            <b>Biography <span style="font-weight:normal">(click to expand/collapse)</span></b>
-          </div>
-          <div id="am-bio" class="panel-collapse collapse"><div class="panel-body">
-            <p class="speaker-bio">
-Mélanie Prague is a permanent researcher at Inria Bordeaux Sud-Ouest Center, in the team SISTM (Statistics for Immunology and Translational Medicine, common with Inserm in Bordeaux Population Health-U1219 and Université de Bordeaux). She is responsible for the mechanistic modeling research axis of SISTM. He got a PhD in Public Health option Biostatistics at the University of Bordeaux in 2013 on the Monitoring of patients infected with HIV. Before that, She was an engineer in statistics from ENSAI and she got a master degree in mathematical statistics and econometrics. Following her thesis, she conducted a short invited researcher stay at the University of Oslo (Norway), then she was a postdoctoral fellow for 2 years and a half at Harvard School of Public Health (Boston, USA). Her work is devoted to the development and the application of statistical methods for the analysis of health data. She is particularly focused on the application of her methods to infectious diseases such as the Human Immunodeficiency Virus (HIV), Ebola, NIPAH virus and more recently SARS-CoV-2.</p>
-          </div></div>
-        </div>
-      </div>
-    </div>
-    <br/>
-  </div>
-</div>
-<br> -->
-
-<!-- <div class="row" id="programcommittee">
-  <div class="col-xs-12">
-    <h2>Program Committee</h2>
-  </div>
-</div>
-<div class="row">
-  <div class="col-xs-3">
-    <div class="people-name"><a target="_blank" href="https://helios2.mi.parisdescartes.fr/~chambaz/index.php?choix=1">Antoine Chambaz</a><h6>Université Paris Cité</h6></div>
-    <div class="people-name"><a target="_blank" href="https://sites.google.com/site/marianneclausel">Marianne Clausel</a><h6>Université of Lorraine University</h6></div>
-    <div class="people-name"><a target="_blank" href="http://ama.liglab.fr/~devijvee">Emilie Devijver</a><h6>CNRS and University of Grenoble Alpes </h6></div>
-    <div class="people-name"><a target="_blank" href="http://ama.liglab.fr/~gaussier/">Eric Gaussier</a><h6>University of Grenoble Alpes</h6></div>
-    <div class="people-name"><a target="_blank" href="https://institut-curie.org/personne/herve-isambert">Hervé Isambert</a><h6>Institut Curie</h6></div>
-    <div class="people-name"><a target="_blank" href="">Alessandro Leite</a><h6>TAU, INRIA, Paris-Saclay University</h6></div>
-    <div class="people-name"><a target="_blank" href="https://sites.google.com/site/codpleray/">Philippe Leray</a><h6>Nantes University</h6></div>
-    <div class="people-name"><a target="_blank" href="#">Georges Oppenheim</a><h6>Paris-Saclay University</h6></div>
-    <div class="people-name"><a target="_blank" href="https://www.lri.fr/~sebag">Michèle Sébag</a><h6>TAU, CNRS, Paris-Saclay University</h6></div>
-    <div class="people-name"><a target="_blank" href="https://www.lip6.fr/Pierre-Henri.Wuillemin">Pierre-Henri Wuillemin</a><h6>Sorbonne University</h6></div>
-  </div>
-  <div class="col-xs-3">        
-  </div>
-  <div class="col-xs-3">    
-  </div>
-  <div class="col-xs-3">    
-  </div>
-</div>
-<br> -->
-
-<div class="row">
-  <div class="col-xs-12"><a class="anchor" id="CodeOfConduct"></a>
-  <h2>Code of Conduct</h2>
-  <p>Our Causality in Practice is dedicated to providing a harassment-free experience for everyone, regardless of gender, gender identity and expression, age, sexual orientation, disability, physical appearance, body size, race, ethnicity, religion (or lack thereof), or technology choices. We do not tolerate harassment of participants in any form. Sexual language and imagery is not appropriate for any venue, including talks, workshops, parties, Twitter and other online media. Participants violating these rules may be sanctioned or expelled from the event at the discretion of the conference organizers. If you have any concerns about possible violation of the policies, please contact the organizers (organizers.quarter.causality@gmail.com) as soon as possible.</p>
-  </div>
-</div>
-
-
 <div class="row">
   <div class="col-xs-12"><a class="anchor" id="organizers"></a>
     <h2>Organizers</h2>
@@ -400,26 +277,29 @@ Mélanie Prague is a permanent researcher at Inria Bordeaux Sud-Ouest Center, in
     <h2>Organized by</h2>
   </div>
 </div>
+
 <div class="row"> 
-<div class="col-xs-4 award-sponsor">
+  <div class="col-xs-4 award-sponsor">
     <img src="/quarter/img/organizers_sponsors.jpg"/>
   </div>  
-  <!-- <div class="col-xs-2 award-sponsor">
-    <img src="/quarter/img/scai.jpg"/>
-  </div>  
-  <div class="col-xs-1 award-sponsor">
-    <img src="/quarter/img/cnrs.png"/>
-  </div>   -->
 </div>
-
+<br/>
 <div class="row">
   <div class="col-xs-12"><a class="anchor" id="support"></a>
     <h2>With additional support from</h2>
   </div>
 </div>
-
+<br/>
 <div class="row">
   <div class="col-xs-3 award-sponsor">
      <img src="/quarter/img/support_sponsors.jpg"/>
+  </div>
+</div>
+
+<br/>
+<div class="row">
+  <div class="col-xs-12"><a class="anchor" id="CodeOfConduct"></a>
+  <h2>Code of Conduct</h2>
+  <p>Our Causality in Practice is dedicated to providing a harassment-free experience for everyone, regardless of gender, gender identity and expression, age, sexual orientation, disability, physical appearance, body size, race, ethnicity, religion (or lack thereof), or technology choices. We do not tolerate harassment of participants in any form. Sexual language and imagery is not appropriate for any venue, including talks, workshops, parties, Twitter and other online media. Participants violating these rules may be sanctioned or expelled from the event at the discretion of the conference organizers. If you have any concerns about possible violation of the policies, please contact the organizers (organizers.quarter.causality@gmail.com) as soon as possible.</p>
   </div>
 </div>

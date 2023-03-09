@@ -197,43 +197,6 @@ acknowledgements: ""
   </div>
 </div>
 
-<!-- ######### -->
-
-<!-- <div class="row" id="programcommittee">
-  <div class="col-xs-12">
-    <h2>Program Committee</h2>
-  </div>
-</div>
-<div class="row">
-  <div class="col-xs-3">
-    <div class="people-name"><a target="_blank" href="https://helios2.mi.parisdescartes.fr/~chambaz/index.php?choix=1">Antoine Chambaz</a><h6>Université Paris Cité</h6></div>
-    <div class="people-name"><a target="_blank" href="https://sites.google.com/site/marianneclausel">Marianne Clausel</a><h6>Université of Lorraine University</h6></div>
-    <div class="people-name"><a target="_blank" href="http://ama.liglab.fr/~devijvee">Emilie Devijver</a><h6>CNRS and University of Grenoble Alpes </h6></div>
-    <div class="people-name"><a target="_blank" href="http://ama.liglab.fr/~gaussier/">Eric Gaussier</a><h6>University of Grenoble Alpes</h6></div>
-    <div class="people-name"><a target="_blank" href="https://institut-curie.org/personne/herve-isambert">Hervé Isambert</a><h6>Institut Curie</h6></div>
-    <div class="people-name"><a target="_blank" href="">Alessandro Leite</a><h6>TAU, INRIA, Paris-Saclay University</h6></div>
-    <div class="people-name"><a target="_blank" href="https://sites.google.com/site/codpleray/">Philippe Leray</a><h6>Nantes University</h6></div>
-    <div class="people-name"><a target="_blank" href="#">Georges Oppenheim</a><h6>Paris-Saclay University</h6></div>
-    <div class="people-name"><a target="_blank" href="https://www.lri.fr/~sebag">Michèle Sébag</a><h6>TAU, CNRS, INRIA, Paris-Saclay University</h6></div>
-    <div class="people-name"><a target="_blank" href="https://www.lip6.fr/Pierre-Henri.Wuillemin">Pierre-Henri Wuillemin</a><h6>Sorbonne University</h6></div>
-  </div>
-  <div class="col-xs-3">        
-  </div>
-  <div class="col-xs-3">    
-  </div>
-  <div class="col-xs-3">    
-  </div>
-</div>
-<br> -->
-
-<div class="row">
-  <div class="col-xs-12"><a class="anchor" id="CodeOfConduct"></a>
-  <h2>Code of Conduct</h2>
-  <p>Tools for Causality is dedicated to providing a harassment-free experience for everyone, regardless of gender, gender identity and expression, age, sexual orientation, disability, physical appearance, body size, race, ethnicity, religion (or lack thereof), or technology choices. We do not tolerate harassment of participants in any form. Sexual language and imagery is not appropriate for any venue, including talks, workshops, parties, Twitter and other online media. Participants violating these rules may be sanctioned or expelled from the event at the discretion of the conference organizers. If you have any concerns about possible violation of the policies, please contact the organizers (organizers.quarter.causality@gmail.com) as soon as possible.</p>
-  </div>
-</div>
-
-
 <div class="row">
   <div class="col-xs-12"><a class="anchor" id="organizers"></a>
     <h2>Organizers</h2>
@@ -286,11 +249,13 @@ acknowledgements: ""
     <h2>Organized by</h2>
   </div>
 </div>
+
 <div class="row"> 
-<div class="col-xs-4 award-sponsor">
+  <div class="col-xs-4 award-sponsor">
     <img src="/quarter/img/organizers_sponsors.jpg"/>
   </div> 
 </div>
+<br/>
 
 <div class="row">
   <div class="col-xs-12"><a class="anchor" id="support"></a>
@@ -301,5 +266,13 @@ acknowledgements: ""
 <div class="row">
   <div class="col-xs-3 award-sponsor">
      <img src="/quarter/img/support_sponsors.jpg"/>
+  </div>
+</div>
+<br/>
+
+<div class="row">
+  <div class="col-xs-12"><a class="anchor" id="CodeOfConduct"></a>
+  <h2>Code of Conduct</h2>
+  <p>Tools for Causality is dedicated to providing a harassment-free experience for everyone, regardless of gender, gender identity and expression, age, sexual orientation, disability, physical appearance, body size, race, ethnicity, religion (or lack thereof), or technology choices. We do not tolerate harassment of participants in any form. Sexual language and imagery is not appropriate for any venue, including talks, workshops, parties, Twitter and other online media. Participants violating these rules may be sanctioned or expelled from the event at the discretion of the conference organizers. If you have any concerns about possible violation of the policies, please contact the organizers (organizers.quarter.causality@gmail.com) as soon as possible.</p>
   </div>
 </div>
