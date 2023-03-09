@@ -111,7 +111,7 @@ acknowledgements: ""
         <li><strong>Causal Discovery</strong></li>
         <p>
            <strong>When</strong>: 📅 March 16th, 2023 <strong>from</strong> 2:00 to 6:00 PM, EST <br />
-           <strong>Registration</strong>: <a href="https://shortest.link/bwMx" target="_blank" alt="Click here to register to the causal discovery workshop"></a>
+           <strong>Registration</strong>: <a href="https://datacraft.paris/event/atelier-causal-discovery-partons-a-la-decouverte-du-graphe-causal/" target="_blank" alt="Click here to register to the causal discovery workshop"></a>
         </p>
      </ul>
   </div>
