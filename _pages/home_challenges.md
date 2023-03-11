@@ -147,7 +147,7 @@ acknowledgements: ""
       <thead class="thead-light">
 	      <tr>
 	        <th>Wednesday 10 May</th>
-	        <!-- <th>Item</th> -->
+	        <th></th>
         </tr>
       </thead>
       <tbody>
@@ -160,11 +160,11 @@ acknowledgements: ""
           <td>Coffee break & posters</td>
         </tr>
         <tr>
-          <td>11:00am - 12:30am</td>
+          <td>11:00am - 12:30pm</td>
           <td>Oral presentations</td>
         </tr>
 	      <tr>
-          <td>12:30am - 2:00pm</td>
+          <td>12:30pm - 2:00pm</td>
           <td>Lunch <i>(buffet served on the conference premises)</i></td>
         </tr>
 	      <tr>
@@ -183,7 +183,7 @@ acknowledgements: ""
       <thead class="thead-light">
       	<tr>
 	        <th>Thursday 11 May</th>
-	        <!-- <th>Item</th> -->
+	        <th></th>
         </tr>
       </thead>
       <tbody>
@@ -196,11 +196,11 @@ acknowledgements: ""
           <td>Coffee break & posters</td>
         </tr>
         <tr>
-          <td>11:00am - 12:30am</td>
+          <td>11:00am - 12:30pm</td>
 		      <td>Round table: <i>What's the place of causality in ML?</i></td>
         </tr>
 	      <tr>
-          <td>12:30am - 2:00pm</td>
+          <td>12:30pm - 2:00pm</td>
           <td>Lunch <i>(buffet served on the conference premises)</i></td>
         </tr>
 	      <tr>
@@ -240,11 +240,11 @@ acknowledgements: ""
           <td>Oral presentations</td>
         </tr>
         <tr>
-          <td>11:30am - 12:00am</td>
+          <td>11:30am - 12:00pm</td>
 	        <td>Discussion & conclusion</td>
         </tr> 
         <tr>
-          <td>12:30am - 2:00pm</td>
+          <td>12:30pm - 2:00pm</td>
           <td>Lunch <i>(buffet served on the conference premises)</i></td>
         </tr>
       </tbody>
@@ -539,11 +539,12 @@ Robins Evans is an Associate Professor in Statistics at the University of Oxford
     <h2>Organized by</h2>
   </div>
 </div>
+
 <div class="row"> 
-<div class="col-xs-4 award-sponsor">
-    <img src="/quarter/img/organizers_sponsors.jpg"/>
-  </div>    
-</div>
+  <div class="col-xs-4 award-sponsor">
+      <img src="/quarter/img/organizers_sponsors.jpg"/>
+    </div>    
+  </div>
 <br />
 
 <div class="row">

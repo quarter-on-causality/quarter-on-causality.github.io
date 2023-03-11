@@ -43,22 +43,76 @@ acknowledgements: ""
 
 <div class="row">
   <div class="col-xs-12"><a class="anchor" id="schedule"></a>
-     <h2>Schedule</h2>
-     <p>To be announced soon</p>
-     <!-- <table class="table schedule" style="border:none !important;">
+     <h2>Schedule (tentative)</h2>
+     <br/>
+
+     <table class="table schedule" style="border:none !important;">
       <thead class="thead-light">
         <tr>
-	        <th>Time in UTC</th>
-	        <th>Item</th>
+	        <th rowspan="3" style="text-align:center"></th>
+          <th>A gentle introduction to causal reasoning</th>
+        </tr>        
+      </thead>
+      <tbody>
+        <tr>
+          <td rowspan="3" style="vertical-align:middle; text-align:center"><b>Tuesday, March 28th</b></td>
+          <td>Potential outcomes and counterfactuals</td>          
+        </tr>
+        <tr>          
+          <td>DAGs (first pass)</td>
+        </tr>
+        <tr>          
+          <td>Hands-on exercises</td>
+        </tr>
+      </tbody>
+      <thead class="thead-light">
+        <tr>
+	        <th rowspan="3" style="text-align:left">&nbsp;</th>
+          <th>Definition, identification of causal quantities</th>
+        </tr>        
+      </thead>
+      <tbody>
+        <tr>
+          <td rowspan="3" style="vertical-align:middle; text-align:center"><b>Wednesday (Morning), March 29th</b></td>
+          <td>DAGs (second pass)</td>          
+        </tr>
+        <tr>          
+          <td>Causal quantities and corresponding statistical parameters</td>
+        </tr>
+        <tr>          
+          <td>A preview about inference (G-formula)</td>
+        </tr>
+      </tbody>
+      <thead class="thead-light">
+        <tr>
+         <th rowspan="3" style="text-align:center"></th>
+         <th>Causal inference for mechanisms</th>
+        </tr>        
+      </thead>
+      <tbody>
+        <tr>
+          <td rowspan="3" style="vertical-align:middle; text-align:center"><b>Wednesday (Afternoon) <br/>and <br/>Thursday, March 30th</b></td>
+          <td>Interaction, effect modification, causal interaction</td>          
+        </tr>
+        <tr>          
+          <td>Mediation</td>
+        </tr>
+        <tr>          
+          <td>Hands-on exercises</td>
+        </tr>
+      </tbody>
+      <thead class="thead-light">
+        <tr>
+          <th style="text-align:center"> Friday, March 31st</th>
+          <th>Elements of targeted learning</th>
         </tr>
       </thead>
       <tbody>
         <tr>
-          <td>9:00am - 9:15am</td>          
-          <td>Opening Remarks and Awards</td>
+          <td rowspan="3" style="vertical-align:middle; text-align:center"><b></b></td>          
         </tr>
-      </tbody>
-     </table>-->
+      </tbody>      
+     </table>
   </div>
 </div>
 
