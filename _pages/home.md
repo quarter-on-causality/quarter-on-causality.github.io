@@ -69,6 +69,11 @@ acknowledgements: ""
 	        <td><span class="countdown" reference="28 March 2023 08:00:00 UTC"></span></td>
         </tr>
         <tr>
+          <td>Opening Session of the Thematic Quarter on Causality</td>
+          <td>From April 11th, 2023</td>
+	        <td><span class="countdown" reference="11 April 2023 08:00:00 UTC"></span></td>
+        </tr>
+        <tr>
           <td>When Causal Inference meets Statistical Analysis</td>
           <td>From April 17th to April 21st, 2023</td>
 	        <td><span class="countdown" reference="17 April 2023 10:00:00 UTC"></span></td>
