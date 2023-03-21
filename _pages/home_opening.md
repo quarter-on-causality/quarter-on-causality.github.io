@@ -51,7 +51,7 @@ acknowledgements: ""
 
 <div class="row">
   <div class="col-xs-12"><a class="anchor" id="schedule"></a>
-     <h2>Schedule (tentative)</h2>
+     <h2>Schedule</h2>
      <br/>     
      <table class="table schedule" style="border:none !important;">
       <thead class="thead-light">
@@ -62,44 +62,48 @@ acknowledgements: ""
       </thead>
       <tbody>
         <tr>
-          <td>9:00 AM - 10:00 AM</td>
-          <td>Registration</td>
+          <td>9:00 AM - 9:30 AM</td>
+          <td>Registration & welcome coffee</td>
         </tr>
         <tr>
-          <td>10:00 AM - 10:30 AM</td>
+          <td>9:30 AM - 9:45 AM</td>
           <td>Welcome</td>
         </tr>
 	      <tr>
-          <td>10:30 AM - 11:30 AM</td>
+          <td>10:00 AM - 11:00 AM</td>
           <td>Keynote by David Blei</td>
         </tr>
         <tr>
-          <td>11:30 AM - 12:30 PM</td>
-          <td>Poster Session</td>
+          <td>11:00 AM - 11:30 PM</td>
+          <td>Coffee break</td>
         </tr>
 	      <tr>
-          <td>12:30 PM - 2:00 PM</td>
-          <td>Lunch (buffet served on the conference premises)</td>
-        </tr>
-	      <tr>
-          <td>2:00 PM - 3:00 PM</td>
+          <td>11:30 PM - 12:30 PM</td>
           <td>Keynote by Jonas Peters</td>
-        </tr>        
-        <tr>
-          <td>3:00 AM - 3:30 PM</td>
-          <td>Poster Session</td>
+        </tr>
+	      <tr>
+          <td>12:30 PM - 1:45 PM</td>
+          <td>Lunch & Poster Session (buffet served on the conference premises)</td>
         </tr>
         <tr>
-          <td>3:30 PM - 4:00 PM</td>
+          <td>1:45 PM - 2:45 PM</td>
+          <td>Keynote by Nataliya Sokolovska</td>
+        </tr>
+        <tr>
+          <td>3:00 PM - 4:00 PM</td>
+          <td>Keynote by Antoine Bertoncello</td>
+        </tr>
+        <tr>
+          <td>4:00 PM - 4:30 PM</td>
           <td>Coffee break</td>
         </tr>
         <tr>
-          <td>4:00 PM - 5:00 PM</td>
-          <td>keynote by Thomas Richardson</td>
+          <td>4:30 PM - 5:15 PM</td>
+          <td>Keynote by Thomas Richardson</td>
         </tr>
         <tr>
-          <td>5:00 PM - 6:00 PM</td>
-          <td>Round-table: <i></i></td>
+          <td>5:15 PM - 6:00 PM</td>
+          <td>Round-table discussion</td>
         </tr>
       </tbody>
      </table>
@@ -109,6 +113,30 @@ acknowledgements: ""
 <div class="row">
   <div class="col-xs-12"><a class="anchor" id="speakers"></a>
     <h2>Keynote Speakers</h2>
+    <br/>
+    <div class="row speaker">
+      <div class="col-sm-3 speaker-pic">
+        <a href="https://www.linkedin.com/in/antoine-bertoncello-a14a574/" target="_blank">
+          <img class="people-pic" src="/opening/img/people/bertoncello.jpeg" />
+        </a>
+        <div class="people-name">
+          <a href="https://www.linkedin.com/in/antoine-bertoncello-a14a574/" target="_blank">Antoine Bertoncello</a>
+          <h6>TotalEnergies</h6>
+        </div>
+      </div>
+      <div class="col-sm-9">
+        <h3><b>Title:</b> TBD</h3><br />
+        <b>Abstract</b><p class="speaker-abstract">TBD</p>
+        <div class="panel panel-default">
+          <div class="panel-heading" data-toggle="collapse" href="#dmb-bio" style="cursor:pointer;text-align:center">
+            <b>Biography <span style="font-weight:normal">(click to expand/collapse)</span></b>
+          </div>
+          <div id="dmb-bio" class="panel-collapse collapse in"><div class="panel-body">
+            <p class="speaker-bio">Antoine Bertoncello is the head of Next Generation AI at TotalEnergies. He holds a doctoral degree from Stanford University and Engineering degree from ENSG-Nancy. At TotalEnergies, his team aims to develop causal discovery and inference methods for renewable energy applications.</p>
+          </div></div>
+        </div>
+      </div>
+    </div>
     <br/>
     <div class="row speaker">
       <div class="col-sm-3 speaker-pic">
@@ -124,14 +152,11 @@ acknowledgements: ""
         <h3><b>Title:</b> TBD</h3><br />
         <b>Abstract</b><p class="speaker-abstract">TBD</p>
         <div class="panel panel-default">
-          <div class="panel-heading" data-toggle="collapse" href="#dmb-bio" style="cursor:pointer;text-align:center">
+          <div class="panel-heading" data-toggle="collapse" href="#ab-bio" style="cursor:pointer;text-align:center">
             <b>Biography <span style="font-weight:normal">(click to expand/collapse)</span></b>
           </div>
-          <div id="dmb-bio" class="panel-collapse collapse in"><div class="panel-body">
-            <p class="speaker-bio">
-            David Blei is a professor of Statistics and Computer Science at Columbia University. 
-            He is also a member of the Columbia Data Science Institute. He works primarily in the fields of machine learning and Bayesian statistics.
-            </p>
+          <div id="ab-bio" class="panel-collapse collapse in"><div class="panel-body">
+            <p class="speaker-bio">David Blei is a professor of Statistics and Computer Science at Columbia University. He is also a member of the Columbia Data Science Institute. He works primarily in the fields of machine learning and Bayesian statistics.</p>
           </div></div>
         </div>
       </div>
@@ -155,14 +180,12 @@ acknowledgements: ""
             <b>Biography <span style="font-weight:normal">(click to expand/collapse)</span></b>
           </div>
           <div id="jp-bio" class="panel-collapse collapse in"><div class="panel-body">
-            <p class="speaker-bio">
-            Jonas Peters is a Professor in statistics at the Department of Mathematical Sciences at the University of Copenhagen. Previously, he has been a group leader at the Max-Planck-Institute for Intelligent Systems in Tuebingen and a Marie Curie fellow at the Seminar for Statistics, ETH Zurich. He studied Mathematics at the University of Heidelberg and the University of Cambridge and obtained his PhD jointly from MPI and ETH. He is interested in inferring causal relationships from different types of data and in building statistical methods that are robust with respect to distributional shifts. In his research, Peters seeks to combine theory, methodology, and applications. His work relates to areas such as computational statistics, causal inference, graphical models, independence testing or high-dimensional statistics.
-            </p>
+            <p class="speaker-bio">Jonas Peters is a Professor in statistics at the Department of Mathematical Sciences at the University of Copenhagen. Previously, he has been a group leader at the Max-Planck-Institute for Intelligent Systems in Tuebingen and a Marie Curie fellow at the Seminar for Statistics, ETH Zurich. He studied Mathematics at the University of Heidelberg and the University of Cambridge and obtained his PhD jointly from MPI and ETH. He is interested in inferring causal relationships from different types of data and in building statistical methods that are robust with respect to distributional shifts. In his research, Peters seeks to combine theory, methodology, and applications. His work relates to areas such as computational statistics, causal inference, graphical models, independence testing or high-dimensional statistics.</p>
           </div></div>
         </div>
       </div>
     </div>
-    <br/>    
+    <br/>
     <div class="row speaker">
       <div class="col-sm-3 speaker-pic">
         <a href="https://sites.stat.washington.edu/tsr/website/inquiry/home.php" target="_blank">
@@ -177,13 +200,36 @@ acknowledgements: ""
         <h3><b>Title:</b> TBD</h3><br />
         <b>Abstract</b><p class="speaker-abstract">TBD</p>
         <div class="panel panel-default">
-          <div class="panel-heading" data-toggle="collapse" href="#er-bio" style="cursor:pointer;text-align:center">
+          <div class="panel-heading" data-toggle="collapse" href="#tr-bio" style="cursor:pointer;text-align:center">
             <b>Biography <span style="font-weight:normal">(click to expand/collapse)</span></b>
           </div>
-          <div id="ch-bio" class="panel-collapse collapse in"><div class="panel-body">
-            <p class="speaker-bio">
-            Thomas Richardson is a Professor in the Department of Statistics. He is also an Adjunct Professor in the Departments of Economics and Electrical Engineering and a member of the eScience Steering Committee. He received his BA from the University of Oxford and his MS and PhD from Carnegie Mellon University. He is a Fellow of the Center for Advanced Studies in the Behavioral Sciences at Stanford University. His research interests include Graphical Models and Causality.
-            </p>
+          <div id="tr-bio" class="panel-collapse collapse in"><div class="panel-body">
+            <p class="speaker-bio">Thomas Richardson is a Professor in the Department of Statistics. He is also an Adjunct Professor in the Departments of Economics and Electrical Engineering and a member of the eScience Steering Committee. He received his BA from the University of Oxford and his MS and PhD from Carnegie Mellon University. He is a Fellow of the Center for Advanced Studies in the Behavioral Sciences at Stanford University. His research interests include Graphical Models and Causality.</p>
+          </div></div>
+        </div>
+      </div>
+    </div>
+    <br/>
+    <br/>
+    <div class="row speaker">
+      <div class="col-sm-3 speaker-pic">
+        <a href="https://sites.google.com/view/nsokolovska/home" target="_blank">
+          <img class="people-pic" src="/opening/img/people/sokolovska.png" />
+        </a>
+        <div class="people-name">
+          <a href="https://sites.google.com/view/nsokolovska/home" target="_blank">Nataliya Sokolovska</a>
+          <h6>Sorbonne University</h6>
+        </div>
+      </div>
+      <div class="col-sm-9">
+        <h3><b>Title:</b> TBD</h3><br />
+        <b>Abstract</b><p class="speaker-abstract">TBD</p>
+        <div class="panel panel-default">
+          <div class="panel-heading" data-toggle="collapse" href="#ns-bio" style="cursor:pointer;text-align:center">
+            <b>Biography <span style="font-weight:normal">(click to expand/collapse)</span></b>
+          </div>
+          <div id="ns-bio" class="panel-collapse collapse in"><div class="panel-body">
+            <p class="speaker-bio">Nataliya Sokolovska is a full Professor at Sorbonne University. She holds a doctoral degree from Telecom ParisTech. Her research interests include graphical models, probabilistic inference, causal inference, interpretable models, semi-supervised learning, reinforcement learning, and game theory.</p>
           </div></div>
         </div>
       </div>

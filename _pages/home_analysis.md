@@ -131,7 +131,7 @@ This colloquium will several keynote speakers including Antoine Chambaz, Eric Ga
   <div class="col-xs-12"><a class="anchor" id="speakers"></a>
     <h2>Invited Keynote Speakers</h2>
     <br/>
-    <div class="row speaker">
+    <!-- <div class="row speaker">
       <div class="col-sm-3 speaker-pic">
         <a href="http://www.cs.columbia.edu/~blei">
           <img class="people-pic" src="/analysis/img/people/blei.jpeg" />
@@ -157,7 +157,7 @@ This colloquium will several keynote speakers including Antoine Chambaz, Eric Ga
         </div>
       </div>
     </div>
-    <br/>
+    <br/> -->
     <div class="row speaker">
       <div class="col-sm-3 speaker-pic">
         <a href="https://helios2.mi.parisdescartes.fr/~chambaz/index.php?choix=1">
@@ -208,7 +208,7 @@ This colloquium will several keynote speakers including Antoine Chambaz, Eric Ga
           </div></div>
         </div>
       </div>
-    </div>    
+    </div>
     <br/>
     <div class="row speaker">
       <div class="col-sm-3 speaker-pic">
@@ -332,7 +332,7 @@ This colloquium will several keynote speakers including Antoine Chambaz, Eric Ga
           <div class="panel-heading" data-toggle="collapse" href="#er-bio" style="cursor:pointer;text-align:center">
             <b>Biography <span style="font-weight:normal">(click to expand/collapse)</span></b>
           </div>
-          <div id="ch-bio" class="panel-collapse collapse in"><div class="panel-body">
+          <div id="er-bio" class="panel-collapse collapse in"><div class="panel-body">
             <p class="speaker-bio">
             Elina Robeva is an Assistant Professor at the Department of Mathematics in the University of British Columbia in Vancouver, Canada. Her research lies at the intersection of mathematical statistics, machine learning, combinatorics, multi-linear algebra, and applied algebraic geometry. She particularly enjoys discovering mathematical structure which is inherently responsible for the successful solution to a statistical problem. Most recently she has been working on the theory of linear causal models, structured tensor decompositions, shape-constrained density estimation, and super-resolution imaging.
             </p>
