@@ -43,19 +43,19 @@ acknowledgements: ""
 
 <div class="row">
   <div class="col-xs-12"><a class="anchor" id="schedule"></a>
-     <h2>Schedule (tentative)</h2>
+     <h2>Schedule</h2>
      <br/>
 
      <table class="table schedule" style="border:none !important;">
       <thead class="thead-light">
         <tr>
 	        <th rowspan="3" style="text-align:center"></th>
-          <th>A gentle introduction to causal reasoning</th>
-        </tr>        
+          <th style="vertical-align:middle; text-align:center">A gentle introduction to causal reasoning</th>
+        </tr>
       </thead>
       <tbody>
         <tr>
-          <td rowspan="3" style="vertical-align:middle; text-align:center"><b>Tuesday, March 28th</b></td>
+          <td rowspan="3" style="vertical-align:middle; text-align:center"><b>Tuesday, March 28th <br/> 9:30 AM - 17:30 PM</b></td>
           <td>Potential outcomes and counterfactuals</td>          
         </tr>
         <tr>          
@@ -68,12 +68,12 @@ acknowledgements: ""
       <thead class="thead-light">
         <tr>
 	        <th rowspan="3" style="text-align:left">&nbsp;</th>
-          <th>Definition, identification of causal quantities</th>
+          <th style="vertical-align:middle; text-align:center">Definition, identification of causal quantities</th>
         </tr>        
       </thead>
       <tbody>
         <tr>
-          <td rowspan="3" style="vertical-align:middle; text-align:center"><b>Wednesday (Morning), March 29th</b></td>
+          <td rowspan="3" style="vertical-align:middle; text-align:center"><b>Wednesday (Morning), March 29th <br/>9:30 AM - 12:30 PM</b></td>
           <td>DAGs (second pass)</td>          
         </tr>
         <tr>          
@@ -86,26 +86,29 @@ acknowledgements: ""
       <thead class="thead-light">
         <tr>
          <th rowspan="3" style="text-align:center"></th>
-         <th>Causal inference for mechanisms</th>
+         <th style="vertical-align:middle; text-align:center">Causal inference for mechanisms</th>
         </tr>        
       </thead>
       <tbody>
         <tr>
-          <td rowspan="3" style="vertical-align:middle; text-align:center"><b>Wednesday (Afternoon) <br/>and <br/>Thursday, March 30th</b></td>
+          <td rowspan="4" style="vertical-align:middle; text-align:center"><b>Wednesday (Afternoon) <br/> 9:30 AM - 12:30 PM <br/> and <br/>Thursday, March 30th <br/> 9:30 AM - 18:00 PM</b></td>
           <td>Interaction, effect modification, causal interaction</td>          
         </tr>
         <tr>          
           <td>Mediation</td>
         </tr>
         <tr>          
-          <td>Hands-on exercises</td>
+          <td>Hands-on exercises</td>          
+        </tr>
+        <tr>
+          <td>Poster Session</td>
         </tr>
       </tbody>
       <thead class="thead-light">
         <tr>
-          <th style="text-align:center"> Friday, March 31st</th>
-          <th>Elements of targeted learning</th>
-        </tr>
+          <th style="text-align:center"> Friday, March 31st <br/> 9:30 AM - 17:00 PM</th>
+          <th style="vertical-align:middle; text-align:center">Elements of targeted learning</th>
+        </tr>        
       </thead>
       <tbody>
         <tr>
