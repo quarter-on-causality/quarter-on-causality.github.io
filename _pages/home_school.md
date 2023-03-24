@@ -55,7 +55,7 @@ acknowledgements: ""
       </thead>
       <tbody>
         <tr>
-          <td rowspan="3" style="vertical-align:middle; text-align:center"><b>Tuesday, March 28th <br/> 9:30 AM - 5:30 PM</b></td>
+          <td rowspan="3" style="vertical-align:middle; text-align:center"><b>Tuesday, March 28th <br/> 9:30 AM - 6:00 PM</b></td>
           <td>Potential outcomes and counterfactuals</td>          
         </tr>
         <tr>          
@@ -91,7 +91,7 @@ acknowledgements: ""
       </thead>
       <tbody>
         <tr>
-          <td rowspan="4" style="vertical-align:middle; text-align:center"><b>Wednesday, March 29th<br/> 2:00 PM - 5:30 PM <br/> and <br/>Thursday, March 30th <br/> 9:30 AM - 6:00 PM</b></td>
+          <td rowspan="4" style="vertical-align:middle; text-align:center"><b>Wednesday, March 29th<br/> 2:00 PM - 6:00 PM <br/> and <br/>Thursday, March 30th <br/> 9:30 AM - 6:30 PM</b></td>
           <td>Interaction, effect modification, causal interaction</td>          
         </tr>
         <tr>          
