@@ -55,7 +55,7 @@ acknowledgements: ""
       </thead>
       <tbody>
         <tr>
-          <td rowspan="3" style="vertical-align:middle; text-align:center"><b>Tuesday, March 28th <br/> 9:30 AM - 17:30 PM</b></td>
+          <td rowspan="3" style="vertical-align:middle; text-align:center"><b>Tuesday, March 28th <br/> 9:30 AM - 5:30 PM</b></td>
           <td>Potential outcomes and counterfactuals</td>          
         </tr>
         <tr>          
@@ -91,7 +91,7 @@ acknowledgements: ""
       </thead>
       <tbody>
         <tr>
-          <td rowspan="4" style="vertical-align:middle; text-align:center"><b>Wednesday (Afternoon) <br/> 9:30 AM - 12:30 PM <br/> and <br/>Thursday, March 30th <br/> 9:30 AM - 18:00 PM</b></td>
+          <td rowspan="4" style="vertical-align:middle; text-align:center"><b>Wednesday (Afternoon) <br/> 9:30 AM - 12:30 PM <br/> and <br/>Thursday, March 30th <br/> 9:30 AM - 6:00 PM</b></td>
           <td>Interaction, effect modification, causal interaction</td>          
         </tr>
         <tr>          
@@ -106,7 +106,7 @@ acknowledgements: ""
       </tbody>
       <thead class="thead-light">
         <tr>
-          <th style="text-align:center"> Friday, March 31st <br/> 9:30 AM - 17:00 PM</th>
+          <th style="text-align:center"> Friday, March 31st <br/> 9:30 AM - 5:00 PM</th>
           <th style="vertical-align:middle; text-align:center">Elements of targeted learning</th>
         </tr>        
       </thead>
