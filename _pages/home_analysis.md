@@ -105,6 +105,18 @@ This colloquium will several keynote speakers including Antoine Chambaz, Eric Ga
   </div>
 </div><br>
 
+
+<div class="row">
+  <div class="col-xs-12"><a class="anchor" id="registration"></a>
+  <h2>Registration</h2>
+  <p>The <b>When Causal Inference meets Statistical Analysis</b> will be held at the <a href="https://www.cnam.eu/" target="_blank">National Conservatory of Arts and Crafts</a>, <b>Paris</b>, <b>France</b> from <b>April 17-21, 2023</b>.</p>
+  <p> Participation is free of charge, but registration is mandatory.</p>
+  <p> Please register <a href="https://forms.gle/YQRrWudVdHCP4q6d6" target="_blank">here</a> <b>before April 14th AoE</b>. Please let us know if you need letters for visa application.</p>
+  </div>
+</div>
+
+ <br/>
+
 <div class="row">
   <div class="col-xs-12"><a class="anchor" id="schedule"></a>
      <h2>Schedule</h2>
@@ -129,7 +141,7 @@ This colloquium will several keynote speakers including Antoine Chambaz, Eric Ga
 
 <div class="row">
   <div class="col-xs-12"><a class="anchor" id="speakers"></a>
-    <h2>Invited Keynote Speakers</h2>
+    <h2>Keynote Speakers</h2>
     <br/>
     <!-- <div class="row speaker">
       <div class="col-sm-3 speaker-pic">
