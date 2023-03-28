@@ -49,16 +49,16 @@ acknowledgements: ""
       <thead class="thead-light">
         <tr>
 	        <th rowspan="3" style="text-align:center"></th>
-          <th style="vertical-align:middle; text-align:center">A gentle introduction to causal reasoning</th>
+          <th style="vertical-align:middle; text-align:center">A gentle introduction to causal reasoning <a href="https://mycloud.mi.parisdescartes.fr/s/79k9Z5W3cjgm5g4" target="_blank">(Slides)</a></th>
         </tr>
       </thead>
       <tbody>
         <tr>
           <td rowspan="3" style="vertical-align:middle; text-align:center"><b>Tuesday, March 28th 
              <br/> 9:30 AM - 6:00 PM</b> <br/>
-             <a href="https://www.specifcampus.fr/wp-content/uploads/2013/10/amphi_durand.jpg" target="_blank">Amphitheater Durand</a> <br/>Building Esclangon
+             <a href="https://www.specifcampus.fr/wp-content/uploads/2013/10/amphi_durand.jpg" target="_blank">Amphitheater Durand</a> <br/>Esclangon Building
           </td>
-          <td>Potential outcomes and counterfactuals</td>          
+          <td>Potential outcomes and counterfactuals</td>
         </tr>
         <tr>          
           <td>DAGs (first pass)</td>
@@ -75,13 +75,13 @@ acknowledgements: ""
       </thead>
       <tbody>
         <tr>
-          <td rowspan="3" style="vertical-align:middle; text-align:center"><b>Wednesday, March 29th <br/>9:30 AM - 12:30 PM</b></td>
-          <td>DAGs (second pass)</td>          
+          <td rowspan="3" style="vertical-align:middle; text-align:center"><b>Wednesday, March 29th <br/>9:30 AM - 12:30 PM</b><br/> Boardroom <br/> Esclangon Building</td>
+          <td>DAGs (second pass)</td>
         </tr>
-        <tr>          
+        <tr>
           <td>Causal quantities and corresponding statistical parameters</td>
         </tr>
-        <tr>          
+        <tr>
           <td>A preview about inference (G-formula)</td>
         </tr>
       </tbody>
@@ -89,35 +89,33 @@ acknowledgements: ""
         <tr>
          <th rowspan="3" style="text-align:center"></th>
          <th style="vertical-align:middle; text-align:center">Causal inference for mechanisms</th>
-        </tr>        
+        </tr>
       </thead>
       <tbody>
         <tr>
-          <td rowspan="4" style="vertical-align:middle; text-align:center"><b>Wednesday, March 29th<br/> 2:00 PM - 6:00 PM <br/> and <br/>Thursday, March 30th <br/> 9:30 AM - 6:30 PM</b></td>
+          <td rowspan="4" style="vertical-align:middle; text-align:center"><b>Wednesday, March 29th<br/> 2:00 PM - 6:00 PM <br/> and <br/>Thursday, March 30th <br/> 9:30 AM - 6:30 PM</b><br/> Boardroom <br/> Esclangon Building</td>
           <td>Interaction, effect modification, causal interaction</td>
         </tr>
         <tr>          
           <td>Mediation</td>
         </tr>
         <tr>          
-          <td>Hands-on exercises</td>          
+          <td>Hands-on exercises</td>
         </tr>
         <tr>
-          <td>Poster Session</td>
+          <td>Poster Session (Thursday afternoon)</td>
         </tr>
       </tbody>
       <thead class="thead-light">
         <tr>
           <th style="text-align:center"> Friday, March 31st <br/> 
-             9:30 AM - 5:00 PM <br/>
-             <a href="" target="_blank">Amphitheater Herpin</a> <br/>Building Esclangon
-             </th>
+             9:30 AM - 5:00 PM <br/></th>
           <th style="vertical-align:middle; text-align:center">Elements of targeted learning</th>
-        </tr>        
+        </tr>
       </thead>
       <tbody>
-        <tr>
-          <td rowspan="3" style="vertical-align:middle; text-align:center"><b></b></td>
+        <tr>          
+          <td rowspan="3" style="vertical-align:middle; text-align:center"><a href="" target="_blank">Amphitheater Herpin</a> <br/> Esclangon Building</td>
         </tr>
       </tbody>      
      </table>
