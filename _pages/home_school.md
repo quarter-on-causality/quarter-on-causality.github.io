@@ -54,7 +54,10 @@ acknowledgements: ""
       </thead>
       <tbody>
         <tr>
-          <td rowspan="3" style="vertical-align:middle; text-align:center"><b>Tuesday, March 28th <br/> 9:30 AM - 6:00 PM</b></td>
+          <td rowspan="3" style="vertical-align:middle; text-align:center"><b>Tuesday, March 28th 
+             <br/> 9:30 AM - 6:00 PM</b> <br/>
+             <a href="https://www.specifcampus.fr/wp-content/uploads/2013/10/amphi_durand.jpg" target="_blank">Amphitheater Durand</a> <br/>Building Esclangon
+          </td>
           <td>Potential outcomes and counterfactuals</td>          
         </tr>
         <tr>          
@@ -91,7 +94,7 @@ acknowledgements: ""
       <tbody>
         <tr>
           <td rowspan="4" style="vertical-align:middle; text-align:center"><b>Wednesday, March 29th<br/> 2:00 PM - 6:00 PM <br/> and <br/>Thursday, March 30th <br/> 9:30 AM - 6:30 PM</b></td>
-          <td>Interaction, effect modification, causal interaction</td>          
+          <td>Interaction, effect modification, causal interaction</td>
         </tr>
         <tr>          
           <td>Mediation</td>
@@ -105,13 +108,16 @@ acknowledgements: ""
       </tbody>
       <thead class="thead-light">
         <tr>
-          <th style="text-align:center"> Friday, March 31st <br/> 9:30 AM - 5:00 PM</th>
+          <th style="text-align:center"> Friday, March 31st <br/> 
+             9:30 AM - 5:00 PM <br/>
+             <a href="" target="_blank">Amphitheater Herpin</a> <br/>Building Esclangon
+             </th>
           <th style="vertical-align:middle; text-align:center">Elements of targeted learning</th>
         </tr>        
       </thead>
       <tbody>
         <tr>
-          <td rowspan="3" style="vertical-align:middle; text-align:center"><b></b></td>          
+          <td rowspan="3" style="vertical-align:middle; text-align:center"><b></b></td>
         </tr>
       </tbody>      
      </table>
