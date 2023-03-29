@@ -56,7 +56,7 @@ acknowledgements: ""
         <tr>
           <td rowspan="3" style="vertical-align:middle; text-align:center"><b>Tuesday, March 28th 
              <br/> 9:30 AM - 6:00 PM</b> <br/>
-             <a href="https://www.specifcampus.fr/wp-content/uploads/2013/10/amphi_durand.jpg" target="_blank">Amphitheater Durand</a> <br/>Esclangon Building
+             <a href="https://www.specifcampus.fr/wp-content/uploads/2013/10/amphi_durand.jpg" target="_blank">Durand Auditorium</a> <br/>Esclangon Building
           </td>
           <td>Potential outcomes and counterfactuals</td>
         </tr>
@@ -75,7 +75,7 @@ acknowledgements: ""
       </thead>
       <tbody>
         <tr>
-          <td rowspan="3" style="vertical-align:middle; text-align:center"><b>Wednesday, March 29th <br/>9:30 AM - 12:30 PM</b><br/> Boardroom &amp; Seminar room<br/> Esclangon Building</td>
+          <td rowspan="3" style="vertical-align:middle; text-align:center"><b>Wednesday, March 29th <br/>9:30 AM - 12:30 PM</b><br/> Board &amp; Seminar room<br/> Esclangon Building</td>
           <td>DAGs (second pass)</td>
         </tr>
         <tr>
@@ -93,7 +93,7 @@ acknowledgements: ""
       </thead>
       <tbody>
         <tr>
-          <td rowspan="4" style="vertical-align:middle; text-align:center"><b>Wednesday, March 29th<br/> 2:00 PM - 6:00 PM <br/> and <br/>Thursday, March 30th <br/> 9:30 AM - 6:30 PM</b><br/> Boardroom &amp; Seminar room <br/> Esclangon Building</td>
+          <td rowspan="4" style="vertical-align:middle; text-align:center"><b>Wednesday, March 29th<br/> 2:00 PM - 6:00 PM </b><br/> Board &amp; Seminar room<br/> <b>Thursday, March 30th <br/> 9:30 AM - 6:30 PM</b> <br/> <a href="https://quarter-on-causality.github.io/school/img/plan_Jussieu_Durand.png" target="_blank">Durand Auditorium</a> <br/> Esclangon Building</td>
           <td>Interaction, effect modification, causal interaction</td>
         </tr>
         <tr>          
@@ -115,7 +115,7 @@ acknowledgements: ""
       </thead>
       <tbody>
         <tr>          
-          <td rowspan="3" style="vertical-align:middle; text-align:center"><a href="" target="_blank">Amphitheater Herpin</a> <br/> Esclangon Building</td>
+          <td rowspan="3" style="vertical-align:middle; text-align:center"><a href="" target="_blank">Herpin Auditorium</a> <br/> Esclangon Building</td>
         </tr>
       </tbody>      
      </table>
