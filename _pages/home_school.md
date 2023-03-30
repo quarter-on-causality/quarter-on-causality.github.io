@@ -110,8 +110,9 @@ acknowledgements: ""
              <a href="https://mycloud.mi.parisdescartes.fr/s/4QHjogNxd9FQ487" target="_blank">Lab 2 exercise sheet, concepts of mediation</a> <br/>
              <a href="https://mycloud.mi.parisdescartes.fr/s/wogxGWkGQgYXDSy" target="_blank">Lab 2 exercise sheet, mediation analysis – software application</a>
                <ul>
-                 <li><a href="https://mycloud.mi.parisdescartes.fr/s/HFDR3RJ66FgFcJe" target="_blank"> R code</a></li>
-                 <li><a href="https://mycloud.mi.parisdescartes.fr/s/Qp3ZK8dk5nrQ3HN" target="_blank">Dataset</a></li>
+                 <li><a href="https://mycloud.mi.parisdescartes.fr/s/HFDR3RJ66FgFcJe/download/R-code-lung-cancer.Rmd" target="_blank">R code</a> Open it on Colab <a href="https://colab.research.google.com/drive/1UgKv3fZmpcWZj1Pde3Wwgi8iizWhmlw2" target="_blank"><img src="img/colab_favicon.ico" width="30" /></a>
+                 </li>
+                 <li><a href="https://mycloud.mi.parisdescartes.fr/s/Qp3ZK8dk5nrQ3HN/download/sim_data_lung.csv" target="_blank">Dataset</a></li>
                </ul>
           </td>
         </tr>
