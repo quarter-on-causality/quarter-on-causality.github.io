@@ -371,8 +371,7 @@ This colloquium will several keynote speakers including Antoine Chambaz, Eric Ga
             <b>Biography <span style="font-weight:normal">(click to expand/collapse)</span></b>
           </div>
           <div id="ch-bio" class="panel-collapse collapse in"><div class="panel-body">
-            <p class="speaker-bio">
-Chandler Squires is PhD student at MIT. His research is centered on learning the effects of intervening in complex systems, with a particular focus on cellular biology and healthcare. This spans causal structure learning, active learning for causal structure discovery, causal representation learning, and treatment effect estimation. He is co-advised by Caroline Uhler and David Sontag.
+            <p class="speaker-bio"> Chandler Squires is PhD student at MIT. His research is centered on learning the effects of intervening in complex systems, with a particular focus on cellular biology and healthcare. This spans causal structure learning, active learning for causal structure discovery, causal representation learning, and treatment effect estimation. He is co-advised by Caroline Uhler and David Sontag.
             </p>
           </div></div>
         </div>
@@ -390,16 +389,18 @@ Chandler Squires is PhD student at MIT. His research is centered on learning the
         </div>
       </div>
       <div class="col-sm-9">
-        <h3><b>Title:</b> TBD</h3><br />
-        <b>Abstract</b><p class="speaker-abstract">TBD</p>
+        <h3><b>Title:</b> Veridical data science with a case study to seek genetic drivers of a heart disease</h3><br />
+        <b>Abstract</b>
+           <p class="speaker-abstract">
+             "AI is like nuclear energy–both promising and dangerous." - Bill Gates, 2019. Data Science is a pillar of AI and has driven most of recent cutting-edge discoveries in biomedical research and beyond. Human judgment calls are ubiquitous at every step of a data science life cycle, e.g., in problem formulation, choosing data cleaning methods, predictive algorithms and data perturbations. Such judgment calls are often responsible for the "dangers" of AI. To mitigate these dangers, we introduce in this talk a framework based on three core principles: Predictability, Computability and Stability (PCS). The PCS framework unifies and expands on the ideas and best practices of statistics and machine learning. It emphasizes reality check through predictability and takes a full account of uncertainty sources in the whole data science life cycle including those from human judgment calls such as those in data curation/cleaning. PCS consists of a workflow and documentation and is supported by our software package veridical or v-flow. Moreover, we illustrate the usefulness of PCS in the development of iterative random forests (iRF) for predictable and stable non-linear interaction discovery (in collaboration with the Brown Lab at LBNL and Berkeley Statistics). Finally, in the pursuit of genetic drivers of a heart disease called hypertrophic cardiomyopathy (HCM) as a CZ Biohub project in collaboration with the Ashley Lab at Stanford Medical School and others, we use iRF and UK Biobank data to recommend gene-gene interaction targets for knock-down experiments. We then analyze the experimental data to show promising findings about genetic drivers for HCM.
+           </p>
         <div class="panel panel-default">
           <div class="panel-heading" data-toggle="collapse" href="#by-bio" style="cursor:pointer;text-align:center">
             <b>Biography <span style="font-weight:normal">(click to expand/collapse)</span></b>
           </div>
           <div id="by-bio" class="panel-collapse collapse in"><div class="panel-body">
             <p class="speaker-bio">
-               Bin Yu is the head of the Yu Group at Berkeley, which consists of 15-20 students and postdocs from Statistics and EECS. She was formally trained as a statistician, but her research interests and achievements extend beyond the realm of statistics. Together with her group, her work has leveraged new computational developments to solve important scientific problems by combining novel statistical machine learning approaches with the domain expertise of my many collaborators in neuroscience, genomics and precision medicine. They also develop relevant theory to understand random forests and deep learning for insight into and guidance for practice. They have developed the PCS framework for veridical data science (or responsible, reliable, and transparent data analysis and decision-making). PCS stands for predictability, computability and stability, and it unifies, streamlines, and expands on ideas and best practices of machine learning and statistics.
-            </p>
+               Bin Yu is Chancellor's Distinguished Professor and Class of 1936 Second Chair in Statistics, EECS, and Computational Biology at UC Berkeley. Her research focuses on statistical machine learning practice and theory and interdisciplinary data problems in neuroscience, genomics, and precision medicine. She and her team developed in context iterative random forests (iRF), hierarchical shrinkage (HS) for decision trees, Fast Interpretable Greedy-Tree Sums (FIGS), stability-driven NMF (staNMF), and adaptive wavelet distillation (AWD) from deep learning models. She is a member of the National Academy of Sciences and American Academy of Arts and Sciences. She was a Guggenheim Fellow. She is to deliver the IMS Wald Lectures and COPSS DAAL (formerly Fisher) Lecture at JSM in Aug. 2023. She holds an Honorary Doctorate from The University of Lausanne.</p>
           </div></div>
         </div>
       </div>
