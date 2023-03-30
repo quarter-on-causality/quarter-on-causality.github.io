@@ -36,7 +36,12 @@ acknowledgements: ""
   <p>The <b>Spring School on Causality</b> will be held at the <a href="https://scai.sorbonne-universite.fr" target="_blank">Sorbonne Center for Artificial Intelligence (SCAI)</a>, <b>Paris</b>, <b>France</b> on <b>March 28-31, 2023</b>.</p>
   <p> Participation is free of charge, but registration is mandatory.</p>
   <p> Please register <a href="https://forms.gle/GGf12kqDyVDy5u9p7" target="_blank">here</a> <b>before March 24th AoE</b>. Please let us know if you need letters for visa application.</p>
+
+  <br/>
+
+  <p> If you need an attendance attestation, please complete the form at <a href="https://forms.gle/LjCYMGqZvMjo8jdu7" target="_blank">forms.gle/LjCYMGqZvMjo8jdu7</a>.</p>
   </div>
+  <br />  
 </div>
 
 <br/>
@@ -45,11 +50,12 @@ acknowledgements: ""
   <div class="col-xs-12"><a class="anchor" id="schedule"></a>
      <h2>Schedule</h2>
      <br/>
+     Click on the title of the lectures to download their slides. They are also available <a href="https://helios2.mi.parisdescartes.fr/~chambaz/index.php?choix=2" target="_blank">here</a>
      <table class="table schedule" style="border:none !important;">
       <thead class="thead-light">
         <tr>
 	        <th rowspan="3" style="text-align:center"></th>
-          <th style="vertical-align:middle; text-align:center">A gentle introduction to causal reasoning <a href="https://mycloud.mi.parisdescartes.fr/s/79k9Z5W3cjgm5g4" target="_blank">(Slides)</a></th>
+          <th style="vertical-align:middle; text-align:center"><a href="https://mycloud.mi.parisdescartes.fr/s/79k9Z5W3cjgm5g4" target="_blank">A gentle introduction to causal reasoning</a></th>
         </tr>
       </thead>
       <tbody>
@@ -61,16 +67,16 @@ acknowledgements: ""
           <td>Potential outcomes and counterfactuals</td>
         </tr>
         <tr>          
-          <td>DAGs (first pass)</td>
+          <td><a href="https://mycloud.mi.parisdescartes.fr/s/DRFJY9RQoZBwoHE" target="_blank">DAGs (first pass)</a></td>
         </tr>
         <tr>          
-          <td>Hands-on exercises</td>
+          <td><a href="https://mycloud.mi.parisdescartes.fr/s/zBNc6mM4YpTHWkG" target="_blank">Hands-on exercises</a></td>
         </tr>
       </tbody>
       <thead class="thead-light">
         <tr>
 	        <th rowspan="3" style="text-align:left">&nbsp;</th>
-          <th style="vertical-align:middle; text-align:center">Definition, identification of causal quantities</th>
+          <th style="vertical-align:middle; text-align:center"><a href="https://mycloud.mi.parisdescartes.fr/s/DRFJY9RQoZBwoHE">Definition, identification of causal quantities</a></th>
         </tr>        
       </thead>
       <tbody>
@@ -79,7 +85,7 @@ acknowledgements: ""
           <td>DAGs (second pass)</td>
         </tr>
         <tr>
-          <td>Causal quantities and corresponding statistical parameters</td>
+          <td><a href="https://mycloud.mi.parisdescartes.fr/s/DRFJY9RQoZBwoHE" target="_blank">Causal quantities and corresponding statistical parameters</a></td>
         </tr>
         <tr>
           <td>A preview about inference (G-formula)</td>
@@ -97,10 +103,17 @@ acknowledgements: ""
           <td>Interaction, effect modification, causal interaction</td>
         </tr>
         <tr>          
-          <td>Mediation</td>
+          <td><a href="https://mycloud.mi.parisdescartes.fr/s/McDcqMZCfNoXcF7" target="_blank">Mediation</a></td>
         </tr>
         <tr>          
-          <td>Hands-on exercises</td>
+          <td>
+             <a href="https://mycloud.mi.parisdescartes.fr/s/4QHjogNxd9FQ487" target="_blank">Lab 2 exercise sheet, concepts of mediation</a> <br/>
+             <a href="https://mycloud.mi.parisdescartes.fr/s/wogxGWkGQgYXDSy" target="_blank">Lab 2 exercise sheet, mediation analysis – software application</a>
+               <ul>
+                 <li><a href="https://mycloud.mi.parisdescartes.fr/s/HFDR3RJ66FgFcJe" target="_blank"> R code</a></li>
+                 <li><a href="https://mycloud.mi.parisdescartes.fr/s/Qp3ZK8dk5nrQ3HN" target="_blank">Dataset</a></li>
+               </ul>
+          </td>
         </tr>
         <tr>
           <td>Poster Session (Thursday afternoon)</td>
