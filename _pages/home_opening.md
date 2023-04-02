@@ -129,8 +129,8 @@ acknowledgements: ""
         </div>
       </div>
       <div class="col-sm-9">
-        <h3><b>Title:</b> TBD</h3><br />
-        <b>Abstract</b><p class="speaker-abstract">TBD</p>
+        <h3><b>Title:</b> Beyond Correlation: Causal Inference at TotalEnergies</h3><br />
+        <!-- <b>Abstract</b><p class="speaker-abstract">TBD</p> -->
         <div class="panel panel-default">
           <div class="panel-heading" data-toggle="collapse" href="#dmb-bio" style="cursor:pointer;text-align:center">
             <b>Biography <span style="font-weight:normal">(click to expand/collapse)</span></b>
@@ -153,7 +153,7 @@ acknowledgements: ""
         </div>
       </div>
       <div class="col-sm-9">
-        <h3><b>Title:</b>Hierarchical Causal Models</h3><br />
+        <h3><b>Title: </b>Hierarchical Causal Models</h3><br />
         <!-- <b>Abstract</b><p class="speaker-abstract">TBD</p> -->
         <div class="panel panel-default">
           <div class="panel-heading" data-toggle="collapse" href="#ab-bio" style="cursor:pointer;text-align:center">
@@ -250,7 +250,7 @@ acknowledgements: ""
         </div>
       </div>
       <div class="col-sm-9">
-        <h3><b>Title:</b>The role of instrumental variables in causal inference</h3><br />
+        <h3><b>Title: </b>The role of instrumental variables in causal inference</h3><br />
         <b>Abstract</b><p class="speaker-abstract">Causal inference methods based on conditional independence construct Markov equivalent graphs, and cannot be applied to bivariate cases. The approaches based on independence of cause and mechanism state, on the contrary, that causal discovery can be inferred for two observations. We challenge to reconcile these two research directions. We study the role of latent variables such as latent instrumental variables and hidden common causes in the causal graphical structures. We show that the methods based on the independence of cause and mechanism indirectly contain traces of the existence of the hidden instrumental variables. I will present our novel algorithm to infer causal relationships between two variables, which was validated on simulated data and on a benchmark of cause-effect pairs.</p>
         <div class="panel panel-default">
           <div class="panel-heading" data-toggle="collapse" href="#ns-bio" style="cursor:pointer;text-align:center">
