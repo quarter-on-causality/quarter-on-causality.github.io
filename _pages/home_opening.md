@@ -153,8 +153,8 @@ acknowledgements: ""
         </div>
       </div>
       <div class="col-sm-9">
-        <h3><b>Title:</b> TBD</h3><br />
-        <b>Abstract</b><p class="speaker-abstract">TBD</p>
+        <h3><b>Title:</b>Hierarchical Causal Models</h3><br />
+        <!-- <b>Abstract</b><p class="speaker-abstract">TBD</p> -->
         <div class="panel panel-default">
           <div class="panel-heading" data-toggle="collapse" href="#ab-bio" style="cursor:pointer;text-align:center">
             <b>Biography <span style="font-weight:normal">(click to expand/collapse)</span></b>
