@@ -14,7 +14,7 @@ acknowledgements: ""
 
 <div class="row">
   <div class="col-xs-12">
-    <center><h1>Thematic Quarter on Causality</h1></center>
+    <center><h1>Thematic Quarter on Causality - Opening Session</h1></center>
     <center><h5>Institute Henri Poincaré, Paris, France</h5></center>
     <center><h5><strong>April 11th, 2023</strong></h5></center>
     <center><h5><b>Location: </b><a href="https://www.ihp.fr/en" target="_blank">11 Rue Pierre et Marie Curie, 75005 Paris, France</a></h5></center>
@@ -78,7 +78,7 @@ acknowledgements: ""
           <td>Coffee break</td>
         </tr>
 	      <tr>
-          <td>11:30 PM - 12:30 PM</td>
+          <td>11:30 AM - 12:30 PM</td>
           <td>Keynote by Jonas Peters</td>
         </tr>
 	      <tr>
@@ -90,11 +90,15 @@ acknowledgements: ""
           <td>Keynote by Nataliya Sokolovska</td>
         </tr>
         <tr>
-          <td>3:00 PM - 4:00 PM</td>
+          <td>2:45 PM - 3:45 PM</td>
+          <td>Keynote by Caleb H. Miles</td>
+        </tr>
+        <tr>
+          <td>3:45 PM - 4:15 PM</td>
           <td>Keynote by Antoine Bertoncello</td>
         </tr>
         <tr>
-          <td>4:00 PM - 4:30 PM</td>
+          <td>4:15 PM - 4:30 PM</td>
           <td>Coffee break</td>
         </tr>
         <tr>
@@ -157,6 +161,29 @@ acknowledgements: ""
           </div>
           <div id="ab-bio" class="panel-collapse collapse in"><div class="panel-body">
             <p class="speaker-bio">David Blei is a professor of Statistics and Computer Science at Columbia University. He is also a member of the Columbia Data Science Institute. He works primarily in the fields of machine learning and Bayesian statistics.</p>
+          </div></div>
+        </div>
+      </div>
+    </div>
+    <br/>
+    <div class="row speaker">
+      <div class="col-sm-3 speaker-pic">
+        <a href="https://calebhmiles.github.io" target="_blank">
+          <img class="people-pic" src="/school/img/people/miles.jpg" />
+        </a>
+        <div class="people-name">
+          <a href="https://calebhmiles.github.io" target="_blank">Caleb H. Miles</a>
+          <h6>Columbia University Mailman School of Public Health</h6>
+        </div>
+      </div>
+      <div class="col-sm-9">
+        <h3></h3><br />
+        <div class="panel panel-default">
+          <div class="panel-heading" data-toggle="collapse" href="#cm-bio" style="cursor:pointer;text-align:center">
+            <b>Biography <span style="font-weight:normal">(click to expand/collapse)</span></b>
+          </div>
+          <div id="cm-bio" class="panel-collapse collapse in"><div class="panel-body">
+            <p class="speaker-bio">Caleb H. Miles is an Assistant Professor in the Department of Biostatistics at the Columbia University Mailman School of Public Health. He works on developing semi-parametric methods for causal inference and applying them to problems in public health. His applied work has largely been in HIV/AIDS, and he has more recently begun to work on psychiatric applications. His current methodological research interests include causal inference, its intersection with machine learning, mediation analysis, interference, and measurement error.</p>
           </div></div>
         </div>
       </div>
