@@ -130,7 +130,7 @@ acknowledgements: ""
       </div>
       <div class="col-sm-9">
         <h3><b>Title:</b> Beyond Correlation: Causal Inference at TotalEnergies</h3><br />
-        <!-- <b>Abstract</b><p class="speaker-abstract">TBD</p> -->
+        <b>Abstract</b><p class="speaker-abstract"> Causal inference is crucial for answering complex questions across various fields but has seen limited adoption in industrial settings. This talk explores TotalEnergies' efforts in applying causal inference to their operations, discussing the potential application in TotalEnergies and the technical challenges we encountered.</p>
         <div class="panel panel-default">
           <div class="panel-heading" data-toggle="collapse" href="#dmb-bio" style="cursor:pointer;text-align:center">
             <b>Biography <span style="font-weight:normal">(click to expand/collapse)</span></b>
@@ -177,8 +177,8 @@ acknowledgements: ""
         </div>
       </div>
       <div class="col-sm-9">
-        <h3><b>Title:</b> TBD</h3><br />
-        <b>Abstract</b><p class="speaker-abstract">TBD</p>
+        <h3><b>Title:</b> Some fundamental problems in causal mediation analysis</h3><br />
+        <b>Abstract</b><p class="speaker-abstract"> Scientists are often interested in understanding mediating mechanisms that can help explain causal effects. A vast body of literature on mediation analysis has accumulated since two foundational articles (Robins and Greenland, 1992; Pearl, 2001) formalized mediation in the language of causality. However, causal mediation analysis poses many fundamental and interesting difficulties in its causal interpretation, nonparametric identification assumptions (which are much stronger than most typical causal assumptions), and statistical inference. I will discuss some of my work in each of these categories: (i) the interpretation of alternative estimands that have been proposed to circumvent the usual identification assumptions, (ii) the implicit assumptions embedded in the standard mediation identification assumptions and their shortcomings in handling the inherent time-varying nature of mediators, and (iii) the well-known issue of the conservative and underpowered nature of hypothesis testing for mediated effects.</p>
         <div class="panel panel-default">
           <div class="panel-heading" data-toggle="collapse" href="#cm-bio" style="cursor:pointer;text-align:center">
             <b>Biography <span style="font-weight:normal">(click to expand/collapse)</span></b>
