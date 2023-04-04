@@ -119,23 +119,214 @@ This colloquium will several keynote speakers including Antoine Chambaz, Eric Ga
 
 <div class="row">
   <div class="col-xs-12"><a class="anchor" id="schedule"></a>
-     <h2>Schedule</h2>
-     <br/>
-     <p>To be announced soon</p>
-     <!-- <table class="table schedule" style="border:none !important;">
+     <h2>Preliminary schedule</h2>
+     <br>
+     <table class="table schedule" style="border:none !important;">
       <thead class="thead-light">
         <tr>
-	        <th>Time in UTC</th>
-	        <th>Item</th>
+	        <th>Monday, April 17th</th>
+	        <th></th>
         </tr>
       </thead>
       <tbody>
         <tr>
-          <td>9:00am - 9:15am</td>          
-          <td>Opening Remarks and Awards</td>
-        </tr>        
+          <td>9:00 AM - 9:30 AM</td>
+          <td>Arrival & welcome coffee</td>
+        </tr>
+	      <tr>
+          <td>9:30 AM - 10:00 AM</td>
+          <td>Welcome & Opening remarks</td>
+        </tr>
+        <tr>
+          <td>10:00 AM - 11:00 AM</td>
+          <td>Keynote by Bin Yu</td>
+        </tr>	      
+	      <tr>
+          <td>11:30 AM - 12:30 PM</td>
+          <td>Oral presentations</td>
+        </tr>
+        <tr>
+          <td>12:30 PM - 2:00 PM</td>
+          <td>Lunch (buffet served on the conference premises)</td>
+        </tr>
+        <tr>
+          <td>2:00 PM - 3:00 PM</td>
+          <td>Keynote by Eric Gaussier</td>
+        </tr>
+        <tr>
+          <td>3:00 PM - 3:30 PM</td>
+          <td>Coffee break</td>
+        </tr>
+        <tr>
+          <td>4:00 PM - 6:00 PM</td>
+          <td>Oral presentations</td>
+        </tr>
       </tbody>
-     </table>      -->
+      <thead class="thead-light">
+	      <tr>
+	        <th>Tuesday, 18 April</th>
+	        <th></th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr>
+          <td>9:00 AM - 9:30 AM</td>
+          <td>Arrival & welcome coffee</td>
+        </tr>
+	      <tr>
+          <td>9:30 AM - 10:30 AM</td>
+          <td>Keynote by Dominik Janzing</td>
+        </tr>
+        <tr>
+          <td>10:30 AM - 11:00 AM</td>
+          <td>Coffee break</td>
+        </tr>
+	      <tr>
+          <td>11:30 AM - 12:30 AM</td>
+          <td>Oral presentations</td>
+        </tr>	      
+        <tr>
+          <td>12:30 PM - 2:00 PM</td>
+          <td>Lunch (buffet served on the conference premises)</td>
+        </tr>
+        <tr>
+          <td>2:00 PM - 3:00 PM</td>
+          <td>Keynote by Antoine Chambaz</td>
+        </tr>
+        <tr>
+          <td>3:00 PM - 3:30 PM</td>
+          <td>Coffee break</td>
+        </tr>
+        <tr>
+          <td>4:00 PM - 6:00 PM</td>
+          <td>Oral presentations</td>
+        </tr>
+      </tbody>
+      <thead class="thead-light">
+      	<tr>
+	        <th>Wednesday, April 19th</th>
+	        <th></th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr>
+          <td>9:00 AM - 9:30 AM</td>
+          <td>Arrival & welcome coffee</td>
+        </tr>
+	      <tr>
+          <td>9:30 AM - 10:30 AM</td>
+          <td>Keynote by Yingzhen Li</td>
+        </tr>
+        <tr>
+          <td>10:30 AM - 11:00 AM</td>
+          <td>Coffee break</td>
+        </tr>
+	      <tr>
+          <td>11:30 AM - 12:30 AM</td>
+          <td>Oral presentations</td>
+        </tr>	      
+        <tr>
+          <td>12:30 PM - 2:00 PM</td>
+          <td>Lunch (buffet served on the conference premises)</td>
+        </tr>
+        <tr>
+          <td>2:00 PM - 3:00 PM</td>
+          <td>Keynote by Chandler Squires</td>
+        </tr>
+        <tr>
+          <td>3:00 PM - 4:30 PM</td>
+          <td>Poster session I</td>
+        </tr>
+        <tr>
+          <td>5:00 PM - 7:00 PM</td>
+          <td>Social event</td>
+        </tr>
+      </tbody>
+      <thead class="thead-light">
+      	<tr>
+	        <th>Thursday, April 20th</th>
+	        <th></th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr>
+          <td>9:00 AM - 9:30 AM</td>
+          <td>Arrival & welcome coffee</td>
+        </tr>
+	      <tr>
+          <td>9:30 AM - 10:30 AM</td>
+          <td>Keynote by Jonas Peters</td>
+        </tr>
+        <tr>
+          <td>10:30 AM - 11:00 AM</td>
+          <td>Coffee break</td>
+        </tr>
+	      <tr>
+          <td>11:30 AM - 12:30 AM</td>
+          <td>Oral presentations</td>
+        </tr>	      
+        <tr>
+          <td>12:30 PM - 2:00 PM</td>
+          <td>Lunch (buffet served on the conference premises)</td>
+        </tr>
+        <tr>
+          <td>2:00 PM - 3:00 PM</td>
+          <td>Keynote by Elina Robeva</td>
+        </tr>
+        <tr>
+          <td>3:00 PM - 4:00 PM</td>
+          <td>Oral presentations</td>
+        </tr>
+        <tr>
+          <td>4:00 PM - 5:30 PM</td>
+          <td>Poster session II</td>
+        </tr>
+        <tr>
+          <td>7:30 PM - 10:30 PM</td>
+          <td>Social dinner</td>
+        </tr>
+      </tbody>
+      <thead class="thead-light">
+      	<tr>
+	        <th>Friday, April 21st</th>
+	        <th></th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr>
+          <td>9:00 AM - 9:30 AM</td>
+          <td>Arrival & welcome coffee</td>
+        </tr>
+	      <tr>
+          <td>9:30 AM - 10:30 AM</td>
+          <td>Keynote by Daniel Malinsky</td>
+        </tr>
+        <tr>
+          <td>10:30 AM - 11:00 AM</td>
+          <td>Coffee break</td>
+        </tr>
+	      <tr>
+          <td>11:30 AM - 12:30 AM</td>
+          <td>Oral presentations</td>
+        </tr>	      
+        <tr>
+          <td>12:30 PM - 2:00 PM</td>
+          <td>Lunch (buffet served on the conference premises)</td>
+        </tr>
+        <tr>
+          <td>2:00 PM - 3:00 PM</td>
+          <td>Oral presentations</td>
+        </tr>
+        <tr>
+          <td>3:00 PM - 3:30 PM</td>
+          <td>Wrap-up</td>
+        </tr>
+        <tr>
+          <td>3:30 PM - 4:00 PM</td>
+          <td>Wrap-up drinks & snacks</td>
+        </tr>
+      </tbody>
+     </table>
   </div>
 </div><br><br>
 
