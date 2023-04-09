@@ -191,7 +191,7 @@ This colloquium will several keynote speakers including Antoine Chambaz, Eric Ga
         </tr>
         <tr>
           <td>2:00 PM - 3:00 PM</td>
-          <td>Keynote by Antoine Chambaz</td>
+          <td>Keynote by Daniel Malinsky</td>
         </tr>
         <tr>
           <td>3:00 PM - 3:30 PM</td>
@@ -224,7 +224,7 @@ This colloquium will several keynote speakers including Antoine Chambaz, Eric Ga
 	      <tr>
           <td>11:30 AM - 12:30 AM</td>
           <td>Oral presentations</td>
-        </tr>	      
+        </tr>
         <tr>
           <td>12:30 PM - 2:00 PM</td>
           <td>Lunch (buffet served on the conference premises)</td>
@@ -299,7 +299,7 @@ This colloquium will several keynote speakers including Antoine Chambaz, Eric Ga
         </tr>
 	      <tr>
           <td>9:30 AM - 10:30 AM</td>
-          <td>Keynote by Daniel Malinsky</td>
+          <td>Keynote by Antoine Chambaz</td>
         </tr>
         <tr>
           <td>10:30 AM - 11:00 AM</td>

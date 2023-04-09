@@ -43,8 +43,9 @@ acknowledgements: ""
   <div class="col-xs-12"><a class="anchor" id="registration"></a>
   <h2>Registration</h2>  
   <p> Participation is free of charge, but registration is mandatory.</p>
-  <p> Please register <a href="https://forms.gle/Es2naUkpB1iChd2F6" target="_blank">here</a> <b>before April 7th AoE</b>.</p>
-  </div>
+  <p> Please register <a href="https://forms.gle/Es2naUkpB1iChd2F6" target="_blank">here</a> <b>before April 7th AoE</b>.</p>  
+  <p>All the talks will be at the <strong>Auditorium Hermite</strong>.</p>
+  </div>  
 </div>
 
 <br/>
@@ -265,8 +266,39 @@ acknowledgements: ""
     <br/>
   </div>
 </div>
-
 <br/>
+
+<div class="row">
+  <div class="col-xs-12"><a class="anchor" id="posters"></a>
+    <h2>Posters</h2>
+    <div class="paper">
+        <span class="title">Causality in Financial Markets</span>
+        <span class="authors">Eric Benhamou</span>
+    </div>
+    <div class="paper">
+        <span class="title"><a href="posters/Cinquini_CALIME.pdf" target="_blank">CALIME: Causality-Aware Local Interpretable Model-Agnostic Explanations</a></span>
+        <span class="authors">Martina Cinquini</span>
+    </div>
+    <div class="paper">
+        <span class="title">Causal Mechanism Alignment for Few-Shot Domain Adaptation</span>
+        <span class="authors">Nathan Cornille</span>
+    </div>
+    <div class="paper">
+        <span class="title">Learning interpretable causal networks from very large datasets, application to ~400,000 medical records of breast cancer patients</span>
+        <span class="authors">Louise Dupuis</span>
+    </div>
+    <div class="paper">
+        <span class="title">A Guide for Practical Use of ADMG Causal Data Augmentation</span>
+        <span class="authors">Audrey Poinsot</span>
+    </div>
+    <div class="paper">
+        <span class="title">Security Techniques for the Deployment of MPAI V2 Standard AI Architecture on Tiny Micro-Controllers</span>
+        <span class="authors">Muhammad Yasir Shabir</span>
+    </div>
+  </div>
+</div>
+
+<br />
 
 <div class="row">
   <div class="col-xs-12"><a class="anchor" id="organizers"></a>
