@@ -312,18 +312,18 @@ This colloquium will several keynote speakers including Antoine Chambaz, Eric Ga
         <tr>
           <td>12:30 PM - 2:00 PM</td>
           <td>Lunch (buffet served on the conference premises)</td>
-        </tr>
+        </tr>        
         <tr>
           <td>2:00 PM - 3:00 PM</td>
+          <td>Keynote by Jason Hartford</td>
+        </tr>
+        <tr>
+          <td>3:00 PM - 4:30 PM</td>
           <td>Oral presentations</td>
         </tr>
         <tr>
-          <td>3:00 PM - 3:30 PM</td>
-          <td>Wrap-up</td>
-        </tr>
-        <tr>
-          <td>3:30 PM - 4:00 PM</td>
-          <td>Wrap-up drinks & snacks</td>
+          <td>4:30 PM - 5:30 PM</td>
+          <td>Wrap-up & cocktail</td>
         </tr>
       </tbody>
      </table>
@@ -358,7 +358,7 @@ This colloquium will several keynote speakers including Antoine Chambaz, Eric Ga
           </div></div>
         </div>
       </div>
-    </div>    
+    </div>
     <br/>
     <div class="row speaker">
       <div class="col-sm-3 speaker-pic">
@@ -386,6 +386,33 @@ This colloquium will several keynote speakers including Antoine Chambaz, Eric Ga
       </div>
     </div>
     <br/>
+    <!-- ########## -->
+    <br/>
+    <div class="row speaker">
+      <div class="col-sm-3 speaker-pic">
+        <a href="https://jhartford.github.io/" target="_blank">
+          <img class="people-pic" src="img/people/hartford.jpeg" />
+        </a>
+        <div class="people-name">
+          <a href="https://jhartford.github.io/" target="_blank">Jason Hartford</a>
+          <h6>Mila</h6>
+        </div>
+      </div>
+      <div class="col-sm-9">
+        <h3><b>Title:</b> TBD</h3><br />
+        <b>Abstract</b><p class="speaker-abstract">TBD</p>
+        <div class="panel panel-default">
+          <div class="panel-heading" data-toggle="collapse" href="#jhf-bio" style="cursor:pointer;text-align:center">
+            <b>Biography <span style="font-weight:normal">(click to expand/collapse)</span></b>
+          </div>
+          <div id="jhf-bio" class="panel-collapse collapse in"><div class="panel-body">
+            <p class="speaker-bio">Jason Hartford is a postdoctoral researcher at Mila with Yoshua Bengio. He holds a doctoral degree from the University of Bristish Columbia under the supervision of Kevin Leyton-Brown. He is broadly interested in how one can leverage structural assumptions about data generating processes to make flexible machine learning models generalize beyond the observed distribution of training data. Hence, he has been working on using deep learning for causal inference, and on designing deep network architectures for permutation invariant data. Since starting at Mila, he has been focusing on learning representations with identifiability guarantees.</p>
+          </div></div>
+        </div>
+      </div>
+    </div>
+    <br/>
+    <!-- ###### -->
     <div class="row speaker">
       <div class="col-sm-3 speaker-pic">
         <a href="https://janzing.github.io/">
