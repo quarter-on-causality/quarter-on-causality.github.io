@@ -2,7 +2,7 @@
 layout: layout_school
 urltitle:  "Spring School on Causality"
 title: "Spring School on Causality"
-categories: causality, tools, causal inference
+categories: causality, tools, causal inference, research school, mediation, instrumental variables
 permalink: /school/
 favicon: /quarter/img/icon.jpg
 bibtex: true

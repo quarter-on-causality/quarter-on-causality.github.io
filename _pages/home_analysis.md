@@ -333,34 +333,7 @@ This colloquium will several keynote speakers including Antoine Chambaz, Eric Ga
 <div class="row">
   <div class="col-xs-12"><a class="anchor" id="speakers"></a>
     <h2>Keynote Speakers</h2>
-    <br/>
-    <!-- <div class="row speaker">
-      <div class="col-sm-3 speaker-pic">
-        <a href="http://www.cs.columbia.edu/~blei">
-          <img class="people-pic" src="/analysis/img/people/blei.jpeg" />
-        </a>
-        <div class="people-name">
-          <a href="http://www.cs.columbia.edu/~blei">David Blei</a>
-          <h6>Columbia University</h6>
-        </div>
-      </div>
-      <div class="col-sm-9">
-        <h3><b>Title:</b> TBD</h3><br />
-        <b>Abstract</b><p class="speaker-abstract">TBD</p>
-        <div class="panel panel-default">
-          <div class="panel-heading" data-toggle="collapse" href="#dmb-bio" style="cursor:pointer;text-align:center">
-            <b>Biography <span style="font-weight:normal">(click to expand/collapse)</span></b>
-          </div>
-          <div id="dmb-bio" class="panel-collapse collapse in"><div class="panel-body">
-            <p class="speaker-bio">
-            David Blei is a professor of Statistics and Computer Science at Columbia University. 
-            He is also a member of the Columbia Data Science Institute. He works primarily in the fields of machine learning and Bayesian statistics.
-            </p>
-          </div></div>
-        </div>
-      </div>
-    </div>
-    <br/> -->
+    <br/>    
     <div class="row speaker">
       <div class="col-sm-3 speaker-pic">
         <a href="https://helios2.mi.parisdescartes.fr/~chambaz/index.php?choix=1">
@@ -380,7 +353,7 @@ This colloquium will several keynote speakers including Antoine Chambaz, Eric Ga
           </div>
           <div id="ac-bio" class="panel-collapse collapse in"><div class="panel-body">
             <p class="speaker-bio">
-            Antoine Chambaz is a Professor at Université Paris Cité, member of the applied mathematics laboratory (MAP5). He is the head of the Statistics group since June 2018, and the director of the FP2M research federation. From 2012 to 2017, he was a member of Modal'X, the stochastic modeling laboratory of Paris Nanterre University. He chaired Modal'X from February 2014 to October 2017. His main research interest is in theoretical, computational and applied statistics.
+            Antoine Chambaz is a professor at Université Paris Cité, member of the applied mathematics laboratory (MAP5). He is the head of the Statistics group since June 2018, and the director of the FP2M research federation. From 2012 to 2017, he was a member of Modal'X, the stochastic modeling laboratory of Paris Nanterre University. He chaired Modal'X from February 2014 to October 2017. His main research interest is in theoretical, computational and applied statistics.
             </p>
           </div></div>
         </div>
@@ -406,7 +379,7 @@ This colloquium will several keynote speakers including Antoine Chambaz, Eric Ga
           </div>
           <div id="dmb-bio" class="panel-collapse collapse in"><div class="panel-body">
             <p class="speaker-bio">
-            Eric Gaussier is a Professor of Computer Science at University Grenoble Alps and Director of the Grenoble Interdisciplinary Institute in Artificial Intelligence. His research lies at the intersection machine learning, information retrieval and computational linguistics. The data on which he has primarily worked are large-scale, multi-lingual collections and he is particularly interested in theoretical models that explain and take into account the properties of the collections considered, and in large-scale, practical implementations of these models. He has also been interested in modeling how (textual) information is shared in social (content) networks, and how such networks evolve over time. He has also worked on improving job scheduling techniques through machine learning, and in learning representations for different types of sequences, as texts and time series.
+            Eric Gaussier is a professor of Computer Science at University Grenoble Alps and Director of the Grenoble Interdisciplinary Institute in Artificial Intelligence. His research lies at the intersection machine learning, information retrieval and computational linguistics. The data on which he has primarily worked are large-scale, multi-lingual collections and he is particularly interested in theoretical models that explain and take into account the properties of the collections considered, and in large-scale, practical implementations of these models. He has also been interested in modeling how (textual) information is shared in social (content) networks, and how such networks evolve over time. He has also worked on improving job scheduling techniques through machine learning, and in learning representations for different types of sequences, as texts and time series.
             </p>
           </div></div>
         </div>
@@ -459,7 +432,7 @@ This colloquium will several keynote speakers including Antoine Chambaz, Eric Ga
           </div>
           <div id="yl-bio" class="panel-collapse collapse in"><div class="panel-body">
             <p class="speaker-bio">
-            Yingzhen Li is an Assistant Professor at the Department of Computing at Imperial College London. She is interested in building reliable machine learning systems which can generalize to unseen environments. She approaches this goal by using probabilistic modeling and representation learning, some of her research topics include: (deep) probabilistic graphical model design, fast and accurate (Bayesian) inference/computation techniques, uncertainty quantification for computation and downstream tasks, and robust and adaptive machine learning systems.
+            Yingzhen Li is an assistant professor at the Department of Computing at Imperial College London. She is interested in building reliable machine learning systems which can generalize to unseen environments. She approaches this goal by using probabilistic modeling and representation learning, some of her research topics include: (deep) probabilistic graphical model design, fast and accurate (Bayesian) inference/computation techniques, uncertainty quantification for computation and downstream tasks, and robust and adaptive machine learning systems.
             </p>
           </div></div>
         </div>
@@ -485,7 +458,7 @@ This colloquium will several keynote speakers including Antoine Chambaz, Eric Ga
           </div>
           <div id="dm-bio" class="panel-collapse collapse in"><div class="panel-body">
             <p class="speaker-bio">
-            Daniel Malinsky is an Assistant Professor of Biostatistics in the Mailman School of Public Health at Columbia University. His research focuses mostly on causal inference: developing statistical methods and machine learning tools to support inference about treatment effects, interventions, and policies. His current research topics include structure learning (a.k.a. causal discovery or causal model selection), semiparametric inference, time series analysis, and missing data. He also works on algorithmic fairness: understanding and counteracting the biases introduced by data science tools deployed in socially-impactful settings. Finally, He has interests in the philosophy of science and the foundations of statistics.
+            Daniel Malinsky is an assistant professor of Biostatistics in the Mailman School of Public Health at Columbia University. His research focuses mostly on causal inference: developing statistical methods and machine learning tools to support inference about treatment effects, interventions, and policies. His current research topics include structure learning (a.k.a. causal discovery or causal model selection), semiparametric inference, time series analysis, and missing data. He also works on algorithmic fairness: understanding and counteracting the biases introduced by data science tools deployed in socially-impactful settings. Finally, He has interests in the philosophy of science and the foundations of statistics.
             </p>
           </div></div>
         </div>
@@ -510,9 +483,7 @@ This colloquium will several keynote speakers including Antoine Chambaz, Eric Ga
             <b>Biography <span style="font-weight:normal">(click to expand/collapse)</span></b>
           </div>
           <div id="jp-bio" class="panel-collapse collapse in"><div class="panel-body">
-            <p class="speaker-bio">
-            Jonas Peters is a Professor in statistics at the Department of Mathematical Sciences at the University of Copenhagen. Previously, he has been a group leader at the Max-Planck-Institute for Intelligent Systems in Tuebingen and a Marie Curie fellow at the Seminar for Statistics, ETH Zurich. He studied Mathematics at the University of Heidelberg and the University of Cambridge and obtained his PhD jointly from MPI and ETH. He is interested in inferring causal relationships from different types of data and in building statistical methods that are robust with respect to distributional shifts. In his research, Peters seeks to combine theory, methodology, and applications. His work relates to areas such as computational statistics, causal inference, graphical models, independence testing or high-dimensional statistics.
-            </p>
+            <p class="speaker-bio">Jonas Peters is a professor of statistics at ETH Zurich. Previously, he has been a professor at the Department of Mathematical Sciences at the University of Copenhagen. He studied Mathematics at the University of Heidelberg and the University of Cambridge and obtained his PhD jointly from MPI and ETH. He is interested in inferring causal relationships from different types of data and in building statistical methods that are robust with respect to distributional shifts. In his research, Peters seeks to combine theory, methodology, and applications. His work relates to areas such as computational statistics, causal inference, graphical models, independence testing or high-dimensional statistics.</p>
           </div></div>
         </div>
       </div>
@@ -536,9 +507,7 @@ This colloquium will several keynote speakers including Antoine Chambaz, Eric Ga
             <b>Biography <span style="font-weight:normal">(click to expand/collapse)</span></b>
           </div>
           <div id="er-bio" class="panel-collapse collapse in"><div class="panel-body">
-            <p class="speaker-bio">
-            Elina Robeva is an Assistant Professor at the Department of Mathematics in the University of British Columbia in Vancouver, Canada. Her research lies at the intersection of mathematical statistics, machine learning, combinatorics, multi-linear algebra, and applied algebraic geometry. She particularly enjoys discovering mathematical structure which is inherently responsible for the successful solution to a statistical problem. Most recently she has been working on the theory of linear causal models, structured tensor decompositions, shape-constrained density estimation, and super-resolution imaging.
-            </p>
+            <p class="speaker-bio">Elina Robeva is an assistant professor at the Department of Mathematics in the University of British Columbia in Vancouver, Canada. Her research lies at the intersection of mathematical statistics, machine learning, combinatorics, multi-linear algebra, and applied algebraic geometry. She particularly enjoys discovering mathematical structure which is inherently responsible for the successful solution to a statistical problem. Most recently she has been working on the theory of linear causal models, structured tensor decompositions, shape-constrained density estimation, and super-resolution imaging.</p>
           </div></div>
         </div>
       </div>
@@ -590,8 +559,7 @@ This colloquium will several keynote speakers including Antoine Chambaz, Eric Ga
             <b>Biography <span style="font-weight:normal">(click to expand/collapse)</span></b>
           </div>
           <div id="by-bio" class="panel-collapse collapse in"><div class="panel-body">
-            <p class="speaker-bio">
-               Bin Yu is Chancellor's Distinguished Professor and Class of 1936 Second Chair in Statistics, EECS, and Computational Biology at UC Berkeley. Her research focuses on statistical machine learning practice and theory and interdisciplinary data problems in neuroscience, genomics, and precision medicine. She and her team developed in context iterative random forests (iRF), hierarchical shrinkage (HS) for decision trees, Fast Interpretable Greedy-Tree Sums (FIGS), stability-driven NMF (staNMF), and adaptive wavelet distillation (AWD) from deep learning models. She is a member of the National Academy of Sciences and American Academy of Arts and Sciences. She was a Guggenheim Fellow. She is to deliver the IMS Wald Lectures and COPSS DAAL (formerly Fisher) Lecture at JSM in Aug. 2023. She holds an Honorary Doctorate from The University of Lausanne.</p>
+            <p class="speaker-bio">Bin Yu is Chancellor's Distinguished Professor and Class of 1936 Second Chair in Statistics, EECS, and Computational Biology at UC Berkeley. Her research focuses on statistical machine learning practice and theory and interdisciplinary data problems in neuroscience, genomics, and precision medicine. She and her team developed in context iterative random forests (iRF), hierarchical shrinkage (HS) for decision trees, Fast Interpretable Greedy-Tree Sums (FIGS), stability-driven NMF (staNMF), and adaptive wavelet distillation (AWD) from deep learning models. She is a member of the National Academy of Sciences and American Academy of Arts and Sciences. She was a Guggenheim Fellow. She is to deliver the IMS Wald Lectures and COPSS DAAL (formerly Fisher) Lecture at JSM in Aug. 2023. She holds an Honorary Doctorate from The University of Lausanne.</p>
           </div></div>
         </div>
       </div>

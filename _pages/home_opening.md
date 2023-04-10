@@ -1,8 +1,8 @@
 ---
 layout: layout_opening
-urltitle:  "Opening"
-title:  "Opening"
-categories: causality, statistical analysis
+urltitle:  "Thematic Quarter on Causality - Opening Session"
+title:  "Thematic Quarter on Causality - Opening Session"
+categories: causality, statistical analysis, causal inference, instrumental variables
 permalink: /opening/
 favicon: /quarter/img/icon.jpg
 bibtex: true
@@ -185,7 +185,7 @@ acknowledgements: ""
             <b>Biography <span style="font-weight:normal">(click to expand/collapse)</span></b>
           </div>
           <div id="cm-bio" class="panel-collapse collapse in"><div class="panel-body">
-            <p class="speaker-bio">Caleb H. Miles is an Assistant Professor in the Department of Biostatistics at the Columbia University Mailman School of Public Health. He works on developing semi-parametric methods for causal inference and applying them to problems in public health. His applied work has largely been in HIV/AIDS, and he has more recently begun to work on psychiatric applications. His current methodological research interests include causal inference, its intersection with machine learning, mediation analysis, interference, and measurement error.</p>
+            <p class="speaker-bio">Caleb H. Miles is an assistant professor in the Department of Biostatistics at the Columbia University Mailman School of Public Health. He works on developing semi-parametric methods for causal inference and applying them to problems in public health. His applied work has largely been in HIV/AIDS, and he has more recently begun to work on psychiatric applications. His current methodological research interests include causal inference, its intersection with machine learning, mediation analysis, interference, and measurement error.</p>
           </div></div>
         </div>
       </div>
@@ -202,14 +202,14 @@ acknowledgements: ""
         </div>
       </div>
       <div class="col-sm-9">
-        <h3><b>Title:</b> TBD</h3><br />
-        <b>Abstract</b><p class="speaker-abstract">TBD</p>
+        <h3><b>Title:</b> More covariates than instruments -- what can we do?</h3><br />
+        <b>Abstract</b><p class="speaker-abstract">Exogenous heterogeneity, for example in the form of instrumental variables, can help us learn a system's underlying causal structure and predict the outcome of unseen intervention experiments. In this talk, we discuss this idea in a setting in which the causal effect from covariates on the response is generally not identifiable as there may be more covariates than instruments, for example.</p>
         <div class="panel panel-default">
           <div class="panel-heading" data-toggle="collapse" href="#jp-bio" style="cursor:pointer;text-align:center">
             <b>Biography <span style="font-weight:normal">(click to expand/collapse)</span></b>
           </div>
           <div id="jp-bio" class="panel-collapse collapse in"><div class="panel-body">
-            <p class="speaker-bio">Jonas Peters is a Professor in statistics at the Department of Mathematical Sciences at the University of Copenhagen. Previously, he has been a group leader at the Max-Planck-Institute for Intelligent Systems in Tuebingen and a Marie Curie fellow at the Seminar for Statistics, ETH Zurich. He studied Mathematics at the University of Heidelberg and the University of Cambridge and obtained his PhD jointly from MPI and ETH. He is interested in inferring causal relationships from different types of data and in building statistical methods that are robust with respect to distributional shifts. In his research, Peters seeks to combine theory, methodology, and applications. His work relates to areas such as computational statistics, causal inference, graphical models, independence testing or high-dimensional statistics.</p>
+            <p class="speaker-bio">Jonas Peters is a professor of statistics at ETH Zurich. Previously, he has been a professor at the Department of Mathematical Sciences at the University of Copenhagen. He studied Mathematics at the University of Heidelberg and the University of Cambridge and obtained his PhD jointly from MPI and ETH. He is interested in inferring causal relationships from different types of data and in building statistical methods that are robust with respect to distributional shifts. In his research, Peters seeks to combine theory, methodology, and applications. His work relates to areas such as computational statistics, causal inference, graphical models, independence testing or high-dimensional statistics.</p>
           </div></div>
         </div>
       </div>
@@ -233,7 +233,7 @@ acknowledgements: ""
             <b>Biography <span style="font-weight:normal">(click to expand/collapse)</span></b>
           </div>
           <div id="tr-bio" class="panel-collapse collapse in"><div class="panel-body">
-            <p class="speaker-bio">Thomas Richardson is a Professor in the Department of Statistics. He is also an Adjunct Professor in the Departments of Economics and Electrical Engineering and a member of the eScience Steering Committee. He received his BA from the University of Oxford and his MS and PhD from Carnegie Mellon University. He is a Fellow of the Center for Advanced Studies in the Behavioral Sciences at Stanford University. His research interests include Graphical Models and Causality.</p>
+            <p class="speaker-bio">Thomas Richardson is a professor in the Department of Statistics. He is also an adjunct professor in the Departments of Economics and Electrical Engineering and a member of the eScience Steering Committee. He received his BA from the University of Oxford and his MS and PhD from Carnegie Mellon University. He is a Fellow of the Center for Advanced Studies in the Behavioral Sciences at Stanford University. His research interests include Graphical Models and Causality.</p>
           </div></div>
         </div>
       </div>
@@ -258,7 +258,7 @@ acknowledgements: ""
             <b>Biography <span style="font-weight:normal">(click to expand/collapse)</span></b>
           </div>
           <div id="ns-bio" class="panel-collapse collapse in"><div class="panel-body">
-            <p class="speaker-bio">Nataliya Sokolovska is a full Professor at Sorbonne University. She holds a doctoral degree from Telecom ParisTech. Her research interests include graphical models, probabilistic inference, causal inference, interpretable models, semi-supervised learning, reinforcement learning, and game theory.</p>
+            <p class="speaker-bio">Nataliya Sokolovska is a full professor at Sorbonne University. She holds a doctoral degree from Telecom ParisTech. Her research interests include graphical models, probabilistic inference, causal inference, interpretable models, semi-supervised learning, reinforcement learning, and game theory.</p>
           </div></div>
         </div>
       </div>
