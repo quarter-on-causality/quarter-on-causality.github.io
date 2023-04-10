@@ -155,7 +155,9 @@ acknowledgements: ""
       </div>
       <div class="col-sm-9">
         <h3><b>Title: </b>Hierarchical Causal Models</h3><br />
-        <!-- <b>Abstract</b><p class="speaker-abstract">TBD</p> -->
+        <b>Abstract</b><p class="speaker-abstract"> Analyzing nested data with hierarchical models is a staple of Bayesian statistics, but causal modeling remains largely focused on "flat" models. In this talk, we will explore how to think about nested data in causal models, and consider the advantages of nested data over aggregate data (such as data means) for causal inference. We show that disaggregating your data---replacing a flat causal model with a hierarchical causal model---can provide new opportunities for identification and estimation. As examples, we will study how to identify and estimate causal effects under unmeasured confounders, interference, and instruments.
+        (This is a joint work with Eli Weinstein.)
+        </p>
         <div class="panel panel-default">
           <div class="panel-heading" data-toggle="collapse" href="#ab-bio" style="cursor:pointer;text-align:center">
             <b>Biography <span style="font-weight:normal">(click to expand/collapse)</span></b>
