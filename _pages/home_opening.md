@@ -228,8 +228,8 @@ acknowledgements: ""
         </div>
       </div>
       <div class="col-sm-9">
-        <h3><b>Title:</b> TBD</h3><br />
-        <b>Abstract</b><p class="speaker-abstract">TBD</p>
+        <h3><b>Title:</b> Single World Intervention Graphs</h3><br />
+        <b>Abstract</b><p class="speaker-abstract"> A simple framework for unifying causal graphs and potential outcomes with applications to mediation analysis Joint work with J.M. Robins (Harvard) and I. Shpitser (Johns Hopkins)</p>
         <div class="panel panel-default">
           <div class="panel-heading" data-toggle="collapse" href="#tr-bio" style="cursor:pointer;text-align:center">
             <b>Biography <span style="font-weight:normal">(click to expand/collapse)</span></b>
@@ -282,7 +282,7 @@ acknowledgements: ""
         <span class="authors">Martina Cinquini</span>
     </div>
     <div class="paper">
-        <span class="title">Causal Mechanism Alignment for Few-Shot Domain Adaptation</span>
+        <span class="title"><a href="posters/Cornille.pdf" target="_blank">Causal Mechanism Alignment for Few-Shot Domain Adaptation</a></span>
         <span class="authors">Nathan Cornille</span>
     </div>
     <div class="paper">
