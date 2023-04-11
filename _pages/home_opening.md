@@ -45,6 +45,7 @@ acknowledgements: ""
   <p> Participation is free of charge, but registration is mandatory.</p>
   <p> Please register <a href="https://forms.gle/Es2naUkpB1iChd2F6" target="_blank">here</a> <b>before April 7th AoE</b>.</p>  
   <p>All the talks will be at the <strong>Auditorium Hermite</strong>.</p>
+  <p>The conference will be broadcast <a href="https://www.ihp.fr/fr/live-0" target="_blank">here</a></p>
   </div>  
 </div>
 
