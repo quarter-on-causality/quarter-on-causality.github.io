@@ -345,8 +345,10 @@ This colloquium will several keynote speakers including Antoine Chambaz, Eric Ga
         </div>
       </div>
       <div class="col-sm-9">
-        <h3><b>Title:</b> TBD</h3><br />
-        <b>Abstract</b><p class="speaker-abstract">TBD</p>
+        <h3><b>Title:</b> Learning, evaluating and analyzing a recommendation rule for early blood transfer in the ICU</h3><br />
+        <b>Abstract</b><p class="speaker-abstract"> Severely injured patients experiencing hemorrhagic shock often require massive transfusion. Early transfusion of blood products (plasma, platelets and red blood cells) is common and associated with improved outcomes in the hospital. However, determining a right amount of blood products is still a matter of scientific debate.
+        The speaker will present and discuss a methodology to learn, evaluate and analyse a recommendation rule for early blood transfer in the ICU. The study uses data from the French Traumabase, a French observatory for Major Trauma.
+        This is a joint work with Pan Zhao (Inria), Julie Josse (Inria), Nicolas Gatulle (APHP) and the Traumabase Group.</p>
         <div class="panel panel-default">
           <div class="panel-heading" data-toggle="collapse" href="#ac-bio" style="cursor:pointer;text-align:center">
             <b>Biography <span style="font-weight:normal">(click to expand/collapse)</span></b>
