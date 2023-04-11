@@ -46,9 +46,14 @@ acknowledgements: ""
   <p> Please register <a href="https://forms.gle/Es2naUkpB1iChd2F6" target="_blank">here</a> <b>before April 7th AoE</b>.</p>  
   <p>All the talks will be at the <strong>Auditorium Hermite</strong>.</p>
   <p>The conference will be broadcast <a href="https://www.ihp.fr/fr/live-0" target="_blank">here</a></p>
+
+  <p>Join the Webex meeting <a href="https://inria.webex.com/inria-en/j.php?MTID=m94c51d4768e25750a84da7f98ec8a106" target="_blank">here</a> to ask questions online.</p>
+     <ul>
+       <li><strong>Meeting number (access code)</strong>: 2740 402 6513</li>
+       <li><strong>Meeting password</strong>: RKj6RBUav22</li>
+     </ul>
   </div>  
 </div>
-
 <br/>
 
 <div class="row">
