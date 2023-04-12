@@ -271,7 +271,7 @@ This colloquium will several keynote speakers including Antoine Chambaz, Eric Ga
         </tr>
         <tr>
           <td>2:00 PM - 3:00 PM</td>
-          <td>Keynote by Elina Robeva</td>
+          <td>Keynote by Jason Hartford</td>
         </tr>
         <tr>
           <td>3:00 PM - 4:00 PM</td>
@@ -315,7 +315,7 @@ This colloquium will several keynote speakers including Antoine Chambaz, Eric Ga
         </tr>        
         <tr>
           <td>2:00 PM - 3:00 PM</td>
-          <td>Keynote by Jason Hartford</td>
+          <td>Keynote by Elina Robeva</td>
         </tr>
         <tr>
           <td>3:00 PM - 4:30 PM</td>
@@ -373,8 +373,8 @@ This colloquium will several keynote speakers including Antoine Chambaz, Eric Ga
         </div>
       </div>
       <div class="col-sm-9">
-        <h3><b>Title:</b> TBD</h3><br />
-        <b>Abstract</b><p class="speaker-abstract">TBD</p>
+        <h3><b>Title:</b> Causal discovery and inference in time series</h3><br />
+        <b>Abstract</b><p class="speaker-abstract"> Time series are present in various forms in many different domains, as healthcare, Industry 4.0, monitoring systems or energy management to name but a few. Despite the presence of temporal information, discovering causal relations and identifying interventions in time series are not easy tasks, in particular when one is dealing with "incomplete" graphs. We will first discuss which causal graphs are relevant to time series and present methods to extract them from observational data and identify interventions in them.</p>
         <div class="panel panel-default">
           <div class="panel-heading" data-toggle="collapse" href="#dmb-bio" style="cursor:pointer;text-align:center">
             <b>Biography <span style="font-weight:normal">(click to expand/collapse)</span></b>
