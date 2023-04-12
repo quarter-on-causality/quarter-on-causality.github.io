@@ -453,8 +453,8 @@ This colloquium will several keynote speakers including Antoine Chambaz, Eric Ga
         </div>
       </div>
       <div class="col-sm-9">
-        <h3><b>Title:</b> TBD</h3><br />
-        <b>Abstract</b><p class="speaker-abstract">TBD</p>
+        <h3><b>Title:</b> Towards Causal Deep Generative Models for Sequential Data</h3><br />
+        <b>Abstract</b><p class="speaker-abstract"> One of my research dreams is to build a high-resolution video generation model that enables granularity controls in e.g., the scene appearance and the interactions between objects. I tried, and then realised the need of me inventing deep learning tricks for this goal is due to the issue of non-identifiability in my sequential deep generative models. In this talk I will discuss our research towards developing identifiable deep generative models in sequence modelling, and share some recent and on-going works regarding switching dynamic models. Throughout the talk I will highlight the balance between causality "Theorist" and deep learning "Alchemist", and discuss my opinions on the future of causal deep generative modelling research.</p>
         <div class="panel panel-default">
           <div class="panel-heading" data-toggle="collapse" href="#yl-bio" style="cursor:pointer;text-align:center">
             <b>Biography <span style="font-weight:normal">(click to expand/collapse)</span></b>
@@ -479,8 +479,8 @@ This colloquium will several keynote speakers including Antoine Chambaz, Eric Ga
         </div>
       </div>
       <div class="col-sm-9">
-        <h3><b>Title:</b> TBD</h3><br />
-        <b>Abstract</b><p class="speaker-abstract">TBD</p>
+        <h3><b>Title:</b> A Cautious Approach To Constraint-Based Causal Model Selection Based on Equivalence Tests</h3><br />
+        <b>Abstract</b><p class="speaker-abstract"> Causal graphical models are used many scientific domains to represent important causal assumptions about the processes that underlie collected data. The focus of this work is on graphical structure learning (a.k.a. causal discovery or model selection) for the “downstream” purpose of using the estimated graph for subsequent causal inference tasks, such as establishing the identifying formula for some causal effect of interest and then estimating it. An obstacle to having confidence in existing procedures in applied health science settings is that they tend to estimate structures that are overly sparse, i.e., missing too many edges. However, statistical “caution” (or “conservativism”) would err on the side of more dense graphs rather than more sparse graphs. This paper proposes to reformulate the conditional independence hypothesis tests of classical constraint-based algorithms as equivalence tests: test the null hypothesis of association greater than some (user-chosen, sample-size dependent) threshold, rather than test the null of no association. We argue this addresses several important statistical issues in applied causal model selection and leads to procedures with desirable behaviors and properties.</p>
         <div class="panel panel-default">
           <div class="panel-heading" data-toggle="collapse" href="#dm-bio" style="cursor:pointer;text-align:center">
             <b>Biography <span style="font-weight:normal">(click to expand/collapse)</span></b>
