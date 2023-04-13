@@ -426,8 +426,15 @@ This colloquium will several keynote speakers including Antoine Chambaz, Eric Ga
         </div>
       </div>
       <div class="col-sm-9">
-        <h3><b>Title:</b> TBD</h3><br />
-        <b>Abstract</b><p class="speaker-abstract">TBD</p>
+        <h3><b>Title:</b> Causal insights from merging data sets and merging data sets via causal insights</h3><br />
+        <b>Abstract</b><p class="speaker-abstract"> While humans often draw causal conclusions from putting observations into the broader context of causal knowledge, AI still needs to develop these techniques. I show how causal insights can be obtained from the synergy of datasets referring to different sets of variables and argue that causal hypotheses then predict joint properties of variables that have never been observed together. This way, causal discovery becomes a prediction task in which additional variable sets play the role of additional data points in traditional iid learning. For instance, a causal DAG can be seen as a binary classifier that tells us which conditional independences are valid, which then enables a statistical learning theory for learning DAGs.
+        I describe "Causal MaxEnt" (a modified version of MaxEnt that is asymmetric with respect to causal directions) as one potential approach to infer DAGs and properties of the joint distribution from a set of marginal distributions of subsets of variables and derive causal conclusions for toy examples. <br />
+        Further reading:
+          <ul> 
+            <li>[1] Dominik Janzing: Merging joint distributions via causal model classes with low VC dimension, arxiv:804.03206</li>
+            <li>[2] Sergio Garrido Mejia, Elke Kirschbaum, Dominik Janzing: Obtaining causal information by merging data sets with MaxEnt. AISTATS 2022 </li>
+            <li> [3] Dominik Janzing:  Causal versions of Maximum Entropy and Principle of Insufficient Reason, Journal of Causal Inference 2021.</li>
+          </ul></p>
         <div class="panel panel-default">
           <div class="panel-heading" data-toggle="collapse" href="#dj-bio" style="cursor:pointer;text-align:center">
             <b>Biography <span style="font-weight:normal">(click to expand/collapse)</span></b>
