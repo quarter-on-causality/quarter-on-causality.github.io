@@ -560,8 +560,8 @@ This colloquium will several keynote speakers including Antoine Chambaz, Eric Ga
         </div>
       </div>
       <div class="col-sm-9">
-        <h3><b>Title:</b> TBD</h3><br />
-        <b>Abstract</b><p class="speaker-abstract">TBD</p>
+        <h3><b>Title:</b> Beyond ICA: Causal Disentanglement via Interventions</h3><br />
+        <b>Abstract</b><p class="speaker-abstract"> Traditional methods for representation learning, such as independent component analysis (ICA), seek representations of observed data in terms of a set of independent variables. However, human reasoning relies on variables which are not statistically independent, such as height and weight. The emerging field of causal representation learning takes the view that the variables in a representation should not be statistically independent, but rather that they should be causally autonomous. From a generative modeling perspective, we may view learning such a representation as an inference problem, which we call "causal disentanglement". In this talk, I will outline a research program which aims to build a computational and statistical theory of causal disentanglement. I will discuss initial results in this program, including our own work proving identifiability of causal representations from interventions in a linear setting. I will conclude with an overview of future applications for these methods in biology, healthcare, and human-AI interaction.</p>
         <div class="panel panel-default">
           <div class="panel-heading" data-toggle="collapse" href="#ch-bio" style="cursor:pointer;text-align:center">
             <b>Biography <span style="font-weight:normal">(click to expand/collapse)</span></b>
