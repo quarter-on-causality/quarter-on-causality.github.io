@@ -226,7 +226,8 @@ This colloquium will several keynote speakers including Antoine Chambaz, Eric Ga
              <b>Oral presentations</b>
              <ul>
                <li>Anouar Meynaoui, Charles K. Assaad, Emilie Devijver, Eric Gaussier, and Gregor Gössler. Identifiability in time series extended summary causal graphs</li>
-               <li>Efficient and robust transfer learning of optimal individualized treatment regimes with right-censored survival data</li>
+               <li>Pan Zhao. Efficient and robust transfer learning of optimal individualized treatment regimes with right-censored survival data</li>
+               <li>Shiyang Yan. Out-of-distribution from a causal perspective: from domain generalization to OOD problems in ocean plankton analysis</li>
              </ul>
           </td>
         </tr>
@@ -316,7 +317,12 @@ This colloquium will several keynote speakers including Antoine Chambaz, Eric Ga
         </tr>
         <tr>
           <td>3:00 PM - 4:00 PM</td>
-          <td><b>Oral presentation</b>: Krikamol Muandet. Reliable Machine Learning with Instruments</td>
+          <td><b>Oral presentation</b>:
+             <ul>
+               <li>Krikamol Muandet. Reliable Machine Learning with Instruments</li>
+               <li>Sorawit Saengkyongam. Effect-Invariant Mechanisms for Policy Generalization</li>
+             </ul>
+          </td>
         </tr>
         <tr>
           <td>4:00 PM - 5:30 PM</td>
@@ -348,7 +354,12 @@ This colloquium will several keynote speakers including Antoine Chambaz, Eric Ga
         </tr>
 	      <tr>
           <td>11:30 AM - 12:30 AM</td>
-          <td><b>Oral presentation</b>: De Lara et al. Transport-Based Counterfactual Models</td>
+          <td><b>Oral presentations</b>:
+            <ul>
+              <li>De Lara et al. Transport-Based Counterfactual Models</li>
+              <li>Hugo Henri Joseph Senetaire, Damien Garreau, Jes Frellsen, Pierre-Alexandre Mattei. Explainability as statistical inference</li>
+            </ul>
+          </td>
         </tr>
         <tr>
           <td>12:30 PM - 2:00 PM</td>
@@ -444,18 +455,18 @@ This colloquium will several keynote speakers including Antoine Chambaz, Eric Ga
         </a>
         <div class="people-name">
           <a href="https://jhartford.github.io/" target="_blank">Jason Hartford</a>
-          <h6>Mila</h6>
+          <h6>Recursion Pharmaceutical</h6>
         </div>
       </div>
       <div class="col-sm-9">
-        <h3><b>Title:</b> TBD</h3><br />
-        <b>Abstract</b><p class="speaker-abstract">TBD</p>
+        <h3><b>Title:</b> Toward causal inference from high-dimensional observations</h3><br />
+        <b>Abstract</b><p class="speaker-abstract"> Over the last decade, biologists have developed a multitude of tools with which we can generate high-dimensional observations of biological systems. These tools either directly measure causal variables (e.g. the expression levels of genes) or they measure unstructured proxies for the causal variables (e.g. the pixels in an image of a cell). When these high-dimensional causal variables are directly measured, the relationship with outcomes of interest typically remains confounded so we need to rely on experimentation to identify causal effects. The challenge is (1) we often cannot intervene directly on the causal variables, and instead perturb them indirectly, and (2) the number of experiments that we can practically run is typically far fewer than the number of causal variables of interest. I will discuss how we can use instrumental variable methods to estimate causal effects in this regime, and show when we can estimate the causal effect with relatively few experiments despite being underspecified. The second part of my talk will focus on representation learning which is needed when we measure unstructured proxies for the causal variables. These modalities, such as images or sensor data can often be collected cheaply in experiments, but they are challenging to use in a causal inference pipeline without extensive feature engineering or labelling to extract underlying latent factors. I will present results from a series of recent papers that describe when we can disentangle latent variables with identifiability guarantees.</p>
         <div class="panel panel-default">
           <div class="panel-heading" data-toggle="collapse" href="#jhf-bio" style="cursor:pointer;text-align:center">
             <b>Biography <span style="font-weight:normal">(click to expand/collapse)</span></b>
           </div>
           <div id="jhf-bio" class="panel-collapse collapse in"><div class="panel-body">
-            <p class="speaker-bio">Jason Hartford is a postdoctoral researcher at Mila with Yoshua Bengio. He holds a doctoral degree from the University of Bristish Columbia under the supervision of Kevin Leyton-Brown. He is broadly interested in how one can leverage structural assumptions about data generating processes to make flexible machine learning models generalize beyond the observed distribution of training data. Hence, he has been working on using deep learning for causal inference, and on designing deep network architectures for permutation invariant data. Since starting at Mila, he has been focusing on learning representations with identifiability guarantees.</p>
+            <p class="speaker-bio">Jason Hartford is currently a Senior Research Scientist at Recursion Pharmaceutical. Previously, was a postdoc with Prof Yoshua Bengio at Mila where he worked on causal representation learning. Before joining Mila, he completed his Master's and PhD at the University of British Columbia with Prof Kevin Leyton-Brown where he worked on deep learning-based estimators of causal effects, and enforcing symmetries in neural networks. During his PhD he had internships at Microsoft Research New England and Redmond where he worked on deep learning approaches for causal inference.</p>
           </div></div>
         </div>
       </div>
@@ -718,12 +729,28 @@ This colloquium will several keynote speakers including Antoine Chambaz, Eric Ga
           <!-- <a class="btn btn-default" target="_blank" href="https://github.com/"><i class="fas fa-code"></i> Code</a> -->
         </div>
     </div>
+    <!--  -->    
+    <div class="paper">
+        <span class="title">Effect-Invariant Mechanisms for Policy Generalization</span>
+        <span class="authors">Sorawit Saengkyongam</span>
+        <!-- <div class="btn-group btn-group-xs" role="group">
+	        <a class="btn btn-default" target="_blank" href="https://arxiv.org/"><i class="fas fa-archive"></i> arXiv</a>
+        </div> -->
+    </div>
     <!--  -->
     <div class="paper">
         <span class="title">Efficient and robust transfer learning of optimal individualized treatment regimes with right-censored survival data</span>
         <span class="authors">Pan Zhao, Julie Josse, and Shu Yang</span>
         <div class="btn-group btn-group-xs" role="group">          
 	        <a class="btn btn-default" target="_blank" href="https://arxiv.org/abs/2301.05491"><i class="fas fa-archive"></i> arXiv</a>          
+        </div>
+    </div>
+    <!--  -->
+    <div class="paper">
+        <span class="title">Explainability as statistical inference</span>
+        <span class="authors">Hugo Henri Joseph Senetaire, Damien Garreau, Jes Frellsen, Pierre-Alexandre Mattei</span>
+        <div class="btn-group btn-group-xs" role="group">          
+	        <a class="btn btn-default" target="_blank" href="https://arxiv.org/abs/2212.03131"><i class="fas fa-archive"></i> arXiv</a>          
         </div>
     </div>
     <!--  -->
@@ -739,6 +766,15 @@ This colloquium will several keynote speakers including Antoine Chambaz, Eric Ga
     <div class="paper">
         <span class="title">Identifiability in time series extended summary causal graphs</span>
         <span class="authors">Anouar Meynaoui, Charles K. Assaad, Emilie Devijver, Eric Gaussier, and Gregor Gössler</span>
+        <!-- <div class="btn-group btn-group-xs" role="group">          
+	        <a class="btn btn-default" target="_blank" href="https://arxiv.org/"><i class="fas fa-archive"></i> arXiv</a>
+          <a class="btn btn-default" target="_blank" href="https://github.com/"><i class="fas fa-code"></i> Code</a>
+        </div> -->
+    </div>
+    <!--  -->    
+    <div class="paper">
+        <span class="title">Out-of-distribution from a causal perspective: from domain generalization to OOD problems in ocean plankton analysis</span>
+        <span class="authors">Shiyang Yan</span>
         <!-- <div class="btn-group btn-group-xs" role="group">          
 	        <a class="btn btn-default" target="_blank" href="https://arxiv.org/"><i class="fas fa-archive"></i> arXiv</a>
           <a class="btn btn-default" target="_blank" href="https://github.com/"><i class="fas fa-code"></i> Code</a>
