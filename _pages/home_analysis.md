@@ -375,7 +375,7 @@ This colloquium will several keynote speakers including Antoine Chambaz, Eric Ga
             <b>Oral presentations:</b>
             <ul>
               <li>Claire Theobald, Frédéric Pennerath, Brieuc Conan-Guez, Miguel Couceiro, and Amedeo Napoli. Clarity: an improved gradient method for producing quality visual counterfactual explanations</li>
-              <li>Carles Balsells Rodas</li>
+              <li>Carles Balsells Rodas. Causal discovery from conditionally stationary time series</li>
             </ul>
           </td>
         </tr>
@@ -674,8 +674,17 @@ This colloquium will several keynote speakers including Antoine Chambaz, Eric Ga
           <a class="btn btn-default" target="_blank" href="https://github.com/marti5ini/GENCDA"><i class="fas fa-code"></i> Code</a>
         </div>
     </div>    
+    <!--  -->    
+    <div class="paper"> 
+        <span class="title">Causal discovery from conditionally stationary time series</span>
+        <span class="authors">Carles Balsells Rodas, Ruibo Tu, Yingzhen Li, and Hedvig Kjellstrom</span>
+        <div class="btn-group btn-group-xs" role="group">          
+	        <a class="btn btn-default" target="_blank" href="https://openreview.net/forum?id=LIAN4ILH_68"><i class="fas fa-archive"></i> arXiv</a>
+          <!-- <a class="btn btn-default" target="_blank" href="https://github.com/"><i class="fas fa-code"></i> Code</a> -->
+        </div>
+    </div>
     <!--  -->
-    <div class="paper">
+    <div class="paper"> 
         <span class="title">Causal discovery for time series with constraint-based model and PMIME measure</span>
         <span class="authors">Antonin Arsac, Aurore Lomet, and Jean-Philippe Poli</span>
         <!-- <div class="btn-group btn-group-xs" role="group">          
@@ -692,7 +701,7 @@ This colloquium will several keynote speakers including Antoine Chambaz, Eric Ga
           <a class="btn btn-default" target="_blank" href="https://github.com/"><i class="fas fa-code"></i> Code</a>
         </div> -->
     </div>
-    <!--  -->
+    <!--  --> 
     <div class="paper">
         <span class="title">Causal Inference with Information Fields</span>
         <span class="authors">Benjamin Heymann, Michel De Lara, and Jean-Philippe Chancelier</span>
