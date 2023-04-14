@@ -140,10 +140,16 @@ This colloquium will several keynote speakers including Antoine Chambaz, Eric Ga
         <tr>
           <td>10:00 AM - 11:00 AM</td>
           <td>Keynote by Bin Yu</td>
-        </tr>	      
+        </tr>
 	      <tr>
           <td>11:30 AM - 12:30 PM</td>
-          <td>Oral presentations</td>
+          <td>
+              <b>Oral presentations</b>
+              <ul>
+                 <li>Víctor Elvira, Émilie Chouzenoux, Jordi Cerdà, and Gustau Camps-valls. Graphs in State-Space Models for Granger Causality in Climate Science</li>
+                 <li>Mouad El Bouchattaoui, Myriam Tami, Benoit Lepetit, and Paul-Henry Cournède. CDVAE: Estimating causal effects over time under unobserved adjustment variables</li>
+              </ul>
+          </td>
         </tr>
         <tr>
           <td>12:30 PM - 2:00 PM</td>
@@ -159,52 +165,23 @@ This colloquium will several keynote speakers including Antoine Chambaz, Eric Ga
         </tr>
         <tr>
           <td>4:00 PM - 6:00 PM</td>
-          <td>Oral presentations</td>
+          <td>
+              <b>Oral presentations</b>
+              <ul>
+                <li>Cinquini, Giannotti, and Guidotti, Boosting Synthetic Data Generation with Effective Nonlinear Causal Discovery.</li>
+                <li>Benjamin Heymann, Michel De Lara, and Jean-Philippe Chancelier. Causal Inference with Information Fields</li>
+                <li>Kirtan Padh, Jakob Zeitler, David Watson, Matt Kusner, Ricardo Silva, and Niki Kilbertus. Stochastic Causal Programming for Bounding Treatment Effects</li>
+              </ul>
+          </td>
+        </tr>
+        <tr>
+          <td>6:00 PM - 7:30 PM </td>
+          <td>Conference reception</td>
         </tr>
       </tbody>
       <thead class="thead-light">
 	      <tr>
 	        <th>Tuesday, 18 April</th>
-	        <th></th>
-        </tr>
-      </thead>
-      <tbody>
-        <tr>
-          <td>9:00 AM - 9:30 AM</td>
-          <td>Arrival & welcome coffee</td>
-        </tr>
-	      <tr>
-          <td>9:30 AM - 10:30 AM</td>
-          <td>Keynote by Dominik Janzing</td>
-        </tr>
-        <tr>
-          <td>10:30 AM - 11:00 AM</td>
-          <td>Coffee break</td>
-        </tr>
-	      <tr>
-          <td>11:30 AM - 12:30 AM</td>
-          <td>Oral presentations</td>
-        </tr>	      
-        <tr>
-          <td>12:30 PM - 2:00 PM</td>
-          <td>Lunch (buffet served on the conference premises)</td>
-        </tr>
-        <tr>
-          <td>2:00 PM - 3:00 PM</td>
-          <td>Keynote by Daniel Malinsky</td>
-        </tr>
-        <tr>
-          <td>3:00 PM - 3:30 PM</td>
-          <td>Coffee break</td>
-        </tr>
-        <tr>
-          <td>4:00 PM - 6:00 PM</td>
-          <td>Oral presentations</td>
-        </tr>
-      </tbody>
-      <thead class="thead-light">
-      	<tr>
-	        <th>Wednesday, April 19th</th>
 	        <th></th>
         </tr>
       </thead>
@@ -223,7 +200,65 @@ This colloquium will several keynote speakers including Antoine Chambaz, Eric Ga
         </tr>
 	      <tr>
           <td>11:30 AM - 12:30 AM</td>
-          <td>Oral presentations</td>
+          <td>
+             <b>Oral presentations</b>
+             <ul>
+               <li>Atalanti Mastakouri. Causal feature selection in time series data</li>
+               <li>Antonin Arsac, Aurore Lomet, and Jean-Philippe Poli. Causal discovery for time series with constraint-based model and PMIME measure</li>
+             </ul>
+          </td>
+        </tr>
+        <tr>
+          <td>12:30 PM - 2:00 PM</td>
+          <td>Lunch (buffet served on the conference premises)</td>
+        </tr>
+        <tr>
+          <td>2:00 PM - 3:00 PM</td>
+          <td>Keynote by Daniel Malinsky</td>
+        </tr>
+        <tr>
+          <td>3:00 PM - 3:30 PM</td>
+          <td>Coffee break</td>
+        </tr>
+        <tr>
+          <td>4:00 PM - 6:00 PM</td>
+          <td>
+             <b>Oral presentations</b>
+             <ul>
+               <li>Anouar Meynaoui, Charles K. Assaad, Emilie Devijver, Eric Gaussier, and Gregor Gössler. Identifiability in time series extended summary causal graphs</li>
+               <li>Efficient and robust transfer learning of optimal individualized treatment regimes with right-censored survival data</li>
+             </ul>
+          </td>
+        </tr>
+      </tbody>
+      <thead class="thead-light">
+      	<tr>
+	        <th>Wednesday, April 19th</th>
+	        <th></th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr>
+          <td>9:00 AM - 9:30 AM</td>
+          <td>Arrival & welcome coffee</td>
+        </tr>
+	      <tr>
+          <td>9:30 AM - 10:30 AM</td>
+          <td>Keynote by Dominik Janzing</td>
+        </tr>
+        <tr>
+          <td>10:30 AM - 11:00 AM</td>
+          <td>Coffee break</td>
+        </tr>
+	      <tr>
+          <td>11:30 AM - 12:30 AM</td>
+          <td>
+            <b>Oral presentations</b>
+             <ul>
+               <li>Simon Ferreira and Charles K. Assaad. Challenges of Root Cause Identification for Collective Anomalies in Time Series given a Summary Causal Graph</li>
+               <li>Yuchen Zhu</li>
+              </ul>
+          </td>
         </tr>
         <tr>
           <td>12:30 PM - 2:00 PM</td>
@@ -234,11 +269,11 @@ This colloquium will several keynote speakers including Antoine Chambaz, Eric Ga
           <td>Keynote by Chandler Squires</td>
         </tr>
         <tr>
-          <td>3:00 PM - 4:30 PM</td>
+          <td>3:00 PM - 4:00 PM</td>
           <td>Poster session I</td>
         </tr>
         <tr>
-          <td>5:00 PM - 7:00 PM</td>
+          <td>4:30 PM - 6:00 PM</td>
           <td>Social event</td>
         </tr>
       </tbody>
@@ -263,8 +298,10 @@ This colloquium will several keynote speakers including Antoine Chambaz, Eric Ga
         </tr>
 	      <tr>
           <td>11:30 AM - 12:30 AM</td>
-          <td>Oral presentations</td>
-        </tr>	      
+          <td>
+             <b>Oral presentation: </b>Junhyung Park. Towards a Measure-Theoretic Axiomatisation of Causality
+          </td>
+        </tr>
         <tr>
           <td>12:30 PM - 2:00 PM</td>
           <td>Lunch (buffet served on the conference premises)</td>
@@ -275,7 +312,7 @@ This colloquium will several keynote speakers including Antoine Chambaz, Eric Ga
         </tr>
         <tr>
           <td>3:00 PM - 4:00 PM</td>
-          <td>Oral presentations</td>
+          <td><b>Oral presentation</b>: Krikamol Muandet. Reliable Machine Learning with Instruments</td>
         </tr>
         <tr>
           <td>4:00 PM - 5:30 PM</td>
@@ -307,19 +344,25 @@ This colloquium will several keynote speakers including Antoine Chambaz, Eric Ga
         </tr>
 	      <tr>
           <td>11:30 AM - 12:30 AM</td>
-          <td>Oral presentations</td>
-        </tr>	      
+          <td><b>Oral presentation</b>: De Lara et al. Transport-Based Counterfactual Models</td>
+        </tr>
         <tr>
           <td>12:30 PM - 2:00 PM</td>
           <td>Lunch (buffet served on the conference premises)</td>
-        </tr>        
+        </tr>
         <tr>
           <td>2:00 PM - 3:00 PM</td>
           <td>Keynote by Elina Robeva</td>
         </tr>
         <tr>
           <td>3:00 PM - 4:30 PM</td>
-          <td>Oral presentations</td>
+          <td>
+            <b>Oral presentations:</b>
+            <ul>
+              <li>Claire Theobald, Frédéric Pennerath, Brieuc Conan-Guez, Miguel Couceiro, and Amedeo Napoli. Clarity: an improved gradient method for producing quality visual counterfactual explanations</li>
+              <li>Carles Balsells Rodas</li>
+            </ul>
+          </td>
         </tr>
         <tr>
           <td>4:30 PM - 5:30 PM</td>
@@ -431,9 +474,9 @@ This colloquium will several keynote speakers including Antoine Chambaz, Eric Ga
         I describe "Causal MaxEnt" (a modified version of MaxEnt that is asymmetric with respect to causal directions) as one potential approach to infer DAGs and properties of the joint distribution from a set of marginal distributions of subsets of variables and derive causal conclusions for toy examples. <br />
         Further reading:
           <ul> 
-            <li>[1] Dominik Janzing: Merging joint distributions via causal model classes with low VC dimension, arxiv:804.03206</li>
-            <li>[2] Sergio Garrido Mejia, Elke Kirschbaum, Dominik Janzing: Obtaining causal information by merging data sets with MaxEnt. AISTATS 2022 </li>
-            <li> [3] Dominik Janzing:  Causal versions of Maximum Entropy and Principle of Insufficient Reason, Journal of Causal Inference 2021.</li>
+            <li>[1] Dominik Janzing: <a href="https://arxiv.org/abs/1804.03206" target="_blank">Merging joint distributions via causal model classes with low VC dimension</a>, <a href="https://arxiv.org/abs/1804.03206" target="_blank">arxiv:1804.03206</a></li>
+            <li>[2] Sergio Garrido Mejia, Elke Kirschbaum, Dominik Janzing: <a href="https://proceedings.mlr.press/v151/garrido-mejia22a.html" target="_blank">Obtaining causal information by merging data sets with MaxEnt</a>. AISTATS 2022 </li>
+            <li> [3] Dominik Janzing:  <a href="https://assets.amazon.science/e8/11/a7e7967945bd924189948082d660/causal-versions-of-maximum-entropy-and-principle-of-insufficient-reason.pdf" target="_blank">Causal versions of Maximum Entropy and Principle of Insufficient Reason</a>, Journal of Causal Inference 2021.</li>
           </ul></p>
         <div class="panel panel-default">
           <div class="panel-heading" data-toggle="collapse" href="#dj-bio" style="cursor:pointer;text-align:center">
