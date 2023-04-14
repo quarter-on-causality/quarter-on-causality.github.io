@@ -654,16 +654,124 @@ This colloquium will several keynote speakers including Antoine Chambaz, Eric Ga
 <div class="row">
   <div class="col-xs-12"><a class="anchor" id="accepted-papers"></a>
     <h2>Accepted Papers</h2>
-    <p>To be announced soon</p>
-    <!-- <div class="paper">
-        <span class="title">Title</span>
-        <span class="authors">Authors</span>
-        <div class="btn-group btn-group-xs" role="group">
-          <button class="btn btn-poster-id">Poster #1</button>
+    <!-- <p>To be announced soon</p> -->
+    <div class="paper">
+        <span class="title">Boosting Synthetic Data Generation with Effective Nonlinear Causal Discovery</span>
+        <span class="authors">Cinquini, Giannotti and Guidotti</span>
+        <div class="btn-group btn-group-xs" role="group">          
+	        <a class="btn btn-default" target="_blank" href="https://arxiv.org/abs/2301.07427"><i class="fas fa-archive"></i> arXiv</a>
+          <a class="btn btn-default" target="_blank" href="https://github.com/marti5ini/GENCDA"><i class="fas fa-code"></i> Code</a>
+        </div>
+    </div>    
+    <!--  -->
+    <div class="paper">
+        <span class="title">Causal discovery for time series with constraint-based model and PMIME measure</span>
+        <span class="authors">Antonin Arsac, Aurore Lomet, and Jean-Philippe Poli</span>
+        <!-- <div class="btn-group btn-group-xs" role="group">          
 	        <a class="btn btn-default" target="_blank" href="https://arxiv.org/"><i class="fas fa-archive"></i> arXiv</a>
           <a class="btn btn-default" target="_blank" href="https://github.com/"><i class="fas fa-code"></i> Code</a>
+        </div> -->
+    </div>
+    <!--  -->
+    <div class="paper">
+        <span class="title">Causal feature selection in time series data</span>
+        <span class="authors">Atalanti Mastakouri</span>
+        <!-- <div class="btn-group btn-group-xs" role="group">          
+	        <a class="btn btn-default" target="_blank" href="https://arxiv.org/"><i class="fas fa-archive"></i> arXiv</a>
+          <a class="btn btn-default" target="_blank" href="https://github.com/"><i class="fas fa-code"></i> Code</a>
+        </div> -->
+    </div>
+    <!--  -->
+    <div class="paper">
+        <span class="title">Causal Inference with Information Fields</span>
+        <span class="authors">Benjamin Heymann, Michel De Lara, and Jean-Philippe Chancelier</span>
+        <!-- <div class="btn-group btn-group-xs" role="group">          
+	        <a class="btn btn-default" target="_blank" href="https://arxiv.org/"><i class="fas fa-archive"></i> arXiv</a>
+          <a class="btn btn-default" target="_blank" href="https://github.com/"><i class="fas fa-code"></i> Code</a>
+        </div> -->
+    </div>
+    <!--  -->
+    <div class="paper">
+        <span class="title">CDVAE: Estimating causal effects over time under unobserved adjustment variables</span>
+        <span class="authors">Mouad El Bouchattaoui, Myriam Tami, Benoit Lepetit, and Paul-Henry Cournède</span>
+        <!-- <div class="btn-group btn-group-xs" role="group">          
+	        <a class="btn btn-default" target="_blank" href="https://arxiv.org/"><i class="fas fa-archive"></i> arXiv</a>
+          <a class="btn btn-default" target="_blank" href="https://github.com/"><i class="fas fa-code"></i> Code</a>
+        </div> -->
+    </div>
+    <!--  -->
+    <div class="paper">
+        <span class="title">Challenges of Root Cause Identification for Collective Anomalies in Time Series given a Summary Causal Graph</span>
+        <span class="authors">Simon Ferreira and Charles K. Assaad</span>
+        <!-- <div class="btn-group btn-group-xs" role="group">          
+	        <a class="btn btn-default" target="_blank" href="https://arxiv.org/"><i class="fas fa-archive"></i> arXiv</a>
+          <a class="btn btn-default" target="_blank" href="https://github.com/"><i class="fas fa-code"></i> Code</a>
+        </div> -->
+    </div>
+    <!--  -->
+    <!--  -->
+    <div class="paper">
+        <span class="title">Clarity: an improved gradient method for producing quality visual counterfactual explanations</span>
+        <span class="authors">Claire Theobald, Frédéric Pennerath, Brieuc Conan-Guez, Miguel Couceiro, and Amedeo Napoli</span>
+        <div class="btn-group btn-group-xs" role="group">          
+	        <a class="btn btn-default" target="_blank" href="https://arxiv.org/abs/2211.15370"><i class="fas fa-archive"></i> arXiv</a>
+          <!-- <a class="btn btn-default" target="_blank" href="https://github.com/"><i class="fas fa-code"></i> Code</a> -->
         </div>
-    </div> -->
+    </div>
+    <!--  -->
+    <div class="paper">
+        <span class="title">Efficient and robust transfer learning of optimal individualized treatment regimes with right-censored survival data</span>
+        <span class="authors">Pan Zhao, Julie Josse, and Shu Yang</span>
+        <div class="btn-group btn-group-xs" role="group">          
+	        <a class="btn btn-default" target="_blank" href="https://arxiv.org/abs/2301.05491"><i class="fas fa-archive"></i> arXiv</a>          
+        </div>
+    </div>
+    <!--  -->
+    <div class="paper">
+        <span class="title">Graphs in State-Space Models for Granger Causality in Climate Science</span>
+        <span class="authors">Víctor Elvira, Émilie Chouzenoux, Jordi Cerdà, and Gustau Camps-Valls</span>
+        <!-- <div class="btn-group btn-group-xs" role="group">          
+	        <a class="btn btn-default" target="_blank" href="https://arxiv.org/"><i class="fas fa-archive"></i> arXiv</a>
+          <a class="btn btn-default" target="_blank" href="https://github.com/"><i class="fas fa-code"></i> Code</a>
+        </div> -->
+    </div>
+    <!--  -->
+    <div class="paper">
+        <span class="title">Identifiability in time series extended summary causal graphs</span>
+        <span class="authors">Anouar Meynaoui, Charles K. Assaad, Emilie Devijver, Eric Gaussier, and Gregor Gössler</span>
+        <!-- <div class="btn-group btn-group-xs" role="group">          
+	        <a class="btn btn-default" target="_blank" href="https://arxiv.org/"><i class="fas fa-archive"></i> arXiv</a>
+          <a class="btn btn-default" target="_blank" href="https://github.com/"><i class="fas fa-code"></i> Code</a>
+        </div> -->
+    </div>
+    <!--  -->
+    <div class="paper">
+        <span class="title">Reliable Machine Learning with Instruments</span>
+        <span class="authors">Krikamol Muandet</span>
+        <!-- <div class="btn-group btn-group-xs" role="group">          
+	        <a class="btn btn-default" target="_blank" href="https://arxiv.org/"><i class="fas fa-archive"></i> arXiv</a>
+          <a class="btn btn-default" target="_blank" href="https://github.com/"><i class="fas fa-code"></i> Code</a>
+        </div> -->
+    </div>
+    <!--  -->
+    <div class="paper">
+        <span class="title">Stochastic Causal Programming for Bounding Treatment Effects</span>
+        <span class="authors">Kirtan Padh, Jakob Zeitler, David Watson, Matt Kusner, Ricardo Silva, and Niki Kilbertus</span>
+        <div class="btn-group btn-group-xs" role="group">          
+	        <a class="btn btn-default" target="_blank" href="https://arxiv.org/abs/2202.10806v3"><i class="fas fa-archive"></i> arXiv</a>
+          <a class="btn btn-default" target="_blank" href="https://github.com/kirtanp/scp_bounds"><i class="fas fa-code"></i> Code</a>
+        </div>
+    </div>
+    <!--  -->
+    <div class="paper">
+        <span class="title">Towards a Measure-Theoretic Axiomatisation of Causality</span>
+        <span class="authors">Junhyung Park</span>
+        <!-- <div class="btn-group btn-group-xs" role="group">          
+	        <a class="btn btn-default" target="_blank" href="https://arxiv.org/"><i class="fas fa-archive"></i> arXiv</a>
+          <a class="btn btn-default" target="_blank" href="https://github.com/"><i class="fas fa-code"></i> Code</a>
+        </div> -->
+    </div>
+<!--  -->
     <br/><br/>
     <a class="anchor" id="invited-posters"></a>
     <h2>Invited Posters</h2>
