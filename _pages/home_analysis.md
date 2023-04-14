@@ -663,9 +663,8 @@ This colloquium will several keynote speakers including Antoine Chambaz, Eric Ga
 </div>
 
 <div class="row">
-  <div class="col-xs-12"><a class="anchor" id="accepted-papers"></a>
-    <h2>Accepted Papers</h2>
-    <!-- <p>To be announced soon</p> -->
+  <div class="col-xs-12"><a class="anchor" id="oral-presentations"></a>
+    <h2>Oral presentations</h2>    
     <div class="paper">
         <span class="title">Boosting Synthetic Data Generation with Effective Nonlinear Causal Discovery</span>
         <span class="authors">Cinquini, Giannotti and Guidotti</span>
@@ -827,19 +826,78 @@ This colloquium will several keynote speakers including Antoine Chambaz, Eric Ga
     </div>
 <!--  -->
     <br/><br/>
-    <a class="anchor" id="invited-posters"></a>
-    <h2>Invited Posters</h2>
-    <p>To be announced soon</p>
-    <!-- 
+    <a class="anchor" id="posters"></a>
+    <h2>Posters</h2>        
     <div class="paper">
-        <span class="title">Title</span>
-        <span class="authors">Authors</span>
+        <span class="title">Stochastic Causal Programming for Bounding Treatment Effects</span>
+        <span class="authors">Kirtan Padh</span>
         <div class="btn-group btn-group-xs" role="group">          
           <button class="btn btn-poster-id">Poster #1</button>
-	        <a class="btn btn-default" target="_blank" href="https://arxiv.org/"><i class="fas fa-archive"></i> arXiv</a>
-          <a class="btn btn-default" target="_blank" href="https://github.com/"><i class="fas fa-code"></i> Code</a>
+	        <a class="btn btn-default" target="_blank" href="https://arxiv.org/abs/2202.10806v3"><i class="fas fa-archive"></i> arXiv</a>
+          <a class="btn btn-default" target="_blank" href="https://github.com/kirtanp/scp_bounds"><i class="fas fa-code"></i> Code</a>
         </div>
-    </div>-->
+    </div>
+    <!--  -->
+    <div class="paper">
+        <span class="title">Uniform Inference in High-Dimensional Additive Models</span>
+        <span class="authors">Martin Spindler</span>
+        <div class="btn-group btn-group-xs" role="group">
+          <button class="btn btn-poster-id">Poster #2</button>
+	        <!-- <a class="btn btn-default" target="_blank" href="https://arxiv.org/a"><i class="fas fa-archive"></i> arXiv</a>
+          <a class="btn btn-default" target="_blank" href="https://github.com/"><i class="fas fa-code"></i> Code</a> -->
+        </div>
+    </div>
+    <!--  -->
+    <div class="paper">
+        <span class="title">Sequential Counterfactual Risk Minimization</span>
+        <span class="authors">Houssam Zenati</span>
+        <div class="btn-group btn-group-xs" role="group">
+          <button class="btn btn-poster-id">Poster #3</button>
+	        <!-- <a class="btn btn-default" target="_blank" href="https://arxiv.org/"><i class="fas fa-archive"></i> arXiv</a>
+          <a class="btn btn-default" target="_blank" href="https://github.com/"><i class="fas fa-code"></i> Code</a> -->
+        </div>
+    </div>
+    <!--  -->
+    <div class="paper">
+        <span class="title">A Guide for Practical Use of ADMG Causal Data Augmentation</span>
+        <span class="authors">Audrey Poinsot</span>
+        <div class="btn-group btn-group-xs" role="group">
+          <button class="btn btn-poster-id">Poster #4</button>
+	        <a class="btn btn-default" target="_blank" href="https://arxiv.org/abs/2304.01237"><i class="fas fa-archive"></i> arXiv</a>
+          <a class="btn btn-default" target="_blank" href="https://github.com/AudreyPoinsot/admg_data_augmentation"><i class="fas fa-code"></i> Code</a>
+        </div>
+    </div>
+    <!--  -->
+    <div class="paper">
+        <span class="title">A Neural Mean Embedding Approach for Back-door and Front-door Adjustment</span>
+        <span class="authors">Liyuan Xu</span>
+        <div class="btn-group btn-group-xs" role="group">
+          <button class="btn btn-poster-id">Poster #5</button>
+	        <a class="btn btn-default" target="_blank" href="https://arxiv.org/abs/2210.06610"><i class="fas fa-archive"></i> arXiv</a>
+          <!-- <a class="btn btn-default" target="_blank" href="https://github.com/"><i class="fas fa-code"></i> Code</a> -->
+        </div>
+    </div>
+    <!--  -->
+    <div class="paper">
+        <span class="title">Effect-Invariant Mechanisms for Policy Generalization</span>
+        <span class="authors">Sorawit Saengkyongam</span>
+        <div class="btn-group btn-group-xs" role="group">
+          <button class="btn btn-poster-id">Poster #6</button>
+	        <!-- <a class="btn btn-default" target="_blank" href="https://arxiv.org/"><i class="fas fa-archive"></i> arXiv</a>
+          <a class="btn btn-default" target="_blank" href="https://github.com/"><i class="fas fa-code"></i> Code</a> -->
+        </div>
+    </div>
+    <!--  -->
+    <div class="paper">
+        <span class="title">Causal Inference with Information Fields</span>
+        <span class="authors">Benjamin Heymann and Michel De Lara</span>
+        <div class="btn-group btn-group-xs" role="group">
+          <button class="btn btn-poster-id">Poster #7</button>
+	        <!-- <a class="btn btn-default" target="_blank" href="https://arxiv.org/"><i class="fas fa-archive"></i> arXiv</a>
+          <a class="btn btn-default" target="_blank" href="https://github.com/"><i class="fas fa-code"></i> Code</a> -->
+        </div>
+    </div>
+    <!--  -->
   </div>
 </div>
 <br/>
