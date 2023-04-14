@@ -299,7 +299,11 @@ This colloquium will several keynote speakers including Antoine Chambaz, Eric Ga
 	      <tr>
           <td>11:30 AM - 12:30 AM</td>
           <td>
-             <b>Oral presentation: </b>Junhyung Park. Towards a Measure-Theoretic Axiomatisation of Causality
+             <b>Oral presentations: </b>
+               <ul>
+                 <li>Junhyung Park. Towards a Measure-Theoretic Axiomatisation of Causality</li>
+                 <li>Alexander G. Reisach, Myriam Tami, Christof Seiler, Antoine Chambaz, and Sebastian Weichwald. <a href="https://arxiv.org/abs/2303.18211" target="_blank">Simple Sorting Criteria Help Find the Causal Order in Additive Noise Models</a></li>
+               </ul>
           </td>
         </tr>
         <tr>
@@ -711,35 +715,9 @@ This colloquium will several keynote speakers including Antoine Chambaz, Eric Ga
       <a href="#">Georges Oppenheim</a>
       <h6>Paris-Saclay University</h6>
     </div>
-  </div>
-  <div class="col-xs-2">
-    <a href="https://myriamtami.github.io" target="_blank">
-      <img class="people-pic" src="{{"/quarter/img/people/tami.jpeg" | prepend:site.baseurl }}">
-    </a>
-    <div class="people-name">
-      <a href="https://myriamtami.github.io" target="_blank">Myriam Tami</a>
-      <h6>CentraleSupélec, Paris-Saclay University</h6>
-    </div>
-  </div>
+  </div>  
 </div>
 <br>
-
-<!-- <div class="row">
-  <div class="col-xs-12"><a class="anchor" id="sponsors"></a>
-    <h2>Organized by</h2>
-  </div>
-</div>
-<div class="row"> 
-<div class="col-xs-4 award-sponsor">
-    <img src="/quarter/img/organizers_sponsors.jpg"/>
-  </div>  
-  <div class="col-xs-2 award-sponsor">
-    <img src="/quarter/img/scai.jpg"/>
-  </div>  
-  <div class="col-xs-1 award-sponsor">
-    <img src="/quarter/img/cnrs.png"/>
-  </div>  
-</div> -->
 
 <div class="row">
   <div class="col-xs-12"><a class="anchor" id="sponsors"></a>
