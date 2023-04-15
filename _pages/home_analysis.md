@@ -257,7 +257,7 @@ This colloquium will several keynote speakers including Antoine Chambaz, Eric Ga
             <b>Oral presentations</b>
              <ul>
                <li>Simon Ferreira and Charles K. Assaad. Challenges of Root Cause Identification for Collective Anomalies in Time Series given a Summary Causal Graph</li>
-               <li>Yuchen Zhu</li>
+               <li>Yuchen Zhu. TBD</li>
               </ul>
           </td>
         </tr>
@@ -376,6 +376,7 @@ This colloquium will several keynote speakers including Antoine Chambaz, Eric Ga
             <ul>
               <li>Claire Theobald, Frédéric Pennerath, Brieuc Conan-Guez, Miguel Couceiro, and Amedeo Napoli. Clarity: an improved gradient method for producing quality visual counterfactual explanations</li>
               <li>Carles Balsells Rodas. Causal discovery from conditionally stationary time series</li>
+              <li>Pardis Semnani. TBD</li>
             </ul>
           </td>
         </tr>
