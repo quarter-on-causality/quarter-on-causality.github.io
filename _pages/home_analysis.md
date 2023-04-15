@@ -257,7 +257,7 @@ This colloquium will several keynote speakers including Antoine Chambaz, Eric Ga
             <b>Oral presentations</b>
              <ul>
                <li>Simon Ferreira and Charles K. Assaad. Challenges of Root Cause Identification for Collective Anomalies in Time Series given a Summary Causal Graph</li>
-               <li>Yuchen Zhu. TBD</li>
+               <li>Yuchen Zhu. Relaxing Observability Assumption in Causal Inference with Kernel Methods</li>
               </ul>
           </td>
         </tr>
@@ -789,6 +789,15 @@ This colloquium will several keynote speakers including Antoine Chambaz, Eric Ga
           <a class="btn btn-default" target="_blank" href="https://github.com/"><i class="fas fa-code"></i> Code</a>
         </div> -->
     </div>
+    <!--  -->    
+    <div class="paper">
+        <span class="title">Relaxing Observability Assumption in Causal Inference with Kernel Methods</span>
+        <span class="authors">Yuchen Zhu</span>
+        <!-- <div class="btn-group btn-group-xs" role="group">          
+	        <a class="btn btn-default" target="_blank" href="https://arxiv.org/"><i class="fas fa-archive"></i> arXiv</a>
+          <a class="btn btn-default" target="_blank" href="https://github.com/"><i class="fas fa-code"></i> Code</a>
+        </div> -->
+    </div>
     <!--  -->
     <div class="paper">
         <span class="title">Reliable Machine Learning with Instruments</span>
@@ -898,6 +907,16 @@ This colloquium will several keynote speakers including Antoine Chambaz, Eric Ga
           <a class="btn btn-default" target="_blank" href="https://github.com/"><i class="fas fa-code"></i> Code</a> -->
         </div>
     </div>
+    <!--  -->
+    <div class="paper">
+        <span class="title"><a href="posters/Zhu_PMMR.pdf" target="_blank">Relaxing Observability Assumption in Causal Inference with Kernel Methods</a></span>
+        <span class="authors">Yuchen Zhu</span>
+        <div class="btn-group btn-group-xs" role="group">
+          <button class="btn btn-poster-id"><a href="posters/Zhu_PMMR.pdf" target="_blank">Poster #8</a></button>
+	        <!-- <a class="btn btn-default" target="_blank" href="https://arxiv.org/"><i class="fas fa-archive"></i> arXiv</a>
+          <a class="btn btn-default" target="_blank" href="https://github.com/"><i class="fas fa-code"></i> Code</a> -->
+        </div>
+    </div>    
     <!--  -->
   </div>
 </div>
