@@ -395,11 +395,11 @@ This colloquium will several keynote speakers including Antoine Chambaz, Eric Ga
     <br/>    
     <div class="row speaker">
       <div class="col-sm-3 speaker-pic">
-        <a href="https://helios2.mi.parisdescartes.fr/~chambaz/index.php?choix=1">
+        <a href="https://helios2.mi.parisdescartes.fr/~chambaz/index.php?choix=1" target="_blank">
           <img class="people-pic" src="/analysis/img/people/AC.jpeg" />
         </a>
         <div class="people-name">
-          <a href="https://helios2.mi.parisdescartes.fr/~chambaz/index.php?choix=1">Antoine Chambaz</a>
+          <a href="https://helios2.mi.parisdescartes.fr/~chambaz/index.php?choix=1" target="_blank">Antoine Chambaz</a>
           <h6>Paris Cité University</h6>
         </div>
       </div>
@@ -423,11 +423,11 @@ This colloquium will several keynote speakers including Antoine Chambaz, Eric Ga
     <br/>
     <div class="row speaker">
       <div class="col-sm-3 speaker-pic">
-        <a href="http://ama.liglab.fr/~gaussier">
+        <a href="http://ama.liglab.fr/~gaussier" target="_blank">
           <img class="people-pic" src="/quarter/img/people/EG.jpeg" />
         </a>
         <div class="people-name">
-          <a href="http://ama.liglab.fr/~gaussier">Eric Gaussier</a>
+          <a href="http://ama.liglab.fr/~gaussier" target="_blank">Eric Gaussier</a>
           <h6>University of Grenoble Alpes</h6>
         </div>
       </div>
@@ -476,11 +476,11 @@ This colloquium will several keynote speakers including Antoine Chambaz, Eric Ga
     <!-- ###### -->
     <div class="row speaker">
       <div class="col-sm-3 speaker-pic">
-        <a href="https://janzing.github.io/">
+        <a href="https://janzing.github.io/" target="_blank">
           <img class="people-pic" src="img/people/dj.jpeg" />
         </a>
         <div class="people-name">
-          <a href="https://janzing.github.io/">Dominik Janzing</a>
+          <a href="https://janzing.github.io/" target="_blank">Dominik Janzing</a>
           <h6>Amazon Research</h6>
         </div>
       </div>
@@ -510,11 +510,11 @@ This colloquium will several keynote speakers including Antoine Chambaz, Eric Ga
     <!--  -->
     <div class="row speaker">
       <div class="col-sm-3 speaker-pic">
-        <a href="http://yingzhenli.net/home/en/">
+        <a href="http://yingzhenli.net/home/en/" target="_blank">
           <img class="people-pic" src="img/people/yingzhen.jpeg" />
         </a>
         <div class="people-name">
-          <a href="http://yingzhenli.net/home/en">Yingzhen Li</a>
+          <a href="http://yingzhenli.net/home/en" target="_blank">Yingzhen Li</a>
           <h6>Imperial College London</h6>
         </div>
       </div>
@@ -586,11 +586,11 @@ This colloquium will several keynote speakers including Antoine Chambaz, Eric Ga
     <br/>    
     <div class="row speaker">
       <div class="col-sm-3 speaker-pic">
-        <a href="https://personal.math.ubc.ca/~erobeva">
+        <a href="https://personal.math.ubc.ca/~erobeva" target="_blank">
           <img class="people-pic" src="img/people/robeva.png" />
         </a>
         <div class="people-name">
-          <a href="https://personal.math.ubc.ca/~erobeva/">Elina Robeva</a>
+          <a href="https://personal.math.ubc.ca/~erobeva/" target="_blank">Elina Robeva</a>
           <h6>University of British Columbia </h6>
         </div>
       </div>
@@ -610,11 +610,11 @@ This colloquium will several keynote speakers including Antoine Chambaz, Eric Ga
     <br/>
     <div class="row speaker">
       <div class="col-sm-3 speaker-pic">
-        <a href="http://chandlersquires.com">
+        <a href="http://chandlersquires.com" target="_blank">
           <img class="people-pic" src="/analysis/img/people/squires.png" />
         </a>
         <div class="people-name">
-          <a href="http://chandlersquires.com">Chandler Squires</a>
+          <a href="http://chandlersquires.com" target="_blank">Chandler Squires</a>
           <h6>MIT</h6>
         </div>
       </div>
@@ -635,11 +635,11 @@ This colloquium will several keynote speakers including Antoine Chambaz, Eric Ga
     <br/>
     <div class="row speaker">
       <div class="col-sm-3 speaker-pic">
-        <a href="https://binyu.stat.berkeley.edu/">
+        <a href="https://binyu.stat.berkeley.edu/" target="_blank">
           <img class="people-pic" src="img/people/BYu.jpeg" />
         </a>
         <div class="people-name">
-          <a href="https://binyu.stat.berkeley.edu/">Bin Yu</a>
+          <a href="https://binyu.stat.berkeley.edu/" target="_blank">Bin Yu</a>
           <h6>University of California, Berkeley</h6>
         </div>
       </div>
