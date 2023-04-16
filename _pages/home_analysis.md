@@ -306,7 +306,7 @@ This colloquium will several keynote speakers including Antoine Chambaz, Eric Ga
         </tr>
         <tr>
           <td>4:30 PM - 6:00 PM</td>
-          <td>Social event: Visit the Museum of Arts and Crafts</td>
+          <td>Social event: Visit The Arts et Métiers Museum</td>
         </tr>
       </tbody>
       <thead class="thead-light">
@@ -351,16 +351,19 @@ This colloquium will several keynote speakers including Antoine Chambaz, Eric Ga
           <td>Keynote by Jason Hartford</td>
         </tr>
         <tr>
-          <td>3:00 PM - 4:00 PM</td>
+          <td>3:00 PM - 3:30 PM</td>
           <td><b>Oral presentation</b>:
-             <ul>
-               <li>Krikamol Muandet. Reliable Machine Learning with Instruments</li>
+             <ul>               
                <li>Sorawit Saengkyongam. Effect-Invariant Mechanisms for Policy Generalization</li>
              </ul>
           </td>
         </tr>
         <tr>
-          <td>4:00 PM - 5:30 PM</td>
+          <td>3:30 PM - 4:30 PM</td>
+          <td>Keynote by Krikamol Muandet</td>
+        </tr>
+        <tr>
+          <td>4:30 PM - 6:30 PM</td>
           <td>Poster session II</td>
         </tr>
         <tr>
@@ -597,7 +600,34 @@ This colloquium will several keynote speakers including Antoine Chambaz, Eric Ga
           </div></div>
         </div>
       </div>
+    </div>    
+    <!--  -->
+    <br/>
+    <div class="row speaker">
+      <div class="col-sm-3 speaker-pic">
+        <a href="https://www.krikamol.org/" target="_blank">
+          <img class="people-pic" src="/analysis/img/people/krikamol.jpg" />
+        </a>
+        <div class="people-name">
+          <a href="https://www.krikamol.org/" target="_blank">Krikamol Muandet</a>
+          <h6>CISPA - Helmholtz Center for Information Security</h6>
+        </div>
+      </div>
+      <div class="col-sm-9">
+        <h3><b>Title:</b> Reliable Machine Learning with Instruments</h3><br />
+        <b>Abstract</b><p class="speaker-abstract">Society is made up of a set of diverse individuals, demographic groups, and institutions. Learning and deploying algorithmic models across these heterogeneous environments face a set of various trade-offs. In order to develop reliable machine learning algorithms that can interact successfully with the real world, it is necessary to deal with such heterogeneity. In this talk, I will focus on how to employ an instrumental variable (IV) to alleviate the impact of unobserved confounders on the credibility of algorithmic decision-making and the reliability of machine learning models that are learned from observational and heterogeneous data. In particular, I will present how we can leverage tools from machine learning, namely, kernel methods and deep learning, to solve potentially ill-posed non-linear IV regression and proxy variable problems. Lastly, I will argue that a better understanding of the ways in which our data are generated and how our models can influence them will be crucial for reliable human-machine interactions, especially when gaining full information about data may not be possible.</p>
+        <div class="panel panel-default">
+          <div class="panel-heading" data-toggle="collapse" href="#km-bio" style="cursor:pointer;text-align:center">
+            <b>Biography <span style="font-weight:normal">(click to expand/collapse)</span></b>
+          </div>
+          <div id="km-bio" class="panel-collapse collapse in"><div class="panel-body">
+            <p class="speaker-bio">Krikamol Muandet is a chief scientist and tenure-track faculty (fast track) at CISPA - Helmholtz Center for Information Security which is within the Helmholtz Association. From 2018 to 2022, he was a research group leader affiliated with the Empirical Inference Department at Max Planck Institute for Intelligent Systems, Tübingen, Germany. From January 2016 to December 2017, he was a lecturer at the Department of Mathematics, Faculty of Science, Mahidol University in Thailand. He graduated summa cum laude with a PhD degree specializing in kernel methods in machine learning. His PhD advisor was Prof. Bernhard Schölkopf. He also obtained a master's degree with distinction in machine learning from University College London (UCL), United Kingdom. At UCL, He worked primarily in the Gatsby Unit with Prof. Yee Whye Teh. He has a broad interest in machine learning. His current research aims at creating and understanding intelligent machines that can learn via both observation and experimentation.</p>
+          </div></div>
+        </div>
+      </div>
     </div>
+    <br/>    
+    <!--  -->
     <br/>
     <div class="row speaker">
       <div class="col-sm-3 speaker-pic">
@@ -606,7 +636,7 @@ This colloquium will several keynote speakers including Antoine Chambaz, Eric Ga
         </a>
         <div class="people-name">
           <a href="http://web.math.ku.dk/~peters/" target="_blank">Jonas Peters</a>
-          <h6>University of Copenhagen</h6>
+          <h6>ETH Zurich</h6>
         </div>
       </div>
       <div class="col-sm-9">
@@ -622,7 +652,8 @@ This colloquium will several keynote speakers including Antoine Chambaz, Eric Ga
         </div>
       </div>
     </div>
-    <br/>    
+    <br/>
+    <!--  -->
     <div class="row speaker">
       <div class="col-sm-3 speaker-pic">
         <a href="https://personal.math.ubc.ca/~erobeva" target="_blank">

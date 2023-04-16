@@ -206,7 +206,7 @@ acknowledgements: ""
         </a>
         <div class="people-name">
           <a href="http://web.math.ku.dk/~peters/" target="_blank">Jonas Peters</a>
-          <h6>University of Copenhagen</h6>
+          <h6>ETH Zurich</h6>
         </div>
       </div>
       <div class="col-sm-9">
