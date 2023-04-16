@@ -112,6 +112,8 @@ This colloquium will several keynote speakers including Antoine Chambaz, Eric Ga
   <p>The <b>When Causal Inference meets Statistical Analysis</b> will be held at the <a href="https://www.cnam.eu/" target="_blank">National Conservatory of Arts and Crafts</a>, <b>Paris</b>, <b>France</b> from <b>April 17-21, 2023</b>.</p>
   <p> Participation is free of charge, but registration is mandatory.</p>
   <p> Please register <a href="https://forms.gle/YQRrWudVdHCP4q6d6" target="_blank">here</a> <b>before April 14th AoE</b>. Please let us know if you need letters for visa application.</p>
+<!--  -->
+  <p>All the talks will be at the <b>Auditorium Jean-Baptiste-Say</b>. It is located on the first underground floor and has independent access through entrance number one. See how to get to it <a href="venue/amphi-jean-baptiste-say.pdf" target="_blank">here</a>.</p>
   </div>
 </div>
 
@@ -119,8 +121,9 @@ This colloquium will several keynote speakers including Antoine Chambaz, Eric Ga
 
 <div class="row">
   <div class="col-xs-12"><a class="anchor" id="schedule"></a>
-     <h2>Preliminary schedule</h2>
+     <h2>Schedule</h2>
      <br>
+     <p>You can download the program <a href="When-Causal-Inference-Meets-Statistical-Analysis-booklet.pdf" target="_blank">here</a></p>
      <table class="table schedule" style="border:none !important;">
       <thead class="thead-light">
         <tr>
@@ -140,6 +143,10 @@ This colloquium will several keynote speakers including Antoine Chambaz, Eric Ga
         <tr>
           <td>10:00 AM - 11:00 AM</td>
           <td>Keynote by Bin Yu</td>
+        </tr>
+        <tr>
+          <td>11:00 AM - 11:30 AM</td>
+          <td>Coffee break</td>
         </tr>
 	      <tr>
           <td>11:30 AM - 12:30 PM</td>
@@ -164,15 +171,23 @@ This colloquium will several keynote speakers including Antoine Chambaz, Eric Ga
           <td>Coffee break</td>
         </tr>
         <tr>
+          <td>3:30 PM - 4:00 PM</td>
+          <td>Discussion group</td>
+        </tr>
+        <tr>
           <td>4:00 PM - 6:00 PM</td>
           <td>
               <b>Oral presentations</b>
               <ul>
-                <li>Cinquini, Giannotti, and Guidotti, Boosting Synthetic Data Generation with Effective Nonlinear Causal Discovery.</li>
+                <li>Martina Cinquini, Fosca Giannotti, and Riccardo Guidotti. Boosting Synthetic Data Generation with Effective Nonlinear Causal Discovery.</li>
                 <li>Benjamin Heymann, Michel De Lara, and Jean-Philippe Chancelier. Causal Inference with Information Fields</li>
                 <li>Kirtan Padh, Jakob Zeitler, David Watson, Matt Kusner, Ricardo Silva, and Niki Kilbertus. Stochastic Causal Programming for Bounding Treatment Effects</li>
               </ul>
           </td>
+        </tr>
+        <tr>
+          <td>5:30 PM - 6:00 PM</td>
+          <td>Discussion group</td>
         </tr>
         <tr>
           <td>6:00 PM - 7:30 PM </td>
@@ -198,8 +213,12 @@ This colloquium will several keynote speakers including Antoine Chambaz, Eric Ga
           <td>10:30 AM - 11:00 AM</td>
           <td>Coffee break</td>
         </tr>
+        <tr>
+          <td>11:00 AM - 11:30 AM</td>
+          <td>Discussion group</td>
+        </tr>
 	      <tr>
-          <td>11:30 AM - 12:30 AM</td>
+          <td>11:00 AM - 12:30 AM</td>
           <td>
              <b>Oral presentations</b>
              <ul>
@@ -221,6 +240,10 @@ This colloquium will several keynote speakers including Antoine Chambaz, Eric Ga
           <td>Coffee break</td>
         </tr>
         <tr>
+          <td>3:30 PM - 4:00 PM</td>
+          <td>Discussion group</td>
+        </tr>
+        <tr>
           <td>4:00 PM - 6:00 PM</td>
           <td>
              <b>Oral presentations</b>
@@ -230,6 +253,10 @@ This colloquium will several keynote speakers including Antoine Chambaz, Eric Ga
                <li>Shiyang Yan. Out-of-distribution from a causal perspective: from domain generalization to OOD problems in ocean plankton analysis</li>
              </ul>
           </td>
+        </tr>
+        <tr>
+          <td>5:30 PM - 6:00 PM</td>
+          <td>Discussion group</td>
         </tr>
       </tbody>
       <thead class="thead-light">
@@ -250,6 +277,10 @@ This colloquium will several keynote speakers including Antoine Chambaz, Eric Ga
         <tr>
           <td>10:30 AM - 11:00 AM</td>
           <td>Coffee break</td>
+        </tr>
+        <tr>
+          <td>11:00 AM - 11:30 AM</td>
+          <td>Discussion group</td>
         </tr>
 	      <tr>
           <td>11:30 AM - 12:30 AM</td>
@@ -275,7 +306,7 @@ This colloquium will several keynote speakers including Antoine Chambaz, Eric Ga
         </tr>
         <tr>
           <td>4:30 PM - 6:00 PM</td>
-          <td>Social event</td>
+          <td>Social event: Visit the Museum of Arts and Crafts</td>
         </tr>
       </tbody>
       <thead class="thead-light">
@@ -296,6 +327,10 @@ This colloquium will several keynote speakers including Antoine Chambaz, Eric Ga
         <tr>
           <td>10:30 AM - 11:00 AM</td>
           <td>Coffee break</td>
+        </tr>
+        <tr>
+          <td>11:00 AM - 11:30 AM</td>
+          <td>Discussion group</td>
         </tr>
 	      <tr>
           <td>11:30 AM - 12:30 AM</td>
@@ -330,7 +365,7 @@ This colloquium will several keynote speakers including Antoine Chambaz, Eric Ga
         </tr>
         <tr>
           <td>7:30 PM - 10:30 PM</td>
-          <td>Social dinner</td>
+          <td>Conference dinner at Le Procope restaurant</td>
         </tr>
       </tbody>
       <thead class="thead-light">
@@ -351,6 +386,10 @@ This colloquium will several keynote speakers including Antoine Chambaz, Eric Ga
         <tr>
           <td>10:30 AM - 11:00 AM</td>
           <td>Coffee break</td>
+        </tr>
+        <tr>
+          <td>11:00 AM - 11:30 AM</td>
+          <td>Discussion group</td>
         </tr>
 	      <tr>
           <td>11:30 AM - 12:30 AM</td>
@@ -668,7 +707,7 @@ This colloquium will several keynote speakers including Antoine Chambaz, Eric Ga
     <h2>Oral presentations</h2>    
     <div class="paper">
         <span class="title">Boosting Synthetic Data Generation with Effective Nonlinear Causal Discovery</span>
-        <span class="authors">Cinquini, Giannotti and Guidotti</span>
+        <span class="authors">Martina Cinquini, Fosca Giannotti, and Riccardo Guidotti</span>
         <div class="btn-group btn-group-xs" role="group">          
 	        <a class="btn btn-default" target="_blank" href="https://arxiv.org/abs/2301.07427"><i class="fas fa-archive"></i> arXiv</a>
           <a class="btn btn-default" target="_blank" href="https://github.com/marti5ini/GENCDA"><i class="fas fa-code"></i> Code</a>
