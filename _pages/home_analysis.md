@@ -376,7 +376,7 @@ This colloquium will several keynote speakers including Antoine Chambaz, Eric Ga
             <ul>
               <li>Claire Theobald, Frédéric Pennerath, Brieuc Conan-Guez, Miguel Couceiro, and Amedeo Napoli. Clarity: an improved gradient method for producing quality visual counterfactual explanations</li>
               <li>Carles Balsells Rodas. Causal discovery from conditionally stationary time series</li>
-              <li>Pardis Semnani. TBD</li>
+              <li>Pardis Semnani. Causal Inference in Directed, Possibly Cyclic, Graphical Models</li>
             </ul>
           </td>
         </tr>
@@ -595,8 +595,8 @@ This colloquium will several keynote speakers including Antoine Chambaz, Eric Ga
         </div>
       </div>
       <div class="col-sm-9">
-        <h3><b>Title:</b> TBD</h3><br />
-        <b>Abstract</b><p class="speaker-abstract">TBD</p>
+        <h3><b>Title:</b> Learning Linear Non-Gaussian Causal Models via Higher Moment Relationships</h3><br />
+        <b>Abstract</b><p class="speaker-abstract"> In this talk we will discuss the problem of learning the directed graph for a linear non-Gaussian causal model. We will specifically address the cases where the graph may have cycles or there might be hidden variables. While ICA methods are able to recover the correct graph, they do not always guarantee to have found the optimal solution. Our methods are based on using specific relationships that hold among the 2nd and 3rd moments of the random vector and can help us characterize the graph. While in the acyclic case, the directed graph can be found uniquely, when cycles are allowed the graph can be learned up to an equivalence class. We give a description of all the graphs that each equivalence class consists of. We then give an algorithm based on relationships among the second and third order moments of the random vector that recovers the equivalence class of the graph, assuming the graph lies in a specific family of cyclic graphs. This is joint work in progress with Mathias Drton, Marina Garrote-Lopez, and Niko Nikov.</p>
         <div class="panel panel-default">
           <div class="panel-heading" data-toggle="collapse" href="#er-bio" style="cursor:pointer;text-align:center">
             <b>Biography <span style="font-weight:normal">(click to expand/collapse)</span></b>
@@ -696,6 +696,15 @@ This colloquium will several keynote speakers including Antoine Chambaz, Eric Ga
     <div class="paper">
         <span class="title">Causal feature selection in time series data</span>
         <span class="authors">Atalanti Mastakouri</span>
+        <!-- <div class="btn-group btn-group-xs" role="group">          
+	        <a class="btn btn-default" target="_blank" href="https://arxiv.org/"><i class="fas fa-archive"></i> arXiv</a>
+          <a class="btn btn-default" target="_blank" href="https://github.com/"><i class="fas fa-code"></i> Code</a>
+        </div> -->
+    </div>
+    <!--  -->    
+    <div class="paper">
+        <span class="title">Causal Inference in Directed, Possibly Cyclic, Graphical Models</span>
+        <span class="authors">Pardis Semnani</span>
         <!-- <div class="btn-group btn-group-xs" role="group">          
 	        <a class="btn btn-default" target="_blank" href="https://arxiv.org/"><i class="fas fa-archive"></i> arXiv</a>
           <a class="btn btn-default" target="_blank" href="https://github.com/"><i class="fas fa-code"></i> Code</a>
