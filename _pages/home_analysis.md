@@ -878,14 +878,14 @@ This colloquium will several keynote speakers including Antoine Chambaz, Eric Ga
         </div> -->
     </div>
     <!--  -->
-    <div class="paper">
+    <!-- <div class="paper">
         <span class="title">Reliable Machine Learning with Instruments</span>
         <span class="authors">Krikamol Muandet</span>
-        <!-- <div class="btn-group btn-group-xs" role="group">          
+        <div class="btn-group btn-group-xs" role="group">          
 	        <a class="btn btn-default" target="_blank" href="https://arxiv.org/"><i class="fas fa-archive"></i> arXiv</a>
           <a class="btn btn-default" target="_blank" href="https://github.com/"><i class="fas fa-code"></i> Code</a>
-        </div> -->
-    </div>
+        </div>
+    </div> -->
     <!--  -->
     <div class="paper">
         <span class="title">Simple Sorting Criteria Help Find the Causal Order in Additive Noise Models</span>
