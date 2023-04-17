@@ -398,7 +398,7 @@ This colloquium will several keynote speakers including Antoine Chambaz, Eric Ga
           <td>11:30 AM - 12:30 AM</td>
           <td><b>Oral presentations</b>:
             <ul>
-              <li>De Lara et al. Transport-Based Counterfactual Models</li>
+              <li>Lucas de Lara. Transport-Based Counterfactual Models</li>
               <li>Hugo Henri Joseph Senetaire, Damien Garreau, Jes Frellsen, Pierre-Alexandre Mattei. Explainability as statistical inference</li>
             </ul>
           </td>
