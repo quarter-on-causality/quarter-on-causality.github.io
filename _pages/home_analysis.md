@@ -942,8 +942,8 @@ This colloquium will several keynote speakers including Antoine Chambaz, Eric Ga
         <span class="authors">Martin Spindler</span>
         <div class="btn-group btn-group-xs" role="group">
           <button class="btn btn-poster-id">Poster #2</button>
-	        <!-- <a class="btn btn-default" target="_blank" href="https://arxiv.org/a"><i class="fas fa-archive"></i> arXiv</a>
-          <a class="btn btn-default" target="_blank" href="https://github.com/"><i class="fas fa-code"></i> Code</a> -->
+	        <a class="btn btn-default" target="_blank" href="https://arxiv.org/abs/2004.01623"><i class="fas fa-archive"></i> arXiv</a>
+          <!-- <a class="btn btn-default" target="_blank" href="https://github.com/"><i class="fas fa-code"></i> Code</a> -->
         </div>
     </div>
     <!--  -->
