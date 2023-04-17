@@ -251,6 +251,7 @@ This colloquium will several keynote speakers including Antoine Chambaz, Eric Ga
                <li>Anouar Meynaoui, Charles K. Assaad, Emilie Devijver, Eric Gaussier, and Gregor Gössler. Identifiability in time series extended summary causal graphs</li>
                <li>Pan Zhao. Efficient and robust transfer learning of optimal individualized treatment regimes with right-censored survival data</li>
                <li>Shiyang Yan. Out-of-distribution from a causal perspective: from domain generalization to OOD problems in ocean plankton analysis</li>
+               <li>Martin Spindler. Uniform Inference in High-Dimensional Generalized Additive Models</li>
              </ul>
           </td>
         </tr>
@@ -857,7 +858,7 @@ This colloquium will several keynote speakers including Antoine Chambaz, Eric Ga
         <!-- <div class="btn-group btn-group-xs" role="group">          
 	        <a class="btn btn-default" target="_blank" href="https://arxiv.org/"><i class="fas fa-archive"></i> arXiv</a>
           <a class="btn btn-default" target="_blank" href="https://github.com/"><i class="fas fa-code"></i> Code</a>
-        </div> -->
+        </div> --> 
     </div>
     <!--  -->    
     <div class="paper">
@@ -912,8 +913,17 @@ This colloquium will several keynote speakers including Antoine Chambaz, Eric Ga
 	        <a class="btn btn-default" target="_blank" href="https://arxiv.org/"><i class="fas fa-archive"></i> arXiv</a>
           <a class="btn btn-default" target="_blank" href="https://github.com/"><i class="fas fa-code"></i> Code</a>
         </div> -->
+    </div>    
+  <!--  -->    
+    <div class="paper">
+        <span class="title">Uniform Inference in High-Dimensional Generalized Additive Models</span>
+        <span class="authors">Philipp Bach, Sven Klaassen, Jannis Kueck, Martin Spindler</span>
+        <div class="btn-group btn-group-xs" role="group">          
+	        <a class="btn btn-default" target="_blank" href="https://arxiv.org/abs/2004.01623"><i class="fas fa-archive"></i> arXiv</a>
+          <!-- <a class="btn btn-default" target="_blank" href="https://github.com/"><i class="fas fa-code"></i> Code</a> -->
+        </div>
     </div>
-<!--  -->
+  <!--  -->
     <br/><br/>
     <a class="anchor" id="posters"></a>
     <h2>Posters</h2>        
