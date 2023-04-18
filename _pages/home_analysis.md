@@ -255,10 +255,6 @@ This colloquium will several keynote speakers including Antoine Chambaz, Eric Ga
              </ul>
           </td>
         </tr>
-        <tr>
-          <td>5:30 PM - 6:00 PM</td>
-          <td>Discussion group</td>
-        </tr>
       </tbody>
       <thead class="thead-light">
       	<tr>
