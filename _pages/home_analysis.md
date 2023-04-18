@@ -218,7 +218,7 @@ This colloquium will several keynote speakers including Antoine Chambaz, Eric Ga
           <td>Discussion group</td>
         </tr>
 	      <tr>
-          <td>11:00 AM - 12:30 AM</td>
+          <td>11:30 AM - 12:30 AM</td>
           <td>
              <b>Oral presentations</b>
              <ul>
@@ -641,8 +641,8 @@ This colloquium will several keynote speakers including Antoine Chambaz, Eric Ga
         </div>
       </div>
       <div class="col-sm-9">
-        <h3><b>Title:</b> TBD</h3><br />
-        <b>Abstract</b><p class="speaker-abstract">TBD</p>
+        <h3><b>Title:</b> Statistical Testing under Distributional Shifts and its Application to Causality</h3><br />
+        <b>Abstract</b><p class="speaker-abstract"> We discuss the problem of statistical testing under distributional shifts. In such problems, we are interested in the hypothesis P in H0 for a target distribution P, but observe data from a different distribution Q. We assume that P is related to Q through a known shift tau and formally introduce hypothesis testing in this setting. We propose a general testing procedure that first resamples from the observed data to construct an auxiliary data set and then applies an existing test in the target domain. This proposal comes with theoretical guarantees. Testing under distributional shifts allows us to tackle a diverse set of problems. We argue that it may prove useful in reinforcement learning and covariate shift, we show how it reduces conditional to unconditional independence testing and we provide example applications in causal inference. This is joint work with Nikolaj Thams, Sorawit Saenkyongam, and Niklas Pfister.</p>
         <div class="panel panel-default">
           <div class="panel-heading" data-toggle="collapse" href="#jp-bio" style="cursor:pointer;text-align:center">
             <b>Biography <span style="font-weight:normal">(click to expand/collapse)</span></b>
