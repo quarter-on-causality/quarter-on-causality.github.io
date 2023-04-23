@@ -249,7 +249,7 @@ This colloquium will several keynote speakers including Antoine Chambaz, Eric Ga
              <b>Oral presentations</b>
              <ul>
                <li>Anouar Meynaoui, Charles K. Assaad, Emilie Devijver, Eric Gaussier, and Gregor Gössler. Identifiability in time series extended summary causal graphs</li>
-               <li>Pan Zhao. Efficient and robust transfer learning of optimal individualized treatment regimes with right-censored survival data</li>
+               <li>Pan Zhao. Efficient and robust transfer learning of optimal individualized treatment regimes with right-censored survival data <strong>[<a href="slides/ZhaoEfficientTransferLearningSurvivalData.pdf" target="_blank">Slides</a>]</strong></li>
                <li>Shiyang Yan. Out-of-distribution from a causal perspective: from domain generalization to OOD problems in ocean plankton analysis <strong>[<a href="slides/Yan_OODCausalPerspective.pdf" target="_blank">Slides</a>]</strong></li>
                <li>Martin Spindler. Uniform Inference in High-Dimensional Generalized Additive Models <strong>[<a href="slides/Spindler_DoubleMLUniformHighDimensionalAdditiveModels.pdf" target="_blank">Slides</a>]</strong></li>
              </ul>
