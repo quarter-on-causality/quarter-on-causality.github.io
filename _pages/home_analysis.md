@@ -154,7 +154,7 @@ This colloquium will several keynote speakers including Antoine Chambaz, Eric Ga
               <b>Oral presentations</b>
               <ul>
                  <li>Víctor Elvira, Émilie Chouzenoux, Jordi Cerdà, and Gustau Camps-valls. Graphs in State-Space Models for Granger Causality in Climate Science</li>
-                 <li>Mouad El Bouchattaoui, Myriam Tami, Benoit Lepetit, and Paul-Henry Cournède. CDVAE: Estimating causal effects over time under unobserved adjustment variables</li>
+                 <li>Mouad El Bouchattaoui, Myriam Tami, Benoit Lepetit, and Paul-Henry Cournède. CDVAE: Estimating causal effects over time under unobserved adjustment variables <strong>[<a href="slides/El-Bouchattaoui_CDVAE.pdf" target="_blank">Slides</a>]</strong></li>
               </ul>
           </td>
         </tr>
@@ -164,7 +164,7 @@ This colloquium will several keynote speakers including Antoine Chambaz, Eric Ga
         </tr>
         <tr>
           <td>2:00 PM - 3:00 PM</td>
-          <td>Keynote by Eric Gaussier</td>
+          <td>Keynote by Eric Gaussier <strong>[<a href="slides/Gaussier_CausalInferenceTimeSeries.pdf" target="_blank">Slides</a>]</strong></td>
         </tr>
         <tr>
           <td>3:00 PM - 3:30 PM</td>
@@ -179,9 +179,9 @@ This colloquium will several keynote speakers including Antoine Chambaz, Eric Ga
           <td>
               <b>Oral presentations</b>
               <ul>
-                <li>Martina Cinquini, Fosca Giannotti, and Riccardo Guidotti. Boosting Synthetic Data Generation with Effective Nonlinear Causal Discovery.</li>
-                <li>Benjamin Heymann, Michel De Lara, and Jean-Philippe Chancelier. Causal Inference with Information Fields</li>
-                <li>Kirtan Padh, Jakob Zeitler, David Watson, Matt Kusner, Ricardo Silva, and Niki Kilbertus. Stochastic Causal Programming for Bounding Treatment Effects</li>
+                <li>Martina Cinquini, Fosca Giannotti, and Riccardo Guidotti. Boosting Synthetic Data Generation with Effective Nonlinear Causal Discovery</li>
+                <li>Benjamin Heymann, Michel De Lara, and Jean-Philippe Chancelier. Causal Inference with Information Fields <strong>[<a href="slides/Heymann_CausalInferenceTheoryIDM.pdf" target="_blank">Slides</a>]</strong></li>
+                <li>Kirtan Padh, Jakob Zeitler, David Watson, Matt Kusner, Ricardo Silva, and Niki Kilbertus. Stochastic Causal Programming for Bounding Treatment Effects <strong>[<a href="slides/Padh_SmC.pdf" target="_blank">Slides</a>]</strong></li>
               </ul>
           </td>
         </tr>
@@ -207,7 +207,7 @@ This colloquium will several keynote speakers including Antoine Chambaz, Eric Ga
         </tr>
 	      <tr>
           <td>9:30 AM - 10:30 AM</td>
-          <td>Keynote by Yingzhen Li</td>
+          <td>Keynote by Yingzhen Li <strong>[<a href="slides/Li_TowardsCausalDGM.pdf" target="_blank">Slides</a>]</strong></td>
         </tr>
         <tr>
           <td>10:30 AM - 11:00 AM</td>
@@ -223,7 +223,7 @@ This colloquium will several keynote speakers including Antoine Chambaz, Eric Ga
              <b>Oral presentations</b>
              <ul>
                <li>Atalanti Mastakouri. Causal feature selection in time series data</li>
-               <li>Antonin Arsac, Aurore Lomet, and Jean-Philippe Poli. Causal discovery for time series with constraint-based model and PMIME measure</li>
+               <li>Antonin Arsac, Aurore Lomet, and Jean-Philippe Poli. Causal discovery for time series with constraint-based model and PMIME measure <strong>[<a href="slides/Arsac_CausalDiscoveryTimeSeriesPMINE.pdf" target="_blank">Slides</a>]</strong></li>
              </ul>
           </td>
         </tr>
@@ -251,7 +251,7 @@ This colloquium will several keynote speakers including Antoine Chambaz, Eric Ga
                <li>Anouar Meynaoui, Charles K. Assaad, Emilie Devijver, Eric Gaussier, and Gregor Gössler. Identifiability in time series extended summary causal graphs</li>
                <li>Pan Zhao. Efficient and robust transfer learning of optimal individualized treatment regimes with right-censored survival data</li>
                <li>Shiyang Yan. Out-of-distribution from a causal perspective: from domain generalization to OOD problems in ocean plankton analysis</li>
-               <li>Martin Spindler. Uniform Inference in High-Dimensional Generalized Additive Models</li>
+               <li>Martin Spindler. Uniform Inference in High-Dimensional Generalized Additive Models <strong>[<a href="slides/Spindler_DoubleMLUniformHighDimensionalAdditiveModels.pdf" target="_blank">Slides</a>]</strong></li>
              </ul>
           </td>
         </tr>
@@ -269,7 +269,7 @@ This colloquium will several keynote speakers including Antoine Chambaz, Eric Ga
         </tr>
 	      <tr>
           <td>9:30 AM - 10:30 AM</td>
-          <td>Keynote by Dominik Janzing</td>
+          <td>Keynote by Dominik Janzing <strong>[<a href="slides/Janzing_CausalInsightsMergingDataSets.pdf" target="_blank">Slides</a>]</strong></td>
         </tr>
         <tr>
           <td>10:30 AM - 11:00 AM</td>
@@ -284,7 +284,7 @@ This colloquium will several keynote speakers including Antoine Chambaz, Eric Ga
           <td>
             <b>Oral presentations</b>
              <ul>
-               <li>Simon Ferreira and Charles K. Assaad. Challenges of Root Cause Identification for Collective Anomalies in Time Series given a Summary Causal Graph</li>
+               <li>Simon Ferreira and Charles K. Assaad. Challenges of Root Cause Identification for Collective Anomalies in Time Series given a Summary Causal Graph <strong>[<a href="slides/Ferreira_CycleRCA.pdf" target="_blank">Slides</a>]</strong></li>
                <li>Yuchen Zhu. Relaxing Observability Assumption in Causal Inference with Kernel Methods</li>
               </ul>
           </td>
@@ -295,7 +295,7 @@ This colloquium will several keynote speakers including Antoine Chambaz, Eric Ga
         </tr>
         <tr>
           <td>2:00 PM - 3:00 PM</td>
-          <td>Keynote by Chandler Squires</td>
+          <td>Keynote by Chandler Squires <strong>[<a href="slides/Squires_BeyondICA.pdf" target="_blank">Slides</a>]</strong></td>
         </tr>
         <tr>
           <td>3:00 PM - 4:00 PM</td>
@@ -334,7 +334,7 @@ This colloquium will several keynote speakers including Antoine Chambaz, Eric Ga
           <td>
              <b>Oral presentations: </b>
                <ul>
-                 <li>Junhyung Park. Towards a Measure-Theoretic Axiomatisation of Causality</li>
+                 <li>Junhyung Park. Towards a Measure-Theoretic Axiomatisation of Causality <strong>[<a href="slides/Park_AxiomatisationOfCausality.pdf" target="_blank">Slides</a>]</strong></li>
                  <li>Alexander G. Reisach, Myriam Tami, Christof Seiler, Antoine Chambaz, and Sebastian Weichwald. <a href="https://arxiv.org/abs/2303.18211" target="_blank">Simple Sorting Criteria Help Find the Causal Order in Additive Noise Models</a></li>
                </ul>
           </td>
@@ -365,7 +365,7 @@ This colloquium will several keynote speakers including Antoine Chambaz, Eric Ga
         </tr>
         <tr>
           <td>7:30 PM - 10:30 PM</td>
-          <td>Conference dinner at Le Procope restaurant</td>
+          <td>Conference dinner at <a href="https://goo.gl/maps/WYQb1BqUYNNFxipe7" target="_blank">Le Procope restaurant</a></td>
         </tr>
       </tbody>
       <thead class="thead-light">
@@ -395,8 +395,8 @@ This colloquium will several keynote speakers including Antoine Chambaz, Eric Ga
           <td>11:30 AM - 12:30 AM</td>
           <td><b>Oral presentations</b>:
             <ul>
-              <li>Lucas de Lara. Transport-Based Counterfactual Models</li>
-              <li>Hugo Henri Joseph Senetaire, Damien Garreau, Jes Frellsen, Pierre-Alexandre Mattei. Explainability as statistical inference</li>
+              <li>Lucas de Lara. When Causality Meets Optimal Transport <strong>[<a href="slides/DeLara_CausalityOT.pdf" target="_blank">Slides</a>]</strong></li>
+              <li>Hugo Henri Joseph Senetaire, Damien Garreau, Jes Frellsen, Pierre-Alexandre Mattei. Explainability as statistical inference <strong>[<a href="slides/Henri_LEX.pdf" target="_blank">Slides</a>]</strong></li>
             </ul>
           </td>
         </tr>
@@ -413,8 +413,8 @@ This colloquium will several keynote speakers including Antoine Chambaz, Eric Ga
           <td>
             <b>Oral presentations:</b>
             <ul>
-              <li>Claire Theobald, Frédéric Pennerath, Brieuc Conan-Guez, Miguel Couceiro, and Amedeo Napoli. Clarity: an improved gradient method for producing quality visual counterfactual explanations</li>
-              <li>Carles Balsells Rodas. Causal discovery from conditionally stationary time series</li>
+              <li>Claire Theobald, Frédéric Pennerath, Brieuc Conan-Guez, Miguel Couceiro, and Amedeo Napoli. Clarity: an improved gradient method for producing quality visual counterfactual explanations <strong>[<a href="slides/Theobald_Clarity.pdf" target="_blank">Slides</a>]</strong></li>
+              <li>Carles Balsells Rodas. Causal discovery from conditionally stationary time series <strong>[<a href="slides/Balsells-Rodas_CausalDiscoveryConditionallyStationaryTimeSeries.pdf" target="_blank">Slides</a>]</strong></li>
               <li>Pardis Semnani. Causal Inference in Directed, Possibly Cyclic, Graphical Models</li>
             </ul>
           </td>
