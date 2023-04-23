@@ -415,7 +415,7 @@ This colloquium will several keynote speakers including Antoine Chambaz, Eric Ga
             <ul>
               <li>Claire Theobald, Frédéric Pennerath, Brieuc Conan-Guez, Miguel Couceiro, and Amedeo Napoli. Clarity: an improved gradient method for producing quality visual counterfactual explanations <strong>[<a href="slides/Theobald_Clarity.pdf" target="_blank">Slides</a>]</strong></li>
               <li>Carles Balsells Rodas. Causal discovery from conditionally stationary time series <strong>[<a href="slides/Balsells-Rodas_CausalDiscoveryConditionallyStationaryTimeSeries.pdf" target="_blank">Slides</a>]</strong></li>
-              <li>Pardis Semnani. Causal Inference in Directed, Possibly Cyclic, Graphical Models</li>
+              <li>Pardis Semnani. Causal Inference in Directed, Possibly Cyclic, Graphical Models <strong>[<a href="slides/Semnani_CausalInferenceDirectedPossiblyCyclicGraphicalModels.pdf" target="_blank">Slides</a>]</strong></li>
             </ul>
           </td>
         </tr>
