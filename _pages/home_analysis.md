@@ -335,7 +335,7 @@ This colloquium will several keynote speakers including Antoine Chambaz, Eric Ga
              <b>Oral presentations: </b>
                <ul>
                  <li>Junhyung Park. Towards a Measure-Theoretic Axiomatisation of Causality <strong>[<a href="slides/Park_AxiomatisationOfCausality.pdf" target="_blank">Slides</a>]</strong></li>
-                 <li>Alexander G. Reisach, Myriam Tami, Christof Seiler, Antoine Chambaz, and Sebastian Weichwald. <a href="https://arxiv.org/abs/2303.18211" target="_blank">Simple Sorting Criteria Help Find the Causal Order in Additive Noise Models</a></li>
+                 <li>Alexander G. Reisach, Myriam Tami, Christof Seiler, Antoine Chambaz, and Sebastian Weichwald. <a href="https://arxiv.org/abs/2303.18211" target="_blank">Simple Sorting Criteria Help Find the Causal Order in Additive Noise Models</a> <strong>[<a href="slides/Reisach_RSortability.pdf" target="_blank">Slides</a>]</strong></li>
                </ul>
           </td>
         </tr>
