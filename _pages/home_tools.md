@@ -44,6 +44,27 @@ acknowledgements: ""
 </div> <br>
 
 <div class="row">
+  <div class="col-xs-12"><a class="anchor" id="registration"></a>
+  <h2>Registration</h2>
+  <p>The <b>Tools for Causality</b> will be held at the <a href="https://escandille.com/" target="_blank">Escandille</a>, <b>Autrans-Méaudre-en-Vercors</b>, <b>France</b> from <b>May 22nd to May 26th, 2023</b>.</p>
+  
+  <p> We offer full board at the Escandille from Sunday May 21 evening to Friday May 26 noon.</p>
+
+  <p>
+     The contribution to costs are:
+     <ul>
+       <li>350 euros for a single room</li>
+       <li>300 euros for a twin room</li>
+     </ul>
+     Payment is made at the time of booking by credit card.
+  </p>
+  
+  <p> Please register <a href="https://causalityschool.sciencesconf.org/registration" target="_blank">here</a> <b>before May 19th AoE</b> and pay your inscription <a href="https://www.azur-colloque.fr/UGA/inscription/inscription/179/en" target="_blank">here</a></p>
+  </div>
+</div>
+
+
+<div class="row">
   <div class="col-xs-12"><a class="anchor" id="schedule"></a>
      <h2>Schedule</h2>
      <br>     
