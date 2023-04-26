@@ -406,7 +406,7 @@ This colloquium will several keynote speakers including Antoine Chambaz, Eric Ga
         </tr>
         <tr>
           <td>2:00 PM - 3:00 PM</td>
-          <td>Keynote by Elina Robeva</td>
+          <td>Keynote by Elina Robeva <strong>[<a href="slides/Robeva_LiNGCM.pdf" target="_blank">Slides</a>]</strong></td>
         </tr>
         <tr>
           <td>3:00 PM - 4:30 PM</td>
