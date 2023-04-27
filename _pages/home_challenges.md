@@ -164,7 +164,7 @@ acknowledgements: ""
       <tbody>
         <tr>
           <td>9:00am - 10:30am</td>
-          <td>Keynote by H. Isambert</td>
+          <td>Keynote by M. Sébag - <i>Causal Modeling through i/ Adversarial Learning and ii/ Inverse Covariance Matrix Decomposition</td>
         </tr>
 	      <tr>
           <td>10:30am - 11:00am</td>
@@ -189,7 +189,7 @@ acknowledgements: ""
         </tr>
 	      <tr>
           <td>2:00pm - 3:30pm</td>
-          <td>Keynote by J. Runge</td>
+		      <td>Keynote by J. Runge (with Urmi Ninad) - <i></i></td>
         </tr>
 	      <tr>
           <td>3:30pm - 4:00pm</td>
@@ -197,7 +197,7 @@ acknowledgements: ""
         </tr>
 	      <tr>
           <td>4:00pm - 5:30pm</td>
-          <td>Keynote by M. Sébag</td>
+		      <td>Keynote by H. Isambert - </i></td>
         </tr>
       </tbody>
       <thead class="thead-light">
@@ -209,7 +209,7 @@ acknowledgements: ""
       <tbody>
         <tr>
           <td>9:00am - 10:30am</td>
-          <td>Keynote by I. Shpitser</td>
+		<td>Keynote by I. Shpitser (with Amireamd Ghassami) - <i></i></td>
         </tr>
 	      <tr>
           <td>10:30am - 11:00am</td>
@@ -225,7 +225,7 @@ acknowledgements: ""
         </tr>
 	      <tr>
           <td>2:00pm - 3:30pm</td>
-          <td>Keynote by M. van der Schaar</td>
+          <td>Keynote by M. van der Schaar - <i>Causal Deep Learning</i></td>
         </tr>
 	      <tr>
           <td>3:30pm - 4:00pm</td>
@@ -258,7 +258,7 @@ acknowledgements: ""
       <tbody>
         <tr>
           <td>9:00am - 10:30am</td>
-          <td>Keynote by K. Zhang</td>
+		<td>Keynote by K. Zhang - <i>Causal Representation Learning: Successes and Challenges</i></td>
         </tr>
 	      <tr>
           <td>10:30am - 10:45am</td>
