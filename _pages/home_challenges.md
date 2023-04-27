@@ -197,7 +197,7 @@ acknowledgements: ""
         </tr>
 	      <tr>
           <td>4:00pm - 5:30pm</td>
-		      <td>Keynote by H. Isambert - </i></td>
+		      <td>Keynote by H. Isambert - <i></i></td>
         </tr>
       </tbody>
       <thead class="thead-light">
