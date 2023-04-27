@@ -381,7 +381,7 @@ This colloquium will several keynote speakers including Antoine Chambaz, Eric Ga
         </tr>
 	      <tr>
           <td>9:30 AM - 10:30 AM</td>
-          <td>Keynote by Antoine Chambaz</td>
+          <td>Keynote by Antoine Chambaz <strong>[<a href="slides/Chambaz_RecommendationRuleBloodTransferICU.pdf" target="_blank">Slides</a>]</strong></td>
         </tr>
         <tr>
           <td>10:30 AM - 11:00 AM</td>

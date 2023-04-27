@@ -164,7 +164,7 @@ acknowledgements: ""
       <tbody>
         <tr>
           <td>9:00am - 10:30am</td>
-          <td>Keynote by M. Sébag - <i>Causal Modeling through i/ Adversarial Learning and ii/ Inverse Covariance Matrix Decomposition</td>
+          <td>Keynote by M. Sébag - <i>Causal Modeling through (i) Adversarial Learning and (ii) Inverse Covariance Matrix Decomposition</i></td>
         </tr>
 	      <tr>
           <td>10:30am - 11:00am</td>
@@ -173,15 +173,15 @@ acknowledgements: ""
         <tr>
           <td>11:00am - 12:30pm</td>
           <td>Oral presentations
-		<ul>
-			<li>Francois Bettega, Sébastien Bailly and Clemence Leyrat - <i>Application of inverse-probability-of-treatment weighting to estimate the effect of daytime sleepi- ness in obstructive sleep apnea patients</i></li>
-			<li>Junhyung Park, Simon Buchholz, Bernhard Schölkopf and Krikamol Muandet - <i>Towards a Measure-Theoretic Axiomatisation of Causality</i></li>
-			<li>Florian Peter Busch, Moritz Willig, Matej Zečević, Kristian Kersting and Devendra Dhami - <i>Computing Counterfactuals using Sum-Product Networks</i></li>
-			<li>Martin Spindler, Philipp Bach, Oliver Schacht and Malte Kurz - <i>Different Data Splitting Schemes for Double Machine Learning -- A Comparison</i></li>
-			<li>Daria Bystrova, Charles Assaad, Sara Si-Moussi and Wilfried Thuiller - <i>Causal discovery from point-in-time observational data collected from ecological dynamic systems</i></li>
-			<li>Nathan Cornille, Marie-Francine Moens and Katrien Laenen - <i>Investigating the Effect of Causal Mechanism Alignment on Transfer Learning for Few-Shot Video Prediction</i></li>
-		</ul>	
-	   </td>
+            <ul>
+              <li>Francois Bettega, Sébastien Bailly and Clemence Leyrat - <i>Application of inverse-probability-of-treatment weighting to estimate the effect of daytime sleepi- ness in obstructive sleep apnea patients</i></li>
+              <li>Junhyung Park, Simon Buchholz, Bernhard Schölkopf and Krikamol Muandet - <i>Towards a Measure-Theoretic Axiomatisation of Causality</i></li>
+              <li>Florian Peter Busch, Moritz Willig, Matej Zečević, Kristian Kersting and Devendra Dhami - <i>Computing Counterfactuals using Sum-Product Networks</i></li>
+              <li>Martin Spindler, Philipp Bach, Oliver Schacht and Malte Kurz - <i>Different Data Splitting Schemes for Double Machine Learning -- A Comparison</i></li>
+              <li>Daria Bystrova, Charles Assaad, Sara Si-Moussi and Wilfried Thuiller - <i>Causal discovery from point-in-time observational data collected from ecological dynamic systems</i></li>
+              <li>Nathan Cornille, Marie-Francine Moens and Katrien Laenen - <i>Investigating the Effect of Causal Mechanism Alignment on Transfer Learning for Few-Shot Video Prediction</i></li>
+            </ul>	
+	        </td>
         </tr>
 	      <tr>
           <td>12:30pm - 2:00pm</td>
@@ -199,7 +199,7 @@ acknowledgements: ""
           <td>4:00pm - 5:30pm</td>
 		      <td>Keynote by H. Isambert - <i></i></td>
         </tr>
-      </tbody>
+      </tbody>      
       <thead class="thead-light">
       	<tr>
 	        <th>Thursday 11 May</th>
@@ -303,7 +303,7 @@ acknowledgements: ""
         </div>
       </div>
       <div class="col-sm-9">
-	  <h3><b>Title:</b> TBD</h3><br />
+	  <h3><b>Title:</b> Combining randomized and observational studies</h3><br />
         <b>Abstract</b><p class="speaker-abstract">TBD</p>
         <div class="panel panel-default">
           <div class="panel-heading" data-toggle="collapse" href="#re-bio" style="cursor:pointer;text-align:center">
@@ -389,7 +389,7 @@ Robins Evans is an Associate Professor in Statistics at the University of Oxford
         </div>
       </div>
       <div class="col-sm-9">
-	<h3><b>Title:</b> TBD</h3><br />
+	<h3><b>Title:</b> Causal Modeling through (i) Adversarial Learning and (ii) Inverse Covariance Matrix Decomposition</h3><br />
 	<b>Abstract</b><p class="speaker-abstract">
 	TBD
 	</p>
@@ -453,7 +453,7 @@ Robins Evans is an Associate Professor in Statistics at the University of Oxford
         </div>
       </div>
       <div class="col-sm-9">
-	<h3><b>Title:</b> TBD</h3><br />
+	<h3><b>Title:</b> Causal Deep Learning</h3><br />
 	<b>Abstract</b><p class="speaker-abstract">
 	TBD
 	</p>
@@ -483,7 +483,7 @@ Robins Evans is an Associate Professor in Statistics at the University of Oxford
         </div>
       </div>
       <div class="col-sm-9">
-	<h3><b>Title:</b> TBD</h3><br />
+	<h3><b>Title:</b> Causal Representation Learning: Successes and Challenges</h3><br />
 	<b>Abstract</b><p class="speaker-abstract">
 	TBD
 	</p>
