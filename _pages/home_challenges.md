@@ -239,7 +239,7 @@ acknowledgements: ""
         </tr>
 	      <tr>
           <td>4:00pm - 5:30pm</td>
-          <td>Oral presentations</td>
+          <td>Oral presentations
 		<ul>
 			<li>Benjamin Heymann, Michel De Lara and Jean-Philippe Chancelier - <i>Causal Inference with Information Fields</i></li>
 			<li>Lei Zan, Anouar Meynaoui, Charles K. Assaad, Emilie Devijver and Eric Gaussier - <i>A Conditional Mutual Information Estimator for Mixed Data and an Associated Conditional Independence Test</i></li>
@@ -248,6 +248,7 @@ acknowledgements: ""
 			<li>Armand Lacombe and Michèle Sebag - <i>Metric-based Conditional Treatment Effect Estimation</i></li>
 			<li>Héber H. Arcolezi, Rūta Binkytė, Catuscia Palamidessi, Carlos Pinzón and Gangsoo Zeong - <i>Causal Structure Preserving Local Differential Privacy</i></li>
 		</ul>	
+	   </td>
         </tr>
 	      <tr>
           <td>7:30pm - 10:30pm</td>
