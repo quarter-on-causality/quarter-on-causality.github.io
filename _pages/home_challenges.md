@@ -178,7 +178,7 @@ acknowledgements: ""
         </tr>
         <tr>
           <td>11:00am - 12:30pm</td>
-          <td>Oral presentations</td>
+          <td>Oral presentations
 		<ul>
 			<li>Francois Bettega, Sébastien Bailly and Clemence Leyrat - <i>Application of inverse-probability-of-treatment weighting to estimate the effect of daytime sleepi- ness in obstructive sleep apnea patients</i></li>
 			<li>Junhyung Park, Simon Buchholz, Bernhard Schölkopf and Krikamol Muandet - <i>Towards a Measure-Theoretic Axiomatisation of Causality</i></li>
@@ -187,6 +187,7 @@ acknowledgements: ""
 			<li>Daria Bystrova, Charles Assaad, Sara Si-Moussi and Wilfried Thuiller - <i>Causal discovery from point-in-time observational data collected from ecological dynamic systems</i></li>
 			<li>Nathan Cornille, Marie-Francine Moens and Katrien Laenen - <i>Investigating the Effect of Causal Mechanism Alignment on Transfer Learning for Few-Shot Video Prediction</i></li>
 		</ul>	
+	   </td>
         </tr>
 	      <tr>
           <td>12:30pm - 2:00pm</td>
