@@ -115,7 +115,7 @@ acknowledgements: ""
 
 <div class="row">
   <div class="col-xs-12"><a class="anchor" id="schedule"></a>
-     <h2>Schedule (tentative)</h2>
+     <h2>Program (tentative)</h2>
      <br>
      <table class="table schedule" style="border:none !important;">
       <thead class="thead-light">
@@ -131,18 +131,23 @@ acknowledgements: ""
         </tr>
 	      <tr>
           <td>2:15pm - 3:45pm</td>
-          <td>Keynote by R. Evans</td>
+		      <td>Keynote by R. Evans (with Xi Lin) - <i>Combining randomized and observational studies</i></td>
         </tr>
         <tr>
           <td>3:45pm - 4:15pm</td>
           <td>Coffee break</td>
         </tr>
 	      <tr>
-          <td>4:15pm - 5:45pm</td>
-          <td>Round table: <i>Causality: what does it mean?</i> </td>
+          <td>4:15pm - 5:00pm</td>
+          <td>Oral presentations</td>
+		<ul>
+			<li>Mouad El Bouchattaoui, Myriam Tami, Benoit Lepetit and Paul-Henry Cournède - <i>CDVAE: Estimating causal effects over time under unobserved adjustment variables</i></li>
+			<li>Lei Zan, Anouar Meynaoui, Charles K. Assaad, Emilie Devijver and Eric Gaussier - <i>A Conditional Mutual Information Estimator for Mixed Data and an Associated Conditional Independence Test</i></li>
+			<li>Alexander Reisach, Myriam Tami, Christof Seiler, Antoine Chambaz and Sebastian Weichwald - <i>All Parameters Matter When Simulating Data for Causal Discovery</i></li>
+		</ul>		
         </tr>
 	      <tr>
-          <td>6:00pm - 7:30pm</td>
+          <td>5:00pm - 6:30pm</td>
           <td>Cocktail & Posters</td>
         </tr>
       </tbody>
@@ -164,6 +169,14 @@ acknowledgements: ""
         <tr>
           <td>11:00am - 12:30pm</td>
           <td>Oral presentations</td>
+		<ul>
+			<li>Francois Bettega, Sébastien Bailly and Clemence Leyrat - <i>Application of inverse-probability-of-treatment weighting to estimate the effect of daytime sleepi- ness in obstructive sleep apnea patients</i></li>
+			<li>Junhyung Park, Simon Buchholz, Bernhard Schölkopf and Krikamol Muandet - <i>Towards a Measure-Theoretic Axiomatisation of Causality</i></li>
+			<li>Florian Peter Busch, Moritz Willig, Matej Zečević, Kristian Kersting and Devendra Dhami - <i>Computing Counterfactuals using Sum-Product Networks</i></li>
+			<li>Martin Spindler, Philipp Bach, Oliver Schacht and Malte Kurz - <i>Different Data Splitting Schemes for Double Machine Learning -- A Comparison</i></li>
+			<li>Daria Bystrova, Charles Assaad, Sara Si-Moussi and Wilfried Thuiller - <i>Causal discovery from point-in-time observational data collected from ecological dynamic systems</i></li>
+			<li>Nathan Cornille, Marie-Francine Moens and Katrien Laenen - <i>Investigating the Effect of Causal Mechanism Alignment on Transfer Learning for Few-Shot Video Prediction</i></li>
+		</ul>	
         </tr>
 	      <tr>
           <td>12:30pm - 2:00pm</td>
@@ -216,6 +229,11 @@ acknowledgements: ""
 	      <tr>
           <td>4:00pm - 5:30pm</td>
           <td>Oral presentations</td>
+		<ul>
+			<li>Mouad El Bouchattaoui, Myriam Tami, Benoit Lepetit and Paul-Henry Cournède - <i></i></li>
+			<li> - <i></i></li>
+			<li> - <i></i></li>
+		</ul>	
         </tr>
 	      <tr>
           <td>7:30pm - 10:30pm</td>
