@@ -142,7 +142,7 @@ This colloquium will several keynote speakers including Antoine Chambaz, Eric Ga
         </tr>
         <tr>
           <td>10:00 AM - 11:00 AM</td>
-          <td>Keynote by Bin Yu <i>Veridical data science with a case study to seek genetic drivers of a heart disease</i></td>
+          <td>Keynote by Bin Yu - <i>Veridical data science with a case study to seek genetic drivers of a heart disease</i></td>
         </tr>
         <tr>
           <td>11:00 AM - 11:30 AM</td>
@@ -164,7 +164,7 @@ This colloquium will several keynote speakers including Antoine Chambaz, Eric Ga
         </tr>
         <tr>
           <td>2:00 PM - 3:00 PM</td>
-          <td>Keynote by Eric Gaussier <i>Causal discovery and inference in time series</i> <strong>[<a href="slides/Gaussier_CausalInferenceTimeSeries.pdf" target="_blank">Slides</a>]</strong></td>
+          <td>Keynote by Eric Gaussier - <i>Causal discovery and inference in time series</i> <strong>[<a href="slides/Gaussier_CausalInferenceTimeSeries.pdf" target="_blank">Slides</a>]</strong></td>
         </tr>
         <tr>
           <td>3:00 PM - 3:30 PM</td>
@@ -207,7 +207,7 @@ This colloquium will several keynote speakers including Antoine Chambaz, Eric Ga
         </tr>
 	      <tr>
           <td>9:30 AM - 10:30 AM</td>
-          <td>Keynote by Yingzhen Li <strong>[<a href="slides/Li_TowardsCausalDGM.pdf" target="_blank">Slides</a>]</strong></td>
+          <td>Keynote by Yingzhen Li - <i>Towards Causal Deep Generative Models for Sequential Data</i> <strong>[<a href="slides/Li_TowardsCausalDGM.pdf" target="_blank">Slides</a>]</strong></td>
         </tr>
         <tr>
           <td>10:30 AM - 11:00 AM</td>
@@ -233,7 +233,7 @@ This colloquium will several keynote speakers including Antoine Chambaz, Eric Ga
         </tr>
         <tr>
           <td>2:00 PM - 3:00 PM</td>
-          <td>Keynote by Daniel Malinsky</td>
+          <td>Keynote by Daniel Malinsky - <i></i></td>
         </tr>
         <tr>
           <td>3:00 PM - 3:30 PM</td>
