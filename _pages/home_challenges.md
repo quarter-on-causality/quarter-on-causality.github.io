@@ -114,6 +114,13 @@ acknowledgements: ""
 </div><br/>
 
 <div class="row">
+  <div class="col-xs-12"><a class="anchor" id="registration"></a>
+     <h2>Venue</h2> The colloquium will take in the IMAG building of the University located in Saint-Martin-d'Hères (next to Grenoble). Detailed information on how to reach this building from various places can be found <a href="https://batiment.imag.fr/en/contact-addresses-access" target="_blank">here</a>. In case of problem, please contact E. Gaussier (+33 682 197 988).
+  </div>
+</div><br/>
+
+
+<div class="row">
   <div class="col-xs-12"><a class="anchor" id="schedule"></a>
      <h2>Program (tentative)</h2>
      <br>
