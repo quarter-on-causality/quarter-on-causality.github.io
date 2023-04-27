@@ -230,7 +230,10 @@ acknowledgements: ""
           <td>4:00pm - 5:30pm</td>
           <td>Oral presentations</td>
 		<ul>
-			<li>Mouad El Bouchattaoui, Myriam Tami, Benoit Lepetit and Paul-Henry Cournède - <i></i></li>
+			<li>Benjamin Heymann, Michel De Lara and Jean-Philippe Chancelier - <i>Causal Inference with Information Fields</i></li>
+			<li>Lei Zan, Anouar Meynaoui, Charles K. Assaad, Emilie Devijver and Eric Gaussier - <i>A Conditional Mutual Information Estimator for Mixed Data and an Associated Conditional Independence Test</i></li>
+			<li>Abigail Langbridge, Fearghal O'Donncha, Amadou Ba, Fabio Lorenzi, Christopher Lohse and Joern Ploennigs - <i>Causal Temporal Graph Convolutional Neural Networks (CTGCN)</i></li>
+			<li>Simon Ferreira and Charles Assaad - <i>Challenges of Root Cause Identification for Collective Anomalies in Time Series given a Summary Causal Graph</i></li>
 			<li> - <i></i></li>
 			<li> - <i></i></li>
 		</ul>	
