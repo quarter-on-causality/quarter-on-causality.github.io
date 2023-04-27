@@ -56,10 +56,11 @@ acknowledgements: ""
   </div>
 </div>
 <br/>
-<!--
+
 <div class="row">
   <div class="col-xs-12 panel-group"><a class="anchor" id="cfp"></a>
     <!-- <h2>Call for Contributions</h2> -->
+    <!--
     <br>
     <div class="panel panel-default">
       <div class="panel-heading" data-toggle="collapse" data-parent="#cfp" href="#call-papers" style="cursor:pointer;">
@@ -76,10 +77,11 @@ acknowledgements: ""
         </div>
       </div>
     </div>
-    <br>    
+    <br> 
+  --> 
   </div>
 </div><br>
--->
+
 <div class="row">
   <div class="col-xs-12"><a class="anchor" id="dates"></a>
     <h2>Important Dates</h2>
@@ -146,12 +148,13 @@ acknowledgements: ""
         </tr>
 	      <tr>
           <td>4:15pm - 5:00pm</td>
-          <td>Oral presentations</td>
+          <td>Oral presentations
 		<ul>
 			<li>Mouad El Bouchattaoui, Myriam Tami, Benoit Lepetit and Paul-Henry Cournède - <i>CDVAE: Estimating causal effects over time under unobserved adjustment variables</i></li>
 			<li>Lei Zan, Anouar Meynaoui, Charles K. Assaad, Emilie Devijver and Eric Gaussier - <i>A Conditional Mutual Information Estimator for Mixed Data and an Associated Conditional Independence Test</i></li>
 			<li>Alexander Reisach, Myriam Tami, Christof Seiler, Antoine Chambaz and Sebastian Weichwald - <i>All Parameters Matter When Simulating Data for Causal Discovery</i></li>
 		</ul>		
+          </td>
         </tr>
 	      <tr>
           <td>5:00pm - 6:30pm</td>
