@@ -56,7 +56,7 @@ acknowledgements: ""
   </div>
 </div>
 <br/>
-
+<!--
 <div class="row">
   <div class="col-xs-12 panel-group"><a class="anchor" id="cfp"></a>
     <!-- <h2>Call for Contributions</h2> -->
@@ -79,14 +79,15 @@ acknowledgements: ""
     <br>    
   </div>
 </div><br>
-
+-->
 <div class="row">
   <div class="col-xs-12"><a class="anchor" id="dates"></a>
     <h2>Important Dates</h2>
     <br>
     <table class="table table-striped">
       <tbody>        
-        <tr>
+       <!--
+ 	<tr>
           <td>Paper Submission Deadline</td>
           <td>February 10, 2023 (23:59 AOE)</td>
 	        <td><span class="countdown" reference="01 February 2023 13:59:59 UTC"></span></td>
@@ -94,7 +95,8 @@ acknowledgements: ""
         <tr>
           <td>Notification to Authors</td>
           <td>February 27, 2023</td>
-        </tr>        
+        </tr>
+       -->
         <tr>
           <td>Colloquium</td>
           <td>From May 9th to May 12th, 2023</td>
