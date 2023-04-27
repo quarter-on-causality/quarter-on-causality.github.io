@@ -153,7 +153,7 @@ This colloquium will several keynote speakers including Antoine Chambaz, Eric Ga
           <td>
               <b>Oral presentations</b>
               <ul>
-                 <li>Víctor Elvira, Émilie Chouzenoux, Jordi Cerdà, and Gustau Camps-valls. Graphs in State-Space Models for Granger Causality in Climate Science</li>
+                 <li>Víctor Elvira, Émilie Chouzenoux, Jordi Cerdà, and Gustau Camps-valls. Graphs in State-Space Models for Granger Causality in Climate Science <strong>[<a href="slides/Camps-Valls_GraphEM.pdf" target="_blank">Slides</a>]</strong></li>
                  <li>Mouad El Bouchattaoui, Myriam Tami, Benoit Lepetit, and Paul-Henry Cournède. CDVAE: Estimating causal effects over time under unobserved adjustment variables <strong>[<a href="slides/El-Bouchattaoui_CDVAE.pdf" target="_blank">Slides</a>]</strong></li>
               </ul>
           </td>
