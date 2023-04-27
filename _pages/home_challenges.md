@@ -147,17 +147,11 @@ acknowledgements: ""
           <td>Coffee break</td>
         </tr>
 	      <tr>
-          <td>4:15pm - 5:00pm</td>
-          <td>Oral presentations
-		<ul>
-			<li>Mouad El Bouchattaoui, Myriam Tami, Benoit Lepetit and Paul-Henry Cournède - <i>CDVAE: Estimating causal effects over time under unobserved adjustment variables</i></li>
-			<li>Lei Zan, Anouar Meynaoui, Charles K. Assaad, Emilie Devijver and Eric Gaussier - <i>A Conditional Mutual Information Estimator for Mixed Data and an Associated Conditional Independence Test</i></li>
-			<li>Alexander Reisach, Myriam Tami, Christof Seiler, Antoine Chambaz and Sebastian Weichwald - <i>All Parameters Matter When Simulating Data for Causal Discovery</i></li>
-		</ul>		
-          </td>
+          <td>4:15pm - 5:15pm</td>
+          <td>Round table - <i>Causality: What does it mean?</i></td>
         </tr>
 	      <tr>
-          <td>5:00pm - 6:30pm</td>
+          <td>5:15pm - 6:30pm</td>
           <td>Cocktail & Posters</td>
         </tr>
       </tbody>
@@ -272,7 +266,13 @@ acknowledgements: ""
         </tr>
         <tr>
           <td>10:45am - 11:30am</td>
-          <td>Oral presentations</td>
+          <td>Oral presentations
+		<ul>
+			<li>Mouad El Bouchattaoui, Myriam Tami, Benoit Lepetit and Paul-Henry Cournède - <i>CDVAE: Estimating causal effects over time under unobserved adjustment variables</i></li>
+			<li>Lei Zan, Anouar Meynaoui, Charles K. Assaad, Emilie Devijver and Eric Gaussier - <i>A Conditional Mutual Information Estimator for Mixed Data and an Associated Conditional Independence Test</i></li>
+			<li>Alexander Reisach, Myriam Tami, Christof Seiler, Antoine Chambaz and Sebastian Weichwald - <i>All Parameters Matter When Simulating Data for Causal Discovery</i></li>
+		</ul>			
+	  </td>
         </tr>
         <tr>
           <td>11:30am - 12:00pm</td>
