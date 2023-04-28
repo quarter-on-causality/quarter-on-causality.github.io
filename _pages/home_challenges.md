@@ -251,7 +251,7 @@ acknowledgements: ""
       </tbody>
       <thead class="thead-light">
       	<tr>
-	        <th>Friday 11 May</th>
+	        <th>Friday 12 May</th>
 	        <th></th>
         </tr>
       </thead>
@@ -269,7 +269,7 @@ acknowledgements: ""
           <td>Oral presentations
 		<ul>
 			<li>Mouad El Bouchattaoui, Myriam Tami, Benoit Lepetit and Paul-Henry Cournède - <i>CDVAE: Estimating causal effects over time under unobserved adjustment variables</i></li>
-			<li>Lei Zan, Anouar Meynaoui, Charles K. Assaad, Emilie Devijver and Eric Gaussier - <i>A Conditional Mutual Information Estimator for Mixed Data and an Associated Conditional Independence Test</i></li>
+			<li>Anouar Meynaoui, Charles K. Assaad, Emilie Devijver, Eric Gaussier and Gregor Gössler - <i>Identifiability in time series extended summary causal graphs</i></li>
 			<li>Alexander Reisach, Myriam Tami, Christof Seiler, Antoine Chambaz and Sebastian Weichwald - <i>All Parameters Matter When Simulating Data for Causal Discovery</i></li>
 		</ul>			
 	  </td>
