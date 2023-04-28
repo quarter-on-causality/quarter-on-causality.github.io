@@ -189,7 +189,7 @@ acknowledgements: ""
         </tr>
 	      <tr>
           <td>2:00pm - 3:30pm</td>
-		      <td>Keynote by J. Runge (with Urmi Ninad) - <i></i></td>
+		      <td>Keynote by J. Runge (with Urmi Ninad) - <i>Causal inference for complex spatio-temporal systems</i></td>
         </tr>
 	      <tr>
           <td>3:30pm - 4:00pm</td>
@@ -197,7 +197,7 @@ acknowledgements: ""
         </tr>
 	      <tr>
           <td>4:00pm - 5:30pm</td>
-		      <td>Keynote by H. Isambert - <i></i></td>
+		      <td>Keynote by H. Isambert - <i></i>Reliable causal discovery from information theoretic principles</td>
         </tr>
       </tbody>      
       <thead class="thead-light">
@@ -209,7 +209,7 @@ acknowledgements: ""
       <tbody>
         <tr>
           <td>9:00am - 10:30am</td>
-		<td>Keynote by I. Shpitser (with Amiremad Ghassami) - <i></i></td>
+		<td>Keynote by I. Shpitser (with Amiremad Ghassami) - <i>The Proximal ID Algorithm</i></td>
         </tr>
 	      <tr>
           <td>10:30am - 11:00am</td>
