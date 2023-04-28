@@ -140,7 +140,7 @@ acknowledgements: ""
         </tr>
 	      <tr>
           <td>2:15pm - 3:45pm</td>
-		      <td>Keynote by R. Evans (with Xi Lin) - <i>Combining randomized and observational studies</i></td>
+		      <td>Keynote by R. Evans (with Xi Lin) - <i>Combining randomized and observational studies (Combine randomized and observational data through a power likelihood)</i></td>
         </tr>
         <tr>
           <td>3:45pm - 4:15pm</td>
@@ -174,7 +174,7 @@ acknowledgements: ""
           <td>11:00am - 12:30pm</td>
           <td>Oral presentations
             <ul>
-              <li>Francois Bettega, Sébastien Bailly and Clemence Leyrat - <i>Application of inverse-probability-of-treatment weighting to estimate the effect of daytime sleepi- ness in obstructive sleep apnea patients</i></li>
+              <li>Francois Bettega, Sébastien Bailly and Clemence Leyrat - <i>Application of inverse-probability-of-treatment weighting to estimate the effect of daytime sleepiness in obstructive sleep apnea patients</i></li>
               <li>Junhyung Park, Simon Buchholz, Bernhard Schölkopf and Krikamol Muandet - <i>Towards a Measure-Theoretic Axiomatisation of Causality</i></li>
               <li>Florian Peter Busch, Moritz Willig, Matej Zečević, Kristian Kersting and Devendra Dhami - <i>Computing Counterfactuals using Sum-Product Networks</i></li>
               <li>Martin Spindler, Philipp Bach, Oliver Schacht and Malte Kurz - <i>Different Data Splitting Schemes for Double Machine Learning -- A Comparison</i></li>
@@ -209,7 +209,7 @@ acknowledgements: ""
       <tbody>
         <tr>
           <td>9:00am - 10:30am</td>
-		<td>Keynote by I. Shpitser (with Amireamd Ghassami) - <i></i></td>
+		<td>Keynote by I. Shpitser (with Amiremad Ghassami) - <i></i></td>
         </tr>
 	      <tr>
           <td>10:30am - 11:00am</td>
