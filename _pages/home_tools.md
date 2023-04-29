@@ -123,7 +123,7 @@ acknowledgements: ""
         </a>
         <div class="people-name">
           <a href="https://curie.fr/personne/elise-dumas" target="_blank">Elise Dumas</a>
-          <h6>INRIA</h6>
+          <h6>Institut Curie</h6>
         </div>
       </div>
       <div class="col-sm-9">
