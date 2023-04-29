@@ -83,6 +83,168 @@ acknowledgements: ""
         </tr>
       </tbody>
      </table>-->
+	  
+     <table class="table schedule" style="border:none !important;">
+      <thead class="thead-light">
+        <tr>
+	        <th>Monday 22 May</th>
+	        <th></th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr>
+          <td>9:00am - 10:30am</td>
+          <td>Introduction</td>
+        </tr>
+	<tr>
+          <td>10:30am - 11:00pm</td>
+          <td>Coffee break</td>
+        </tr>
+        <tr>
+          <td>11:00am - 12:30pm</td>
+	   <td>Introduction</td>
+        </tr>
+	<tr>
+          <td>12:30pm - 2:00pm</td>
+          <td>Lunch break</td>
+        </tr>
+        <tr>
+          <td>2:00pm - 3:30pm</td>
+          <td>Causal Learn</td>
+        </tr>
+	<tr>
+          <td>3:30pm - 4:00pm</td>
+          <td>Coffee break</td>
+        </tr>
+        <tr>
+          <td>4:00pm - 5:30pm</td>
+          <td>Causal Learn</td>
+        </tr>
+      	<tr>
+          <td>5:30pm - 7:00pm</td>
+          <td>Poster</td>
+        </tr>
+      </tbody>
+      <thead class="thead-light">
+        <tr>
+	        <th>Tuesday 23 May</th>
+	        <th></th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr>
+          <td>9:00am - 10:30am</td>
+          <td>Do Why</td>
+        </tr>
+      	<tr>
+          <td>10:30am - 11:00am</td>
+          <td>Coffee break</td>
+        </tr>
+        <tr>
+          <td>11:00am - 12:30pm</td>
+          <td>Do Why</td>
+        </tr>
+        <tr>
+          <td>12:30pm - 2:00pm</td>
+          <td>Lunch break</td>
+        </tr>
+        <tr>
+          <td>2:00pm - 3:30pm</td>
+	  <td>Double ML</td>
+        </tr>
+      </tbody>      
+      <thead class="thead-light">
+      	<tr>
+	        <th>Wednesday 24 May</th>
+	        <th></th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr>
+          <td>9:00am - 10:30am</td>
+	      <td>Causal Learn</td>
+        </tr>
+	      <tr>
+        <td>10:30am - 11:00am</td>
+          <td>Coffee break</td>
+        </tr>
+        <tr>
+          <td>11:00am - 12:30pm</td>
+	      <td>Causal Learn</td>
+        </tr>
+	  <tr>
+          <td>12:30pm - 2:00pm</td>
+          <td>Lunch break</td>
+        </tr>
+	 <tr>
+          <td>2:00pm - 5:30pm</td>
+          <td>Social activity</td>
+        </tr>
+      </tbody>
+      <thead class="thead-light">
+      	<tr>
+	        <th>Thursday 25 May</th>
+	        <th></th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr>
+          <td>9:00am - 10:30am</td>
+		<td>Double ML</td>
+        </tr>
+	      <tr>
+          <td>10:30am - 11:00am</td>
+          <td>Coffee break</td>
+        </tr>
+        <tr>
+          <td>11:00am - 12:30pm</td>
+          <td>Double ML	</td>
+        </tr>
+        <tr>
+          <td>12:30am - 2:00pm</td>
+	        <td>Lunch break</td>
+        </tr> 
+        <tr>
+          <td>2:00pm - 3:30pm</td>
+          <td>Do Why</td>
+        </tr>
+        <tr>
+          <td>3:30pm - 5:30pm</td>
+          <td>Break</td>
+        </tr> 
+        <tr>
+          <td>5:30pm - 7:00pm</td>
+          <td>Poster</td>
+        </tr> 
+      </tbody>
+ 	      <thead class="thead-light">
+      	<tr>
+	        <th>Friday 26 May</th>
+	        <th></th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr>
+          <td>9:00am - 10:30am</td>
+		<td>Do Why</td>
+        </tr>
+	      <tr>
+          <td>10:30am - 11:00am</td>
+          <td>Coffee break</td>
+        </tr>
+        <tr>
+          <td>11:00am - 12:30pm</td>
+          <td>Double ML	</td>
+        </tr>
+      </tbody>
+
+     </table>
+	  
+	  
+	  
+	  
+	  
+	  
   </div>      
 </div>
 <!-- ########## -->
