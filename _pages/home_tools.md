@@ -119,7 +119,7 @@ acknowledgements: ""
     <div class="row speaker">
       <div class="col-sm-3 speaker-pic">
         <a href="https://curie.fr/personne/elise-dumas" target="_blank">
-          <img class="people-pic" src="/tools/img/people/jj.png" />
+          <img class="people-pic" src="/tools/img/people/Elise_Dumas.jpg" />
         </a>
         <div class="people-name">
           <a href="https://curie.fr/personne/elise-dumas" target="_blank">Elise Dumas</a>
