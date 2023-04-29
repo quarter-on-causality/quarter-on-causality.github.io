@@ -68,7 +68,6 @@ acknowledgements: ""
   <div class="col-xs-12"><a class="anchor" id="schedule"></a>
      <h2>Schedule</h2>
      <br>     
-     <p>To be announced soon</p>
      <!-- <table class="table schedule" style="border:none !important;">
       <thead class="thead-light">
         <tr>
