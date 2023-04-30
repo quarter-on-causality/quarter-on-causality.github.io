@@ -209,7 +209,7 @@ acknowledgements: ""
       <tbody>
         <tr>
           <td>9:00am - 10:30am</td>
-		<td>Keynote by H. Isambert (with Louise Dupuis) - <i></i>Reliable Causal Discovery from Information Theoretic Principles</td>
+		<td>Keynote by H. Isambert (with Louise Dupuis) - <i>Reliable Causal Discovery from Information Theoretic Principles</i></td>
         </tr>
 	      <tr>
           <td>10:30am - 11:00am</td>
