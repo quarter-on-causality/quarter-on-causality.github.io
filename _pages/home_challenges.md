@@ -331,7 +331,7 @@ Robins Evans is an Associate Professor in Statistics at the University of Oxford
         </div>
       </div>
       <div class="col-sm-9">
-	<h3><b>Title:</b>Reliable Causal Discovery from Information Theoretic Principles</h3><br />
+	<h3><b>Title:</b> Reliable Causal Discovery from Information Theoretic Principles</h3><br />
 	<!-- <b>Abstract</b><p class="speaker-abstract"></p> -->
 	<div class="panel panel-default">
           <div class="panel-heading" data-toggle="collapse" href="#hi-bio" style="cursor:pointer;text-align:center">
@@ -359,11 +359,9 @@ Robins Evans is an Associate Professor in Statistics at the University of Oxford
         </div>
       </div>
       <div class="col-sm-9">
-	<h3><b>Title:</b>Causal Inference for Complex Spatio-Temporal Systems</h3><br />
-	<!-- <b>Abstract</b><p class="speaker-abstract"> -->
-	TBD
-	</p>
-        <div class="panel panel-default">
+	<h3><b>Title:</b> Causal Inference for Complex Spatio-Temporal Systems</h3><br />
+	<!-- <b>Abstract</b><p class="speaker-abstract"> TBD </p> -->
+	<div class="panel panel-default">
           <div class="panel-heading" data-toggle="collapse" href="#jr-bio" style="cursor:pointer;text-align:center">
             <b>Biography <span style="font-weight:normal">(click to expand/collapse)</span></b>
           </div>
@@ -390,9 +388,7 @@ Robins Evans is an Associate Professor in Statistics at the University of Oxford
       </div>
       <div class="col-sm-9">
 	<h3><b>Title:</b> Causal Modeling through (i) Adversarial Learning and (ii) Inverse Covariance Matrix Decomposition</h3><br />
-	<!-- <b>Abstract</b><p class="speaker-abstract"> -->
-	TBD
-	</p>
+	<!-- <b>Abstract</b><p class="speaker-abstract"> TBD </p> -->
         <div class="panel panel-default">
           <div class="panel-heading" data-toggle="collapse" href="#ms-bio" style="cursor:pointer;text-align:center">
             <b>Biography <span style="font-weight:normal">(click to expand/collapse)</span></b>
@@ -424,10 +420,8 @@ Robins Evans is an Associate Professor in Statistics at the University of Oxford
         </div>
       </div>
       <div class="col-sm-9">
-	<h3><b>Title:</b>The Proximal ID Algorithm</h3><br />
-	<!-- <b>Abstract</b><p class="speaker-abstract"> -->
-	TBD
-	</p>
+	<h3><b>Title:</b> The Proximal ID Algorithm</h3><br />
+	<!-- <b>Abstract</b><p class="speaker-abstract"> TBD </p> -->
         <div class="panel panel-default">
           <div class="panel-heading" data-toggle="collapse" href="#ishp-bio" style="cursor:pointer;text-align:center">
             <b>Biography <span style="font-weight:normal">(click to expand/collapse)</span></b>
@@ -454,9 +448,7 @@ Robins Evans is an Associate Professor in Statistics at the University of Oxford
       </div>
       <div class="col-sm-9">
 	<h3><b>Title:</b> Causal Deep Learning</h3><br />
-	<!-- <b>Abstract</b><p class="speaker-abstract"> -->
-	TBD
-	</p>
+	<!-- <b>Abstract</b><p class="speaker-abstract"> TBD </p> -->
         <div class="panel panel-default">
           <div class="panel-heading" data-toggle="collapse" href="#mvds-bio" style="cursor:pointer;text-align:center">
             <b>Biography <span style="font-weight:normal">(click to expand/collapse)</span></b>
@@ -483,10 +475,8 @@ Robins Evans is an Associate Professor in Statistics at the University of Oxford
         </div>
       </div>
       <div class="col-sm-9">
-	<h3><b>Title:</b>Causal Representation Learning: Successes and Challenges</h3><br />
-	<!-- <b>Abstract</b><p class="speaker-abstract"> -->
-	TBD
-	</p>
+	<h3><b>Title:</b> Causal Representation Learning: Successes and Challenges</h3><br />
+	<!-- <b>Abstract</b><p class="speaker-abstract"> TBD </p> -->
         <div class="panel panel-default">
           <div class="panel-heading" data-toggle="collapse" href="#kz-bio" style="cursor:pointer;text-align:center">
             <b>Biography <span style="font-weight:normal">(click to expand/collapse)</span></b>
