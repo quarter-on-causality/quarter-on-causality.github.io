@@ -140,7 +140,7 @@ acknowledgements: ""
         </tr>
 	      <tr>
           <td>2:15pm - 3:45pm</td>
-		      <td>Keynote by R. Evans (with Xi Lin) - <i>Combining randomized and observational studies (Combine randomized and observational data through a power likelihood)</i></td>
+		      <td>Keynote by R. Evans (with Xi Lin) - <i>Combining Randomized and Observational Studies (Combine Randomized and Observational Data through a Power Likelihood)</i></td>
         </tr>
         <tr>
           <td>3:45pm - 4:15pm</td>
@@ -189,7 +189,7 @@ acknowledgements: ""
         </tr>
 	      <tr>
           <td>2:00pm - 3:30pm</td>
-		      <td>Keynote by J. Runge (with Urmi Ninad) - <i>Causal inference for complex spatio-temporal systems</i></td>
+		      <td>Keynote by J. Runge (with Urmi Ninad) - <i>Causal Inference for Complex Spatio-Temporal Systems</i></td>
         </tr>
 	      <tr>
           <td>3:30pm - 4:00pm</td>
@@ -197,7 +197,7 @@ acknowledgements: ""
         </tr>
 	      <tr>
           <td>4:00pm - 5:30pm</td>
-		      <td>Keynote by H. Isambert - <i></i>Reliable causal discovery from information theoretic principles</td>
+		      <td>Keynote by I. Shpitser (with Amiremad Ghassami) - <i>The Proximal ID Algorithm</i></td>
         </tr>
       </tbody>      
       <thead class="thead-light">
@@ -209,7 +209,7 @@ acknowledgements: ""
       <tbody>
         <tr>
           <td>9:00am - 10:30am</td>
-		<td>Keynote by I. Shpitser (with Amiremad Ghassami) - <i>The Proximal ID Algorithm</i></td>
+		<td>Keynote by H. Isambert (with Louise Dupuis) - <i></i>Reliable Causal Discovery from Information Theoretic Principles</td>
         </tr>
 	      <tr>
           <td>10:30am - 11:00am</td>
@@ -303,8 +303,8 @@ acknowledgements: ""
         </div>
       </div>
       <div class="col-sm-9">
-	  <h3><b>Title:</b> Combining randomized and observational studies</h3><br />
-        <b>Abstract</b><p class="speaker-abstract">TBD</p>
+	  <h3><b>Title:</b> Combining Randomized and Observational Studies</h3><br />
+        <!-- <b>Abstract</b><p class="speaker-abstract">TBD</p> -->
         <div class="panel panel-default">
           <div class="panel-heading" data-toggle="collapse" href="#re-bio" style="cursor:pointer;text-align:center">
             <b>Biography <span style="font-weight:normal">(click to expand/collapse)</span></b>
@@ -331,15 +331,15 @@ Robins Evans is an Associate Professor in Statistics at the University of Oxford
         </div>
       </div>
       <div class="col-sm-9">
-	<h3><b>Title:</b> TBD</h3><br />
-	<b>Abstract</b><p class="speaker-abstract"></p>	
+	<h3><b>Title:</b>Reliable Causal Discovery from Information Theoretic Principles</h3><br />
+	<!-- <b>Abstract</b><p class="speaker-abstract"></p> -->
 	<div class="panel panel-default">
           <div class="panel-heading" data-toggle="collapse" href="#hi-bio" style="cursor:pointer;text-align:center">
             <b>Biography <span style="font-weight:normal">(click to expand/collapse)</span></b>
           </div>
           <div id="hi-bio" class="panel-collapse collapse in"><div class="panel-body">
             <p class="speaker-bio">
-	          Hervé Isambert is a research director at CNRS. He received his PhD at École de physique-chimie de Paris, and did a postdoc at Cornell and another at Rockefeller university. He works since 2003 at Institut Curie, where he leads the team <a href="https://institut-curie.org/team/isambert" target="_blank">RNA DYNAMICS AND BIOMOLECULAR SYSTEMS</a>. His research interests include causal inference, latent variables, and particularly applications to RNA data. 
+	          Hervé Isambert is a research director at CNRS and group leader at Institut Curie, Paris. He received his PhD at Ecole de physique-chimie de Paris, and did a postdoc at Cornell and another at Rockefeller university. His on-going research concerns causal discovery and other data analysis methods for complex heterogeneous datasets with application to biological and biomedical data. His lab develops information-theoretic methods and machine learning tools (https://miic.curie.fr) to learn interpretable causal graphical models from large scale genomic data (single-cell multi-omic data), live-cell imaging data (tumor-on-chip experiments) as well as medical records of patients.
             </p>
           </div></div>
         </div>
@@ -359,8 +359,8 @@ Robins Evans is an Associate Professor in Statistics at the University of Oxford
         </div>
       </div>
       <div class="col-sm-9">
-	<h3><b>Title:</b> TBD</h3><br />
-	<b>Abstract</b><p class="speaker-abstract">
+	<h3><b>Title:</b>Causal Inference for Complex Spatio-Temporal Systems</h3><br />
+	<!-- <b>Abstract</b><p class="speaker-abstract"> -->
 	TBD
 	</p>
         <div class="panel panel-default">
@@ -390,7 +390,7 @@ Robins Evans is an Associate Professor in Statistics at the University of Oxford
       </div>
       <div class="col-sm-9">
 	<h3><b>Title:</b> Causal Modeling through (i) Adversarial Learning and (ii) Inverse Covariance Matrix Decomposition</h3><br />
-	<b>Abstract</b><p class="speaker-abstract">
+	<!-- <b>Abstract</b><p class="speaker-abstract"> -->
 	TBD
 	</p>
         <div class="panel panel-default">
@@ -424,8 +424,8 @@ Robins Evans is an Associate Professor in Statistics at the University of Oxford
         </div>
       </div>
       <div class="col-sm-9">
-	<h3><b>Title:</b> TBD</h3><br />
-	<b>Abstract</b><p class="speaker-abstract">
+	<h3><b>Title:</b>The Proximal ID Algorithm</h3><br />
+	<!-- <b>Abstract</b><p class="speaker-abstract"> -->
 	TBD
 	</p>
         <div class="panel panel-default">
@@ -454,7 +454,7 @@ Robins Evans is an Associate Professor in Statistics at the University of Oxford
       </div>
       <div class="col-sm-9">
 	<h3><b>Title:</b> Causal Deep Learning</h3><br />
-	<b>Abstract</b><p class="speaker-abstract">
+	<!-- <b>Abstract</b><p class="speaker-abstract"> -->
 	TBD
 	</p>
         <div class="panel panel-default">
@@ -483,8 +483,8 @@ Robins Evans is an Associate Professor in Statistics at the University of Oxford
         </div>
       </div>
       <div class="col-sm-9">
-	<h3><b>Title:</b> Causal Representation Learning: Successes and Challenges</h3><br />
-	<b>Abstract</b><p class="speaker-abstract">
+	<h3><b>Title:</b>Causal Representation Learning: Successes and Challenges</h3><br />
+	<!-- <b>Abstract</b><p class="speaker-abstract"> -->
 	TBD
 	</p>
         <div class="panel panel-default">
