@@ -147,11 +147,11 @@ acknowledgements: ""
           <td>Coffee break</td>
         </tr>
 	      <tr>
-          <td>4:15pm - 5:15pm</td>
+          <td>4:15pm - 5:30pm</td>
           <td>Round table - <i>Causality: What does it mean?</i></td>
         </tr>
 	      <tr>
-          <td>5:15pm - 6:30pm</td>
+          <td>5:30pm - 6:30pm</td>
           <td>Cocktail & Posters</td>
         </tr>
       </tbody>
