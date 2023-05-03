@@ -48,10 +48,10 @@ acknowledgements: ""
   <h2>Registration</h2>
   <p>The <b>Tools for Causality</b> will be held at the <a href="https://escandille.com/" target="_blank">Escandille</a>, <b>Autrans-Méaudre-en-Vercors</b>, <b>France</b> from <b>May 22nd to May 26th, 2023</b>.</p>
   
-  <p> We offer full board at the Escandille from Sunday May 21 evening to Friday May 26 noon.</p>
+  <p> We offer full board at the Escandille from Sunday May 21 evening to Friday May 26 noon. In addition to attending tutorials, all participants will have the possibility to present a poster (it is optional)! </p>
 
   <p>
-     The contribution to costs are:
+     The contribution costs are:
      <ul>
        <li>350 euros for a single room</li>
        <li>300 euros for a twin room</li>
@@ -358,7 +358,7 @@ acknowledgements: ""
         </a>
         <div class="people-name">
           <a href="https://yjzheng.com" target="_blank">Yujia Zheng</a>
-          <h6>University of Hamburg</h6>
+          <h6>Carnegie Mellon University</h6>
         </div>
       </div>
       <div class="col-sm-9">
@@ -369,7 +369,7 @@ acknowledgements: ""
           </div>
           <div id="yz-bio" class="panel-collapse collapse in"><div class="panel-body">
             <p class="speaker-bio">
-            Yujia Zheng is a MS student at CMU Philosophy, advised by Prof. Kun Zhang. He has recently completed his BS from UESTC, and has interned at UC Berkeley and NLPR, and was a summer fellow at EPFL. His research interests lie primarily in the linear span of causality and machine learning.
+            Yujia Zheng is a graduate student at CMU Philosophy, advised by Prof. Kun Zhang. His research interests lie primarily in the linear span of causality and machine learning. Specifically, he focus on causal discovery, causal representation learning, and structure learning.
             </p>
           </div></div>
         </div>
