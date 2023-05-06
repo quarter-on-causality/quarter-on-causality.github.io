@@ -63,25 +63,11 @@ acknowledgements: ""
   </div>
 </div>
 
-
+<!--
 <div class="row">
   <div class="col-xs-12"><a class="anchor" id="schedule"></a>
      <h2>Schedule</h2>
      <br>     
-     <!-- <table class="table schedule" style="border:none !important;">
-      <thead class="thead-light">
-        <tr>
-	        <th>Time in UTC</th>
-	        <th>Item</th>
-        </tr>
-      </thead>
-      <tbody>
-        <tr>
-          <td>9:00am - 9:15am</td>          
-          <td>Opening Remarks and Awards</td>
-        </tr>
-      </tbody>
-     </table>-->
 	  
      <table class="table schedule" style="border:none !important;">
       <thead class="thead-light">
@@ -239,13 +225,9 @@ acknowledgements: ""
 
      </table>
 	  
-	  
-	  
-	  
-	  
-	  
   </div>      
-</div>
+</div> 
+-->
 <!-- ########## -->
 
 <div class="row">
