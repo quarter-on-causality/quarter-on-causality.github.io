@@ -16,7 +16,7 @@ acknowledgements: ""
   <div class="col-xs-12">
     <center><h1>Tools for Causality</h1></center>
     <center><h2>Autrans-Méaudre-en-Vercors, France</h2></center>
-    <center><strong>From</strong> May 21st <strong>to</strong> May 26th</center>
+    <center><strike><strong>From</strong> May 21st <strong>to</strong>May 26th</strike> The school is postponed to September 2023!!</center>
     <center>Location: <b><a href="https://escandille.com" target="_blank">L'Escandille</a></b></center>
   </div>
 </div>
