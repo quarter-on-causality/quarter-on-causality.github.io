@@ -46,7 +46,7 @@ acknowledgements: ""
 <div class="row">
   <div class="col-xs-12"><a class="anchor" id="registration"></a>
   <h2>Registration</h2>
-  <p>The <b>Tools for Causality</b> will be held at the <a href="https://escandille.com/" target="_blank">Escandille</a>, <b>Autrans-Méaudre-en-Vercors</b>, <b>France</b> from <b>May 22nd to May 26th, 2023</b>.</p>
+  <p>The <b>Tools for Causality</b> will be held at the <a href="https://escandille.com/" target="_blank">Escandille</a>, <b>Autrans-Méaudre-en-Vercors</b>, <b>France</b> from <b><strike>May 22nd to May 26th, 2023</strike></b>. <b>The school is postponed to September 2023!!</b></p>
   
   <p> We offer full board at the Escandille from Sunday May 21 evening to Friday May 26 noon. In addition to attending tutorials, all participants will have the possibility to present a poster (it is optional)! </p>
 
