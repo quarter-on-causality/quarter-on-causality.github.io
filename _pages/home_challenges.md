@@ -125,7 +125,7 @@ acknowledgements: ""
 
 <div class="row">
   <div class="col-xs-12"><a class="anchor" id="visio"></a>
-     <h2>Attending remotely</h2>You can follow the presentations online via: <href="https://univ-grenoble-alpes-fr.zoom.us/j/94684362046?pwd=dWl1bDdvZXZjcnVGaXlJSU9SdmdXdz09"> (id: 946 8436 2046; code: 938735).
+     <h2>Attending remotely</h2>You can follow the presentations online via: <a href="https://univ-grenoble-alpes-fr.zoom.us/j/94684362046?pwd=dWl1bDdvZXZjcnVGaXlJSU9SdmdXdz09" target="_blank">https://univ-grenoble-alpes-fr.zoom.us/j/94684362046?pwd=dWl1bDdvZXZjcnVGaXlJSU9SdmdXdz09</a> (id: 946 8436 2046; code: 938735).
 	 <!-- <a href="https://www.openstreetmap.org/#map=19/45.19034/5.76707&layers=N" target="_blank">Direction</a> -->
   </div>
 </div><br/>
