@@ -233,7 +233,7 @@ acknowledgements: ""
         </tr>
 	      <tr>
           <td>2:00pm - 3:30pm</td>
-          <td>Keynote by M. van der Schaar - <i>Causal Deep Learning</i></td>
+          <td>Keynote by M. van der Schaar (with Jeroen Berrevoets) - <i>Causal Deep Learning</i></td>
         </tr>
 	      <tr>
           <td>3:30pm - 4:00pm</td>
