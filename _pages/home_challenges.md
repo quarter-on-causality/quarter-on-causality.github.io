@@ -125,7 +125,7 @@ acknowledgements: ""
 
 <div class="row">
   <div class="col-xs-12"><a class="anchor" id="visio"></a>
-     <h2>Venue</h2>You can follow the presentations online via: https://univ-grenoble-alpes-fr.zoom.us/j/94684362046?pwd=dWl1bDdvZXZjcnVGaXlJSU9SdmdXdz09 (id: 946 8436 2046; code: 938735).
+     <h2>Attending remotely</h2>You can follow the presentations online via: https://univ-grenoble-alpes-fr.zoom.us/j/94684362046?pwd=dWl1bDdvZXZjcnVGaXlJSU9SdmdXdz09 (id: 946 8436 2046; code: 938735).
   </div>
 </div><br/>
 
