@@ -17,7 +17,7 @@ acknowledgements: ""
     <center><h1>Fundamental Challenges in Causality</h1></center>
     <center><h5>Grenoble Alpes University, Grenoble, France</h5></center>
     <center><h5><strong>From</strong> May 9th <strong>to</strong> May 12th</h5></center>
-    <center><b>Location</b>:<a href="https://batiment.imag.fr/en" target="_blank">IMAG Building, Grenoble Alpes University  700, avenue centrale 38401 Saint Martin d'Hères</a>, <a href="https://www.openstreetmap.org/#map=19/45.19034/5.76707&layers=N" target="_blank">Direction</a></center>
+    <center><b>Location</b>:<a href="https://batiment.imag.fr/en" target="_blank">Auditorium of the IMAG Building, Grenoble Alpes University  700, avenue centrale 38401 Saint Martin d'Hères</a>, <a href="https://www.openstreetmap.org/#map=19/45.19034/5.76707&layers=N" target="_blank">Direction</a></center>
   </div>
 </div>
 
@@ -82,13 +82,13 @@ acknowledgements: ""
   </div>
 </div><br>
 
+<!--
 <div class="row">
   <div class="col-xs-12"><a class="anchor" id="dates"></a>
     <h2>Important Dates</h2>
     <br>
     <table class="table table-striped">
       <tbody>        
-       <!--
  	<tr>
           <td>Paper Submission Deadline</td>
           <td>February 10, 2023 (23:59 AOE)</td>
@@ -98,7 +98,6 @@ acknowledgements: ""
           <td>Notification to Authors</td>
           <td>February 27, 2023</td>
         </tr>
-       -->
         <tr>
           <td>Colloquium</td>
           <td>From May 9th to May 12th, 2023</td>
@@ -108,19 +107,27 @@ acknowledgements: ""
     </table>
   </div>
 </div><br>
+-->
 
+<!--
 <div class="row">
   <div class="col-xs-12"><a class="anchor" id="registration"></a>
      <h2>Registration</h2> Participation is free of charge, but registration is mandatory. Please register <a href="https://causality.sciencesconf.org/registration?forward-action=index&forward-controller=registration&lang=en" target="_blank">here</a> before April 28th AoE.
   </div>
 </div><br/>
+-->
 
 <div class="row">
-  <div class="col-xs-12"><a class="anchor" id="registration"></a>
-     <h2>Venue</h2> The colloquium will take in the IMAG building of the University located in Saint-Martin-d'Hères (next to Grenoble). Detailed information on how to reach this building from various places can be found <a href="https://batiment.imag.fr/en/contact-addresses-access" target="_blank">here</a>. In case of problem, please contact E. Gaussier (+33 682 197 988).
+  <div class="col-xs-12"><a class="anchor" id="venue"></a>
+     <h2>Venue</h2> The colloquium will take in the auditorium IMAG building of the University located in Saint-Martin-d'Hères (next to Grenoble). Detailed information on how to reach this building from various places can be found <a href="https://batiment.imag.fr/en/contact-addresses-access" target="_blank">here</a>. In case of problem, please contact E. Gaussier (+33 682 197 988).
   </div>
 </div><br/>
 
+<div class="row">
+  <div class="col-xs-12"><a class="anchor" id="visio"></a>
+     <h2>Venue</h2>You can follow the presentations online via: https://univ-grenoble-alpes-fr.zoom.us/j/94684362046?pwd=dWl1bDdvZXZjcnVGaXlJSU9SdmdXdz09 (id: 946 8436 2046; code: 938735).
+  </div>
+</div><br/>
 
 <div class="row">
   <div class="col-xs-12"><a class="anchor" id="schedule"></a>
