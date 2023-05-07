@@ -57,10 +57,10 @@ acknowledgements: ""
 </div>
 <br/>
 
+<!--
 <div class="row">
   <div class="col-xs-12 panel-group"><a class="anchor" id="cfp"></a>
-    <!-- <h2>Call for Contributions</h2> -->
-    <!--
+    <h2>Call for Contributions</h2>
     <br>
     <div class="panel panel-default">
       <div class="panel-heading" data-toggle="collapse" data-parent="#cfp" href="#call-papers" style="cursor:pointer;">
@@ -78,9 +78,9 @@ acknowledgements: ""
       </div>
     </div>
     <br> 
-  --> 
   </div>
 </div><br>
+--> 
 
 <!--
 <div class="row">
