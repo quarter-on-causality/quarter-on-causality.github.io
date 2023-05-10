@@ -122,14 +122,13 @@ acknowledgements: ""
   </div>
 </div><br><br>
 
-
-<div class="row">
+<!-- <div class="row">
   <div class="col-xs-12"><a class="anchor" id="speakers"></a>
     <h2>Invited Professors</h2>
     <br>    
   </div>
 </div>
-<br>
+<br> -->
 
 <div class="row" id="scientificcommittee">
   <div class="col-xs-12">

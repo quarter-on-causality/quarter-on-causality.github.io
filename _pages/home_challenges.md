@@ -132,7 +132,7 @@ acknowledgements: ""
 
 <div class="row">
   <div class="col-xs-12"><a class="anchor" id="schedule"></a>
-     <h2>Program (tentative)</h2>
+     <h2>Program</h2>
      <br>
      <table class="table schedule" style="border:none !important;">
       <thead class="thead-light">
@@ -502,21 +502,21 @@ Robins Evans is an Associate Professor in Statistics at the University of Oxford
 </div>
 
 
-<div class="row">
+<!-- <div class="row">
   <div class="col-xs-12"><a class="anchor" id="accepted-papers"></a>
     <h2>Accepted presentations</h2>
     <p>To be announced soon</p>
-    <!-- <div class="paper">
+    <div class="paper">
         <span class="title">Title</span>
         <span class="authors">Authors</span>
         <div class="btn-group btn-group-xs" role="group">          
           <button class="btn btn-poster-id">Poster #1</button>	  
 	        <a class="btn btn-default" target="_blank" href="https://arxiv.org/"><i class="fas fa-archive"></i> arXiv</a>
           <a class="btn btn-default" target="_blank" href="https://github.com/"><i class="fas fa-code"></i> Code</a>
-        </div> -->
-    <!-- </div> -->
+        </div>
+    </div>
   </div>
-  </div>
+  </div> -->
 
 <br />
 
