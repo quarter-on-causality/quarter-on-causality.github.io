@@ -16,7 +16,7 @@ acknowledgements: ""
   <div class="col-xs-12">
     <center><h1>Tools for Causality</h1></center>
     <center><h2>Autrans-Méaudre-en-Vercors, France</h2></center>
-    <center><strike><strong>From</strong> May 21st <strong>to</strong>May 26th</strike> The school is postponed to September 2023!!</center>
+    <center><strong>From</strong> September 24th <strong>to</strong>September 29th</center>
     <center>Location: <b><a href="https://escandille.com" target="_blank">L'Escandille</a></b></center>
   </div>
 </div>
@@ -48,7 +48,7 @@ acknowledgements: ""
   <h2>Registration</h2>
   <p>The <b>Tools for Causality</b> will be held at the <a href="https://escandille.com/" target="_blank">Escandille</a>, <b>Autrans-Méaudre-en-Vercors</b>, <b>France</b> from <b><strike>May 22nd to May 26th, 2023</strike></b>. <b>The school is postponed to September 2023!!</b></p>
   
-  <p> We offer full board at the Escandille from Sunday May 21 evening to Friday May 26 noon. In addition to attending tutorials, all participants will have the possibility to present a poster (it is optional)! </p>
+  <p> We offer full board at the Escandille from Sunday May 21 evening to Friday May 26 noon. In addition to attending tutorials, all participants will have the possibility to present a poster! </p>
 
   <p>
      The contribution costs are:
@@ -59,7 +59,7 @@ acknowledgements: ""
      Payment is made at the time of booking by credit card.
   </p>
   
-  <p> Please register <a href="https://causalityschool.sciencesconf.org/registration" target="_blank">here</a> <b>before May 19th AoE</b> and pay your inscription <a href="https://www.azur-colloque.fr/UGA/inscription/inscription/179/en" target="_blank">here</a></p>
+  <p> Please register and pay your inscription <a href="https://causalityschool.sciencesconf.org/registration" target="_blank">here</a> <b>before July 15th AoE</b></p>
   </div>
 </div>
 
@@ -230,7 +230,7 @@ acknowledgements: ""
 -->
 <!-- ########## -->
 
-<div class="row">
+<!-- <<div class="row">
   <div class="col-xs-12"><a class="anchor" id="speakers"></a>
     <h2>Speakers</h2>
     <br/>
@@ -359,7 +359,7 @@ acknowledgements: ""
     </div>
     <br/>
   </div>
-</div>
+</div> -->
 
 <div class="row">
   <div class="col-xs-12"><a class="anchor" id="organizers"></a>
