@@ -59,7 +59,7 @@ acknowledgements: ""
      Payment is made at the time of booking by credit card.
   </p>
   
-  <p> Please register and pay your inscription <a href="https://causalityschool.sciencesconf.org/registration" target="_blank">here</a> <b>before July 15th AoE</b></p>
+  <p> Please register and pay your inscription <a href="https://causalityschool.sciencesconf.org/registration?forward-action=index&forward-controller=registration&lang=en" target="_blank">here</a> <b>before July 15th AoE</b></p>
   </div>
 </div>
 
