@@ -16,7 +16,7 @@ acknowledgements: ""
   <div class="col-xs-12">
     <center><h1>Tools for Causality</h1></center>
     <center><h2>Autrans-Méaudre-en-Vercors, France</h2></center>
-    <center><strong>From</strong> September 24th <strong>to</strong>September 29th</center>
+    <center><strong>From</strong> September 24th <strong>to</strong> September 29th</center>
     <center>Location: <b><a href="https://escandille.com" target="_blank">L'Escandille</a></b></center>
   </div>
 </div>
@@ -48,7 +48,7 @@ acknowledgements: ""
   <h2>Registration</h2>
   <p>The <b>Tools for Causality</b> will be held at the <a href="https://escandille.com/" target="_blank">Escandille</a>, <b>Autrans-Méaudre-en-Vercors</b>, <b>France</b> from <b>September 24th to September 29th, 2023</b>.</p>
   
-  <p> We offer full board at the Escandille from Sunday May 21 evening to Friday May 26 noon. In addition to attending tutorials, all participants will have the possibility to present a poster! </p>
+  <p> We offer full board at the Escandille from Sunday September 24 evening to Friday September 29 noon. In addition to attending tutorials, all participants will have the possibility to present a poster! </p>
 
   <p>
      The contribution costs are:
