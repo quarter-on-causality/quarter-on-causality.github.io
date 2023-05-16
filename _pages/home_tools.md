@@ -46,7 +46,7 @@ acknowledgements: ""
 <div class="row">
   <div class="col-xs-12"><a class="anchor" id="registration"></a>
   <h2>Registration</h2>
-  <p>The <b>Tools for Causality</b> will be held at the <a href="https://escandille.com/" target="_blank">Escandille</a>, <b>Autrans-Méaudre-en-Vercors</b>, <b>France</b> from <b><strike>May 22nd to May 26th, 2023</strike></b>. <b>The school is postponed to September 2023!!</b></p>
+  <p>The <b>Tools for Causality</b> will be held at the <a href="https://escandille.com/" target="_blank">Escandille</a>, <b>Autrans-Méaudre-en-Vercors</b>, <b>France</b> from <b>September 24th to September 29th, 2023</b>.</p>
   
   <p> We offer full board at the Escandille from Sunday May 21 evening to Friday May 26 noon. In addition to attending tutorials, all participants will have the possibility to present a poster! </p>
 
@@ -62,6 +62,14 @@ acknowledgements: ""
   <p> Please register and pay your inscription <a href="https://causalityschool.sciencesconf.org/registration" target="_blank">here</a> <b>before July 15th AoE</b></p>
   </div>
 </div>
+
+
+<div class="row">
+  <div class="col-xs-12"><a class="anchor" id="registration"></a>
+	<p >The school is a one-week intensive courses that will start with an introduction course about causal inference and then proceed by covering different packages for causal inference in Python, such as DoubleML and DoWhy. Each course will include lectures, tutorials and hands-on exercises. The course is suitable for researchers and practitioners who want to learn how to apply causal inference methods in their own projects.
+  </div>
+</div>
+
 
 <!--
 <div class="row">
