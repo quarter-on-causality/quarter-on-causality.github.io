@@ -175,31 +175,7 @@ acknowledgements: ""
         </div>
       </div>
     </div>
-    <br/>
-    <!-- <div class="row speaker">
-      <div class="col-sm-3 speaker-pic">
-        <a href="https://www.imkemayer.com/" target="_blank">
-          <img class="people-pic" src="img/people/imayer.jpg" />
-        </a>
-        <div class="people-name">
-          <a href="https://www.imkemayer.com" target="_blank">Imke Mayer</a>
-          <h6>Charité – Universitätsmedizin</h6>
-        </div>
-      </div>
-      <div class="col-sm-9">
-        <h3>TBD</h3><br />        
-        <div class="panel panel-default">
-          <div class="panel-heading" data-toggle="collapse" href="#ima-bio" style="cursor:pointer;text-align:center">
-            <b>Biography <span style="font-weight:normal">(click to expand/collapse)</span></b>
-          </div>
-          <div id="ima-bio" class="panel-collapse collapse in"><div class="panel-body">
-            <p class="speaker-bio">
-           Imke Mayer is an associate researcher in the PreMeDICaL team at Inria Sophia Antipolis. In Spring 2022, she spent several weeks at the Simons Institute for the Theory of Computing at UC Berkeley to participate in the Causality research program. In October 2021 she joined the Institute of Public Health at the Charité Universitätsmedizin Berlin, to work on the NeTKoH project with Innovation Fund (Federal Committee on strengthening care provision), and it has the goal to introduce and assess neurological teleconsultations with primary care physicians to enhance access to specialist care in rural areas. </p>
-          </div></div>
-        </div>
-      </div>
-    </div>
-    <br/> -->
+    <br/>    
     <div class="row speaker">
       <div class="col-sm-3 speaker-pic">
         <a href="https://people.bordeaux.inria.fr/melanie.prague" target="_blank">
@@ -223,6 +199,32 @@ acknowledgements: ""
       </div>
     </div>
     <br/>
+    <!--  -->    
+    <div class="row speaker">
+      <div class="col-sm-3 speaker-pic">
+        <a href="http://mribeirodantas.me" target="_blank">
+          <img class="people-pic" src="img/people/ribeirodantas.png" />
+        </a>
+        <div class="people-name">
+          <a href="http://mribeirodantas.me" target="_blank">Marcel Ribeiro-Dantas</a>
+          <h6>Seqera Labs</h6>
+        </div>
+      </div>
+      <div class="col-sm-9">
+        <h3>TBD</h3><br />        
+        <div class="panel panel-default">
+          <div class="panel-heading" data-toggle="collapse" href="#rd-bio" style="cursor:pointer;text-align:center">
+            <b>Biography <span style="font-weight:normal">(click to expand/collapse)</span></b>
+          </div>
+          <div id="rd-bio" class="panel-collapse collapse in"><div class="panel-body">
+            <p class="speaker-bio">
+           Marcel Ribeiro-Dantas is a developer advocate at Seqera Labs. He holds a PhD in Bioinformatics from Sorbonne Université and Institut Curie developing causal discovery methods and investigating their application to breast cancer patients' data. He also holds two graduate degrees on Big Data and Health Informatics and an MSc in Bioinformatics from Federal University of Rio Grande do Norte (UFRN) in Brazil, where he worked on gene regulatory networks and data visualization with data from cancer patients.</p>
+          </div></div>
+        </div>
+      </div>
+    </div>
+    <br/>
+    <!--  -->
     <!--  -->
     <br/>
     <div class="row speaker">
@@ -232,7 +234,7 @@ acknowledgements: ""
         </a>
         <div class="people-name">
           <a href="https://www.homepages.ucl.ac.uk/~ucgtrbd/" target="_blank">Ricardo Silva</a>
-          <h6>Inria</h6>
+          <h6>University College London</h6>
         </div>
       </div>
       <div class="col-sm-9">
