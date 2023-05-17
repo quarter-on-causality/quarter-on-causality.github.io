@@ -16,8 +16,8 @@ acknowledgements: ""
   <div class="col-xs-12">
     <center><h1>Causality in Practice</h1></center>
     <center><h2>Saclay, France</h2></center>
-    <center><strong>From</strong> June 12th <strong>to</strong> June 16th</center>
-    <center>Location: <b><a href="https://www.institut-pascal.universite-paris-saclay.fr/en" target="_blank">Institut Pascal</a></b></center>
+    <center><strong>From</strong> June 12th <strong>to</strong> June 16th, 2023</center>
+    <center>Location: <b><a href="https://www.institut-pascal.universite-paris-saclay.fr/en" target="_blank">Institute Pascal</a></b></center>
   </div>
 </div>
 
@@ -101,6 +101,16 @@ acknowledgements: ""
 </div><br> -->
 
 <div class="row">
+  <div class="col-xs-12"><a class="anchor" id="registration"></a>
+  <h2>Registration</h2>
+  <p>The <b>Causality in Practice</b> will be held at the <a href="https://www.institut-pascal.universite-paris-saclay.fr/en" target="_blank">Institute Pascal</a>, <b>Saclay</b>, <b>France</b> from <b>June 12-16, 2023</b>.</p>
+  <p> Participation is free of charge, but registration is mandatory.</p>
+  <p> Please register <a href="https://forms.gle/oZiaBm9nz5Ewa28y6" target="_blank">here</a> <b>before June 1st AoE</b>.</p>
+<!--  -->
+  </div>
+</div>
+
+<div class="row">
   <div class="col-xs-12"><a class="anchor" id="schedule"></a>
      <h2>Schedule</h2>
      <br>     
@@ -126,7 +136,7 @@ acknowledgements: ""
 
 <div class="row">
   <div class="col-xs-12"><a class="anchor" id="speakers"></a>
-    <h2>Invited Speakers</h2>
+    <h2>Keynote Speakers</h2>
     <br/>
     <br/>    
     <div class="row speaker">
