@@ -66,7 +66,7 @@ acknowledgements: ""
 
 <div class="row">
   <div class="col-xs-12"><a class="anchor" id="registration"></a>
-	<p >The school is a one-week intensive courses that will start with an introduction course about causal inference and then proceed by covering different packages for causal inference in Python, such as causal-learn, DoubleML and DoWhy. Each course will include lectures, tutorials and hands-on exercises. The course is suitable for researchers and practitioners who want to learn how to apply causal inference methods in their own projects. </p>
+	<p >The school is a one-week intensive courses that will start with an introduction course about causal inference and then proceed by covering different packages for causal inference in Python, such as causal-learn, DoubleML and DoWhy. Each course will include lectures, tutorials and hands-on exercises. </p>
   </div>
 </div>
 
