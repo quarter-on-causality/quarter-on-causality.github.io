@@ -175,8 +175,8 @@ acknowledgements: ""
         </div>
       </div>
     </div>
-    <br/>    
-    <div class="row speaker">
+    <br/>
+    <!-- <div class="row speaker">
       <div class="col-sm-3 speaker-pic">
         <a href="https://www.imkemayer.com/" target="_blank">
           <img class="people-pic" src="img/people/imayer.jpg" />
@@ -198,8 +198,8 @@ acknowledgements: ""
           </div></div>
         </div>
       </div>
-    </div>    
-    <br/>
+    </div>
+    <br/> -->
     <div class="row speaker">
       <div class="col-sm-3 speaker-pic">
         <a href="https://people.bordeaux.inria.fr/melanie.prague" target="_blank">
@@ -223,6 +223,32 @@ acknowledgements: ""
       </div>
     </div>
     <br/>
+    <!--  -->
+    <br/>
+    <div class="row speaker">
+      <div class="col-sm-3 speaker-pic">
+        <a href="https://www.homepages.ucl.ac.uk/~ucgtrbd" target="_blank">
+          <img class="people-pic" src="img/people/rsilva.jpeg" />
+        </a>
+        <div class="people-name">
+          <a href="https://www.homepages.ucl.ac.uk/~ucgtrbd/" target="_blank">Ricardo Silva</a>
+          <h6>Inria</h6>
+        </div>
+      </div>
+      <div class="col-sm-9">
+        <h3>TBD</h3><br />        
+        <div class="panel panel-default">
+          <div class="panel-heading" data-toggle="collapse" href="#rs-bio" style="cursor:pointer;text-align:center">
+            <b>Biography <span style="font-weight:normal">(click to expand/collapse)</span></b>
+          </div>
+          <div id="rs-bio" class="panel-collapse collapse in"><div class="panel-body">
+            <p class="speaker-bio">Ricardo Silva is a Professor at the Department of Statistical Science and Adjunct Faculty of the Gatsby Computational Neuroscience Unit. Prior to that, Ricardo got his PhD from the newly formed Machine Learning Department at Carnegie Mellon University in 2005. Ricardo also spent two years at the Gatsby Computational Neuroscience Unit as a Senior Research Fellow, and one year as a postdoctoral researcher at the Statistical Laboratory in Cambridge. His research interests include machine learning, causality, graphical models, Bayesian inference, and relational inference.</p>
+          </div></div>
+        </div>
+      </div>
+    </div>
+    <br/>
+    <!--  -->
   </div>
 </div>
 
