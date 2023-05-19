@@ -162,6 +162,67 @@ acknowledgements: ""
       </div>
     </div>
     <br/>
+    <!--  -->
+    <br/>    
+    <div class="row speaker">
+      <div class="col-sm-3 speaker-pic">
+        <a href="https://carloscinelli.com" target="_blank">
+          <img class="people-pic" src="img/people/cinelli.jpeg" />
+        </a>
+        <div class="people-name">
+          <a href="https://carloscinelli.com" target="_blank">Carlos Cinelli</a>
+          <h6>University of Washington</h6>
+        </div>
+      </div>
+      <div class="col-sm-9">
+        <h3>TBD</h3><br />
+        <div class="panel panel-default">
+          <div class="panel-heading" data-toggle="collapse" href="#cc-bio" style="cursor:pointer;text-align:center">
+            <b>Biography <span style="font-weight:normal">(click to expand/collapse)</span></b>
+          </div>
+          <div id="cc-bio" class="panel-collapse collapse in"><div class="panel-body">
+            <p class="speaker-bio">Carlos Cinelli is an assistant professor at the Department of Statistics at the University of Washington. He obtained his Ph.D. in Statistics at the University of California, Los Angeles, advised by Chad Hazlett and Judea Pearl. Her research focuses on developing new causal and statistical methods for transparent and robust causal claims in the empirical sciences. He is particularly interested in the inferential challenges faced by social and health scientists, as well as the intersections of causality with machine learning and artificial intelligence.</p>
+          </div></div>
+        </div>
+      </div>
+    </div>
+    <br/>
+    <!--  -->
+    <br/>    
+    <div class="row speaker">
+      <div class="col-sm-3 speaker-pic">        
+        <a href="https://scholar.google.fr/citations?user=ok5uldEAAAAJ&hl=en" target="_blank">
+          <img class="people-pic" src="img/people/heymann.jpeg" />
+        </a>
+        <div class="people-name">
+          <a href="https://scholar.google.fr/citations?user=ok5uldEAAAAJ&hl=en" target="_blank">Benjamin Heymann</a>
+          <h6>Criteo</h6>
+        </div>
+        <a href="http://cermics.enpc.fr/~delara/" target="_blank">
+          <img class="people-pic" src="img/people/delara.jpeg" />
+        </a>
+        <div class="people-name">
+          <a href="http://cermics.enpc.fr/~delara/" target="_blank">Michel De Lara</a>
+          <h6>École des Ponts ParisTech</h6>
+        </div>
+      </div>
+      <div class="col-sm-9">
+        <h3>TBD</h3><br />
+        <div class="panel panel-default">
+          <div class="panel-heading" data-toggle="collapse" href="#bh-bio" style="cursor:pointer;text-align:center">
+            <b>Biography <span style="font-weight:normal">(click to expand/collapse)</span></b>
+          </div>
+          <div id="bh-bio" class="panel-collapse collapse in"><div class="panel-body">
+            <p class="speaker-bio">
+            Benjamin Heymann is a senior researcher at Criteo working on incrementality and attribution game theory and control. He did a PhD at Ecole Polytechnique, supervised by J. Frédéric Bonnans.
+            <br/>
+            Michel De Lara is a French applied mathematician, trained in stochastic processes and in control theory. After graduating as an engineer at Ecole Polytechnique and at Ecole Nationale des Ponts et Chaussees (ENPC), he took a research position there. He started his career in the environment research center of ENPC, while working part time at the French ministry of the Environment. He is now in position at the mathematics research center, Cermics, where he belongs to the Optimization team. There, he addresses both theoretical questions as well as different applications of mathematics, and publishes papers in such diverse fields as biology, economics, energy and mathematics. In his current research, Michel De Lara addresses the handling of information in game theory, generalized convexity and multistage stochastic optimization. Regarding applications, aside biodiversity management, he focuses on the management of energies, in a context of fast changes in the energy system.</p>
+          </div></div>
+        </div>
+      </div>
+    </div>
+    <br/>
+    <!--  -->
     <div class="row speaker">
       <div class="col-sm-3 speaker-pic">
         <a href="https://juliejosse.com" target="_blank">
