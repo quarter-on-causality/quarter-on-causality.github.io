@@ -373,6 +373,30 @@ acknowledgements: ""
     <!--  -->
     <div class="row speaker">
       <div class="col-sm-3 speaker-pic">
+        <a href="https://www.dsridhar.com" target="_blank">
+          <img class="people-pic" src="img/people/sridhar.jpeg" />
+        </a>
+        <div class="people-name">
+          <a href="https://www.dsridhar.com" target="_blank">Dhanya Sridhar</a>
+          <h6>Université de Montréal and Mila</h6>
+        </div>
+      </div>
+      <div class="col-sm-9">
+        <h3>TBD</h3><br />
+        <div class="panel panel-default">
+          <div class="panel-heading" data-toggle="collapse" href="#ds-bio" style="cursor:pointer;text-align:center">
+            <b>Biography <span style="font-weight:normal">(click to expand/collapse)</span></b>
+          </div>
+          <div id="ds-bio" class="panel-collapse collapse in"><div class="panel-body">
+            <p class="speaker-bio">Dhanya Sridhar is an assistant professor in the Department of Informatics and Operations Research (DIRO) at Université de Montréal and a core academic member of Mila. Her research focuses on combining causality and machine learning in service of AI systems that are robust to distribution shifts, adapt to new tasks efficiently, and discover new knowledge alongside us. The topics she works on span causal representation learning to robust supervised prediction. She is interested in technical results and practical algorithms that work for data such as text, images, networks, or multiple modalities.</p>
+          </div></div>
+        </div>
+      </div>
+    </div>
+    <br/>
+    <!--  -->
+    <div class="row speaker">
+      <div class="col-sm-3 speaker-pic">
         <a href="https://johannes-textor.name" target="_blank">
           <img class="people-pic" src="img/people/jtextor.jpeg" />
         </a>
