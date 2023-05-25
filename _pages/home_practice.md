@@ -139,7 +139,7 @@ acknowledgements: ""
     <h2>Keynote Speakers</h2>
     <br/>
     <br/>    
-    <div class="row speaker">
+    <!-- <div class="row speaker">
       <div class="col-sm-3 speaker-pic">
         <a href="https://orcid.org/0000-0001-5191-5209" target="_blank">
           <img class="people-pic" src="img/people/amelo.png" />
@@ -161,7 +161,7 @@ acknowledgements: ""
         </div>
       </div>
     </div>
-    <br/>
+    <br/> -->
     <!--  -->
     <br/>    
     <div class="row speaker">
@@ -214,7 +214,7 @@ acknowledgements: ""
           </div>
           <div id="bh-bio" class="panel-collapse collapse in"><div class="panel-body">
             <p class="speaker-bio">
-            Benjamin Heymann is a senior researcher at Criteo working on incrementality and attribution game theory and control. He did a PhD at Ecole Polytechnique, supervised by J. Frédéric Bonnans.
+            Benjamin Heymann is a Staff Research Scientist at Criteo, with interests in game theory, reinforcement learning and causal methods. His work is motivated by applications for recommender systems and marketplace design.
             <br/>
             Michel De Lara is a French applied mathematician, trained in stochastic processes and in control theory. After graduating as an engineer at Ecole Polytechnique and at Ecole Nationale des Ponts et Chaussees (ENPC), he took a research position there. He started his career in the environment research center of ENPC, while working part time at the French ministry of the Environment. He is now in position at the mathematics research center, Cermics, where he belongs to the Optimization team. There, he addresses both theoretical questions as well as different applications of mathematics, and publishes papers in such diverse fields as biology, economics, energy and mathematics. In his current research, Michel De Lara addresses the handling of information in game theory, generalized convexity and multistage stochastic optimization. Regarding applications, aside biodiversity management, he focuses on the management of energies, in a context of fast changes in the energy system.</p>
           </div></div>
@@ -225,27 +225,29 @@ acknowledgements: ""
     <!--  -->
     <div class="row speaker">
       <div class="col-sm-3 speaker-pic">
-        <a href="https://juliejosse.com" target="_blank">
-          <img class="people-pic" src="/tools/img/people/jj.png" />
+        <a href="https://ying531.github.io" target="_blank">
+          <img class="people-pic" src="/tools/img/people/yjin.jpeg" />
         </a>
         <div class="people-name">
-          <a href="https://juliejosse.com" target="_blank">Julie Josse</a>
-          <h6>INRIA</h6>
+          <a href="https://ying531.github.io/" target="_blank">Ying Jin</a>
+          <h6>Stanford University</h6>
         </div>
       </div>
       <div class="col-sm-9">
-        <h3>TBD</h3><br />        
+        <h3><b>Title:</b> TBD</h3><br />
+        <!-- <b>Abstract</b><p class="speaker-abstract"></p> -->
         <div class="panel panel-default">
-          <div class="panel-heading" data-toggle="collapse" href="#jj-bio" style="cursor:pointer;text-align:center">
+          <div class="panel-heading" data-toggle="collapse" href="#yjin-bio" style="cursor:pointer;text-align:center">
             <b>Biography <span style="font-weight:normal">(click to expand/collapse)</span></b>
           </div>
-          <div id="jj-bio" class="panel-collapse collapse in"><div class="panel-body">
-            <p class="speaker-bio">
-           Julie Josse is  a Senior Researcher at Inria (National research center in digital science) and the head of the Inria-Inserm (National research center in health) team PreMeDICaL (precision medicine by data integration and causal learning). Her main research fields are missing values (EM algorithms, imputation, supervised learning), causal inference (treatment effect estimation, combining RCT and observational data; survival analysis), visualization with dimensionality reduction (PCA, correspondence analysis, questionnaire analyses, multi-blocks data), low rank matrix estimation; with applications mainly in bio-sciences and health.</p>
+          <div id="yjin-bio" class="panel-collapse collapse in"><div class="panel-body">
+            <p class="speaker-bio"> Ying Jin is a fourth-year PhD student at Department of Statistics, Stanford University, under the supervision of Emmanuel Candès and Dominik Rothenhäusler. Her research interests includes causal inference, uncertainty quantification, multiple hypothesis testing, data-driven decision making, distributional robustness,  generalizability, and replicability. Currently, she co-organizes the Online Causal Inference Seminar. She loves traveling and photography in her free time.</p>
           </div></div>
         </div>
       </div>
     </div>
+    <br/>
+    <!--  -->
     <br/>    
     <div class="row speaker">
       <div class="col-sm-3 speaker-pic">
@@ -258,7 +260,8 @@ acknowledgements: ""
         </div>
       </div>
       <div class="col-sm-9">
-        <h3>TBD</h3><br />        
+        <h3><b>Title:</b>New pipeline to define mechanistic correlates of protection: application to SARS-CoV-2 vaccination</h3><br />
+        <b>Abstract</b><p class="speaker-abstract">The definition of correlates of protection is critical for the development of next generation SARS-CoV-2 vaccine platforms. The complete chains of causality and interrelationships between vaccination, immune responses, protection and clinical endpoints are likely to be considerably complex. In this work, we propose a model-based approach for identifying mechanistic correlates of protection against disease acquisition based on mathematical modeling of viral dynamics and data mining of immunological markers. We apply the method to three different studies in non-human primates evaluating SARS-CoV-2 vaccines based on CD40-targeting, two-component spike nanoparticle and mRNA 1273. Inhibition of RBD binding to ACE2 appears to be a robust mechanistic correlate of protection across the three vaccine platforms although not capturing the whole biological vaccine effect.</p>
         <div class="panel panel-default">
           <div class="panel-heading" data-toggle="collapse" href="#mp-bio" style="cursor:pointer;text-align:center">
             <b>Biography <span style="font-weight:normal">(click to expand/collapse)</span></b>
@@ -296,6 +299,30 @@ acknowledgements: ""
     </div>
     <br/>
     <!--  -->
+    <div class="row speaker">
+      <div class="col-sm-3 speaker-pic">
+        <a href="https://www.ppsanchez.com" target="_blank">
+          <img class="people-pic" src="/tools/img/people/psanchez.jpeg" />
+        </a>
+        <div class="people-name">
+          <a href="https://www.ppsanchez.com" target="_blank">Pedro Sanchez</a>
+          <h6>University of Edinburgh</h6>
+        </div>
+      </div>
+      <div class="col-sm-9">
+        <h3><b>Title:</b> Diffusion Models for Causal Discovery via Topological Ordering</h3><br />
+        <b>Abstract</b><p class="speaker-abstract">Discovering causal relations from observational data becomes possible with additional assumptions such as considering the functional relations to be constrained as nonlinear with additive noise (ANM). Even with strong assumptions, causal discovery involves an expensive search problem over the space of directed acyclic graphs (DAGs). Topological ordering approaches reduce the optimisation space of causal discovery by searching over a permutation rather than graph space. For ANMs, the Hessian of the data log-likelihood can be used for finding leaf nodes in a causal graph, allowing its topological ordering. However, existing computational methods for obtaining the Hessian still do not scale as the number of variables and the number of samples are increased. Therefore, inspired by recent innovations in diffusion probabilistic models (DPMs), we propose DiffAN, a topological ordering algorithm that leverages DPMs for learning a Hessian function. We introduce theory for updating the learned Hessian without re-training the neural network, and we show that computing with a subset of samples gives an accurate approximation of the ordering, which allows scaling to datasets with more samples and variables. We show empirically that our method scales exceptionally well to datasets with up to nodes and up to samples while still performing on par over small datasets with state-of-the-art causal discovery methods. Implementation is available at <a href="https://github.com/vios-s/DiffAN" target="_blank">https://github.com/vios-s/DiffAN</a>.</p>
+        <div class="panel panel-default">
+          <div class="panel-heading" data-toggle="collapse" href="#pps-bio" style="cursor:pointer;text-align:center">
+            <b>Biography <span style="font-weight:normal">(click to expand/collapse)</span></b>
+          </div>
+          <div id="pps-bio" class="panel-collapse collapse in"><div class="panel-body">
+            <p class="speaker-bio">
+           Pedro Sanchez is PhD student at The University of Edinburgh supervised by Professor Sotirios Tsaftaris and Dr Alison O’Neil. His research focuses on the intersection between causality and machine learning applied to healthcare data. He is interested in exploring how understanding the causal structure of a problem improves generalization, merging of multi-modal information and personalized decision-making in machine learning systems. He has more than four years of experience in (medical) image processing with deep learning during a MSc, four internships (Canon Medical, General Electric, Samsung, ICube Lab.), and working as a research engineer at Canon Medical Research Europe. He holds a Master's degree in Biomedical Engineering from the University of Strasbourg / France and a double degree in electrical engineering and biomedical engineering from the University of Brasilia / Brazil and the University of Strasbourg / France. Previously, He did internships at General Electric Healthcare, Samsumg Research Brazil, and ICube laboratory.</p>
+          </div></div>
+        </div>
+      </div>
+    </div>
     <!--  -->
     <br/>
     <div class="row speaker">
@@ -316,6 +343,31 @@ acknowledgements: ""
           </div>
           <div id="rs-bio" class="panel-collapse collapse in"><div class="panel-body">
             <p class="speaker-bio">Ricardo Silva is a Professor at the Department of Statistical Science and Adjunct Faculty of the Gatsby Computational Neuroscience Unit. Prior to that, Ricardo got his PhD from the newly formed Machine Learning Department at Carnegie Mellon University in 2005. Ricardo also spent two years at the Gatsby Computational Neuroscience Unit as a Senior Research Fellow, and one year as a postdoctoral researcher at the Statistical Laboratory in Cambridge. His research interests include machine learning, causality, graphical models, Bayesian inference, and relational inference.</p>
+          </div></div>
+        </div>
+      </div>
+    </div>
+    <br/>
+    <!--  -->    
+    <div class="row speaker">
+      <div class="col-sm-3 speaker-pic">
+        <a href="http://www.statslab.cam.ac.uk/~qz280" target="_blank">
+          <img class="people-pic" src="/tools/img/people/qzhao.jpeg" />
+        </a>
+        <div class="people-name">
+          <a href="http://www.statslab.cam.ac.uk/~qz280" target="_blank">Qingyuan Zhao</a>
+          <h6>University of Cambridge</h6>
+        </div>
+      </div>
+      <div class="col-sm-9">
+        <h3><b>Title:</b> TBD</h3><br />
+        <!-- <b>Abstract</b><p class="speaker-abstract"></p> -->
+        <div class="panel panel-default">
+          <div class="panel-heading" data-toggle="collapse" href="#qzhao-bio" style="cursor:pointer;text-align:center">
+            <b>Biography <span style="font-weight:normal">(click to expand/collapse)</span></b>
+          </div>
+          <div id="qzhao-bio" class="panel-collapse collapse in"><div class="panel-body">
+            <p class="speaker-bio"> Qingyuan Zhao is an Assistant Professor in the Statistical Laboratory, Department of Pure Mathematics and Mathematical Statistics (DPMMS) at University of Cambridge. He is a Fellow of the Corpus Christi College, and of the Alan Turing Institute. He is interested in improving the general quality and appraisal of statistical research, including new methodology and a better understanding of causal inference, novel study designs, sensitivity analysis, multiple testing, and selective inference.</p>
           </div></div>
         </div>
       </div>
@@ -349,25 +401,7 @@ acknowledgements: ""
       <a href="#">Alessandro Leite</a>
       <h6>TAU, INRIA, Paris-Saclay University</h6>
     </div>
-  </div>
-  <div class="col-xs-2">
-    <a href="#">
-      <img class="people-pic" src="/quarter/img/people/GO.jpeg">
-    </a>
-    <div class="people-name">
-      <a href="#">Georges Oppenheim</a>
-      <h6>Paris-Saclay University</h6>
-    </div>
-  </div>
-  <div class="col-xs-2">
-    <a href="https://myriamtami.github.io" target="_blank">
-      <img class="people-pic" src="{{"/quarter/img/people/tami.jpeg" | prepend:site.baseurl }}">
-    </a>
-    <div class="people-name">
-      <a href="https://myriamtami.github.io" target="_blank">Myriam Tami</a>
-      <h6>CentraleSupélec, Paris-Saclay University</h6>
-    </div>
-  </div>
+  </div>  
 </div>
 <br>
 
