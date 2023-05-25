@@ -78,7 +78,7 @@ acknowledgements: ""
     <table class="table table-striped">
       <tbody>        
         <tr>
-          <td>Paper Submission Deadline</td>
+          <td>Paper Submission Deadline<  d>
           <td>15 January 2023 (23:59 AOE)</td>
 	        <td><span class="countdown" reference="16 January 2023 13:59:59 UTC"></span></td>
         </tr>
@@ -136,32 +136,32 @@ acknowledgements: ""
 
 <div class="row">
   <div class="col-xs-12"><a class="anchor" id="speakers"></a>
-    <h2>Keynote Speakers</h2>
+    <h2>Speakers</h2>
     <br/>
-    <br/>    
-    <!-- <div class="row speaker">
+    <!--  -->
+    <div class="row speaker">
       <div class="col-sm-3 speaker-pic">
-        <a href="https://orcid.org/0000-0001-5191-5209" target="_blank">
-          <img class="people-pic" src="img/people/amelo.png" />
+        <a href="https://judithabk6.github.io" target="_blank">
+          <img class="people-pic" src="img/people/judith.jpeg" />
         </a>
         <div class="people-name">
-          <a href="https://orcid.org/0000-0001-5191-5209" target="_blank">Alba Cristina Magalhaes Alves de Melo</a>
-          <h6>University of Brasilia</h6>
+          <a href="https://judithabk6.github.io" target="_blank">Judith Abécassis</a>
+          <h6>Inria</h6>
         </div>
       </div>
       <div class="col-sm-9">
         <h3>TBD</h3><br />
         <div class="panel panel-default">
-          <div class="panel-heading" data-toggle="collapse" href="#am-bio" style="cursor:pointer;text-align:center">
+          <div class="panel-heading" data-toggle="collapse" href="#ja-bio" style="cursor:pointer;text-align:center">
             <b>Biography <span style="font-weight:normal">(click to expand/collapse)</span></b>
           </div>
-          <div id="am-bio" class="panel-collapse collapse in"><div class="panel-body">
-            <p class="speaker-bio">Alba Cristina de Melo is a Full Professor at the Department of Computer Science at the University of Brasilia (UnB), Brazil. She is also a CNPq Research Fellow level 1D. Her research interests are high-performance computing, Bioinformatics, and cloud computing.</p>
+          <div id="ja-bio" class="panel-collapse collapse in"><div class="panel-body">
+            <p class="speaker-bio">Judith Abécassis is a researcher in the Soda team at Inria Saclay. She works at the intersection between statistical methods in causal inference and medical applications to provide relevant and potentially actionable insights for better patient care. Before that, she was a postdoc in the Parietal team (now MIND) at Inria Saclay under the supervision of Bertrand Thirion and Julie Josse, working on causal mediation analysis with an application to brain imaging in the UK Biobank. She holds a Ph.D. in Bioinformatics at the Center for Computational Biology from the Ecole Mines ParisTech and the RT2 Lab (tumor residue and response to treatment) at Institut Curie under the supervision of Jean-Philippe Vert and Fabien Reyal, where she focused on the analysis of high-throughput sequencing data from cancer genomes.</p>
           </div></div>
         </div>
       </div>
     </div>
-    <br/> -->
+    <br/>
     <!--  -->
     <br/>    
     <div class="row speaker">
@@ -181,12 +181,36 @@ acknowledgements: ""
             <b>Biography <span style="font-weight:normal">(click to expand/collapse)</span></b>
           </div>
           <div id="cc-bio" class="panel-collapse collapse in"><div class="panel-body">
-            <p class="speaker-bio">Carlos Cinelli is an assistant professor at the Department of Statistics at the University of Washington. He obtained his Ph.D. in Statistics at the University of California, Los Angeles, advised by Chad Hazlett and Judea Pearl. Her research focuses on developing new causal and statistical methods for transparent and robust causal claims in the empirical sciences. He is particularly interested in the inferential challenges faced by social and health scientists, as well as the intersections of causality with machine learning and artificial intelligence.</p>
+            <p class="speaker-bio">Carlos Cinelli is an assistant professor at the Department of Statistics at the University of Washington. He obtained his Ph.D. in Statistics at the University of California, Los Angeles, advised by Chad Hazlett and Judea Pearl. His research focuses on developing new causal and statistical methods for transparent and robust causal claims in the empirical sciences. He is particularly interested in the inferential challenges social and health scientists face, as well as the intersections of causality with machine learning and artificial intelligence.</p>
           </div></div>
         </div>
       </div>
     </div>
     <br/>
+    <!--  -->
+    <div class="row speaker">
+      <div class="col-sm-3 speaker-pic">
+        <a href="https://curie.fr/personne/elise-dumas" target="_blank">
+          <img class="people-pic" src="img/people/dumas.jpg" />
+        </a>
+        <div class="people-name">
+          <a href="https://curie.fr/personne/elise-dumas" target="_blank">Elise Dumas</a>
+          <h6>Institut Curie</h6>
+        </div>
+      </div>
+      <div class="col-sm-9">
+        <h3>TBD</h3><br />
+        <div class="panel panel-default">
+          <div class="panel-heading" data-toggle="collapse" href="#ed-bio" style="cursor:pointer;text-align:center">
+            <b>Biography <span style="font-weight:normal">(click to expand/collapse)</span></b>
+          </div>
+          <div id="ed-bio" class="panel-collapse collapse in"><div class="panel-body">
+            <p class="speaker-bio">Elise Dumas is a Ph.D. student at RT2Lab (Residual Disease and Response to Treatment, INSERM) and CBIO (Center for Computational Biology). She is working on the effect of comedications (chronically taken medications) on survival after breast cancer using data from the SNDS (Système National des Données de Santé: French social security system).</p>
+          </div></div>
+        </div>
+      </div>
+    </div>
+    <br/>    
     <!--  -->
     <br/>    
     <div class="row speaker">
@@ -214,9 +238,8 @@ acknowledgements: ""
           </div>
           <div id="bh-bio" class="panel-collapse collapse in"><div class="panel-body">
             <p class="speaker-bio">
-            Benjamin Heymann is a Staff Research Scientist at Criteo, with interests in game theory, reinforcement learning and causal methods. His work is motivated by applications for recommender systems and marketplace design.
-            <br/>
-            Michel De Lara is a French applied mathematician, trained in stochastic processes and in control theory. After graduating as an engineer at Ecole Polytechnique and at Ecole Nationale des Ponts et Chaussees (ENPC), he took a research position there. He started his career in the environment research center of ENPC, while working part time at the French ministry of the Environment. He is now in position at the mathematics research center, Cermics, where he belongs to the Optimization team. There, he addresses both theoretical questions as well as different applications of mathematics, and publishes papers in such diverse fields as biology, economics, energy and mathematics. In his current research, Michel De Lara addresses the handling of information in game theory, generalized convexity and multistage stochastic optimization. Regarding applications, aside biodiversity management, he focuses on the management of energies, in a context of fast changes in the energy system.</p>
+            Benjamin Heymann is a Staff Research Scientist at Criteo, interested in game theory, reinforcement learning, and causal methods. His work is motivated by applications for recommender systems and marketplace design. <br/>
+            Michel De Lara is a French applied mathematician trained in stochastic processes and control theory. After graduating as an engineer at Ecole Polytechnique and at Ecole Nationale des Ponts et Chaussees (ENPC), he took a research position there. Michel De Lara started his career in the environmental research center of ENPC, working part-time at the French Ministry of the Environment. He is now in a position at the mathematics research center, Cermics, where he belongs to the Optimization team. There, he addresses theoretical questions and different applications of mathematics and publishes papers in such diverse fields as biology, economics, energy, and mathematics. In his current research, Michel De Lara addresses information handling in game theory, generalized convexity, and multistage stochastic optimization. Regarding applications, aside from biodiversity management, he focuses on the management of energies in the context of fast changes in the energy system.</p>
           </div></div>
         </div>
       </div>
@@ -226,7 +249,7 @@ acknowledgements: ""
     <div class="row speaker">
       <div class="col-sm-3 speaker-pic">
         <a href="https://ying531.github.io" target="_blank">
-          <img class="people-pic" src="/tools/img/people/yjin.jpeg" />
+          <img class="people-pic" src="img/people/yjin.jpeg" />
         </a>
         <div class="people-name">
           <a href="https://ying531.github.io/" target="_blank">Ying Jin</a>
@@ -241,7 +264,7 @@ acknowledgements: ""
             <b>Biography <span style="font-weight:normal">(click to expand/collapse)</span></b>
           </div>
           <div id="yjin-bio" class="panel-collapse collapse in"><div class="panel-body">
-            <p class="speaker-bio"> Ying Jin is a fourth-year PhD student at Department of Statistics, Stanford University, under the supervision of Emmanuel Candès and Dominik Rothenhäusler. Her research interests includes causal inference, uncertainty quantification, multiple hypothesis testing, data-driven decision making, distributional robustness,  generalizability, and replicability. Currently, she co-organizes the Online Causal Inference Seminar. She loves traveling and photography in her free time.</p>
+            <p class="speaker-bio">Ying Jin is a fourth-year Ph.D. student at the Department of Statistics, Stanford University, under the supervision of Emmanuel Candès and Dominik Rothenhäusler. Her research interests include causal inference, uncertainty quantification, multiple hypothesis testing, data-driven decision-making, distributional robustness,  generalizability, and replicability. Currently, she co-organizes the Online Causal Inference Seminar. She loves traveling and photography in her free time.</p>
           </div></div>
         </div>
       </div>
@@ -292,7 +315,7 @@ acknowledgements: ""
           </div>
           <div id="rd-bio" class="panel-collapse collapse in"><div class="panel-body">
             <p class="speaker-bio">
-           Marcel Ribeiro-Dantas is a developer advocate at Seqera Labs. He holds a PhD in Bioinformatics from Sorbonne Université and Institut Curie developing causal discovery methods and investigating their application to breast cancer patients' data. He also holds two graduate degrees on Big Data and Health Informatics and an MSc in Bioinformatics from Federal University of Rio Grande do Norte (UFRN) in Brazil, where he worked on gene regulatory networks and data visualization with data from cancer patients.</p>
+           Marcel Ribeiro-Dantas is a developer advocate at Seqera Labs. He holds a Ph.D. in Bioinformatics from Sorbonne Université and Institut Curie, developing causal discovery methods and investigating their application to breast cancer patients' data. He also has two graduate degrees in Big Data and Health Informatics and an MSc in Bioinformatics from the Federal University of Rio Grande do Norte (UFRN) in Brazil, where he worked on gene regulatory networks and data visualization with data from cancer patients.</p>
           </div></div>
         </div>
       </div>
@@ -302,7 +325,7 @@ acknowledgements: ""
     <div class="row speaker">
       <div class="col-sm-3 speaker-pic">
         <a href="https://www.ppsanchez.com" target="_blank">
-          <img class="people-pic" src="/tools/img/people/psanchez.jpeg" />
+          <img class="people-pic" src="img/people/psanchez.jpeg" />
         </a>
         <div class="people-name">
           <a href="https://www.ppsanchez.com" target="_blank">Pedro Sanchez</a>
@@ -318,7 +341,7 @@ acknowledgements: ""
           </div>
           <div id="pps-bio" class="panel-collapse collapse in"><div class="panel-body">
             <p class="speaker-bio">
-           Pedro Sanchez is PhD student at The University of Edinburgh supervised by Professor Sotirios Tsaftaris and Dr Alison O’Neil. His research focuses on the intersection between causality and machine learning applied to healthcare data. He is interested in exploring how understanding the causal structure of a problem improves generalization, merging of multi-modal information and personalized decision-making in machine learning systems. He has more than four years of experience in (medical) image processing with deep learning during a MSc, four internships (Canon Medical, General Electric, Samsung, ICube Lab.), and working as a research engineer at Canon Medical Research Europe. He holds a Master's degree in Biomedical Engineering from the University of Strasbourg / France and a double degree in electrical engineering and biomedical engineering from the University of Brasilia / Brazil and the University of Strasbourg / France. Previously, He did internships at General Electric Healthcare, Samsumg Research Brazil, and ICube laboratory.</p>
+           Pedro Sanchez is a Ph.D. student at The University of Edinburgh, supervised by Professor Sotirios Tsaftaris and Dr. Alison O'Neil. His research focuses on the intersection between causality and machine learning applied to healthcare data. He is interested in exploring how understanding the causal structure of a problem improves generalization, merging of multi-modal information, and personalized decision-making in machine learning systems. He has more than four years of experience in (medical) image processing with deep learning during an MSc, four internships (Canon Medical, General Electric, Samsung, ICube Lab.), and working as a research engineer at Canon Medical Research Europe. He holds a Master's degree in Biomedical Engineering from the University of Strasbourg, France, and a double degree in electrical engineering and biomedical engineering from the University of Brasilia, Brazil, and the University of Strasbourg, France. Previously, He did internships at General Electric Healthcare, Samsumg Research Brazil, and ICube laboratory.</p>
           </div></div>
         </div>
       </div>
@@ -342,7 +365,7 @@ acknowledgements: ""
             <b>Biography <span style="font-weight:normal">(click to expand/collapse)</span></b>
           </div>
           <div id="rs-bio" class="panel-collapse collapse in"><div class="panel-body">
-            <p class="speaker-bio">Ricardo Silva is a Professor at the Department of Statistical Science and Adjunct Faculty of the Gatsby Computational Neuroscience Unit. Prior to that, Ricardo got his PhD from the newly formed Machine Learning Department at Carnegie Mellon University in 2005. Ricardo also spent two years at the Gatsby Computational Neuroscience Unit as a Senior Research Fellow, and one year as a postdoctoral researcher at the Statistical Laboratory in Cambridge. His research interests include machine learning, causality, graphical models, Bayesian inference, and relational inference.</p>
+            <p class="speaker-bio">Ricardo Silva is a Professor at the Department of Statistical Science and Adjunct Faculty of the Gatsby Computational Neuroscience Unit. Before that, Ricardo got his Ph.D. from the newly formed Machine Learning Department at Carnegie Mellon University in 2005. Ricardo also spent two years at the Gatsby Computational Neuroscience Unit as a Senior Research Fellow and one year as a postdoctoral researcher at the Statistical Laboratory in Cambridge. His research interests include machine learning, causality, graphical models, Bayesian inference, and relational inference.</p>
           </div></div>
         </div>
       </div>
@@ -352,7 +375,7 @@ acknowledgements: ""
     <div class="row speaker">
       <div class="col-sm-3 speaker-pic">
         <a href="http://www.statslab.cam.ac.uk/~qz280" target="_blank">
-          <img class="people-pic" src="/tools/img/people/qzhao.jpeg" />
+          <img class="people-pic" src="img/people/qzhao.jpeg" />
         </a>
         <div class="people-name">
           <a href="http://www.statslab.cam.ac.uk/~qz280" target="_blank">Qingyuan Zhao</a>
@@ -367,7 +390,7 @@ acknowledgements: ""
             <b>Biography <span style="font-weight:normal">(click to expand/collapse)</span></b>
           </div>
           <div id="qzhao-bio" class="panel-collapse collapse in"><div class="panel-body">
-            <p class="speaker-bio"> Qingyuan Zhao is an Assistant Professor in the Statistical Laboratory, Department of Pure Mathematics and Mathematical Statistics (DPMMS) at University of Cambridge. He is a Fellow of the Corpus Christi College, and of the Alan Turing Institute. He is interested in improving the general quality and appraisal of statistical research, including new methodology and a better understanding of causal inference, novel study designs, sensitivity analysis, multiple testing, and selective inference.</p>
+            <p class="speaker-bio">Qingyuan Zhao is an Assistant Professor in the Statistical Laboratory, Department of Pure Mathematics and Mathematical Statistics (DPMMS) at University of Cambridge. He is a Fellow of the Corpus Christi College, and of the Alan Turing Institute. He is interested in improving the general quality and appraisal of statistical research, including new methodology and a better understanding of causal inference, novel study designs, sensitivity analysis, multiple testing, and selective inference.</p>
           </div></div>
         </div>
       </div>
