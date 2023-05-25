@@ -161,7 +161,6 @@ acknowledgements: ""
         </div>
       </div>
     </div>
-    <br/>
     <!--  -->
     <br/>    
     <div class="row speaker">
@@ -181,7 +180,7 @@ acknowledgements: ""
             <b>Biography <span style="font-weight:normal">(click to expand/collapse)</span></b>
           </div>
           <div id="cc-bio" class="panel-collapse collapse in"><div class="panel-body">
-            <p class="speaker-bio">Carlos Cinelli is an assistant professor at the Department of Statistics at the University of Washington. He obtained his Ph.D. in Statistics at the University of California, Los Angeles, advised by Chad Hazlett and Judea Pearl. His research focuses on developing new causal and statistical methods for transparent and robust causal claims in the empirical sciences. He is particularly interested in the inferential challenges social and health scientists face, as well as the intersections of causality with machine learning and artificial intelligence.</p>
+            <p class="speaker-bio">Carlos Cinelli is an assistant professor at the Department of Statistics at the University of Washington. He obtained his Ph.D. in Statistics at the University of California, Los Angeles, advised by Chad Hazlett and Judea Pearl. His research focuses on developing new causal and statistical methods for transparent and robust causal claims in the empirical sciences. He is particularly interested in the inferential challenges social and health scientists face and the intersections of causality with machine learning and artificial intelligence.</p>
           </div></div>
         </div>
       </div>
@@ -371,6 +370,30 @@ acknowledgements: ""
       </div>
     </div>
     <br/>
+    <!--  -->
+    <div class="row speaker">
+      <div class="col-sm-3 speaker-pic">
+        <a href="https://johannes-textor.name" target="_blank">
+          <img class="people-pic" src="img/people/jtextor.jpeg" />
+        </a>
+        <div class="people-name">
+          <a href="https://johannes-textor.name" target="_blank">Johannes Textor</a>
+          <h6>Institute for Computing and Information Sciences, Radboud University, Netherlands</h6>
+        </div>
+      </div>
+      <div class="col-sm-9">
+        <h3>TBD</h3><br />
+        <div class="panel panel-default">
+          <div class="panel-heading" data-toggle="collapse" href="#jt-bio" style="cursor:pointer;text-align:center">
+            <b>Biography <span style="font-weight:normal">(click to expand/collapse)</span></b>
+          </div>
+          <div id="jt-bio" class="panel-collapse collapse in"><div class="panel-body">
+            <p class="speaker-bio">Johannes Textor is an Associate Professor at Institute for Computing and Information Sciences, Radboud University. He leads the Computational Immunology group at the Data Science section of the Institute for Computing and Information Sciences at Radboud University and the Department of Tumor Immunology at the Radboud Institute for Molecular Life Sciences, Radboud University Medical Center (Radboudumc), Nijmegen, The Netherlands. He uses simulation models, machine learning, and causal inference methods to study information processing in the adaptive immune system. Likewise, his works focus on understanding how the immune system perceives and interacts with "abnormal" information from pathogens or tumors. Such knowledge helps design immunological treatments such as vaccines or tumor immunotherapies. Moreover, his works focus on developing immunologically inspired machine learning and information processing systems to understand how the immune system stores, retrieves, and modifies the information and how this differs from the second primary information-processing system in human bodies and the central nervous system.</p>
+          </div></div>
+        </div>
+      </div>
+    </div>
+    <br/>    
     <!--  -->    
     <div class="row speaker">
       <div class="col-sm-3 speaker-pic">
