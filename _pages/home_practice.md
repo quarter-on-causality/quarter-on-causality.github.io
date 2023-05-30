@@ -150,7 +150,11 @@ acknowledgements: ""
         </div>
       </div>
       <div class="col-sm-9">
-        <h3>TBD</h3><br />
+        <h3><b>Title:</b> Exploring cognition in the UK Biobank with causal mediation analysis</h3><br />
+        <b>Abstract</b><p class="speaker-abstract">Causal inference in observational studies is primarily used to measure the causal effect of a treatment on an outcome. Nevertheless, in a lot of fields, disentangling the mechanism of action is just as important, as it allows us to identify potential intermediate intervention targets, and more generally, deepen our understanding of the processes that lead to the observed outcome.
+        Causal mediation analysis aims at separating the (total) causal effect into two components: an indirect effect through a third (group of) variable(s) called mediator(s), and a direct effect without intermediate. Most of existing methods are dedicated to the case of a one-dimension binary mediator, while the problem of considering several mediators is increasingly considered, especially for high dimension settings, such as gene expression or medical imaging.
+        We perform a thorough evaluation of estimators for direct and indirect effects in the context of mediation analysis for binary, continuous and multi-dimensional mediators. We consider both parametric and semi-parametric estimators, and assess the relevance of several implementation variants, in particular regularization, non-parametric models for nuisance parameters estimation, probability calibration and cross-fitting.
+        We then apply the mediation analysis framework to the exploration of cognitive function in a population of around 40,000 UK Biobank participants who underwent brain MRI, and a complete physical, sociodemographic, cognitive, and medical assessment. This prospective cohort is unique by its size, and the opportunity to disentangle the social and physiological components of human cognition. In a preliminary study, we consider several treatments believed to affect cognitive abilities. We found evidence of mediation by the brain structure for several of those exposures, in particular the ones that the organism physiology.</p>
         <div class="panel panel-default">
           <div class="panel-heading" data-toggle="collapse" href="#ja-bio" style="cursor:pointer;text-align:center">
             <b>Biography <span style="font-weight:normal">(click to expand/collapse)</span></b>
@@ -209,7 +213,6 @@ acknowledgements: ""
         </div>
       </div>
     </div>
-    <br/>    
     <!--  -->
     <br/>    
     <div class="row speaker">
@@ -345,6 +348,31 @@ acknowledgements: ""
         </div>
       </div>
     </div>
+    <br/>
+    <!--  -->
+    <div class="row speaker">
+      <div class="col-sm-3 speaker-pic">
+        <a href="https://erwanscornet.github.io/" target="_blank">
+          <img class="people-pic" src="img/people/scornet.png" />
+        </a>
+        <div class="people-name">
+          <a href="https://erwanscornet.github.io/" target="_blank">Erwan Scornet</a>
+          <h6>Ecole Polytechnique, CMAP</h6>
+        </div>
+      </div>
+      <div class="col-sm-9">
+        <h3><b>Title:</b> From Randomized Controlled Trials to target population – a finite-sample analysis</h3><br />
+        <b>Abstract</b><p class="speaker-abstract">The limited scope of Randomized Controlled Trials (RCT) is increasingly under scrutiny, in particular when samples are unrepresentative. Indeed, some RCTs over/under-sample individuals with certain characteristics compared to the target population, for which one want to draw conclusions on treatment effectiveness. Re-weighting trial individuals to match the target population helps to improve the treatment effect estimation. Such procedures require an estimation of the ratio of the two densities (trial and target distributions). In this talk, we focus on finite-sample performances of such reweighting procedures - also called Inverse Propensity of Sampling Weighting (IPSW) - in presence of categorical covariates. We compare oracle versions of these estimates (when the trial/target distribution or the propensity score are known). Our finite-sample analysis enables us to derive precise asymptotic regimes depending on the two sample sizes (RCT and target population). In particular, we show that IPSW estimates do not benefit from using the true trial distribution if available and that IPSW performances are improved when the trial probability to be treated is estimated. In addition, we study how including covariates that are unnecessary for identifiability may impact the asymptotic variance and illustrate the results on a semi-synthetic simulation inspired from critical care medicine.</p>
+        <div class="panel panel-default">
+          <div class="panel-heading" data-toggle="collapse" href="#es-bio" style="cursor:pointer;text-align:center">
+            <b>Biography <span style="font-weight:normal">(click to expand/collapse)</span></b>
+          </div>
+          <div id="es-bio" class="panel-collapse collapse in"><div class="panel-body">
+            <p class="speaker-bio">Erwan Scornet is an assistant professor at the Center for Applied Mathematics (CMAP) in Ecole Polytechnique. His research interests focus on theoretical statistics and machine learning, with a particular emphasis on nonparametric estimates. He did a Ph.D. thesis on a particular algorithm of machine learning called random forests, under the supervision of Gérard Biau (LSTA) and Jean-Philipe Vert (Institut Curie).</p>
+          </div></div>
+        </div>
+      </div>
+    </div>    
     <!--  -->
     <br/>
     <div class="row speaker">
