@@ -165,6 +165,30 @@ acknowledgements: ""
         </div>
       </div>
     </div>
+    <br/>
+    <!--  -->     
+    <div class="row speaker">
+      <div class="col-sm-3 speaker-pic">        
+        <a href="https://sanderbeckers.github.io/website/" target="_blank">
+          <img class="people-pic" src="img/people/sbeckers.jpeg" />
+        </a>
+        <div class="people-name">
+          <a href="https://sanderbeckers.github.io/website/" target="_blank">Sander Beckers</a>
+          <h6>University of Amsterdam</h6>
+        </div>
+      </div>
+      <div class="col-sm-9">
+        <h3>TBD</h3><br />
+        <div class="panel panel-default">
+          <div class="panel-heading" data-toggle="collapse" href="#cka-bio" style="cursor:pointer;text-align:center">
+            <b>Biography <span style="font-weight:normal">(click to expand/collapse)</span></b>
+          </div>
+          <div id="cka-bio" class="panel-collapse collapse in"><div class="panel-body">
+            <p class="speaker-bio">Sander Beckers is a postdoctoral researcher at the Institute for Logic, Language, and Computation from the University of Amsterdam. He works on a variety of topics involving causation and causal modeling. Examples include the use of causal models to construct and discuss formal definitions of actual causation and their properties; the combination of causal models and the descriptions of actual causation to formally define other essential notions, such as harm, responsibility, and explanation, and the extension of the framework of causal models itself, so that they can express a broader range of relations. He is a philosopher, and his philosophical interests branch out to diverse areas that encompass the philosophy of Wittgenstein, the limitations of scientific knowledge, cultural relativism, and any topic in formal philosophy.</p>
+          </div></div>
+        </div>
+      </div>
+    </div>
     <!--  -->
     <br/>    
     <div class="row speaker">
@@ -213,8 +237,8 @@ acknowledgements: ""
         </div>
       </div>
     </div>
+    <br/>
     <!--  -->
-    <br/>    
     <div class="row speaker">
       <div class="col-sm-3 speaker-pic">        
         <a href="https://scholar.google.fr/citations?user=ok5uldEAAAAJ&hl=en" target="_blank">
@@ -246,8 +270,8 @@ acknowledgements: ""
         </div>
       </div>
     </div>
-    <br/>
     <!--  -->
+    <br/>    
     <div class="row speaker">
       <div class="col-sm-3 speaker-pic">
         <a href="https://ying531.github.io" target="_blank">
@@ -272,6 +296,55 @@ acknowledgements: ""
       </div>
     </div>
     <br/>
+    <!--  -->
+    <div class="row speaker">
+      <div class="col-sm-3 speaker-pic">        
+        <a href="https://ckassaad.github.io" target="_blank">
+          <img class="people-pic" src="/challenges/img/people/ckassad.jpeg" />
+        </a>
+        <div class="people-name">
+          <a href="https://ckassaad.github.io" target="_blank">Charles K. Assaad</a>
+          <h6>EasyVista</h6>
+        </div>
+      </div>
+      <div class="col-sm-9">
+        <h3>TBD</h3><br />
+        <div class="panel panel-default">
+          <div class="panel-heading" data-toggle="collapse" href="#cka-bio" style="cursor:pointer;text-align:center">
+            <b>Biography <span style="font-weight:normal">(click to expand/collapse)</span></b>
+          </div>
+          <div id="cka-bio" class="panel-collapse collapse in"><div class="panel-body">
+            <p class="speaker-bio">Charles K. Assaad is a research scientist at EasyVista in the lab Team of EV Observe. He received his Ph.D. from Université Grenoble Alpes (with Emilie Devijver and Eric Gaussier) and his engineering degree from National School of Computer Science for Industry and Business (ENSIIE). His work focuses mainly on causal discovery and causal reasoning, which comprise learning causal structures from purely observational data and studying the reasonings one can do with the inferred causal structures. His research interests include causal discovery, root cause analysis, anomaly detection, time series analysis, causal reasoning, history of causation, machine learning, and information theory.</p>
+          </div></div>
+        </div>
+      </div>
+    </div>
+    <!--  -->
+    <br/>
+    <!--  -->
+    <div class="row speaker">
+      <div class="col-sm-3 speaker-pic">
+        <a href="https://scholar.google.com/citations?user=LyabfXcAAAAJ" target="_blank">
+          <img class="people-pic" src="img/people/mmonteiro.jpeg" />
+        </a>
+        <div class="people-name">
+          <a href="https://scholar.google.com/citations?user=LyabfXcAAAAJ" target="_blank">Miguel Monteiro</a>
+          <h6>Imperial College London, Qureight</h6>
+        </div>
+      </div>
+      <div class="col-sm-9">
+        <h3><b>Title:</b> Measuring axiomatic soundness of counterfactual image models</h3><br />
+        <b>Abstract</b><p class="speaker-abstract"> We present a general framework for evaluating image counterfactuals. The power and flexibility of deep generative models make them valuable tools for learning mechanisms in structural causal models. However, their flexibility makes counterfactual identifiability impossible in the general case. Motivated by these issues, we revisit Pearl's axiomatic definition of counterfactuals to determine the necessary constraints of any counterfactual inference model: composition, reversibility, and effectiveness. We frame counterfactuals as functions of an input variable, its parents, and counterfactual parents and use the axiomatic constraints to restrict the set of functions that could represent the counterfactual, thus deriving distance metrics between the approximate and ideal functions. We demonstrate how these metrics can be used to compare and choose between different approximate counterfactual inference models and to provide insight into a model's shortcomings and trade-offs.</p>
+        <div class="panel panel-default">
+          <div class="panel-heading" data-toggle="collapse" href="#mm-bio" style="cursor:pointer;text-align:center">
+            <b>Biography <span style="font-weight:normal">(click to expand/collapse)</span></b>
+          </div>
+          <div id="mm-bio" class="panel-collapse collapse in"><div class="panel-body">
+            <p class="speaker-bio">Miguel Monteiro is a machine learning engineer at Qureight. He received a Ph.D. in Computer Science from the Imperial College London in 2022 under the direction of Ben Glocker. His works mainly focus on medical imaging, uncertainty quantification, and causality.</p>
+          </div></div>
+        </div>
+      </div>
+    </div>
     <!--  -->
     <br/>    
     <div class="row speaker">
@@ -372,7 +445,7 @@ acknowledgements: ""
           </div></div>
         </div>
       </div>
-    </div>    
+    </div>
     <!--  -->
     <br/>
     <div class="row speaker">
