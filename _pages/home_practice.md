@@ -308,7 +308,8 @@ acknowledgements: ""
         </div>
       </div>
       <div class="col-sm-9">
-        <h3>TBD</h3><br />
+        <h3><b>Title:</b> Root cause analysis in IT monitoring systems</h3><br />
+        <b>Abstract</b><p class="speaker-abstract">Automatic root cause identification is a challenging and important task in IT monitoring systems, where failures and anomalies can have severe consequences for businesses and customers. Traditional methods rely on manual rules, heuristics, or statistical correlations to identify the root causes of incidents, but often fail to capture the complex and dynamic dependencies among IT components. In this talk, a new framework will be presented that leverages causal discovery and causal reasoning to automatically infer root causes of IT incidents from observational time series data. The effectiveness of the framework will be demonstrated on simulated data as well as on real world monitoring data</p>
         <div class="panel panel-default">
           <div class="panel-heading" data-toggle="collapse" href="#cka-bio" style="cursor:pointer;text-align:center">
             <b>Biography <span style="font-weight:normal">(click to expand/collapse)</span></b>
