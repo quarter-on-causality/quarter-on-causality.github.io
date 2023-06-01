@@ -282,7 +282,7 @@ acknowledgements: ""
             <b>Biography <span style="font-weight:normal">(click to expand/collapse)</span></b>
           </div>
           <div id="rp-bio" class="panel-collapse collapse in"><div class="panel-body">
-            <p class="speaker-bio">After being trained in clinical medicine, François Grolleau holds a full board certification (France) in Anesthesia and Critical Care. Then, he shifted his attention to methodological research in medicine after completing a Master of Public Health from Université Paris Descartes and a fellowship at McMaster University (Canada). He is currently an assistant professor of Biostatistics at Université Paris Cité and a researcher at CRESS — METHODS team. His scientific work focuses on developing and implementing statistical/machine learning methods for personalizing medical interventions. His applied areas of interest include Critical Care, Nephrology, and Cardiology.</p>
+            <p class="speaker-bio">After training in clinical medicine, François Grolleau holds a full board certification (France) in Anesthesia and Critical Care. Then, he shifted his attention to methodological research in medicine after completing a Master of Public Health from Université Paris Descartes and a fellowship at McMaster University (Canada). He is currently an assistant professor of Biostatistics at Université Paris Cité and a researcher at CRESS — METHODS team. His scientific work focuses on developing and implementing statistical/machine learning methods for personalizing medical interventions. His applied areas of interest include Critical Care, Nephrology, and Cardiology.</p>
           </div></div>
         </div>
       </div>
@@ -639,7 +639,32 @@ acknowledgements: ""
             <b>Biography <span style="font-weight:normal">(click to expand/collapse)</span></b>
           </div>
           <div id="jz-bio" class="panel-collapse collapse in"><div class="panel-body">
-            <p class="speaker-bio">Jakob Zeitler is a Ph.D. student at the UCL Centre for Artificial Intelligence. His researches focus on methods and limitations of causal inference and their intersection with machine learning. He believes that causal inference can only work in the real world if we are honest about its assumptions. He is looking at these problem settings with trustworthy properties, including partial identification, causal Bayesian optimization, and topological perspectives of causal inference.</p>
+            <p class="speaker-bio">Jakob Zeitler is a Ph.D. student at the UCL Centre for Artificial Intelligence. His researches focus on methods and limitations of causal inference and their intersection with machine learning. He believes causal inference can only work in the real world if we are honest about its assumptions. He is looking at these problem settings with trustworthy properties, including partial identification, causal Bayesian optimization, and topological perspectives of causal inference.</p>
+          </div></div>
+        </div>
+      </div>
+    </div>
+    <!--  -->
+    <br/>
+    <!--  -->
+    <div class="row speaker">
+      <div class="col-sm-3 speaker-pic">
+        <a href="https://www.matej-zecevic.de/" target="_blank">
+          <img class="people-pic" src="img/people/mzecevic.jpeg" />
+        </a>
+        <div class="people-name">
+          <a href="https://www.matej-zecevic.de/" target="_blank">Matej Zečević</a>
+          <h6>TU Darmstadt</h6>
+        </div>
+      </div>
+      <div class="col-sm-9">
+        <h3><b>Title:</b> TBD</h3><br />
+        <div class="panel panel-default">
+          <div class="panel-heading" data-toggle="collapse" href="#mz-bio" style="cursor:pointer;text-align:center">
+            <b>Biography <span style="font-weight:normal">(click to expand/collapse)</span></b>
+          </div>
+          <div id="mz-bio" class="panel-collapse collapse in"><div class="panel-body">
+            <p class="speaker-bio">Matej Zečević is a Ph.D. Candidate in Computer Science at the Artificial Intelligence & Machine Learning Lab (TU Darmstadt) under Prof. Kristian Kersting. He contributes to System 2 AI by unifying Causality with AI/ML, "as graphs are for causation, causal nets are for AI."</p>
           </div></div>
         </div>
       </div>
