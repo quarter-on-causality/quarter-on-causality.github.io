@@ -105,7 +105,7 @@ acknowledgements: ""
   <h2>Registration</h2>
   <p>The <b>Causality in Practice</b> will be held at the <a href="https://www.institut-pascal.universite-paris-saclay.fr/en" target="_blank">Institute Pascal</a>, <b>Saclay</b>, <b>France</b> from <b>June 12-16, 2023</b>.</p>
   <p> Participation is free of charge, but registration is mandatory.</p>
-  <p> Please register <a href="https://forms.gle/oZiaBm9nz5Ewa28y6" target="_blank">here</a> <b>before June 1st AoE</b>.</p>
+  <p> Please register <a href="https://forms.gle/oZiaBm9nz5Ewa28y6" target="_blank">here</a> <b>before June 7th AoE</b>.</p>
 <!--  -->
   </div>
 </div>
@@ -136,7 +136,7 @@ acknowledgements: ""
 
 <div class="row">
   <div class="col-xs-12"><a class="anchor" id="speakers"></a>
-    <h2>Speakers</h2>
+    <h2>Speakers (alphabetic order)</h2>
     <br/>
     <!--  -->
     <div class="row speaker">
@@ -166,7 +166,7 @@ acknowledgements: ""
       </div>
     </div>
     <br/>
-    <!--  -->     
+    <!--  -->
     <div class="row speaker">
       <div class="col-sm-3 speaker-pic">        
         <a href="https://sanderbeckers.github.io/website/" target="_blank">
@@ -178,13 +178,38 @@ acknowledgements: ""
         </div>
       </div>
       <div class="col-sm-9">
-        <h3>TBD</h3><br />
+        <h3><b>Title:</b> TBD</h3><br />
         <div class="panel panel-default">
           <div class="panel-heading" data-toggle="collapse" href="#cka-bio" style="cursor:pointer;text-align:center">
             <b>Biography <span style="font-weight:normal">(click to expand/collapse)</span></b>
           </div>
           <div id="cka-bio" class="panel-collapse collapse in"><div class="panel-body">
             <p class="speaker-bio">Sander Beckers is a postdoctoral researcher at the Institute for Logic, Language, and Computation from the University of Amsterdam. He works on a variety of topics involving causation and causal modeling. Examples include the use of causal models to construct and discuss formal definitions of actual causation and their properties; the combination of causal models and the descriptions of actual causation to formally define other essential notions, such as harm, responsibility, and explanation, and the extension of the framework of causal models itself, so that they can express a broader range of relations. He is a philosopher, and his philosophical interests branch out to diverse areas that encompass the philosophy of Wittgenstein, the limitations of scientific knowledge, cultural relativism, and any topic in formal philosophy.</p>
+          </div></div>
+        </div>
+      </div>
+    </div>
+    <!--  -->
+    <br/>
+    <!--  -->
+    <div class="row speaker">
+      <div class="col-sm-3 speaker-pic">
+        <a href="https://philippe-brouillard.com/" target="_blank">
+          <img class="people-pic" src="img/people/pbrouillard.jpeg" />
+        </a>
+        <div class="people-name">
+          <a href="https://philippe-brouillard.com" target="_blank">Philippe Brouillard</a>
+          <h6>Université de Montréal, MILA</h6>
+        </div>
+      </div>
+      <div class="col-sm-9">
+        <h3><b>Title:</b> TBD</h3><br />
+        <div class="panel panel-default">
+          <div class="panel-heading" data-toggle="collapse" href="#pbr-bio" style="cursor:pointer;text-align:center">
+            <b>Biography <span style="font-weight:normal">(click to expand/collapse)</span></b>
+          </div>
+          <div id="pbr-bio" class="panel-collapse collapse in"><div class="panel-body">
+            <p class="speaker-bio">Philippe Brouillard is a Ph.D. student co-supervised by Dhanya Sridhar and Alexandre Drouin at the Université de Montréal (UdeM) and Mila, the Quebec Artificial Intelligence Institute. He is currently doing an internship at ServiceNow Research. His research interests include causal discovery, causal representation learning, machine learning, and how to combine them.</p>
           </div></div>
         </div>
       </div>
@@ -202,7 +227,7 @@ acknowledgements: ""
         </div>
       </div>
       <div class="col-sm-9">
-        <h3>TBD</h3><br />
+        <h3><b>Title:</b> TBD</h3><br />
         <div class="panel panel-default">
           <div class="panel-heading" data-toggle="collapse" href="#cc-bio" style="cursor:pointer;text-align:center">
             <b>Biography <span style="font-weight:normal">(click to expand/collapse)</span></b>
@@ -226,7 +251,7 @@ acknowledgements: ""
         </div>
       </div>
       <div class="col-sm-9">
-        <h3>TBD</h3><br />
+        <h3><b>Title:</b> TBD</h3><br />
         <div class="panel panel-default">
           <div class="panel-heading" data-toggle="collapse" href="#ed-bio" style="cursor:pointer;text-align:center">
             <b>Biography <span style="font-weight:normal">(click to expand/collapse)</span></b>
@@ -241,6 +266,57 @@ acknowledgements: ""
     <!--  -->
     <div class="row speaker">
       <div class="col-sm-3 speaker-pic">        
+        <a href="https://fcgrolleau.github.io" target="_blank">
+          <img class="people-pic" src="img/people/fgrolleau.jpeg" />
+        </a>
+        <div class="people-name">
+          <a href="https://fcgrolleau.github.io/" target="_blank">François Grolleau</a>
+          <h6>Université Paris Cité</h6>
+        </div>
+      </div>
+      <div class="col-sm-9">
+        <h3><b>Title:</b> TBD</h3><br />
+        <!-- <b>Abstract</b><p class="speaker-abstract"></p> -->
+        <div class="panel panel-default">
+          <div class="panel-heading" data-toggle="collapse" href="#rp-bio" style="cursor:pointer;text-align:center">
+            <b>Biography <span style="font-weight:normal">(click to expand/collapse)</span></b>
+          </div>
+          <div id="rp-bio" class="panel-collapse collapse in"><div class="panel-body">
+            <p class="speaker-bio">After being trained in clinical medicine, François Grolleau holds a full board certification (France) in Anesthesia and Critical Care. Then, he shifted his attention to methodological research in medicine after completing a Master of Public Health from Université Paris Descartes and a fellowship at McMaster University (Canada). He is currently an assistant professor of Biostatistics at Université Paris Cité and a researcher at CRESS — METHODS team. His scientific work focuses on developing and implementing statistical/machine learning methods for personalizing medical interventions. His applied areas of interest include Critical Care, Nephrology, and Cardiology.</p>
+          </div></div>
+        </div>
+      </div>
+    </div>
+    <!--  -->
+    <br/>
+    <!--  -->
+    <div class="row speaker">
+      <div class="col-sm-3 speaker-pic">
+        <a href="https://scholar.google.com/citations?user=8hvFa2AAAAAJ&hl=en" target="_blank">
+          <img class="people-pic" src="img/people/lgultchin.jpeg" />
+        </a>
+        <div class="people-name">
+          <a href="https://scholar.google.com/citations?user=8hvFa2AAAAAJ&hl=en" target="_blank">Limor Gultchin</a>
+          <h6>University of Oxford, The Alan Turing Institute</h6>
+        </div>
+      </div>
+      <div class="col-sm-9">
+        <h3><b>Title:</b> TBD</h3><br />
+        <div class="panel panel-default">
+          <div class="panel-heading" data-toggle="collapse" href="#lg-bio" style="cursor:pointer;text-align:center">
+            <b>Biography <span style="font-weight:normal">(click to expand/collapse)</span></b>
+          </div>
+          <div id="lg-bio" class="panel-collapse collapse in"><div class="panel-body">
+            <p class="speaker-bio">Limor Gultchin is a Ph.D. student at the University of Oxford and The Alan Turing Institute. She completed her undergraduate degree in Computer Science at Harvard University and an MSc. in Social Data Science at the Oxford Internet Institute. Her research interests include causal inference and its potential impact on algorithmic transparency and accountability. Previously, she completed various projects in machine learning and natural language processing, including their use in the social sciences.
+</p>
+          </div></div>
+        </div>
+      </div>
+    </div>
+    <!--  -->
+    <br />
+    <div class="row speaker">
+      <div class="col-sm-3 speaker-pic">
         <a href="https://scholar.google.fr/citations?user=ok5uldEAAAAJ&hl=en" target="_blank">
           <img class="people-pic" src="img/people/heymann.jpeg" />
         </a>
@@ -257,7 +333,7 @@ acknowledgements: ""
         </div>
       </div>
       <div class="col-sm-9">
-        <h3>TBD</h3><br />
+        <h3><b>Title:</b> TBD</h3><br />
         <div class="panel panel-default">
           <div class="panel-heading" data-toggle="collapse" href="#bh-bio" style="cursor:pointer;text-align:center">
             <b>Biography <span style="font-weight:normal">(click to expand/collapse)</span></b>
@@ -346,6 +422,31 @@ acknowledgements: ""
         </div>
       </div>
     </div>
+    <br />
+    <!--  -->
+    <div class="row speaker">
+      <div class="col-sm-3 speaker-pic">        
+        <a href="https://clinicalepidemio.fr/members-of-the-team/raphael-porcher" target="_blank">
+          <img class="people-pic" src="img/people/rporcher.jpeg" />
+        </a>
+        <div class="people-name">
+          <a href="https://clinicalepidemio.fr/members-of-the-team/raphael-porcher/" target="_blank">Raphaël Porcher</a>
+          <h6>Université Paris Cité</h6>
+        </div>
+      </div>
+      <div class="col-sm-9">
+        <h3><b>Title:</b> TBD</h3><br />
+        <!-- <b>Abstract</b><p class="speaker-abstract"></p> -->
+        <div class="panel panel-default">
+          <div class="panel-heading" data-toggle="collapse" href="#rp-bio" style="cursor:pointer;text-align:center">
+            <b>Biography <span style="font-weight:normal">(click to expand/collapse)</span></b>
+          </div>
+          <div id="rp-bio" class="panel-collapse collapse in"><div class="panel-body">
+            <p class="speaker-bio">Raphaël Porcher is a professor of Biostatistics at Université Paris Cité, and a member of the METHODS team at CRESS-UMR1153. He holds a chair at the PR[AI]RIE Artificial Intelligence Institute. He is the co-director of the Centre Virchow-Villermé. He also serves as the director of the College of Doctoral Studies at Université Paris Cité and as a member of the Comité d'Evaluation Ethique/Institutional Review Board of Inserm. With extensive expertise in biostatistics, he is actively involved in both statistical and applied clinical research, including clinical trials, observational studies, and prognostic studies. His research interests include statistical and machine learning methods for personalized medicine and methods for causal inference on treatment effects, mainly through clinical trials or observational studies. He is also involved in several international projects, including NECESSITY (NEw Clinical Endpoints in primary Sjögren's Syndrome: an Interventional Trial based on Stratifying Patients), funded by H2020-JTI-IMI2, and MORE-Europa (More Effectively Using Registries to Support Patient-centered Regulatory and HTA Decision-making), recently funded by Horizon Europe. He previously led the Work Package on Clinical Trials Designs for Personalized Medicine in the H2020-funded PERMIT (PERsonalised MedicIne Trials) project.</p>
+          </div></div>
+        </div>
+      </div>
+    </div>
     <!--  -->
     <br/>    
     <div class="row speaker">
@@ -359,7 +460,7 @@ acknowledgements: ""
         </div>
       </div>
       <div class="col-sm-9">
-        <h3><b>Title:</b>New pipeline to define mechanistic correlates of protection: application to SARS-CoV-2 vaccination</h3><br />
+        <h3><b>Title:</b> New pipeline to define mechanistic correlates of protection: application to SARS-CoV-2 vaccination</h3><br />
         <b>Abstract</b><p class="speaker-abstract">The definition of correlates of protection is critical for the development of next generation SARS-CoV-2 vaccine platforms. The complete chains of causality and interrelationships between vaccination, immune responses, protection and clinical endpoints are likely to be considerably complex. In this work, we propose a model-based approach for identifying mechanistic correlates of protection against disease acquisition based on mathematical modeling of viral dynamics and data mining of immunological markers. We apply the method to three different studies in non-human primates evaluating SARS-CoV-2 vaccines based on CD40-targeting, two-component spike nanoparticle and mRNA 1273. Inhibition of RBD binding to ACE2 appears to be a robust mechanistic correlate of protection across the three vaccine platforms although not capturing the whole biological vaccine effect.</p>
         <div class="panel panel-default">
           <div class="panel-heading" data-toggle="collapse" href="#mp-bio" style="cursor:pointer;text-align:center">
@@ -384,7 +485,7 @@ acknowledgements: ""
         </div>
       </div>
       <div class="col-sm-9">
-        <h3>TBD</h3><br />        
+        <h3><b>Title:</b> TBD</h3><br />
         <div class="panel panel-default">
           <div class="panel-heading" data-toggle="collapse" href="#rd-bio" style="cursor:pointer;text-align:center">
             <b>Biography <span style="font-weight:normal">(click to expand/collapse)</span></b>
@@ -460,7 +561,7 @@ acknowledgements: ""
         </div>
       </div>
       <div class="col-sm-9">
-        <h3>TBD</h3><br />        
+        <h3><b>Title:</b> TBD</h3><br />
         <div class="panel panel-default">
           <div class="panel-heading" data-toggle="collapse" href="#rs-bio" style="cursor:pointer;text-align:center">
             <b>Biography <span style="font-weight:normal">(click to expand/collapse)</span></b>
@@ -484,7 +585,7 @@ acknowledgements: ""
         </div>
       </div>
       <div class="col-sm-9">
-        <h3>TBD</h3><br />
+        <h3><b>Title:</b> TBD</h3><br />
         <div class="panel panel-default">
           <div class="panel-heading" data-toggle="collapse" href="#ds-bio" style="cursor:pointer;text-align:center">
             <b>Biography <span style="font-weight:normal">(click to expand/collapse)</span></b>
@@ -508,7 +609,7 @@ acknowledgements: ""
         </div>
       </div>
       <div class="col-sm-9">
-        <h3>TBD</h3><br />
+        <h3><b>Title:</b> TBD</h3><br />
         <div class="panel panel-default">
           <div class="panel-heading" data-toggle="collapse" href="#jt-bio" style="cursor:pointer;text-align:center">
             <b>Biography <span style="font-weight:normal">(click to expand/collapse)</span></b>
@@ -519,8 +620,33 @@ acknowledgements: ""
         </div>
       </div>
     </div>
-    <br/>    
-    <!--  -->    
+    <br/>
+    <!--  -->
+    <div class="row speaker">
+      <div class="col-sm-3 speaker-pic">
+        <a href="https://jakobzeitler.github.io/" target="_blank">
+          <img class="people-pic" src="img/people/jzeitler.jpeg" />
+        </a>
+        <div class="people-name">
+          <a href="https://jakobzeitler.github.io/" target="_blank">Jakob Zeitler</a>
+          <h6>University College London</h6>
+        </div>
+      </div>
+      <div class="col-sm-9">
+        <h3><b>Title:</b> TBD</h3><br />
+        <div class="panel panel-default">
+          <div class="panel-heading" data-toggle="collapse" href="#jz-bio" style="cursor:pointer;text-align:center">
+            <b>Biography <span style="font-weight:normal">(click to expand/collapse)</span></b>
+          </div>
+          <div id="jz-bio" class="panel-collapse collapse in"><div class="panel-body">
+            <p class="speaker-bio">Jakob Zeitler is a Ph.D. student at the UCL Centre for Artificial Intelligence. His researches focus on methods and limitations of causal inference and their intersection with machine learning. He believes that causal inference can only work in the real world if we are honest about its assumptions. He is looking at these problem settings with trustworthy properties, including partial identification, causal Bayesian optimization, and topological perspectives of causal inference.</p>
+          </div></div>
+        </div>
+      </div>
+    </div>
+    <!--  -->
+    <br/>
+    <!--  -->
     <div class="row speaker">
       <div class="col-sm-3 speaker-pic">
         <a href="http://www.statslab.cam.ac.uk/~qz280" target="_blank">
