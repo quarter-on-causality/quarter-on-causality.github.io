@@ -113,23 +113,125 @@ acknowledgements: ""
 <div class="row">
   <div class="col-xs-12"><a class="anchor" id="schedule"></a>
      <h2>Schedule</h2>
-     <br>     
-     <p>To be announced soon</p>
-     <!-- <table class="table schedule" style="border:none !important;">
+     <br/>
+     <table class="table schedule" style="border:none !important;">
       <thead class="thead-light">
         <tr>
-	        <th>Time in UTC</th>
-	        <th>Item</th>
+          <th></th>
+	        <th>Monday</th>
+	        <th>Tuesday</th>
+          <th>Wednesday</th>
+          <th>Thursday</th>
+          <th>Friday</th>
         </tr>
       </thead>
       <tbody>
         <tr>
-          <td>9:00am - 9:15am</td>          
-          <td>Opening Remarks and Awards</td>
+          <td>9:00</td>
+          <td colspan="5" style="vertical-align:middle; text-align:center; background-color: #B7B7B7;">Welcome coffee</td>
+        </tr>
+      </tbody>
+      <tbody>
+        <tr>
+          <td>9:30</td>
+          <td><strong>Ricardo Silva</strong>, University College London</td>
+          <td><strong>Mélanie Prague</strong>, Inria</td>
+          <td><strong>Raphaël Porcher</strong>, Université Paris Cité</td>
+          <td><strong>Qingyuan Zhao</strong>, University of Cambridge</td>
+          <td><strong>Johannes Textor</strong>, Radboud University</td>
+        </tr>
+      </tbody>
+      <tbody>
+        <tr>
+          <td>10:30</td>
+          <td colspan="5" style="vertical-align:middle; text-align:center; background-color: #B7B7B7;">Coffee break</td>
+        </tr>
+      </tbody>
+      <tbody>
+        <tr>
+          <td>10:45</td>
+          <td><strong>Miguel Monteiro</strong>, Imperial College London, Qureight</td>
+          <td><strong>Elisa Dumas</strong>, Institute Curie</td>
+          <td><strong>Céline Beji</strong>, Université Paris Cité</td>
+          <td><strong>Pedro Sanchez</strong>, University of Edinburgh</td>
+          <td><strong>Audrey Poinsot</strong>, Ekimetrics, Inria</td>
+        </tr>
+      </tbody>
+      <tbody>
+        <tr>
+          <td>11:45</td>
+          <td><strong>Jakob Zeitler</strong>, University College London</td>
+          <td><strong>Limor Gultchin</strong>, University of Oxford, The Alan Turing Institute</td>
+          <td><strong>Judith Abécassis</strong>, Inria</td>
+          <td><strong>Marcel Ribeiro-Dantas</strong>, Seqera Labs</td>
+          <td><strong></strong></td>
+        </tr>
+      </tbody>
+      <tbody>
+        <tr>
+          <td>12:45</td>
+          <td colspan="5" style="vertical-align:middle; text-align:center; background-color: #B7B7B7;"><strong>Lunch break</strong></td>
+        </tr>
+      </tbody>
+      <tbody>
+        <tr>
+          <td>14:15</td>
+          <td><strong>Benjamin Heymann</strong>, Criteo and <br/> <strong>Michel De Lara</strong>, ENPC</td>
+          <td><strong>Sander Beckers</strong>, University of Amsterdam</td>
+          <td><strong>François Grolleau</strong>, Université Paris Cité</td>
+          <td><strong>Charles Assaad</strong>, EasyVista </td>
+          <td></td>
+          <td></td>
+        </tr>
+      </tbody>
+      <tbody>
+        <tr>
+          <td>15:15</td>
+          <td colspan="5" style="vertical-align:middle; text-align:center; background-color: #B7B7B7;">Coffee break</td>
+        </tr>
+      </tbody>
+      <tbody>
+        <tr>
+          <td>15:30</td>
+          <td><strong>Erwan Scornet</strong>, Ecole Polytechnique, CMAP</td>
+          <td><strong>Philippe Brouillard</strong>, Université de Montréal, Mila </td>
+          <td><strong>Matej Zečević</strong>, TU Darmstadt</td>
+          <td>Poster session</td>
+          <td></td>
+        </tr>
+      </tbody>
+      <tbody>
+        <tr>
+          <td>16:30</td>
+          <td><strong>Dhanya Sridhar</strong>, University of Montreal, Mila</td>
+          <td><strong>Carlos Cinelli</strong>, University of Washington</td>
+          <td><strong>Ying Jin</strong>, Stanford University</td>
+          <td></td>
+          <td></td>
+        </tr>
+      </tbody>
+      <tbody>
+        <tr>
+          <td>17:30</td>
+          <td><strong>Cocktail</strong></td>
+          <td></td>
+          <td></td>
+          <td></td>
+          <td></td>
+        </tr>
+      </tbody>
+      <tbody>
+        <tr>
+          <td>19:00</td>
+          <td></td>
+          <td></td>
+          <td></td>
+          <td><strong>Social dinner</strong></td>
+          <td></td>
         </tr>
       </tbody>
      </table>
-  </div>      -->
+  </div>
 </div><br><br>
 
 <!-- ###### -->
@@ -169,6 +271,32 @@ acknowledgements: ""
     <!--  -->
     <div class="row speaker">
       <div class="col-sm-3 speaker-pic">        
+        <a href="https://ckassaad.github.io" target="_blank">
+          <img class="people-pic" src="/challenges/img/people/ckassad.jpeg" />
+        </a>
+        <div class="people-name">
+          <a href="https://ckassaad.github.io" target="_blank">Charles Assaad</a>
+          <h6>EasyVista</h6>
+        </div>
+      </div>
+      <div class="col-sm-9">
+        <h3><b>Title:</b> Root cause analysis in IT monitoring systems</h3><br />
+        <b>Abstract</b><p class="speaker-abstract">Automatic root cause identification is a challenging and important task in IT monitoring systems, where failures and anomalies can have severe consequences for businesses and customers. Traditional methods rely on manual rules, heuristics, or statistical correlations to identify the root causes of incidents, but often fail to capture the complex and dynamic dependencies among IT components. In this talk, a new framework will be presented that leverages causal discovery and causal reasoning to automatically infer root causes of IT incidents from observational time series data. The effectiveness of the framework will be demonstrated on simulated data as well as on real world monitoring data</p>
+        <div class="panel panel-default">
+          <div class="panel-heading" data-toggle="collapse" href="#cka-bio" style="cursor:pointer;text-align:center">
+            <b>Biography <span style="font-weight:normal">(click to expand/collapse)</span></b>
+          </div>
+          <div id="cka-bio" class="panel-collapse collapse in"><div class="panel-body">
+            <p class="speaker-bio">Charles K. Assaad is a research scientist at EasyVista in the lab Team of EV Observe. He received his Ph.D. from Université Grenoble Alpes (with Emilie Devijver and Eric Gaussier) and his engineering degree from National School of Computer Science for Industry and Business (ENSIIE). His work focuses mainly on causal discovery and causal reasoning, which comprise learning causal structures from purely observational data and studying the reasonings one can do with the inferred causal structures. His research interests include causal discovery, root cause analysis, anomaly detection, time series analysis, causal reasoning, history of causation, machine learning, and information theory.</p>
+          </div></div>
+        </div>
+      </div>
+    </div>
+    <!--  -->
+    <br />
+    <!--  -->
+    <div class="row speaker">
+      <div class="col-sm-3 speaker-pic">        
         <a href="https://sanderbeckers.github.io/website/" target="_blank">
           <img class="people-pic" src="img/people/sbeckers.jpeg" />
         </a>
@@ -193,13 +321,38 @@ acknowledgements: ""
     <br/>
     <!--  -->
     <div class="row speaker">
+      <div class="col-sm-3 speaker-pic">        
+        <a href="https://clinicalepidemio.fr/celine-beji/" target="_blank">
+          <img class="people-pic" src="img/people/cbeji.jpeg" />
+        </a>
+        <div class="people-name">
+          <a href="https://clinicalepidemio.fr/celine-beji/" target="_blank">Céline Beji</a>
+          <h6>Université Paris Cité</h6>
+        </div>
+      </div>
+      <div class="col-sm-9">
+        <h3><b>Title:</b> TBD</h3><br />
+        <div class="panel panel-default">
+          <div class="panel-heading" data-toggle="collapse" href="#cb-bio" style="cursor:pointer;text-align:center">
+            <b>Biography <span style="font-weight:normal">(click to expand/collapse)</span></b>
+          </div>
+          <div id="cb-bio" class="panel-collapse collapse in"><div class="panel-body">
+            <p class="speaker-bio">Céline Beji is a postdoctoral researcher at Université Paris Cité, where she collaborates with Professor Raphaël Porcher in the Personalized Medicine Team of METHODS, Inserm. Her areas of expertise include statistical machine learning and causal inference, focusing on Rubin's counterfactual framework and its applications to healthcare. Her research focuses on individual and average treatment effects, risk/benefit classification, compliance, and the use of observational data. She is also involved in deep-tech innovation and entrepreneurship.</p>
+          </div></div>
+        </div>
+      </div>
+    </div>
+    <!--  -->
+    <br/>
+    <!--  -->
+    <div class="row speaker">
       <div class="col-sm-3 speaker-pic">
         <a href="https://philippe-brouillard.com/" target="_blank">
           <img class="people-pic" src="img/people/pbrouillard.jpeg" />
         </a>
         <div class="people-name">
           <a href="https://philippe-brouillard.com" target="_blank">Philippe Brouillard</a>
-          <h6>Université de Montréal, MILA</h6>
+          <h6>Université de Montréal, Mila</h6>
         </div>
       </div>
       <div class="col-sm-9">
@@ -333,7 +486,8 @@ acknowledgements: ""
         </div>
       </div>
       <div class="col-sm-9">
-        <h3><b>Title:</b> TBD</h3><br />
+        <h3><b>Title:</b> Causal Inference with Information Algebras</h3><br />
+        <b>Abstract</b><p class="speaker-abstract">In a structural causal model, primitive causal relations are encoded as functional dependencies, which then map onto a graph. In this talk, we capture causality without reference to graphs or functional dependencies, but with information sigma-algebras. In the first part, we present the so-called Witsenhausen intrinsic model (WIM), originally developed for control theory. In the second part, we introduce the Information Dependency Model, as another way to handle causal relations based on the WIM. Then, we define the notion of topological separation (t-separation), which we prove to be equivalent to d-separation. We illustrate the potential of t-separation on examples.</p>
         <div class="panel panel-default">
           <div class="panel-heading" data-toggle="collapse" href="#bh-bio" style="cursor:pointer;text-align:center">
             <b>Biography <span style="font-weight:normal">(click to expand/collapse)</span></b>
@@ -371,32 +525,6 @@ acknowledgements: ""
         </div>
       </div>
     </div>
-    <br/>
-    <!--  -->
-    <div class="row speaker">
-      <div class="col-sm-3 speaker-pic">        
-        <a href="https://ckassaad.github.io" target="_blank">
-          <img class="people-pic" src="/challenges/img/people/ckassad.jpeg" />
-        </a>
-        <div class="people-name">
-          <a href="https://ckassaad.github.io" target="_blank">Charles K. Assaad</a>
-          <h6>EasyVista</h6>
-        </div>
-      </div>
-      <div class="col-sm-9">
-        <h3><b>Title:</b> Root cause analysis in IT monitoring systems</h3><br />
-        <b>Abstract</b><p class="speaker-abstract">Automatic root cause identification is a challenging and important task in IT monitoring systems, where failures and anomalies can have severe consequences for businesses and customers. Traditional methods rely on manual rules, heuristics, or statistical correlations to identify the root causes of incidents, but often fail to capture the complex and dynamic dependencies among IT components. In this talk, a new framework will be presented that leverages causal discovery and causal reasoning to automatically infer root causes of IT incidents from observational time series data. The effectiveness of the framework will be demonstrated on simulated data as well as on real world monitoring data</p>
-        <div class="panel panel-default">
-          <div class="panel-heading" data-toggle="collapse" href="#cka-bio" style="cursor:pointer;text-align:center">
-            <b>Biography <span style="font-weight:normal">(click to expand/collapse)</span></b>
-          </div>
-          <div id="cka-bio" class="panel-collapse collapse in"><div class="panel-body">
-            <p class="speaker-bio">Charles K. Assaad is a research scientist at EasyVista in the lab Team of EV Observe. He received his Ph.D. from Université Grenoble Alpes (with Emilie Devijver and Eric Gaussier) and his engineering degree from National School of Computer Science for Industry and Business (ENSIIE). His work focuses mainly on causal discovery and causal reasoning, which comprise learning causal structures from purely observational data and studying the reasonings one can do with the inferred causal structures. His research interests include causal discovery, root cause analysis, anomaly detection, time series analysis, causal reasoning, history of causation, machine learning, and information theory.</p>
-          </div></div>
-        </div>
-      </div>
-    </div>
-    <!--  -->
     <br/>
     <!--  -->
     <div class="row speaker">
@@ -485,7 +613,8 @@ acknowledgements: ""
         </div>
       </div>
       <div class="col-sm-9">
-        <h3><b>Title:</b> TBD</h3><br />
+        <h3><b>Title:</b> Learning interpretable causal networks from observational data</h3><br />
+        <b>Abstract</b><p class="speaker-abstract"> Uncovering cause-effect relationships in non-experimental settings has shown to be a very complex endeavour, given the numerous limitations and biases found in observational data. At the same time, there are many situations in which experiments cannot be performed, be it due to technical, financial or ethical reasons, and large amounts of observational data are available. Recent progress in causal discovery methodologies, and in the causal inference literature in general, has contributed to the development of techniques that learn the underlying causal structure of the events recorded through observational data, allowing us to perform causal discovery and inference in observational data. In this talk, I will go through iMIIC, a novel information-theoretic method that allows us to infer interpretable networks, and its application to a dataset of ~400,000 breast cancer patients.</p>
         <div class="panel panel-default">
           <div class="panel-heading" data-toggle="collapse" href="#rd-bio" style="cursor:pointer;text-align:center">
             <b>Biography <span style="font-weight:normal">(click to expand/collapse)</span></b>
