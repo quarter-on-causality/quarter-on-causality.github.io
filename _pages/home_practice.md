@@ -128,7 +128,7 @@ acknowledgements: ""
       <tbody>
         <tr>
           <td>9:00</td>
-          <td colspan="5" style="vertical-align:middle; text-align:center; background-color: #B7B7B7;">Welcome coffee</td>
+          <td colspan="5" style="vertical-align:middle; text-align:center; background-color: #B7B7B7;"><strong>Welcome coffee</strong></td>
         </tr>
       </tbody>
       <tbody>
@@ -144,7 +144,7 @@ acknowledgements: ""
       <tbody>
         <tr>
           <td>10:30</td>
-          <td colspan="5" style="vertical-align:middle; text-align:center; background-color: #B7B7B7;">Coffee break</td>
+          <td colspan="5" style="vertical-align:middle; text-align:center; background-color: #B7B7B7;"><strong>Coffee break</strong></td>
         </tr>
       </tbody>
       <tbody>
@@ -187,7 +187,7 @@ acknowledgements: ""
       <tbody>
         <tr>
           <td>15:15</td>
-          <td colspan="5" style="vertical-align:middle; text-align:center; background-color: #B7B7B7;">Coffee break</td>
+          <td colspan="5" style="vertical-align:middle; text-align:center; background-color: #B7B7B7;"><strong>Coffee break</strong></td>
         </tr>
       </tbody>
       <tbody>
@@ -306,7 +306,8 @@ acknowledgements: ""
         </div>
       </div>
       <div class="col-sm-9">
-        <h3><b>Title:</b> TBD</h3><br />
+        <h3><b>Title:</b> TA Causal Analysis of Harm</h3><br />
+        <b>Abstract</b><p class="speaker-abstract">As autonomous systems rapidly become ubiquitous, there is a growing need for a legal and regulatory framework that addresses when and how such a system harms someone. There have been several attempts within the philosophy literature to define harm, but none of them has proven capable of dealing with the many examples that have been presented, leading some to suggest that the notion of harm should be abandoned and “replaced by more well-behaved notions”. As harm is generally something that is caused, most of these definitions have involved causality at some level. Yet surprisingly, none of them makes use of causal models and the definitions of actual causality that they can express. In this paper we formally define a qualitative notion of harm that uses causal models and is based on a well-known definition of actual causality. The key features of our definition are that it is based on contrastive causation and uses a default utility to which the utility of actual outcomes is compared. We show that our definition is able to handle the examples from the literature, and illustrate its importance for reasoning about situations involving autonomous systems. The paper is available <a href="https://arxiv.org/abs/2210.05327" target="_blank">here</a>. It is a joint work with Joseph Y. Halpern (Cornell University) and Hana Chockler (King's College London)</p>
         <div class="panel panel-default">
           <div class="panel-heading" data-toggle="collapse" href="#cka-bio" style="cursor:pointer;text-align:center">
             <b>Biography <span style="font-weight:normal">(click to expand/collapse)</span></b>
@@ -690,7 +691,13 @@ acknowledgements: ""
         </div>
       </div>
       <div class="col-sm-9">
-        <h3><b>Title:</b> TBD</h3><br />
+        <h3><b>Title:</b> Causes with many moving parts</h3><br />
+        <b>Abstract</b><p class="speaker-abstract">We can postulate a cause to be constituted of many components, some of which may not even have an well-posed way of being controlled. How will a CV land you a job? That is, to which extent does it make sense to say "my well-written CV caused me to be offered this position"? We can postulate causal meaning to the contribution of a writing clinic program for job applicants to better prepare themselves, but what is the role of the content of the document itself? Replacing words in a document may be the wrong abstraction to think about cause-effect quantification. We suggest ways by which better-posed causal models and questions can deal with such structured causes.
+        
+        However, even when we are lucky and each individual component of a structured cause can be individually designed, it doesn’t mean novel challenges won’t arise. How do we learn causal effects when the treatment may be something complex such as the molecular structure of a drug component? Machine learning can aid here with ideas from representation learning.
+        
+        Joint work with Limor Gultchin, Jean Kaddour, Matt Kusner, Qi Liu, David Watson, and Caroline Zhu.
+        </p>
         <div class="panel panel-default">
           <div class="panel-heading" data-toggle="collapse" href="#rs-bio" style="cursor:pointer;text-align:center">
             <b>Biography <span style="font-weight:normal">(click to expand/collapse)</span></b>
