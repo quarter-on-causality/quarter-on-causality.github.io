@@ -161,8 +161,8 @@ acknowledgements: ""
         <tr>
           <td>11:45</td>
           <td><strong>Jakob Zeitler</strong>, University College London</td>
-          <td><strong>Limor Gultchin</strong>, University of Oxford, The Alan Turing Institute</td>
           <td><strong>Judith Abécassis</strong>, Inria</td>
+          <td><strong>Erwan Scornet</strong>, Ecole Polytechnique, CMAP</td>
           <td><strong>Marcel Ribeiro-Dantas</strong>, Seqera Labs</td>
           <td><strong></strong></td>
         </tr>
@@ -193,7 +193,7 @@ acknowledgements: ""
       <tbody>
         <tr>
           <td>15:30</td>
-          <td><strong>Erwan Scornet</strong>, Ecole Polytechnique, CMAP</td>
+          <td><strong>Limor Gultchin</strong>, University of Oxford, The Alan Turing Institute</td>
           <td><strong>Philippe Brouillard</strong>, Université de Montréal, Mila </td>
           <td><strong>Matej Zečević</strong>, TU Darmstadt</td>
           <td>Poster session</td>
