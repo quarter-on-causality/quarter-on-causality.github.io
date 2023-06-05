@@ -359,7 +359,8 @@ acknowledgements: ""
         </div>
       </div>
       <div class="col-sm-9">
-        <h3><b>Title:</b> TBD</h3><br />
+        <h3><b>Title:</b>TBD</h3><br />
+        <!-- <b>Abstract</b><p class="speaker-abstract"></p> -->
         <div class="panel panel-default">
           <div class="panel-heading" data-toggle="collapse" href="#pbr-bio" style="cursor:pointer;text-align:center">
             <b>Biography <span style="font-weight:normal">(click to expand/collapse)</span></b>
@@ -407,7 +408,8 @@ acknowledgements: ""
         </div>
       </div>
       <div class="col-sm-9">
-        <h3><b>Title:</b> TBD</h3><br />
+        <h3><b>Title:</b> Analyzing the Impact of Comedications on Breast Cancer Survival: The ADRENALINE Study</h3><br />
+        <b>Abstract</b><p class="speaker-abstract">Comorbidities, existing conditions alongside cancer diagnosis, are prevalent among approximately 50% of cancer patients. These comorbidities often involve the intake of chronic medications, known as comedications. The influence of specific comedications on the long-term progression of Breast Cancer has been established by various studies. Several observational studies illustrated the influence of certain comedications on the long-term evolution of Breast Cancer. However, the analysis of the impact of comedications using observational data is a challenging causal inference task which requires extensive, high-quality datasets, and which may be prone to several types of causal biases. This presentation aims to share the findings of the ADRENALINE study, which aims to analyze the effects of comedications on breast cancer survival across the entire population of breast cancer patients in France. We will explore the causal inference framework essential for drawing meaningful conclusions, address the assumptions underlying this framework in this specific example, and discuss the advantages and limitations associated with such a comprehensive undertaking.</p>
         <div class="panel panel-default">
           <div class="panel-heading" data-toggle="collapse" href="#ed-bio" style="cursor:pointer;text-align:center">
             <b>Biography <span style="font-weight:normal">(click to expand/collapse)</span></b>
@@ -750,7 +752,8 @@ acknowledgements: ""
         </div>
       </div>
       <div class="col-sm-9">
-        <h3><b>Title:</b> TBD</h3><br />
+        <h3><b>Title:</b> Learning causal variables with machine learning</h3><br />
+        <b>Abstract</b><p class="speaker-abstract">Science and decision-making require us to infer the effects of interventions. Does knocking out a given gene suppress a function of interest? Does a proposed tax actually change some behavior of interest? Causal models provide a language to model interventions, and help us derive assumptions that yield valid causal inference. Despite the role causality plays in the sciences, the applications of causal inference have been limited, often restricted to questions where all the variables are carefully measured. In contrast, the field of machine learning (ML) has arguably succeeded at extracting task-relevant information from unstructured inputs such as text and images, inputs that implicitly capture abstract variables. Nevertheless, variables inferred using ML may not be substitutes for the underlying but unknown causal variables: ML methods may entangle the underlying causal variables, or neglect to capture them, biasing downstream causal inference. In this talk, I'll discuss two approaches to learning causally relevant variables. First, I'll introduce causally sufficient text embeddings, a general method that leverages causal model structure to learn causal variables from text data. Next, I'll discuss recent work, inspired by biological tasks, that exploits evolution in the causal mechanism mapping inputs to a target of interest to learn causal variables. Finally, I'll conclude by highlighting ongoing and open research to address the challenges of causal reasoning with ML.</p>
         <div class="panel panel-default">
           <div class="panel-heading" data-toggle="collapse" href="#ds-bio" style="cursor:pointer;text-align:center">
             <b>Biography <span style="font-weight:normal">(click to expand/collapse)</span></b>
