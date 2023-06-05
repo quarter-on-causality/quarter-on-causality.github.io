@@ -585,6 +585,32 @@ acknowledgements: ""
     <br />
     <!--  -->
     <div class="row speaker">
+      <div class="col-sm-3 speaker-pic">
+        <a href="https://audreypoinsot.github.io/academic_website/" target="_blank">
+          <img class="people-pic" src="img/people/apoinsot.jpeg" />
+        </a>
+        <div class="people-name">
+          <a href="https://audreypoinsot.github.io/academic_website/" target="_blank">Audrey Poinsot</a>
+          <h6>Ekimetrics, Paris-Saclay University, Inria</h6>
+        </div>
+      </div>
+      <div class="col-sm-9">
+        <h3><b>Title:</b> Reconciling Mix Marketing Modelling and Causal Inference: a case study</h3><br />
+        <b>Abstract</b><p class="speaker-abstract">Marketing has embraced the causal revolution, mainly through experimentation methods such as A/B testing. However, several marketing practices based only on observational data must be combined with the causal inference approaches. It is particularly valid for Marketing Mix Modelling (MMM). Marketing Mix Modelling aims to estimate Individual Treatment Effects (ATE) of marketing activities carried out over a given period, commonly named uplift modeling. In practice, directly applying the methods developed by researchers is usually challenging because many assumptions are violated (e.g., the presence of hidden confounders and the mixture of categorical and continuous variables). Moreover, the two significant issues of MMM data are their low diversity and the high correlations of the variables (mostly spurious ones), leading marketing experts to usually make assumptions about the causal structure linking variables to interpret statistical results. This talk will discuss how causal inference can be introduced in MMM practices and improve them thanks to a Causal Data Augmentation strategy. We will discuss how modeling experts' knowledge before the estimation phase helps break down datasets' dependencies and simplifies the subsequent statistical analysis. </p>
+        <div class="panel panel-default">
+          <div class="panel-heading" data-toggle="collapse" href="#ap-bio" style="cursor:pointer;text-align:center">
+            <b>Biography <span style="font-weight:normal">(click to expand/collapse)</span></b>
+          </div>
+          <div id="ap-bio" class="panel-collapse collapse in"><div class="panel-body">
+            <p class="speaker-bio">Audrey Poinsot is a Ph.D. student at Paris-Saclay University, the Inria TAU team, and Ekimetrics. She works on the intersection of causality and machine learning, aiming to improve decision-support tools by considering the underlying uncertainties. She has one year of experience as a consultant at Ekimetrics, where she is currently applying the results of her research on various use cases. Her research interests include causal data generation and augmentation, causal benchmarks, causal uncertainty quantification, and Trustworthy ML.</p>
+          </div></div>
+        </div>
+      </div>
+    </div>
+    <br/>
+    <!--  -->
+    <!--  -->
+    <div class="row speaker">
       <div class="col-sm-3 speaker-pic">        
         <a href="https://clinicalepidemio.fr/members-of-the-team/raphael-porcher" target="_blank">
           <img class="people-pic" src="img/people/rporcher.jpeg" />
