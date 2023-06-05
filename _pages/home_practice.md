@@ -194,8 +194,8 @@ acknowledgements: ""
         <tr>
           <td>15:30</td>
           <td><strong>Limor Gultchin</strong>, University of Oxford, The Alan Turing Institute</td>
-          <td><strong>Philippe Brouillard</strong>, Université de Montréal, Mila </td>
           <td><strong>Matej Zečević</strong>, TU Darmstadt</td>
+          <td><strong>Philippe Brouillard</strong>, Université de Montréal, Mila </td>
           <td>Poster session</td>
           <td></td>
         </tr>
@@ -333,7 +333,8 @@ acknowledgements: ""
         </div>
       </div>
       <div class="col-sm-9">
-        <h3><b>Title:</b> TBD</h3><br />
+        <h3><b>Title:</b> Latent distribution estimation for the evaluation of the complier average causal effect</h3><br />
+        <b>Abstract</b><p class="speaker-abstract">The complier average causal effect (CACE) estimator, defined as the average of potential outcomes in the latent sub-population that complies with their assigned treatment, is more and more used in clinical trials to study the effect of a medication or an intervention rather than the effect of its prescription. Although advanced methods such as instrumental variables and G-estimation have been developed, it requires strong assumptions of exclusion restriction and principal ignorability. We propose a new approach to CACE estimation, in the vein of principal stratification framework, that does not require these assumptions. We estimate the latent distribution of four relevant groups of individuals: compliers, never-takers, always-takers and defiers. We reframe the problem as a missing data problem and introduce a two-step procedure that estimates CACE via the latent distribution of the principal strata.</p>
         <div class="panel panel-default">
           <div class="panel-heading" data-toggle="collapse" href="#cb-bio" style="cursor:pointer;text-align:center">
             <b>Biography <span style="font-weight:normal">(click to expand/collapse)</span></b>
@@ -822,7 +823,8 @@ acknowledgements: ""
         </div>
       </div>
       <div class="col-sm-9">
-        <h3><b>Title:</b> TBD</h3><br />
+        <h3><b>Title:</b> Large Language Models and Causality: Like Parrots Mimicking the Words of Humans</h3><br />
+        <b>Abstract</b><p class="speaker-abstract">In this session we will try to explore together both the capabilities and ultimate limitations of large language models (LLMs) when it comes to causal inference. While some researchers argue that scale is all what is needed to achieve AI, covering even causal models, throughout our session it will become clear that the all-scaled-up LLMs cannot be causal and we will give reason onto why sometimes we might feel otherwise when interacting with them. We conjecture that in the cases were LLM indeed succeed in doing causal inference, underlying was a respective meta SCM that exposed correlations between causal facts in natural language on whose data the LLM was ultimately trained. If our hypothesis holds true, then this would imply that LLMs are like parrots in that they simply recite the causal knowledge embedded in the data. Put differently: just knowing, not understanding.</p>
         <div class="panel panel-default">
           <div class="panel-heading" data-toggle="collapse" href="#mz-bio" style="cursor:pointer;text-align:center">
             <b>Biography <span style="font-weight:normal">(click to expand/collapse)</span></b>
