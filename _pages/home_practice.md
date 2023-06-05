@@ -150,7 +150,7 @@ acknowledgements: ""
       <tbody>
         <tr>
           <td>10:45</td>
-          <td><strong>Miguel Monteiro</strong>, Imperial College London, Qureight</td>
+          <td><strong>Martin Huber</strong>, University of Fribourg</td>
           <td><strong>Elisa Dumas</strong>, Institute Curie</td>
           <td><strong>Céline Beji</strong>, Université Paris Cité</td>
           <td><strong>Pedro Sanchez</strong>, University of Edinburgh</td>
@@ -203,6 +203,7 @@ acknowledgements: ""
       <tbody>
         <tr>
           <td>16:30</td>
+          <td><strong>Miguel Monteiro</strong>, Imperial College London, Qureight</td>
           <td><strong>Dhanya Sridhar</strong>, University of Montreal, Mila</td>
           <td><strong>Carlos Cinelli</strong>, University of Washington</td>
           <td><strong>Ying Jin</strong>, Stanford University</td>
@@ -306,7 +307,7 @@ acknowledgements: ""
         </div>
       </div>
       <div class="col-sm-9">
-        <h3><b>Title:</b> TA Causal Analysis of Harm</h3><br />
+        <h3><b>Title:</b> Causal Analysis of Harm</h3><br />
         <b>Abstract</b><p class="speaker-abstract">As autonomous systems rapidly become ubiquitous, there is a growing need for a legal and regulatory framework that addresses when and how such a system harms someone. There have been several attempts within the philosophy literature to define harm, but none of them has proven capable of dealing with the many examples that have been presented, leading some to suggest that the notion of harm should be abandoned and “replaced by more well-behaved notions”. As harm is generally something that is caused, most of these definitions have involved causality at some level. Yet surprisingly, none of them makes use of causal models and the definitions of actual causality that they can express. In this paper we formally define a qualitative notion of harm that uses causal models and is based on a well-known definition of actual causality. The key features of our definition are that it is based on contrastive causation and uses a default utility to which the utility of actual outcomes is compared. We show that our definition is able to handle the examples from the literature, and illustrate its importance for reasoning about situations involving autonomous systems. The paper is available <a href="https://arxiv.org/abs/2210.05327" target="_blank">here</a>. It is a joint work with Joseph Y. Halpern (Cornell University) and Hana Chockler (King's College London)</p>
         <div class="panel panel-default">
           <div class="panel-heading" data-toggle="collapse" href="#cka-bio" style="cursor:pointer;text-align:center">
@@ -502,7 +503,34 @@ acknowledgements: ""
       </div>
     </div>
     <!--  -->
-    <br/>    
+    <br/>
+    <!--  -->
+    <div class="row speaker">
+      <div class="col-sm-3 speaker-pic">
+        <a href="https://www.unifr.ch/appecon/en/team/martin-huber/" target="_blank">
+          <img class="people-pic" src="img/people/mhuber.jpeg" />
+        </a>
+        <div class="people-name">
+          <a href="https://www.unifr.ch/appecon/en/team/martin-huber/" target="_blank">Martin Huber</a>
+          <h6>University of Fribourg</h6>
+        </div>
+      </div>
+      <div class="col-sm-9">
+        <h3><b>Title:</b> Testing the identification of causal effects in observational data</h3><br />
+        <b>Abstract</b><p class="speaker-abstract">This study demonstrates the existence of a testable condition for the identification of the causal effect of a treatment on an outcome in observational data, which relies on two sets of variables: observed covariates to be controlled for and a suspected instrument. Under a causal structure commonly found in empirical applications, the testable conditional independence of the suspected instrument and the outcome given the treatment and the covariates has two implications. First, the instrument is valid, i.e. it does not directly affect the outcome (other than through the treatment) and is unconfounded conditional on the covariates. Second, the treatment is unconfounded conditional on the covariates such that the treatment effect is identified. We suggest tests of this conditional independence based on machine learning methods that account for covariates in a data-driven way and investigate their asymptotic behavior and finite sample performance in a simulation study. We also apply our testing approach to evaluating the impact of fertility on female labor supply when using the sibling sex ratio of the first two children as supposed instrument, which by and large points to a violation of our testable implication for the moderate set of socio-economic covariates considered. The paper is available <a href="https://arxiv.org/abs/2203.15890" target="_blank">here</p>
+        <div class="panel panel-default">
+          <div class="panel-heading" data-toggle="collapse" href="#mh-bio" style="cursor:pointer;text-align:center">
+            <b>Biography <span style="font-weight:normal">(click to expand/collapse)</span></b>
+          </div>
+          <div id="mh-bio" class="panel-collapse collapse in"><div class="panel-body">
+            <p class="speaker-bio">Martin Huber is Professor of Applied Econometrics at the University of Fribourg, Switzerland, where his research comprises both methodological and applied contributions in the fields of causal analysis and policy evaluation, machine learning, statistics, econometrics, and empirical economics.</p>
+          </div></div>
+        </div>
+      </div>
+    </div>
+    <!--  -->
+    <br/>
+    <!--  -->
     <div class="row speaker">
       <div class="col-sm-3 speaker-pic">
         <a href="https://ying531.github.io" target="_blank">
