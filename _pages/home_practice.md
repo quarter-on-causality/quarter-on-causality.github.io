@@ -154,7 +154,7 @@ acknowledgements: ""
           <td><strong>Elisa Dumas</strong>, Institute Curie</td>
           <td><strong>Céline Beji</strong>, Université Paris Cité</td>
           <td><strong>Pedro Sanchez</strong>, University of Edinburgh</td>
-          <td><strong>Audrey Poinsot</strong>, Ekimetrics, Inria</td>
+          <td><strong>Audrey Poinsot</strong>, Ekimetrics, Inria, Paris-Saclay University</td>
         </tr>
       </tbody>
       <tbody>
@@ -164,7 +164,7 @@ acknowledgements: ""
           <td><strong>Judith Abécassis</strong>, Inria</td>
           <td><strong>Erwan Scornet</strong>, Ecole Polytechnique, CMAP</td>
           <td><strong>Marcel Ribeiro-Dantas</strong>, Seqera Labs</td>
-          <td><strong></strong></td>
+          <td><strong>Florie Bouvier</strong>, Université Paris Cité</td>
         </tr>
       </tbody>
       <tbody>
@@ -341,6 +341,32 @@ acknowledgements: ""
           </div>
           <div id="cb-bio" class="panel-collapse collapse in"><div class="panel-body">
             <p class="speaker-bio">Céline Beji is a postdoctoral researcher at Université Paris Cité, where she collaborates with Professor Raphaël Porcher in the Personalized Medicine Team of METHODS, Inserm. Her areas of expertise include statistical machine learning and causal inference, focusing on Rubin's counterfactual framework and its applications to healthcare. Her research focuses on individual and average treatment effects, risk/benefit classification, compliance, and the use of observational data. She is also involved in deep-tech innovation and entrepreneurship.</p>
+          </div></div>
+        </div>
+      </div>
+    </div>
+    <!--  -->
+    <br/>
+    <!--  -->    
+    <div class="row speaker">
+      <div class="col-sm-3 speaker-pic">        
+        <a href="https://clinicalepidemio.fr/florie-bouvier/" target="_blank">
+          <img class="people-pic" src="img/people/fbouvier.jpeg" />
+        </a>
+        <div class="people-name">
+          <a href="https://clinicalepidemio.fr/florie-bouvier/" target="_blank">Florie Bouvier</a>
+          <h6>Université Paris Cité</h6>
+        </div>
+      </div>
+      <div class="col-sm-9">
+        <h3><b>Title:</b> TBD</h3><br />
+        <!-- <b>Abstract</b><p class="speaker-abstract"></p> -->
+        <div class="panel panel-default">
+          <div class="panel-heading" data-toggle="collapse" href="#fb-bio" style="cursor:pointer;text-align:center">
+            <b>Biography <span style="font-weight:normal">(click to expand/collapse)</span></b>
+          </div>
+          <div id="fb-bio" class="panel-collapse collapse in"><div class="panel-body">
+            <p class="speaker-bio">Florie Bouvier is a Ph.D. candidate in Biostatistics. She has a strong focus on personalized medicine. Her research investigates the methodology for estimating individual treatment effects (ITE). It encompasses examining the performance of various statistical and machine learning techniques for the ITE estimation, utilizing data from single to multiple randomized controlled trials (RCT) through individual participant data meta-analysis.</p>
           </div></div>
         </div>
       </div>
@@ -591,7 +617,7 @@ acknowledgements: ""
         </a>
         <div class="people-name">
           <a href="https://audreypoinsot.github.io/academic_website/" target="_blank">Audrey Poinsot</a>
-          <h6>Ekimetrics, Paris-Saclay University, Inria</h6>
+          <h6>Ekimetrics, Inria, Paris-Saclay University</h6>
         </div>
       </div>
       <div class="col-sm-9">
@@ -608,8 +634,7 @@ acknowledgements: ""
       </div>
     </div>
     <br/>
-    <!--  -->
-    <!--  -->
+    <!--  -->    
     <div class="row speaker">
       <div class="col-sm-3 speaker-pic">        
         <a href="https://clinicalepidemio.fr/members-of-the-team/raphael-porcher" target="_blank">
