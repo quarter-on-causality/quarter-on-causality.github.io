@@ -164,7 +164,7 @@ acknowledgements: ""
           <td><strong>Judith Abécassis</strong>, Inria</td>
           <td><strong>Erwan Scornet</strong>, Ecole Polytechnique, CMAP</td>
           <td><strong>Marcel Ribeiro-Dantas</strong>, Seqera Labs</td>
-          <td><strong>Florie Bouvier</strong>, Université Paris Cité</td>
+          <td><strong>Philippe Brouillard</strong>, Université de Montréal, Mila </td>
         </tr>
       </tbody>
       <tbody>
@@ -194,8 +194,8 @@ acknowledgements: ""
         <tr>
           <td>15:30</td>
           <td><strong>Limor Gultchin</strong>, University of Oxford, The Alan Turing Institute</td>
-          <td><strong>Matej Zečević</strong>, TU Darmstadt</td>
-          <td><strong>Philippe Brouillard</strong>, Université de Montréal, Mila </td>
+          <td><strong>Matej Zečević</strong>, TU Darmstadt</td>          
+          <td><strong>Florie Bouvier</strong>, Université Paris Cité</td>
           <td>Poster session</td>
           <td></td>
         </tr>
@@ -359,8 +359,11 @@ acknowledgements: ""
         </div>
       </div>
       <div class="col-sm-9">
-        <h3><b>Title:</b> TBD</h3><br />
-        <!-- <b>Abstract</b><p class="speaker-abstract"></p> -->
+        <h3><b>Title:</b> Do machine learning methods lead to similar individualized treatment rules? A comparison study on real data.</h3><br />
+        <b>Abstract</b><p class="speaker-abstract">Identifying subgroups of patients who benefit from a treatment is a key aspect of personalized medicine. Developing individualized treatment rules (ITRs), which map individual characteristics to a treatment, can be achieved by identifying these subgroups. Many machine learning algorithms have been proposed to create such rules. Yet, it is unclear to what extent those algorithms lead to the same ITRs, i.e. recommending the treatment for the same individuals. To see if methods lead to similar ITRs, we compared the most common approaches in two randomized control trials: the International Stroke Trial and the CRASH-3 trial.
+        Two classes of methods can be distinguished to develop an ITR. The first class of methods relies on predicting individualized treatment effects from which an ITR is derived by recommending the evaluated treatment to the individuals with a predicted benefit. In the second class, methods directly estimate the ITR without estimating individualized treatment effects. The majority of the methods compared in this project fell under the first class: meta-learners (T-learner, S-learner, X-learner, DR- learner, and R-learner, both with parametric and non-parametric models), causal forests, and virtual twins, whereas A-learning, modified covariate method, outcome weighted learning and contrast weighted learning fell under the second class. When using non-parametric models, results were compared with and without cross-fitting. For each trial, the performance of ITRs was assessed in terms of value of the rule, average benefit of treatment among people with a positive score and among people with a negative score, population average prescription effect, and c-statistic for benefit. The pairwise agreement between ITRs was also calculated using Cohen’s kappa and Matthews correlation coefficients.
+        Results showed that the ITRs obtained by the different methods generally had considerable disagreements regarding the individuals to be treated. A better concordance was found among akin methods (e.g. among all meta-learners with parametric models, or all meta-learners with non- parametric models and cross-fitting). Overall, when evaluating the performance of ITRs in a hold-out validation sample, all methods produced ITRs with limited performance, whatever the performance in the training set, which suggests a high potential for overfitting.
+        The different methods do not lead to similar ITRs, and are, therefore, not interchangeable. The chosen method has a lot of influence on which patients end up being given a certain treatment which draws some concerns about the practical use of the methods.</p>
         <div class="panel panel-default">
           <div class="panel-heading" data-toggle="collapse" href="#fb-bio" style="cursor:pointer;text-align:center">
             <b>Biography <span style="font-weight:normal">(click to expand/collapse)</span></b>
@@ -852,7 +855,8 @@ acknowledgements: ""
         </div>
       </div>
       <div class="col-sm-9">
-        <h3><b>Title:</b> TBD</h3><br />
+        <h3><b>Title:</b> Synthetic Control: Assumptions and Sensitivity Analysis for Example in Ad Campaign Evaluation</h3><br />
+        <b>Abstract</b><p class="speaker-abstract">Quantifying cause and effect relationships is an important problem in many domains. The gold standard solution is to conduct a randomised controlled trial. However, in many situations such trials cannot be performed. In the absence of such trials, many methods have been devised to quantify the causal impact of an intervention from observational data given certain assumptions. One widely used method are synthetic control models. While identifiability of the causal estimand in such models has been obtained from a range of assumptions, it is widely and implicitly assumed that the underlying assumptions are satisfied for all time periods both pre- and post-intervention. This is a strong assumption, as synthetic control models can only be learned in pre-intervention period. In this paper we address this challenge, and prove identifiability can be obtained without the need for this assumption, by showing it follows from the principle of invariant causal mechanisms. Moreover, for the first time, we formulate and study synthetic control models in Pearl's structural causal model framework. Importantly, we provide a general framework for sensitivity analysis of synthetic control causal inference to violations of the assumptions underlying non-parametric identifiability. We end by providing an empirical demonstration of our sensitivity analysis framework on simulated and real data in the widely-used linear synthetic control framework.</p>
         <div class="panel panel-default">
           <div class="panel-heading" data-toggle="collapse" href="#jz-bio" style="cursor:pointer;text-align:center">
             <b>Biography <span style="font-weight:normal">(click to expand/collapse)</span></b>
