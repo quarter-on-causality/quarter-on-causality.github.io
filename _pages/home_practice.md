@@ -138,7 +138,7 @@ acknowledgements: ""
           <td><strong>Mélanie Prague</strong>, Inria</td>
           <td><strong>Raphaël Porcher</strong>, Université Paris Cité</td>
           <td><strong>Qingyuan Zhao</strong>, University of Cambridge</td>
-          <td><strong>Johannes Textor</strong>, Radboud University</td>
+          <td><strong>Johannes Textor</strong>, Data Science, Radboud University Nijmegen, The Netherlands</td>
         </tr>
       </tbody>
       <tbody>
@@ -828,7 +828,7 @@ acknowledgements: ""
         </a>
         <div class="people-name">
           <a href="https://johannes-textor.name" target="_blank">Johannes Textor</a>
-          <h6>Institute for Computing and Information Sciences, Radboud University, Netherlands</h6>
+          <h6>Data Science, Radboud University Nijmegen, The Netherlands</h6>
         </div>
       </div>
       <div class="col-sm-9">
@@ -908,8 +908,8 @@ acknowledgements: ""
         </div>
       </div>
       <div class="col-sm-9">
-        <h3><b>Title:</b> TBD</h3><br />
-        <!-- <b>Abstract</b><p class="speaker-abstract"></p> -->
+        <h3><b>Title:</b> Almost exact Mendelian randomization</h3><br />
+        <b>Abstract</b><p class="speaker-abstract">Mendelian randomization (MR) is a natural experimental design based on the random transmission of genes from parents to offspring. However, this inferential basis is typically only implicit or used as an informal justification. As parent-offspring data becomes more widely available, we advocate a different approach to MR that is exactly based on this natural randomization, thereby formalizing the analogy between MR and randomized controlled trials. We begin by developing a causal graphical model for MR which represents several biological processes and phenomena, including population structure, gamete formation, fertilization, genetic linkage, and pleiotropy. This causal graph is then used to detect biases in population-based MR studies and identify sufficient confounder adjustment sets to correct these biases. We then propose a randomization test in the within-family MR design using the exogenous randomness in meiosis and fertilization, which is extensively studied in genetics. Besides its transparency and conceptual appeals, our approach also offers some practical advantages, including robustness to misspecified phenotype models, robustness to weak instruments, and elimination of bias arising from population structure, assortative mating, dynastic effects, and horizontal pleiotropy. We conclude with an analysis of a pair of negative and positive controls in the Avon Longitudinal Study of Parents and Children.</p>
         <div class="panel panel-default">
           <div class="panel-heading" data-toggle="collapse" href="#qzhao-bio" style="cursor:pointer;text-align:center">
             <b>Biography <span style="font-weight:normal">(click to expand/collapse)</span></b>
