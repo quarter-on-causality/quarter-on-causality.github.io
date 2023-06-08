@@ -15,98 +15,49 @@ acknowledgements: ""
 <div class="row">
   <div class="col-xs-12">
     <center><h1>Causality in Practice</h1></center>
-    <center><h2>Saclay, France</h2></center>
+    <center><h2>Orsay, France</h2></center>
     <center><strong>From</strong> June 12th <strong>to</strong> June 16th, 2023</center>
-    <center>Location: <b><a href="https://www.institut-pascal.universite-paris-saclay.fr/en" target="_blank">Institute Pascal</a></b></center>
+    <center>Location: <b><a href="https://www.institut-pascal.universite-paris-saclay.fr/en" target="_blank">Institute Pascal</a> (530 rue Andre Riviere, Orsay)</b></center>
   </div>
 </div>
 
 <div class="row" id="intro">
   <div class="col-md-12">    
-    <center><img class="img-fluid" src="{{ "img/saclay.jpeg" | prepend:site.baseurl }}" width="100%" height="50%"></center>
-    <small style="float:right;margin-top:1mm;margin-right:5mm;">Image credit to <a href="https://saclay.totalenergies.com/en/why-saclay" target="_blank">TotalEnergies</a></small>    
+    <center><img class="img-fluid" src="{{ "img/ipa.jpeg" | prepend:site.baseurl }}" width="100%" height="50%"></center>
+    <small style="float:right;margin-top:1mm;margin-right:5mm;">Image credit to <a href="https://www.institut-pascal.universite-paris-saclay.fr/en" target="_blank">Paris-Saclay University</a></small>
   </div>
 </div>
 
 
 <div class="row">
   <div class="col-xs-12"><a class="anchor" id="intro"></a>
-    <!-- <h2>Introduction</h2> -->
+    <h2>Introduction</h2>
   </div>
 </div>
 <div class="row">
   <div class="col-xs-12">
-    <p></p>
-    <!-- <ul>
-      <li>A....</li>
-      <li>B..</li>
-    </ul> -->
+    <p>Causal and effect questions are the foundation for numerous scientific disciplines, providing a framework for formulating and comprehending them under diverse conditions. In recent years, there has been a notable interdisciplinary effort to develop machine learning and statistical analysis techniques to address causality-related challenges. Simultaneously, the causal perspective has been used to formulate and understand various machine-learning problems.</p>
+    <p>The colloquium on Causality in Practice aims to facilitate discussions and knowledge sharing among researchers and practitioners who have applied causality in various domains. This event presents a unique opportunity to explore the practical aspects of causal reasoning. Attendees will have the chance to learn from experts in different fields and discover diverse real-world applications of causality. Moreover, participants can present their work at a poster session.</p>
   </div>
-</div> <br>
-
-<!-- <div class="row">
-  <div class="col-xs-12 panel-group"><a class="anchor" id="calls"></a>
-    <h2>Call for Contributions</h2>
-    <br>
-    <div class="panel panel-default">
-      <div class="panel-heading" data-toggle="collapse" data-parent="#call" href="#call-papers" style="cursor:pointer;">
-        <h3 style="margin:0;">Full Colloquium Papers</h3>
-      </div>
-      <div id="call-papers" class="panel-collapse collapse" data-parent="#call">
-        <div class="panel-body">
-          <p>
-	    <span style="font-weight:500;">Submission:</span> We invite authors to submit unpublished papers of any length between 2 and 6 pages, excluding references. All submissions must be in English, in PDF format, following the ACM two-column format. Suitable LaTeX and Word templates are available from the ACM website: <a href="https://www.acm.org/publications/proceedings-template" target="_blank">https://www.acm.org/publications/proceedings-template</a>.
-      
-      Authors should submit their papers via EasyChair <a href="https://easychair.org/conferences/?conf=funcausal2023" target="_blank">https://easychair.org/conferences/?conf=funcausal2023</a>.</p> 
-      <p>
-      Note that authors are encouraged to adhere to the best practices of Reproducible Research (RR), by making available data and software tools for reproducing the results reported in their papers. For the sake of persistence and proper authorship attribution, we require the use of standard repository hosting services such as dataverse, mldata, openml, etc., for data sets, and mloss, Bitbucket, GitHub, etc. for source code. Authors who submit their work to the colloquium commit themselves to presenting their paper at the colloquium if it is accepted.	    
-	  </p>
-	  <p>
-	    Accepted papers will be published in the official
-	  </p>
-        </div>
-      </div>
-    </div>
-    <br>    
-  </div>
-</div><br> -->
-
-<!-- <div class="row">
-  <div class="col-xs-12"><a class="anchor" id="dates"></a>
-    <h2>Important Dates</h2>
-    <br>
-    <table class="table table-striped">
-      <tbody>        
-        <tr>
-          <td>Paper Submission Deadline<  d>
-          <td>15 January 2023 (23:59 AOE)</td>
-	        <td><span class="countdown" reference="16 January 2023 13:59:59 UTC"></span></td>
-        </tr>
-        <tr>
-          <td>Notification to Authors</td>
-          <td>January 31, 2023</td>
-        </tr>
-        <tr>
-          <td>Camera-Ready Deadline</td>
-          <td>February XX, 2023</td>
-        </tr>
-        <tr>
-          <td>Colloquium</td>
-          <td>From May 9th to May 12th, 2023</td>
-	  <td><span class="countdown" reference="9 May 2023 23:59:59 UTC"></span></td>
-        </tr>
-      </tbody>
-    </table>
-  </div>
-</div><br> -->
+</div>
+<br>
 
 <div class="row">
   <div class="col-xs-12"><a class="anchor" id="registration"></a>
   <h2>Registration</h2>
   <p>The <b>Causality in Practice</b> will be held at the <a href="https://www.institut-pascal.universite-paris-saclay.fr/en" target="_blank">Institute Pascal</a>, <b>Saclay</b>, <b>France</b> from <b>June 12-16, 2023</b>.</p>
   <p> Participation is free of charge, but registration is mandatory.</p>
-  <p> Please register <a href="https://forms.gle/oZiaBm9nz5Ewa28y6" target="_blank">here</a> <b>before June 7th AoE</b>.</p>
+  <p> Please register <a href="https://forms.gle/oZiaBm9nz5Ewa28y6" target="_blank">here</a>.</p>
 <!--  -->
+  </div>
+</div>
+<!-- <br/> -->
+<div class="row">
+  <div class="col-xs-12"><a class="anchor" id="venue"></a>
+  <h2>Venue</h2>
+  <p>Institute Pascal is situated on the Orsay campus of the Paris-Saclay University, approximately 25 km south-west of Paris. The campus is accessible from Paris via the <a href="https://www.ratp.fr/en/plans-lignes/rer/b" target="_blank">RER B</a> and the building can be reached in approximately 50 minutes from the Châtelet-Les Halles station in the center of Paris.</p>
+  <p>The address is <a href="https://www.google.com/maps/place/Institut+Pascal/@48.7062757,2.1755538,17.74z/data=!4m12!1m6!3m5!1s0x47e679e313480623:0x6a2cd8a232755c5d!2sInstitut+Pascal!8m2!3d48.706489!4d2.1774943!3m4!1s0x47e679e313480623:0x6a2cd8a232755c5d!8m2!3d48.706489!4d2.1774943" target="_blank">530 rue Andre Riviere, Orsay</a> (GPS coordinates: 48◦42024.200N2◦10038.100E)</p>
+  <p><a href="https://www.institut-pascal.universite-paris-saclay.fr/en/practical-information/getting-here" target="_blank">Getting at the Institute Pascal</a></p>
   </div>
 </div>
 
@@ -924,6 +875,18 @@ acknowledgements: ""
     <!--  -->
   </div>
 </div>
+
+<!-- <br/>
+<div class="row">
+  <div class="col-xs-12"><a class="anchor" id="venue"></a>
+  <h2>Venue</h2>
+  <p>Institute Pascal is situated on the Orsay campus of the Université Paris-Sud, approximately 25 km south-west of Paris. The campus is accessible from Paris via the RER B and the building can be reached in approximately 50 minutes from the Châtelet-Les Halles station in the center of Paris.</p>
+  <p>The address is <a href="https://www.google.com/maps/place/Institut+Pascal/@48.7062757,2.1755538,17.74z/data=!4m12!1m6!3m5!1s0x47e679e313480623:0x6a2cd8a232755c5d!2sInstitut+Pascal!8m2!3d48.706489!4d2.1774943!3m4!1s0x47e679e313480623:0x6a2cd8a232755c5d!8m2!3d48.706489!4d2.1774943" target="_blank">530 rue Andre Riviere, Orsay</a> (GPS coordinates: 48◦42024.200N2◦10038.100E)</p>
+  <p>Getting at the Institute Pascal</p>
+  </div>
+</div> -->
+
+<br />
 
 <div class="row">
   <div class="col-xs-12"><a class="anchor" id="organizers"></a>
