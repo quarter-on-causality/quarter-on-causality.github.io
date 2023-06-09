@@ -15,9 +15,9 @@ acknowledgements: ""
 <div class="row">
   <div class="col-xs-12">
     <center><h1>Causality in Practice</h1></center>
-    <center><h2>Orsay, France</h2></center>
-    <center><strong>From</strong> June 12th <strong>to</strong> June 16th, 2023</center>
-    <center>Location: <b><a href="https://www.institut-pascal.universite-paris-saclay.fr/en" target="_blank">Institute Pascal</a> (530 rue Andre Riviere, Orsay)</b></center>
+    <center><h5>Institute Pascal, Orsay, France</h5></center>
+    <center><h5><strong>From</strong> June 12th <strong>to</strong> June 16th, 2023</h5></center>
+    <center><h5><b>Location:</b> <a href="https://www.institut-pascal.universite-paris-saclay.fr/en" target="_blank">Institute Pascal 530 rue Andre Riviere, Orsay</a></h5></center>
   </div>
 </div>
 
@@ -45,7 +45,7 @@ acknowledgements: ""
 <div class="row">
   <div class="col-xs-12"><a class="anchor" id="registration"></a>
   <h2>Registration</h2>
-  <p>The <b>Causality in Practice</b> will be held at the <a href="https://www.institut-pascal.universite-paris-saclay.fr/en" target="_blank">Institute Pascal</a>, <b>Saclay</b>, <b>France</b> from <b>June 12-16, 2023</b>.</p>
+  <p>The <b>Causality in Practice</b> will be held at the <a href="https://www.institut-pascal.universite-paris-saclay.fr/en" target="_blank">Institute Pascal</a>, <b>Orsay</b>, <b>France</b> from <b>June 12-16, 2023</b>.</p>
   <p> Participation is free of charge, but registration is mandatory.</p>
   <p> Please register <a href="https://forms.gle/oZiaBm9nz5Ewa28y6" target="_blank">here</a>.</p>
 <!--  -->
@@ -102,7 +102,7 @@ acknowledgements: ""
         <tr>
           <td>10:45</td>
           <td><strong>Martin Huber</strong>, University of Fribourg</td>
-          <td><strong>Elisa Dumas</strong>, Institute Curie</td>
+          <td><strong>Elise Dumas</strong>, Institute Curie</td>
           <td><strong>Céline Beji</strong>, Université Paris Cité</td>
           <td><strong>Pedro Sanchez</strong>, University of Edinburgh</td>
           <td><strong>Audrey Poinsot</strong>, Ekimetrics, Inria, Paris-Saclay University</td>
@@ -526,8 +526,8 @@ acknowledgements: ""
         </div>
       </div>
       <div class="col-sm-9">
-        <h3><b>Title:</b> TBD</h3><br />
-        <!-- <b>Abstract</b><p class="speaker-abstract"></p> -->
+        <h3><b>Title:</b> Diagnosing the role of observed heterogeneity in replication studies</h3><br />
+        <b>Abstract</b><p class="speaker-abstract">Many researchers have identified treatment effect heterogeneity and distribution shifts as possible contributors to the reproducibility crisis in behavioral and biomedical sciences. The idea is that treatment effects that vary across individuals and contexts might be harder to detect in some populations. We propose a framework for quantifying the impact of observed heterogeneity and population discrepancy in replication studies. We decompose the difference between an original estimate and a replication estimate into "components" attributable to observed heterogeneity in baseline covariates and moderating variables, sampling variability, and residual factors. In several real-world examples from behavioral science, we find that observed heterogeneity explains little (if any) non-replicability. We discuss some implications for scientific measurement and statistical "generalizability" methods. This is joint work with Kevin Guo and Dominik Rothenhäusler.</p>
         <div class="panel panel-default">
           <div class="panel-heading" data-toggle="collapse" href="#yjin-bio" style="cursor:pointer;text-align:center">
             <b>Biography <span style="font-weight:normal">(click to expand/collapse)</span></b>
