@@ -62,6 +62,12 @@ acknowledgements: ""
 </div>
 
 <div class="row">
+  <div class="col-xs-12"><a class="anchor" id="visio"></a>
+     <h2>Attending online</h2>You can follow the presentations via Zoom <a href="https://zoom.us/j/93420868337?pwd=WlMrMmNXQm5Tc00wYTc3N2l2bW91UT09" target="_blank">here</a> (ID: 934 2086 8337; code: 044247).
+  </div>
+</div><br/>
+
+<div class="row">
   <div class="col-xs-12"><a class="anchor" id="schedule"></a>
      <h2>Schedule</h2>
      <br/>
@@ -85,11 +91,11 @@ acknowledgements: ""
       <tbody>
         <tr>
           <td>9:30</td>
-          <td><strong>Ricardo Silva</strong>, University College London</td>
-          <td><strong>Mélanie Prague</strong>, Inria</td>
-          <td><strong>Raphaël Porcher</strong>, Université Paris Cité</td>
-          <td><strong>Qingyuan Zhao</strong>, University of Cambridge</td>
-          <td><strong>Johannes Textor</strong>, Data Science, Radboud University Nijmegen, The Netherlands</td>
+          <td><strong><a href="#silva">Ricardo Silva</a></strong>, University College London</td>
+          <td><strong><a href="#prague">Mélanie Prague</a></strong>, Inria</td>
+          <td><strong><a href="#porcher">Raphaël Porcher</a></strong>, Université Paris Cité</td>
+          <td><strong><a href="#zhao">Qingyuan Zhao</a></strong>, University of Cambridge</td>
+          <td><strong><a href="#textor">Johannes Textor</a></strong>, Data Science, Radboud University Nijmegen, The Netherlands</td>
         </tr>
       </tbody>
       <tbody>
@@ -101,21 +107,21 @@ acknowledgements: ""
       <tbody>
         <tr>
           <td>10:45</td>
-          <td><strong>Martin Huber</strong>, University of Fribourg</td>
-          <td><strong>Elise Dumas</strong>, Institute Curie</td>
-          <td><strong>Céline Beji</strong>, Université Paris Cité</td>
-          <td><strong>Pedro Sanchez</strong>, University of Edinburgh</td>
-          <td><strong>Audrey Poinsot</strong>, Ekimetrics, Inria, Paris-Saclay University</td>
+          <td><strong><a href="#huber">Martin Huber</a></strong>, University of Fribourg</td>
+          <td><strong><a href="#dumas">Elise Dumas</a></strong>, Institute Curie</td>
+          <td><strong><a href="#beji">Céline Beji</a></strong>, Université Paris Cité</td>
+          <td><strong><a href="#sanchez">Pedro Sanchez</a></strong>, University of Edinburgh</td>
+          <td><strong><a href="#poinsot">Audrey Poinsot</a></strong>, Ekimetrics, Inria, Paris-Saclay University</td>
         </tr>
       </tbody>
       <tbody>
         <tr>
           <td>11:45</td>
-          <td><strong>Jakob Zeitler</strong>, University College London</td>
-          <td><strong>Judith Abécassis</strong>, Inria</td>
-          <td><strong>Erwan Scornet</strong>, Ecole Polytechnique, CMAP</td>
-          <td><strong>Marcel Ribeiro-Dantas</strong>, Seqera Labs</td>
-          <td><strong>Philippe Brouillard</strong>, Université de Montréal, Mila </td>
+          <td><strong><a href="#zeitler">Jakob Zeitler</a></strong>, University College London</td>
+          <td><strong><a href="#abecassis">Judith Abécassis</a></strong>, Inria</td>
+          <td><strong><a href="#scornet">Erwan Scornet</a></strong>, Ecole Polytechnique, CMAP</td>
+          <td><strong><a href="#ribeiro">Marcel Ribeiro-Dantas</a></strong>, Seqera Labs</td>
+          <td><strong><a href="#brouillard">Philippe Brouillard</a></strong>, Université de Montréal, Mila </td>
         </tr>
       </tbody>
       <tbody>
@@ -127,10 +133,10 @@ acknowledgements: ""
       <tbody>
         <tr>
           <td>14:15</td>
-          <td><strong>Benjamin Heymann</strong>, Criteo and <br/> <strong>Michel De Lara</strong>, ENPC</td>
-          <td><strong>Sander Beckers</strong>, University of Amsterdam</td>
-          <td><strong>François Grolleau</strong>, Université Paris Cité</td>
-          <td><strong>Charles Assaad</strong>, EasyVista </td>
+          <td><strong><a href="#heymann">Benjamin Heymann</a></strong>, Criteo and <br/> <strong><a href="#heymann">Michel De Lara</a></strong>, ENPC</td>
+          <td><strong><a href="#beckers">Sander Beckers</a></strong>, University of Amsterdam</td>
+          <td><strong><a href="#grolleau">François Grolleau</a></strong>, Université Paris Cité</td>
+          <td><strong><a href="#assaad">Charles Assaad</a></strong>, EasyVista </td>
           <td></td>
           <td></td>
         </tr>
@@ -144,9 +150,9 @@ acknowledgements: ""
       <tbody>
         <tr>
           <td>15:30</td>
-          <td><strong>Limor Gultchin</strong>, University of Oxford, The Alan Turing Institute</td>
-          <td><strong>Matej Zečević</strong>, TU Darmstadt</td>          
-          <td><strong>Florie Bouvier</strong>, Université Paris Cité</td>
+          <td><strong><a href="#gultchin">Limor Gultchin</a></strong>, University of Oxford, The Alan Turing Institute</td>
+          <td><strong><a href="#zecevic">Matej Zečević</a></strong>, TU Darmstadt</td>
+          <td><strong><a href="#bouvier">Florie Bouvier</a></strong>, Université Paris Cité</td>
           <td>Poster session</td>
           <td></td>
         </tr>
@@ -154,10 +160,10 @@ acknowledgements: ""
       <tbody>
         <tr>
           <td>16:30</td>
-          <td><strong>Miguel Monteiro</strong>, Imperial College London, Qureight</td>
-          <td><strong>Dhanya Sridhar</strong>, University of Montreal, Mila</td>
-          <td><strong>Carlos Cinelli</strong>, University of Washington</td>
-          <td><strong>Ying Jin</strong>, Stanford University</td>
+          <td><strong><a href="#monteiro">Miguel Monteiro</a></strong>, Imperial College London, Qureight</td>
+          <td><strong><a href="#sridhar">Dhanya Sridhar</a></strong>, University of Montreal, Mila</td>
+          <td><strong><a href="#cinelli">Carlos Cinelli</a></strong>, University of Washington</td>
+          <td><strong><a href="#jin">Ying Jin</a></strong>, Stanford University</td>
           <td></td>
           <td></td>
         </tr>
@@ -193,7 +199,7 @@ acknowledgements: ""
     <h2>Speakers (alphabetic order)</h2>
     <br/>
     <!--  -->
-    <div class="row speaker">
+    <div class="row speaker" id="abecassis">
       <div class="col-sm-3 speaker-pic">
         <a href="https://judithabk6.github.io" target="_blank">
           <img class="people-pic" src="img/people/judith.jpeg" />
@@ -221,8 +227,8 @@ acknowledgements: ""
     </div>
     <br/>
     <!--  -->
-    <div class="row speaker">
-      <div class="col-sm-3 speaker-pic">        
+    <div class="row speaker" id="assaad">
+      <div class="col-sm-3 speaker-pic">
         <a href="https://ckassaad.github.io" target="_blank">
           <img class="people-pic" src="/challenges/img/people/ckassad.jpeg" />
         </a>
@@ -247,7 +253,7 @@ acknowledgements: ""
     <!--  -->
     <br />
     <!--  -->
-    <div class="row speaker">
+    <div class="row speaker" id="beckers">
       <div class="col-sm-3 speaker-pic">        
         <a href="https://sanderbeckers.github.io/website/" target="_blank">
           <img class="people-pic" src="img/people/sbeckers.jpeg" />
@@ -273,7 +279,7 @@ acknowledgements: ""
     <!--  -->
     <br/>
     <!--  -->
-    <div class="row speaker">
+    <div class="row speaker" id="beji">
       <div class="col-sm-3 speaker-pic">        
         <a href="https://clinicalepidemio.fr/celine-beji/" target="_blank">
           <img class="people-pic" src="img/people/cbeji.jpeg" />
@@ -299,7 +305,7 @@ acknowledgements: ""
     <!--  -->
     <br/>
     <!--  -->    
-    <div class="row speaker">
+    <div class="row speaker" id="bouvier">
       <div class="col-sm-3 speaker-pic">        
         <a href="https://clinicalepidemio.fr/florie-bouvier/" target="_blank">
           <img class="people-pic" src="img/people/fbouvier.jpeg" />
@@ -328,7 +334,7 @@ acknowledgements: ""
     <!--  -->
     <br/>
     <!--  -->
-    <div class="row speaker">
+    <div class="row speaker" id="brouillard">
       <div class="col-sm-3 speaker-pic">
         <a href="https://philippe-brouillard.com/" target="_blank">
           <img class="people-pic" src="img/people/pbrouillard.jpeg" />
@@ -353,7 +359,7 @@ acknowledgements: ""
     </div>
     <!--  -->
     <br/>    
-    <div class="row speaker">
+    <div class="row speaker" id="cinelli">
       <div class="col-sm-3 speaker-pic">
         <a href="https://carloscinelli.com" target="_blank">
           <img class="people-pic" src="img/people/cinelli.jpeg" />
@@ -364,7 +370,8 @@ acknowledgements: ""
         </div>
       </div>
       <div class="col-sm-9">
-        <h3><b>Title:</b> TBD</h3><br />
+        <h3><b>Title:</b> Long Story Short: Omitted Variable Bias in Causal Machine Learning</h3><br />
+        <b>Abstract</b><p class="speaker-abstract"> We derive general, yet simple, sharp bounds on the size of the omitted variable bias for a broad class of causal parameters that can be identified as linear functionals of the conditional expectation function of the outcome. Such functionals encompass many of the traditional targets of investigation in causal inference studies, such as, for example, (weighted) average of potential outcomes, average treatment effects (including subgroup effects, such as the effect on the treated), (weighted) average derivatives, and policy effects from shifts in covariate distribution -- all for general, nonparametric causal models. Our construction relies on the Riesz-Frechet representation of the target functional. Specifically, we show how the bound on the bias depends only on the additional variation that the latent variables create both in the outcome and in the Riesz representer for the parameter of interest. Moreover, in many important cases (e.g, average treatment effects and average causal derivatives) the bound is shown to depend on easily interpretable quantities that measure the explanatory power of the omitted variables. Therefore, simple plausibility judgments on the maximum explanatory power of omitted variables (in explaining treatment and outcome variation) are sufficient to place overall bounds on the size of the bias. Furthermore, we use debiased machine learning to provide flexible and efficient statistical inference on learnable components of the bounds. Finally, empirical examples demonstrate the usefulness of the approach.</p>
         <div class="panel panel-default">
           <div class="panel-heading" data-toggle="collapse" href="#cc-bio" style="cursor:pointer;text-align:center">
             <b>Biography <span style="font-weight:normal">(click to expand/collapse)</span></b>
@@ -377,7 +384,7 @@ acknowledgements: ""
     </div>
     <br/>
     <!--  -->
-    <div class="row speaker">
+    <div class="row speaker" id="dumas">
       <div class="col-sm-3 speaker-pic">
         <a href="https://curie.fr/personne/elise-dumas" target="_blank">
           <img class="people-pic" src="img/people/dumas.jpg" />
@@ -402,8 +409,8 @@ acknowledgements: ""
     </div>
     <br/>
     <!--  -->
-    <div class="row speaker">
-      <div class="col-sm-3 speaker-pic">        
+    <div class="row speaker" id="grolleau">
+      <div class="col-sm-3 speaker-pic">
         <a href="https://fcgrolleau.github.io" target="_blank">
           <img class="people-pic" src="img/people/fgrolleau.jpeg" />
         </a>
@@ -428,7 +435,7 @@ acknowledgements: ""
     <!--  -->
     <br/>
     <!--  -->
-    <div class="row speaker">
+    <div class="row speaker" id="gultchin">
       <div class="col-sm-3 speaker-pic">
         <a href="https://scholar.google.com/citations?user=8hvFa2AAAAAJ&hl=en" target="_blank">
           <img class="people-pic" src="img/people/lgultchin.jpeg" />
@@ -454,7 +461,7 @@ acknowledgements: ""
     </div>
     <!--  -->
     <br />
-    <div class="row speaker">
+    <div class="row speaker" id="heymann">
       <div class="col-sm-3 speaker-pic">
         <a href="https://scholar.google.fr/citations?user=ok5uldEAAAAJ&hl=en" target="_blank">
           <img class="people-pic" src="img/people/heymann.jpeg" />
@@ -489,7 +496,7 @@ acknowledgements: ""
     <!--  -->
     <br/>
     <!--  -->
-    <div class="row speaker">
+    <div class="row speaker" id="huber">
       <div class="col-sm-3 speaker-pic">
         <a href="https://www.unifr.ch/appecon/en/team/martin-huber/" target="_blank">
           <img class="people-pic" src="img/people/mhuber.jpeg" />
@@ -515,7 +522,7 @@ acknowledgements: ""
     <!--  -->
     <br/>
     <!--  -->
-    <div class="row speaker">
+    <div class="row speaker" id="jin">
       <div class="col-sm-3 speaker-pic">
         <a href="https://ying531.github.io" target="_blank">
           <img class="people-pic" src="img/people/yjin.jpeg" />
@@ -540,7 +547,7 @@ acknowledgements: ""
     </div>
     <br/>
     <!--  -->
-    <div class="row speaker">
+    <div class="row speaker" id="monteiro">
       <div class="col-sm-3 speaker-pic">
         <a href="https://scholar.google.com/citations?user=LyabfXcAAAAJ" target="_blank">
           <img class="people-pic" src="img/people/mmonteiro.jpeg" />
@@ -565,7 +572,7 @@ acknowledgements: ""
     </div>
     <br />
     <!--  -->
-    <div class="row speaker">
+    <div class="row speaker" id="poinsot">
       <div class="col-sm-3 speaker-pic">
         <a href="https://audreypoinsot.github.io/academic_website/" target="_blank">
           <img class="people-pic" src="img/people/apoinsot.jpeg" />
@@ -590,7 +597,7 @@ acknowledgements: ""
     </div>
     <br/>
     <!--  -->    
-    <div class="row speaker">
+    <div class="row speaker" id="porcher">
       <div class="col-sm-3 speaker-pic">        
         <a href="https://clinicalepidemio.fr/members-of-the-team/raphael-porcher" target="_blank">
           <img class="people-pic" src="img/people/rporcher.jpeg" />
@@ -615,7 +622,7 @@ acknowledgements: ""
     </div>
     <!--  -->
     <br/>    
-    <div class="row speaker">
+    <div class="row speaker" id="prague">
       <div class="col-sm-3 speaker-pic">
         <a href="https://people.bordeaux.inria.fr/melanie.prague" target="_blank">
           <img class="people-pic" src="img/people/mp.jpeg" />
@@ -640,7 +647,7 @@ acknowledgements: ""
     </div>
     <br/>
     <!--  -->    
-    <div class="row speaker">
+    <div class="row speaker" id="ribeiro">
       <div class="col-sm-3 speaker-pic">
         <a href="http://mribeirodantas.me" target="_blank">
           <img class="people-pic" src="img/people/ribeirodantas.png" />
@@ -666,7 +673,7 @@ acknowledgements: ""
     </div>
     <br/>
     <!--  -->
-    <div class="row speaker">
+    <div class="row speaker" id="sanchez">
       <div class="col-sm-3 speaker-pic">
         <a href="https://www.ppsanchez.com" target="_blank">
           <img class="people-pic" src="img/people/psanchez.jpeg" />
@@ -692,7 +699,7 @@ acknowledgements: ""
     </div>
     <br/>
     <!--  -->
-    <div class="row speaker">
+    <div class="row speaker" id="scornet">
       <div class="col-sm-3 speaker-pic">
         <a href="https://erwanscornet.github.io/" target="_blank">
           <img class="people-pic" src="img/people/scornet.png" />
@@ -717,7 +724,7 @@ acknowledgements: ""
     </div>
     <!--  -->
     <br/>
-    <div class="row speaker">
+    <div class="row speaker" id="silva">
       <div class="col-sm-3 speaker-pic">
         <a href="https://www.homepages.ucl.ac.uk/~ucgtrbd" target="_blank">
           <img class="people-pic" src="img/people/rsilva.jpeg" />
@@ -747,7 +754,7 @@ acknowledgements: ""
     </div>
     <br/>
     <!--  -->
-    <div class="row speaker">
+    <div class="row speaker" id="sridhar">
       <div class="col-sm-3 speaker-pic">
         <a href="https://www.dsridhar.com" target="_blank">
           <img class="people-pic" src="img/people/sridhar.jpeg" />
@@ -772,7 +779,7 @@ acknowledgements: ""
     </div>
     <br/>
     <!--  -->
-    <div class="row speaker">
+    <div class="row speaker" id="textor">
       <div class="col-sm-3 speaker-pic">
         <a href="https://johannes-textor.name" target="_blank">
           <img class="people-pic" src="img/people/jtextor.jpeg" />
@@ -796,7 +803,7 @@ acknowledgements: ""
     </div>
     <br/>
     <!--  -->
-    <div class="row speaker">
+    <div class="row speaker" id="zeitler">
       <div class="col-sm-3 speaker-pic">
         <a href="https://jakobzeitler.github.io/" target="_blank">
           <img class="people-pic" src="img/people/jzeitler.jpeg" />
@@ -822,7 +829,7 @@ acknowledgements: ""
     <!--  -->
     <br/>
     <!--  -->
-    <div class="row speaker">
+    <div class="row speaker" id="zecevic">
       <div class="col-sm-3 speaker-pic">
         <a href="https://www.matej-zecevic.de/" target="_blank">
           <img class="people-pic" src="img/people/mzecevic.jpeg" />
@@ -848,7 +855,7 @@ acknowledgements: ""
     <!--  -->
     <br/>
     <!--  -->
-    <div class="row speaker">
+    <div class="row speaker" id="zhao">
       <div class="col-sm-3 speaker-pic">
         <a href="http://www.statslab.cam.ac.uk/~qz280" target="_blank">
           <img class="people-pic" src="img/people/qzhao.jpeg" />
@@ -875,16 +882,6 @@ acknowledgements: ""
     <!--  -->
   </div>
 </div>
-
-<!-- <br/>
-<div class="row">
-  <div class="col-xs-12"><a class="anchor" id="venue"></a>
-  <h2>Venue</h2>
-  <p>Institute Pascal is situated on the Orsay campus of the Université Paris-Sud, approximately 25 km south-west of Paris. The campus is accessible from Paris via the RER B and the building can be reached in approximately 50 minutes from the Châtelet-Les Halles station in the center of Paris.</p>
-  <p>The address is <a href="https://www.google.com/maps/place/Institut+Pascal/@48.7062757,2.1755538,17.74z/data=!4m12!1m6!3m5!1s0x47e679e313480623:0x6a2cd8a232755c5d!2sInstitut+Pascal!8m2!3d48.706489!4d2.1774943!3m4!1s0x47e679e313480623:0x6a2cd8a232755c5d!8m2!3d48.706489!4d2.1774943" target="_blank">530 rue Andre Riviere, Orsay</a> (GPS coordinates: 48◦42024.200N2◦10038.100E)</p>
-  <p>Getting at the Institute Pascal</p>
-  </div>
-</div> -->
 
 <br />
 
