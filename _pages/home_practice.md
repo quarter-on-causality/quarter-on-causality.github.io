@@ -608,8 +608,8 @@ acknowledgements: ""
         </div>
       </div>
       <div class="col-sm-9">
-        <h3><b>Title:</b> TBD</h3><br />
-        <!-- <b>Abstract</b><p class="speaker-abstract"></p> -->
+        <h3><b>Title:</b> When to stop immune checkpoint inhibitor for malignant melanoma? Challenges in emulating target trials</h3><br />
+        <b>Abstract</b><p class="speaker-abstract">Observational data have become a popular source of evidence for causal effects when no randomized controlled trial exists, or to supplement information provided by those. In practice, a wide range of designs and analytical choices exist, and one recent approach relies on the  target trial emulation framework. This framework is particularly well suited to mimic what could be obtained in a specific randomized controlled trial, while avoiding time-related selection biases. In this abstract, we present how this framework could be useful to emulate trials in malignant melanoma, and the challenges faced when planning such a study using longitudinal observational data from a cohort study. More specifically, two questions are envisaged: duration of immune checkpoint inhibitors, and trials comparing treatment strategies for BRAF V600-mutant patients (targeted therapy as 1st line, followed by immunotherapy as 2nd line, vs. immunotherapy as 2nd line followed by targeted therapy as 1st line). Using data from 1027 participants to the MELBASE cohort, we detail the results for the emulation of a trial where immune checkpoint inhibitor would be stopped at 6 months vs. continued, in patients in response or with stable disease.</p>
         <div class="panel panel-default">
           <div class="panel-heading" data-toggle="collapse" href="#rp-bio" style="cursor:pointer;text-align:center">
             <b>Biography <span style="font-weight:normal">(click to expand/collapse)</span></b>
