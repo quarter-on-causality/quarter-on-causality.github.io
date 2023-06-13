@@ -239,7 +239,7 @@ acknowledgements: ""
       </div>
       <div class="col-sm-9">
         <h3><b>Title:</b> Root cause analysis in IT monitoring systems</h3><br />
-        <b>Abstract</b><p class="speaker-abstract">Automatic root cause identification is a challenging and important task in IT monitoring systems, where failures and anomalies can have severe consequences for businesses and customers. Traditional methods rely on manual rules, heuristics, or statistical correlations to identify the root causes of incidents, but often fail to capture the complex and dynamic dependencies among IT components. In this talk, a new framework will be presented that leverages causal discovery and causal reasoning to automatically infer root causes of IT incidents from observational time series data. The effectiveness of the framework will be demonstrated on simulated data as well as on real world monitoring data</p>
+        <b>Abstract</b><p class="speaker-abstract">Automatic root cause identification is a challenging and important task in IT monitoring systems, where failures and anomalies can have severe consequences for businesses and customers. Traditional methods rely on manual rules, heuristics, or statistical correlations to identify the root causes of incidents, but often fail to capture the complex and dynamic dependencies among IT components. In this talk, a new framework will be presented that leverages causal discovery and causal reasoning to automatically infer root causes of IT incidents from observational time series data. The effectiveness of the framework will be demonstrated on simulated data as well as on real world monitoring data.</p>
         <div class="panel panel-default">
           <div class="panel-heading" data-toggle="collapse" href="#cka-bio" style="cursor:pointer;text-align:center">
             <b>Biography <span style="font-weight:normal">(click to expand/collapse)</span></b>
@@ -420,8 +420,8 @@ acknowledgements: ""
         </div>
       </div>
       <div class="col-sm-9">
-        <h3><b>Title:</b> TBD</h3><br />
-        <!-- <b>Abstract</b><p class="speaker-abstract"></p> -->
+        <h3><b>Title:</b> Personalizing renal replacement therapy initiation in the intensive care unit: a statistical reinforcement learning-based strategy with external validation on the AKIKI randomized controlled trials</h3><br />
+        <b>Abstract</b><p class="speaker-abstract">We used the doubly-robust estimators dWOLS on electronic health record data to learn two dynamic strategies for renal-replacement therapy (RRT) initiation in the ICU. We named these strategies “crude” and “stringent.” The major strength of our approach is its dynamic aspect: the decision rule to initiate renal replacement therapy mimics that of clinicians i.e., decisions are re-evaluated every day—for three days in a row—given patients’ evolving characteristics. We externally validated the learned strategies using the advantage double robust estimator on data from AKIKI and AKIKI 2 (two large RCTs of RRT timing). When compared to the current best practices (i.e., a standard-delayed strategy), we found that both learned strategies could improve hospital-free days at day 60. Importantly, we found that the stringent strategy could improve patients’ outcomes all the while reducing RRT prescriptions in the three days following severe AKI. This approach demonstrates how leveraging recent developments in statistics and computer science can rigorously address long outstanding clinical questions.</p>
         <div class="panel panel-default">
           <div class="panel-heading" data-toggle="collapse" href="#rp-bio" style="cursor:pointer;text-align:center">
             <b>Biography <span style="font-weight:normal">(click to expand/collapse)</span></b>
