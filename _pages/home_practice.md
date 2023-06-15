@@ -353,7 +353,7 @@ acknowledgements: ""
         </div>
       </div>
       <div class="col-sm-9">
-        <h3><b>Title:</b>TBD</h3><br />
+        <h3><b>Title:</b> Exploring Assumptions for Identifiability using Differentiable Causal Discovery Methods</h3><br />
         <!-- <b>Abstract</b><p class="speaker-abstract"></p> -->
         <div class="panel panel-default">
           <div class="panel-heading" data-toggle="collapse" href="#pbr-bio" style="cursor:pointer;text-align:center">
@@ -798,7 +798,8 @@ acknowledgements: ""
         </div>
       </div>
       <div class="col-sm-9">
-        <h3><b>Title:</b> TBD</h3><br />
+        <h3><b>Title:</b> Use and Testing of Causal Diagrams in Practice</h3><br />
+        <b>Abstract</b><p class="speaker-abstract">Since the publication of the landmark paper "Causal diagrams for epidemiologic research", researchers in Epidemiology and other health-related disciplines have increasingly adopted causal diagrams --  mainly to derive adjustment sets for addressing confounding bias. In the first part of this talk, I will present causal diagrams from a systematic review of DAG use in biomedical research. Unfortunately, we find the use of DAGs in practice to be rather problematic in several ways. For instance, almost no researcher appears willing to conduct any model testing to probe the consistency of their hand-drawn DAG with the dataset it is meant to represent. While there are several reasons for the lack of model testing, we hypothesize that one issue might be the difficulty of testing conditional independence (CI) statements both conceptually and in practice. Motivated by these findings, I will then discuss how the implications of causal diagrams can be tested in practice, especially in the case of mixed data. I will present existing tests for categorical data, continuous data, and ordinal data, as well as a new approach we developed that covers mixtures of all these types of data at the same time. I hope that this new testing approach will be attractive for manual testing of causal models: it is easy to implement, can be used with non-parametric or parametric statistical techniques, has an important symmetry property, and has reasonable computational cost.</p>
         <div class="panel panel-default">
           <div class="panel-heading" data-toggle="collapse" href="#jt-bio" style="cursor:pointer;text-align:center">
             <b>Biography <span style="font-weight:normal">(click to expand/collapse)</span></b>
