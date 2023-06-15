@@ -65,7 +65,15 @@ acknowledgements: ""
   <div class="col-xs-12"><a class="anchor" id="visio"></a>
      <h2>Attending online</h2>You can follow the presentations via Zoom <a href="https://zoom.us/j/93420868337?pwd=WlMrMmNXQm5Tc00wYTc3N2l2bW91UT09" target="_blank">here</a> (ID: 934 2086 8337; code: 044247).
   </div>
-</div><br/>
+</div> <br/>
+
+<div class="row">
+  <div class="col-xs-12"><a class="anchor" id="dinner"></a>
+     <h2>Social dinner</h2>The social dinner will be at Le Gramophone restaurant. The address is <a href="https://goo.gl/maps/n5TR9GLG5hd37J5w6" target="_blank">27 Bd Dubreuil, 91400 Orsay, France.</a>
+  </div>
+</div>
+
+<br/>
 
 <div class="row">
   <div class="col-xs-12"><a class="anchor" id="schedule"></a>
@@ -184,7 +192,7 @@ acknowledgements: ""
           <td></td>
           <td></td>
           <td></td>
-          <td><strong>Social dinner</strong></td>
+          <td><strong><a href="#dinner">Social dinner</a></strong></td>
           <td></td>
         </tr>
       </tbody>
