@@ -110,7 +110,7 @@ acknowledgements: ""
   <div class="col-xs-12"><a class="anchor" id="program"></a>
      <h2>Program</h2>
      <br/>
-     <center><img class="img-fluid" src="{{ "img/schedule.jpeg" | prepend:site.baseurl }}" width="100%" height="50%"></center>
+     <center><img class="img-fluid" src="{{ 'img/schedule.jpeg'| prepend:site.baseurl }}" width="100%" height="50%"></center>
   </div>
 </div><br>
 
@@ -140,9 +140,31 @@ acknowledgements: ""
 <!-- ###### -->
 
 <div class="row">
-  <div class="col-xs-12"><a class="anchor" id="speakers"></a>
+  <div class="col-xs-12"><a class="anchor" id="problems"></a>
     <h2>Problems</h2>
     <br/>
+    <!--  -->
+    <div class="row speaker" id="easyvista">
+      <div class="col-sm-3 speaker-pic">
+        <a href="https://www.easyvista.com" target="_blank">
+          <img class="people-pic" src="img/easyvista.png" />
+        </a>
+      </div>
+      <div class="col-sm-9">
+        <h3><b>Log type root cause identification</b> </h3><br />
+        <!-- <b>Abstract</b><p class="speaker-abstract"></p> -->
+        <!-- <div class="panel panel-default">
+          <div class="panel-heading" data-toggle="collapse" href="#ja-bio" style="cursor:pointer;text-align:center">
+            <b>Biography <span style="font-weight:normal">(click to expand/collapse)</span></b>
+          </div>
+          <div id="ja-bio" class="panel-collapse collapse in"><div class="panel-body">
+            <p class="speaker-bio"></p>
+          </div></div>
+        </div> -->
+      </div>
+    </div>
+    <!--  -->
+    <br />
     <!--  -->
     <div class="row speaker" id="ekimetrics">
       <div class="col-sm-3 speaker-pic">
@@ -168,20 +190,17 @@ acknowledgements: ""
       </div> -->
     </div>
     <!--  -->
-    <br/>
-    <!--  -->
-    <div class="row speaker" id="easyvista">
+    <br/>    
+    <!--  -->    
+    <div class="row speaker" id="aint">
       <div class="col-sm-3 speaker-pic">
         <a href="https://www.easyvista.com" target="_blank">
-          <img class="people-pic" src="img/easyvista.png" />
+          <img class="people-pic" src="img/saint-gobain-logo.jpeg" />
         </a>
-        <!-- <div class="people-name">
-          <a href="" target="_blank">Easyvista</a>
-        </div> -->
       </div>
       <div class="col-sm-9">
-        <h3><b>Log type root cause identification</b> </h3><br />
-        <!-- <b>Abstract</b><p class="speaker-abstract"></p> -->
+        <h3><b>Causal Discovery from Sequential Data</b> </h3><br />
+        <b>Description</b><p class="speaker-abstract">Saint-Gobain Distribution Bâtiment France (SGDBF) is dedicated to developing innovative solutions that enhance well-being and contribute to a sustainable future. They have gathered extensive data on client interactions and actions as part of their efforts. This sequential data provides valuable insights into clients’ identities and behaviors, and understanding the causal relationships within this data can unlock numerous possibilities for improving customer understanding and anticipating future actions. This problem aims to unravel the causal structures hidden within the sequential data of Saint-Gobain's clients. By identifying causal relationships, one can better understand clients' needs and behaviors, develop more relevant and efficient recommendation systems. Furthermore, capturing the structure that governs the sequentiality of client actions allows one to anticipate clients' future needs and provide tailored solutions.  Please check the full description <a href="{{ 'descriptions/Saint_Gobain.pdf'| prepend:site.baseurl }}" target="_blank">here</a>.</p>
         <!-- <div class="panel panel-default">
           <div class="panel-heading" data-toggle="collapse" href="#ja-bio" style="cursor:pointer;text-align:center">
             <b>Biography <span style="font-weight:normal">(click to expand/collapse)</span></b>
@@ -189,11 +208,12 @@ acknowledgements: ""
           <div id="ja-bio" class="panel-collapse collapse in"><div class="panel-body">
             <p class="speaker-bio"></p>
           </div></div>
-        </div>
-      </div> -->
+        </div> -->
+      </div>
     </div>
     <!--  -->
-    <br/>
+    <br />
+    
   </div>
 </div>
 
