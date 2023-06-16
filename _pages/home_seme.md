@@ -1,7 +1,7 @@
 ---
-layout: layout_practice
-urltitle:  "Study week Causal Inference for Industry"
-title: "Study week Causal Inference for Industry"
+layout: layout_seme
+urltitle:  "Study Week on Causal Inference for Industry"
+title: "Study Week on Causal Inference for Industry"
 categories: causality, code, causal inference
 permalink: /seme/
 favicon: /seme/img/icon.jpg
@@ -14,7 +14,7 @@ acknowledgements: ""
 
 <div class="row">
   <div class="col-xs-12">
-    <center><h1>Study week Causal Inference for Industry</h1></center>
+    <center><h1>Study Week on Causal Inference for Industry</h1></center>
     <center><h5>Institute Pascal, Orsay, France</h5></center>
     <center><h5><strong>From</strong> July 3rd <strong>to</strong> July 7th, 2023</h5></center>
     <center><h5><b>Location:</b> <a href="https://www.institut-pascal.universite-paris-saclay.fr/en" target="_blank">Institute Pascal 530 rue Andre Riviere, Orsay</a></h5></center>
@@ -23,8 +23,8 @@ acknowledgements: ""
 
 <div class="row" id="intro">
   <div class="col-md-12">    
-    <center><img class="img-fluid" src="img/hackaton-concept-works.jpeg" width="70%" height="30%"></center>
-    <small style="float:right;margin-top:1mm;margin-right:5mm;">Image credit to <a href="https://ideafoster.com/en/what-is-hackaton/" target="_blank">IdeaFoster</a></small>
+    <center><img class="img-fluid" src="img/challenge-amies.jpeg" width="70%" height="30%"></center>
+    <!-- <small style="float:right;margin-top:1mm;margin-right:5mm;">Image credit to <a href="https://ideafoster.com/en/what-is-hackaton/" target="_blank">IdeaFoster</a></small> -->
   </div>
 </div>
 
@@ -36,7 +36,7 @@ acknowledgements: ""
 </div>
 <div class="row">
   <div class="col-xs-12">
-    <p>The <strong>Study week Causal Inference for Industry</strong> is an intensive problem-solving workshop that brings together Ph.D. students, young researchers, and industrial partners. In the course of one week, small groups of researchers of different backgrounds will intensively brainstorm and work together to model and solve real-world challenges provided by industrial partners. On Monday, each company representative presents their problem, after which the participants choose a problem to work on for the remainder of the week along with the industrial partner. On Friday morning, each group presents their solution to the chosen problem.</p>
+    <p>The <strong>Study Week on Causal Inference for Industry</strong> is an intensive problem-solving workshop that brings together Ph.D. students, young researchers, and industrial partners. In the course of one week, small groups of researchers of different backgrounds will intensively brainstorm and work together to model and solve real-world challenges provided by industrial partners. On Monday, each company representative presents their problem, after which the participants choose a problem to work on for the remainder of the week along with the industrial partner. On Friday morning, each group presents their solution to the chosen problem.</p>
     <p>The study week warmly welcomes a broad scientific audience, including applied mathematics, engineering, statistics, and computer science.</p>
   </div>
 </div>
@@ -44,7 +44,7 @@ acknowledgements: ""
 
 <div class="row">
   <div class="col-xs-12"><a class="anchor" id="goal"></a>
-    <h2>Main objectives of the study week </h2>
+    <h2>Main objectives of the study week</h2>
   </div>
 </div>
 <div class="row">
@@ -81,7 +81,7 @@ acknowledgements: ""
 <div class="row">
   <div class="col-xs-12"><a class="anchor" id="registration"></a>
   <h2>Registration</h2>
-  <p>The <b>Study week Causal Inference for Industry</b> will be held at the <a href="https://www.institut-pascal.universite-paris-saclay.fr/en" target="_blank">Institute Pascal</a>, <b>Orsay</b>, <b>France</b> from <b>July 3rd-7th, 2023</b>.</p>
+  <p>The <b>Study Week on Causal Inference for Industry</b> will be held at the <a href="https://www.institut-pascal.universite-paris-saclay.fr/en" target="_blank">Institute Pascal</a>, <b>Orsay</b>, <b>France</b> from <b>July 3rd-7th, 2023</b>.</p>
   <!-- <p> Participation is free of charge, but registration is mandatory.</p>
   <p> Please register <a href="https://forms.gle/oZiaBm9nz5Ewa28y6" target="_blank">here</a>.</p> -->
 <!--  -->
@@ -107,8 +107,8 @@ acknowledgements: ""
 <br/>
 
 <div class="row">
-  <div class="col-xs-12"><a class="anchor" id="schedule"></a>
-     <h2>Schedule</h2>
+  <div class="col-xs-12"><a class="anchor" id="program"></a>
+     <h2>Program</h2>
      <br/>
      <center><img class="img-fluid" src="{{ "img/schedule.jpeg" | prepend:site.baseurl }}" width="100%" height="50%"></center>
   </div>
@@ -150,13 +150,13 @@ acknowledgements: ""
           <img class="people-pic" src="img/ekimetrics.jpeg" />
         </a>
         <div class="people-name">
-          <a href="" target="_blank">Ekimetrics</a>
+          <!-- <a href="" target="_blank">Ekimetrics</a> -->
           <!-- <h6>Ekimetrics</h6> -->
         </div>
       </div>
       <div class="col-sm-9">
         <h3><b>Estimating Marketing Uplifts as Heterogeneous Treatment Effects with Meta-learners</b> </h3><br />
-        <b>Abstract</b><p class="speaker-abstract">Marketing can be defined as a set of techniques to study a company's business strategy with regard to the market. Among these techniques, Mix Marketing Modeling (MMM) is used to optimize the commercial strategy maximizing the sales volume. MMM consists in modeling the contributions, called uplifts, of each marketing activity to the sales revenue. The goal is to estimate the Return On Investment (ROI) of the numerous marketing campaigns to decide on the next marketing plan.</p>
+        <b>Description</b><p class="speaker-abstract">Marketing can be defined as a set of techniques to study a company's business strategy with regard to the market. Among these techniques, Mix Marketing Modeling (MMM) is used to optimize the commercial strategy maximizing the sales volume. MMM consists in modeling the contributions, called uplifts, of each marketing activity to the sales revenue. The goal is to estimate the Return On Investment (ROI) of the numerous marketing campaigns to decide on the next marketing plan.</p>
         <!-- <div class="panel panel-default">
           <div class="panel-heading" data-toggle="collapse" href="#ja-bio" style="cursor:pointer;text-align:center">
             <b>Biography <span style="font-weight:normal">(click to expand/collapse)</span></b>
@@ -256,6 +256,6 @@ acknowledgements: ""
 <div class="row">
   <div class="col-xs-12"><a class="anchor" id="CodeOfConduct"></a>
   <h2>Code of Conduct</h2>
-  <p>Our Causality in Practice is dedicated to providing a harassment-free experience for everyone, regardless of gender, gender identity and expression, age, sexual orientation, disability, physical appearance, body size, race, ethnicity, religion (or lack thereof), or technology choices. We do not tolerate harassment of participants in any form. Sexual language and imagery is not appropriate for any venue, including talks, workshops, parties, Twitter and other online media. Participants violating these rules may be sanctioned or expelled from the event at the discretion of the conference organizers. If you have any concerns about possible violation of the policies, please contact the organizers (organizers.quarter.causality@gmail.com) as soon as possible.</p>
+  <p>Our Study Week on Causal Inference for Industry is dedicated to providing a harassment-free experience for everyone, regardless of gender, gender identity and expression, age, sexual orientation, disability, physical appearance, body size, race, ethnicity, religion (or lack thereof), or technology choices. We do not tolerate harassment of participants in any form. Sexual language and imagery is not appropriate for any venue, including talks, workshops, parties, Twitter and other online media. Participants violating these rules may be sanctioned or expelled from the event at the discretion of the conference organizers. If you have any concerns about possible violation of the policies, please contact the organizers (organizers.quarter.causality@gmail.com) as soon as possible.</p>
   </div>
 </div>
