@@ -23,7 +23,7 @@ acknowledgements: ""
 
 <div class="row" id="intro">
   <div class="col-md-12">    
-    <center><img class="img-fluid" src="img/hackaton-concept-works.jpeg" width="100%" height="30%"></center>
+    <center><img class="img-fluid" src="img/hackaton-concept-works.jpeg" width="70%" height="30%"></center>
     <small style="float:right;margin-top:1mm;margin-right:5mm;">Image credit to <a href="https://ideafoster.com/en/what-is-hackaton/" target="_blank">IdeaFoster</a></small>
   </div>
 </div>
@@ -37,7 +37,7 @@ acknowledgements: ""
 <div class="row">
   <div class="col-xs-12">
     <p>The <strong>Study week Causal Inference for Industry</strong> is an intensive problem-solving workshop that brings together Ph.D. students, young researchers, and industrial partners. In the course of one week, small groups of researchers of different backgrounds will intensively brainstorm and work together to model and solve real-world challenges provided by industrial partners. On Monday, each company representative presents their problem, after which the participants choose a problem to work on for the remainder of the week along with the industrial partner. On Friday morning, each group presents their solution to the chosen problem.</p>
-    <p>The study week warmly welcomes a broad scientific audience, including applied mathematics, engineering, statistics, and computer science.</p>    
+    <p>The study week warmly welcomes a broad scientific audience, including applied mathematics, engineering, statistics, and computer science.</p>
   </div>
 </div>
 <br>
@@ -110,7 +110,7 @@ acknowledgements: ""
   <div class="col-xs-12"><a class="anchor" id="schedule"></a>
      <h2>Schedule</h2>
      <br/>
-     <center><img class="img-fluid" src="{{ "img/schedule.jpeg" | prepend:site.baseurl }}" width="70%" height="50%"></center>
+     <center><img class="img-fluid" src="{{ "img/schedule.jpeg" | prepend:site.baseurl }}" width="100%" height="50%"></center>
   </div>
 </div><br>
 
@@ -144,19 +144,19 @@ acknowledgements: ""
     <h2>Problems</h2>
     <br/>
     <!--  -->
-    <div class="row speaker" id="abecassis">
+    <div class="row speaker" id="ekimetrics">
       <div class="col-sm-3 speaker-pic">
-        <a href="https://judithabk6.github.io" target="_blank">
-          <!-- <img class="people-pic" src="img/people/judith.jpeg" /> -->
+        <a href="https://www.ekimetrics.com" target="_blank">
+          <img class="people-pic" src="img/ekimetrics.jpeg" />
         </a>
         <div class="people-name">
-          <!-- <a href="https://judithabk6.github.io" target="_blank"></a> -->
-          <!-- <h6>Inria</h6> -->
+          <a href="" target="_blank">Ekimetrics</a>
+          <!-- <h6>Ekimetrics</h6> -->
         </div>
       </div>
       <div class="col-sm-9">
-        <!-- <h3><b>Title:</b> </h3><br />
-        <b>Abstract</b><p class="speaker-abstract"></p> -->
+        <h3><b>Estimating Marketing Uplifts as Heterogeneous Treatment Effects with Meta-learners</b> </h3><br />
+        <b>Abstract</b><p class="speaker-abstract">Marketing can be defined as a set of techniques to study a company's business strategy with regard to the market. Among these techniques, Mix Marketing Modeling (MMM) is used to optimize the commercial strategy maximizing the sales volume. MMM consists in modeling the contributions, called uplifts, of each marketing activity to the sales revenue. The goal is to estimate the Return On Investment (ROI) of the numerous marketing campaigns to decide on the next marketing plan.</p>
         <!-- <div class="panel panel-default">
           <div class="panel-heading" data-toggle="collapse" href="#ja-bio" style="cursor:pointer;text-align:center">
             <b>Biography <span style="font-weight:normal">(click to expand/collapse)</span></b>
@@ -167,7 +167,33 @@ acknowledgements: ""
         </div>
       </div> -->
     </div>
-    <br/>   
+    <!--  -->
+    <br/>
+    <!--  -->
+    <div class="row speaker" id="easyvista">
+      <div class="col-sm-3 speaker-pic">
+        <a href="https://www.easyvista.com" target="_blank">
+          <img class="people-pic" src="img/easyvista.png" />
+        </a>
+        <!-- <div class="people-name">
+          <a href="" target="_blank">Easyvista</a>
+        </div> -->
+      </div>
+      <div class="col-sm-9">
+        <h3><b>Log type root cause identification</b> </h3><br />
+        <!-- <b>Abstract</b><p class="speaker-abstract"></p> -->
+        <!-- <div class="panel panel-default">
+          <div class="panel-heading" data-toggle="collapse" href="#ja-bio" style="cursor:pointer;text-align:center">
+            <b>Biography <span style="font-weight:normal">(click to expand/collapse)</span></b>
+          </div>
+          <div id="ja-bio" class="panel-collapse collapse in"><div class="panel-body">
+            <p class="speaker-bio"></p>
+          </div></div>
+        </div>
+      </div> -->
+    </div>
+    <!--  -->
+    <br/>
   </div>
 </div>
 
@@ -221,7 +247,8 @@ acknowledgements: ""
 <br/>
 <div class="row">
   <div class="col-xs-3 award-sponsor">
-     <img src="/quarter/img/support_sponsors.jpg"/>
+     <img src="/quarter/img/support_sponsors.jpg"/> 
+     <img src="img/logo-amies-quadri.png"/>
   </div>
 </div>
 
