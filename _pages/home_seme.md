@@ -40,13 +40,13 @@ acknowledgements: ""
     <p>The study week warmly welcomes a broad scientific audience, including applied mathematics, engineering, statistics, and computer science.</p>
   </div>
 </div>
-<br>
-
+<!--  -->
 <div class="row">
   <div class="col-xs-12"><a class="anchor" id="goal"></a>
     <h2>Main objectives of the study week</h2>
   </div>
 </div>
+<!--  -->
 <div class="row">
   <div class="col-xs-12">
     <ul>
@@ -82,8 +82,8 @@ acknowledgements: ""
   <div class="col-xs-12"><a class="anchor" id="registration"></a>
   <h2>Registration</h2>
   <p>The <b>Study Week on Causal Inference for Industry</b> will be held at the <a href="https://www.institut-pascal.universite-paris-saclay.fr/en" target="_blank">Institute Pascal</a>, <b>Orsay</b>, <b>France</b> from <b>July 3rd-7th, 2023</b>.</p>
-  <!-- <p> Participation is free of charge, but registration is mandatory.</p>
-  <p> Please register <a href="https://forms.gle/oZiaBm9nz5Ewa28y6" target="_blank">here</a>.</p> -->
+  <p> Participation is free of charge, but registration is mandatory.</p>
+  <p> Please register <a href="https://forms.gle/VWa87kC2NsM3e7vR8" target="_blank">here</a>.</p>
 <!--  -->
   </div>
 </div>
@@ -120,7 +120,7 @@ acknowledgements: ""
 
      <ul>
        <li>On <strong>Monday</strong> morning, company representatives present their challenge, after which participants can ask questions in a brief Q&A. During lunch time, each participant chooses a challenge to work on during the remainder of the week, while ensuring that groups remain balanced in size. Group work together with the company representative is planned for the afternoon. To close the first day, everyone is invited to a reception.</li>
-       <li> On <strong>Tuesday</strong> is entirely devoted to work groups. Coffee breaks and lunches are always together.</li>
+       <li> On <strong>Tuesday</strong> is entirely devoted to work group.</li>
        <li> <strong>Wednesday</strong> morning is dedicated to work group. In the afternoon, we invite company representatives to join their group to continue working on the challenge. In the evening, we enjoy a nice study week dinner at restaurant Chez Camille</li>
        <li><strong>Thursday</strong> is the last day of the work group, in which each group starts to prepare their presentation of the results.</li>
        <li>On <strong>Friday</strong>, each group presents the approach and obtained results for their challenge. Company representatives give direct feedback. The study week is closed with a lunch.</li>
@@ -144,27 +144,19 @@ acknowledgements: ""
     <h2>Problems</h2>
     <br/>
     <!--  -->
-    <div class="row speaker" id="easyvista">
+    <div class="row speaker" id="aint">
       <div class="col-sm-3 speaker-pic">
         <a href="https://www.easyvista.com" target="_blank">
-          <img class="people-pic" src="img/easyvista.png" />
+          <img class="people-pic" src="img/saint-gobain-logo.jpeg" />
         </a>
       </div>
       <div class="col-sm-9">
-        <h3><b>Log type root cause identification</b> </h3><br />
-        <!-- <b>Abstract</b><p class="speaker-abstract"></p> -->
-        <!-- <div class="panel panel-default">
-          <div class="panel-heading" data-toggle="collapse" href="#ja-bio" style="cursor:pointer;text-align:center">
-            <b>Biography <span style="font-weight:normal">(click to expand/collapse)</span></b>
-          </div>
-          <div id="ja-bio" class="panel-collapse collapse in"><div class="panel-body">
-            <p class="speaker-bio"></p>
-          </div></div>
-        </div> -->
+        <h3><b>Causal Discovery from Sequential Data</b> </h3><br />
+        <b>Description</b><p class="speaker-abstract">Saint-Gobain Distribution Bâtiment France (SGDBF) is dedicated to developing innovative solutions that enhance well-being and contribute to a sustainable future. They have gathered extensive data on client interactions and actions as part of their efforts. This sequential data provides valuable insights into clients’ identities and behaviors, and understanding the causal relationships within this data can unlock numerous possibilities for improving customer understanding and anticipating future actions. This problem aims to unravel the causal structures hidden within the sequential data of Saint-Gobain's clients. By identifying causal relationships, one can better understand clients' needs and behaviors, develop more relevant and efficient recommendation systems. Furthermore, capturing the structure that governs the sequentiality of client actions allows one to anticipate clients' future needs and provide tailored solutions.  Please check the full description <a href="{{ 'problems/Saint_Gobain.pdf'| prepend:site.baseurl }}" target="_blank">here</a>.</p>
       </div>
     </div>
     <!--  -->
-    <br />
+    <br/>
     <!--  -->
     <div class="row speaker" id="ekimetrics">
       <div class="col-sm-3 speaker-pic">
@@ -178,42 +170,22 @@ acknowledgements: ""
       </div>
       <div class="col-sm-9">
         <h3><b>Estimating Marketing Uplifts as Heterogeneous Treatment Effects with Meta-learners</b> </h3><br />
-        <b>Description</b><p class="speaker-abstract">Marketing can be defined as a set of techniques to study a company's business strategy with regard to the market. Among these techniques, Mix Marketing Modeling (MMM) is used to optimize the commercial strategy maximizing the sales volume. MMM consists in modeling the contributions, called uplifts, of each marketing activity to the sales revenue. The goal is to estimate the Return On Investment (ROI) of the numerous marketing campaigns to decide on the next marketing plan.</p>
-        <!-- <div class="panel panel-default">
-          <div class="panel-heading" data-toggle="collapse" href="#ja-bio" style="cursor:pointer;text-align:center">
-            <b>Biography <span style="font-weight:normal">(click to expand/collapse)</span></b>
-          </div>
-          <div id="ja-bio" class="panel-collapse collapse in"><div class="panel-body">
-            <p class="speaker-bio"></p>
-          </div></div>
-        </div>
-      </div> -->
-    </div>
-    <!--  -->
-    <br/>    
-    <!--  -->    
-    <div class="row speaker" id="aint">
-      <div class="col-sm-3 speaker-pic">
-        <a href="https://www.easyvista.com" target="_blank">
-          <img class="people-pic" src="img/saint-gobain-logo.jpeg" />
-        </a>
-      </div>
-      <div class="col-sm-9">
-        <h3><b>Causal Discovery from Sequential Data</b> </h3><br />
-        <b>Description</b><p class="speaker-abstract">Saint-Gobain Distribution Bâtiment France (SGDBF) is dedicated to developing innovative solutions that enhance well-being and contribute to a sustainable future. They have gathered extensive data on client interactions and actions as part of their efforts. This sequential data provides valuable insights into clients’ identities and behaviors, and understanding the causal relationships within this data can unlock numerous possibilities for improving customer understanding and anticipating future actions. This problem aims to unravel the causal structures hidden within the sequential data of Saint-Gobain's clients. By identifying causal relationships, one can better understand clients' needs and behaviors, develop more relevant and efficient recommendation systems. Furthermore, capturing the structure that governs the sequentiality of client actions allows one to anticipate clients' future needs and provide tailored solutions.  Please check the full description <a href="{{ 'descriptions/Saint_Gobain.pdf'| prepend:site.baseurl }}" target="_blank">here</a>.</p>
-        <!-- <div class="panel panel-default">
-          <div class="panel-heading" data-toggle="collapse" href="#ja-bio" style="cursor:pointer;text-align:center">
-            <b>Biography <span style="font-weight:normal">(click to expand/collapse)</span></b>
-          </div>
-          <div id="ja-bio" class="panel-collapse collapse in"><div class="panel-body">
-            <p class="speaker-bio"></p>
-          </div></div>
-        </div> -->
-      </div>
+        <b>Description</b><p class="speaker-abstract">Marketing can be defined as a set of techniques to study a company's business strategy with regard to the market. Among these techniques, Mix Marketing Modeling (MMM) is used to optimize the commercial strategy maximizing the sales volume. MMM consists in modeling the contributions, called uplifts, of each marketing activity to the sales revenue. The goal is to estimate the Return On Investment (ROI) of the numerous marketing campaigns to decide on the next marketing plan. Please check the full description <a href="{{ 'problems/Ekimetrics.pdf'| prepend:site.baseurl }}" target="_blank">here</a>.</p>
     </div>
     <!--  -->
     <br />
-    
+    <!--  -->
+    <div class="row speaker" id="easyvista">
+      <div class="col-sm-3 speaker-pic">
+        <a href="https://www.easyvista.com" target="_blank">
+          <img class="people-pic" src="img/easyvista.png" />
+        </a>
+      </div>
+      <div class="col-sm-9">
+        <h3><b>Log type root cause identification</b> </h3><br />        
+      </div>
+    </div>
+    <!--  -->
   </div>
 </div>
 
