@@ -50,10 +50,10 @@ acknowledgements: ""
 <div class="row">
   <div class="col-xs-12">
     <ul>
-    <li>Showcase the potential of causal inference to solve industrial problems </li>
-    <li> Stimulate lasting R&D collaborations between academia and industry</li>
-    <li>Enable academic partnerships between researchers of various backgrounds and fields of expertise</li>
-    <li>Promote knowledge transfer from academy to industry</li>
+    <li>Showcase the potential of causal inference to solve industrial problems.</li>
+    <li> Stimulate lasting R&D collaborations between academia and industry.</li>
+    <li>Enable academic partnerships between researchers of various backgrounds and fields of expertise.</li>
+    <li>Promote knowledge transfer from the academy to the industry.</li>
     </ul>
   </div>
 </div>
@@ -69,11 +69,11 @@ acknowledgements: ""
   <div class="col-xs-12">
     <p>The study week offers the following benefits:</p>
     <ul>
-      <li>You are challenged by problems from the real world and get a flavor of what is important outside academia</li>
-      <li>You get in contact with potential employers, both during group work as in several networking opportunities offered during the study week</li>
-      <li>You experience working in and as a team, which is very different compared to working on your research topic as an individual</li>
-      <li>By working in a team, you further develop interpersonal and communication skills</li>
-      <li>By meeting and discussing with fellow researchers, new research ideas and collaborations may arise</li>
+      <li>You will get a flavor of what is crucial outside academia by facing real-world problems.</li>
+      <li>You will discuss with potential employers during group work and the networking opportunities proposed during the study week.</li>
+      <li>You will experience working in and as a team, which is very different compared to working on your research topic as an individual.</li>
+      <li>By working in a group, you further develop interpersonal and communication skills.</li>
+      <li>New research ideas and collaborations may arise by meeting and discussing with fellow researchers.</li>
     </ul>
   </div>
 </div>
@@ -81,7 +81,7 @@ acknowledgements: ""
 <div class="row">
   <div class="col-xs-12"><a class="anchor" id="registration"></a>
   <h2>Registration</h2>
-  <p>The <b>Study Week on Causal Inference for Industry</b> will be held at the <a href="https://www.institut-pascal.universite-paris-saclay.fr/en" target="_blank">Institute Pascal</a>, <b>Orsay</b>, <b>France</b> from <b>July 3rd-7th, 2023</b>.</p>
+  <p>The <b>Study Week on Causal Inference for Industry</b> will be held at the <a href="https://www.institut-pascal.universite-paris-saclay.fr/en" target="_blank">Institute Pascal</a>, <b>Orsay</b>, <b>France</b>, from <b>July 3rd-7th, 2023</b>.</p>
   <p> Participation is free of charge, but registration is mandatory.</p>
   <p> Please register <a href="https://forms.gle/VWa87kC2NsM3e7vR8" target="_blank">here</a>.</p>
 <!--  -->
