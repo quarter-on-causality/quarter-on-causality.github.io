@@ -36,7 +36,7 @@ acknowledgements: ""
 </div>
 <div class="row">
   <div class="col-xs-12">
-    <p>The <strong>Study Week on Causal Inference for Industry</strong> is an intensive problem-solving workshop that brings together Ph.D. students, young researchers, and industrial partners. In the course of one week, small groups of researchers of different backgrounds will intensively brainstorm and work together to model and solve real-world challenges provided by industrial partners. On Monday, each company representative presents their problem, after which the participants choose a problem to work on for the remainder of the week along with the industrial partner. On Friday morning, each group presents their solution to the chosen problem.</p>
+    <p>The <strong>Study Week on Causal Inference for Industry</strong> is an intensive problem-solving workshop with Ph.D. students, young researchers, and industrial partners. During one week, small groups of researchers of different backgrounds will intensively brainstorm and work together to model and solve real-world challenges provided by industrial partners through causal inference techniques. On Monday, each company representative presents their problem, after which the participants choose a problem to work on for the remainder of the week along with the industrial partner. Each group describes their solution and results to the selected challenge on Friday morning.</p>
     <p>The study week warmly welcomes a broad scientific audience, including applied mathematics, engineering, statistics, and computer science.</p>
   </div>
 </div>
@@ -115,7 +115,7 @@ acknowledgements: ""
 </div><br>
 
 <div class="row">
-  <div class="col-xs-12"><a class="anchor" id="dinner"></a>
+  <div class="col-xs-12"><a class="anchor" id="weekoverview"></a>
      <h2>Week overview</h2>
 
      <ul>
@@ -125,13 +125,6 @@ acknowledgements: ""
        <li><strong>Thursday</strong> is the last day of the work group, in which each group starts to prepare their presentation of the results.</li>
        <li>On <strong>Friday</strong>, each group presents the approach and obtained results for their challenge. Company representatives give direct feedback. The study week is closed with a lunch.</li>
      </ul>
-  </div>
-</div>
-
-<div class="row">
-  <div class="col-xs-12"><a class="anchor" id="dinner"></a>
-     <h2>Technical report</h2>
-     <p>Apart from the presentation of the groups on the Friday morning session, we also expect each group to produce a technical report that summarizes the work that was carried out. It includes the methods that were tried, the used literature, the experimental results, conclusions, and further works. We do not expect you to work on the report during the study week (focus during the week should be on the problem). We instead like to receive your reports by the end of September 2023.</p>
   </div>
 </div>
 
@@ -156,7 +149,7 @@ acknowledgements: ""
       </div>
     </div>
     <!--  -->
-    <br/>
+    <!-- <br/> -->
     <!--  -->
     <div class="row speaker" id="ekimetrics">
       <div class="col-sm-3 speaker-pic">
@@ -173,7 +166,7 @@ acknowledgements: ""
         <b>Description</b><p class="speaker-abstract">Marketing can be defined as a set of techniques to study a company's business strategy with regard to the market. Among these techniques, Mix Marketing Modeling (MMM) is used to optimize the commercial strategy maximizing the sales volume. MMM consists in modeling the contributions, called uplifts, of each marketing activity to the sales revenue. The goal is to estimate the Return On Investment (ROI) of the numerous marketing campaigns to decide on the next marketing plan. Please check the full description <a href="{{ 'problems/Ekimetrics.pdf'| prepend:site.baseurl }}" target="_blank">here</a>.</p>
     </div>
     <!--  -->
-    <br />
+    <!-- <br /> -->
     <!--  -->
     <div class="row speaker" id="easyvista">
       <div class="col-sm-3 speaker-pic">
@@ -182,10 +175,17 @@ acknowledgements: ""
         </a>
       </div>
       <div class="col-sm-9">
-        <h3><b>Log type root cause identification</b> </h3><br />        
+        <h3><b>Log type root cause identification</b> </h3><br />
       </div>
     </div>
     <!--  -->
+  </div>
+</div>
+
+<div class="row">
+  <div class="col-xs-12"><a class="anchor" id="reports"></a>
+     <h2>Technical reports</h2>
+     <p>Apart from the presentation of the groups on the Friday morning session, we expect each group to produce a technical report summarizing their work. It includes the tried methods, the used literature, the experimental results, the conclusions, and the future directions. We do not expect you to work on the report during the study week, as the focus should be on the problem. We instead like to receive your <strong>technical report by the end of September 2023</strong>.</p>
   </div>
 </div>
 
