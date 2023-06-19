@@ -227,7 +227,7 @@ acknowledgements: ""
 
 <div class="row"> 
   <div class="col-xs-4 award-sponsor">
-    <img src="/quarter/img/organizers_sponsors.jpg"/>
+    <img src="/quarter/img/organizers_sponsors.jpg"/> <img src="img/logo-amies-quadri.png"/>
   </div>  
 </div>
 <br/>
@@ -239,8 +239,7 @@ acknowledgements: ""
 <br/>
 <div class="row">
   <div class="col-xs-3 award-sponsor">
-     <img src="/quarter/img/support_sponsors.jpg"/> 
-     <img src="img/logo-amies-quadri.png"/>
+     <img src="/quarter/img/support_sponsors.jpg"/>
   </div>
 </div>
 

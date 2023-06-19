@@ -51,8 +51,9 @@ acknowledgements: ""
       <ul>
         <li><a href="/analysis/" style="cursor:pointer;">When Causal Inference meets Statistical Analysis</a></li>
         <li><a href="/challenges/" style="cursor:pointer;">Fundamental Challenges in Causality</a></li>
-        <li><a href="/tools/" style="cursor:pointer;">Tools for Causality</a></li>
         <li><a href="/practice/" style="cursor:pointer;">Causality in Practice</a></li>
+        <li><a href="/seme/" style="cursor:pointer;">Study Week on Causal Inference for Industry</a></li>
+        <li><a href="/tools/" style="cursor:pointer;">Tools for Causality</a></li>
       </ul>
   </div>
 </div><br>
@@ -82,21 +83,21 @@ acknowledgements: ""
           <td>Fundamental Challenges in Causality</td>
           <td>From May 9th to May 12th, 2023</td>
           <td><span class="countdown" reference="9 May 2023 10:00:00 UTC"></span></td>
-        </tr>
+        </tr>        
         <tr>
-          <td>Tools for Causality</td>
-          <td>From May 21st to May 26th, 2023</td>
-          <td><span class="countdown" reference="21 May 2023 10:00:00 UTC"></span></td>
-        </tr>
-        <tr>
-          <td>Causality in Practice, I</td>
+          <td>Causality in Practice</td>
           <td>From June 12th to June 16th, 2023</td>
           <td><span class="countdown" reference="12 June 2023 10:00:00 UTC"></span></td>
         </tr>
         <tr>
-          <td>Causality in Practice, II</td>
+          <td>Study Week on Causal Inference for Industry</td>
           <td>From July 3rd to July 7th, 2023</td>
           <td><span class="countdown" reference="3 July 2023 10:00:00 UTC"></span></td>
+        </tr>
+        <tr>
+          <td>Tools for Causality</td>
+          <td>From September 24th to September 29th, 2023</td>
+          <td><span class="countdown" reference="24 September 2023 10:00:00 UTC"></span></td>
         </tr>
       </tbody>
     </table>
