@@ -176,6 +176,7 @@ acknowledgements: ""
       </div>
       <div class="col-sm-9">
         <h3><b>Log type root cause identification</b> </h3><br />
+        <b> Description</b><p class="speaker-abstract">The high availability of information systems requires efficient monitoring tools. The rise of connected objects and the increasing complexity of digital environments are questioning the traditional tools of CIOs and technical departments. To meet these challenges, EasyVista is targeting a new generation of AIOps "Artificial Intelligence Operations Systems" software, formalized by Gartner. AIOps combines AI and BigData to automate problem detection and resolution. Considering the volumes of objects and events, the technical and economic challenges are colossal for all the actors involved in high availability. EasyVista seeks to structurally improve problem-solving activities through the assistance of Artificial Intelligence based on causal inference. Please check the full description <a href="{{ 'problems/EasyVista.pdf'| prepend:site.baseurl }}" target="_blank">here</a>.</p>
       </div>
     </div>
     <!--  -->
