@@ -119,10 +119,10 @@ acknowledgements: ""
      <h2>Week overview</h2>
 
      <ul>
-       <li>On <strong>Monday</strong> morning, company representatives present their challenge, after which participants can ask questions in a brief Q&A. During lunch time, each participant chooses a challenge to work on during the remainder of the week, while ensuring that groups remain balanced in size. Group work together with the company representative is planned for the afternoon. To close the first day, everyone is invited to a reception.</li>
-       <li> On <strong>Tuesday</strong> is entirely devoted to work group.</li>
-       <li> <strong>Wednesday</strong> morning is dedicated to work group. In the afternoon, we invite company representatives to join their group to continue working on the challenge. In the evening, we enjoy a nice study week dinner at restaurant Chez Camille</li>
-       <li><strong>Thursday</strong> is the last day of the work group, in which each group starts to prepare their presentation of the results.</li>
+       <li>On <strong>Monday</strong> morning, company representatives present their challenge, after which participants can ask questions in a brief Q&A. During lunch time, each participant chooses a challenge to work on during the remainder of the week, while ensuring that groups remain balanced in size. Group work together with the company representative is planned for the afternoon.</li>
+       <li> The <strong>Tuesday</strong> is entirely devoted to work group.</li>
+       <li> <strong>Wednesday</strong> morning is dedicated to work group. In the afternoon, we invite company representatives to join their group to continue working on the challenge. In the evening, we will enjoy a nice study week dinner at the restaurant Chez Camille</li>
+       <li><strong>Thursday</strong> is the last day of the work group. Each group will prepare the presentation of the results.</li>
        <li>On <strong>Friday</strong>, each group presents the approach and obtained results for their challenge. Company representatives give direct feedback. The study week is closed with a lunch.</li>
      </ul>
   </div>
