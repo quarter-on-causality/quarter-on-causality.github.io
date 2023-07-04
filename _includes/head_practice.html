@@ -3,9 +3,9 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
 
-  <meta name="keywords" content="causality, workshop, python, challenges">
+  <meta name="keywords" content="{{page.categories}}">
 
-  <link rel="shortcut icon" href="{{ "/practice/img/icon.jpg" | prepend:site.baseurl }}">
+  <link rel="shortcut icon" href="{{ "/{{page.permalink}}img/icon.jpg" | prepend:site.baseurl }}">
 
 
 
@@ -13,23 +13,23 @@
   <meta name="description" content="{{site.description}}">
 
   <!--Open Graph Related Stuff-->
-  <meta property="og:title" content="Causality in Practice"/>
-  <meta property="og:url" content="https://quarter-on-causality.github.io/practice"/>
-  <meta property="og:description" content="{{site.description}}"/>
-  <meta property="og:site_name" content="Causality in Practice"/>
+  <meta property="og:title" content="{{page.title}}"/>
+  <meta property="og:url" content="https://quarter-on-causality.github.io{{page.permalink}}"/>
+  <meta property="og:description" content="{{page.description}}"/>
+  <meta property="og:site_name" content="{{page.title}}"/>
   <meta property="og:image" content=""/>
   <meta property="og:image:url" content=""/>
 
   <!--Twitter Card Stuff-->
   <meta name="twitter:card" content="summary_large_image"/>
-  <meta name="twitter:title" content="Causality in Practice"/>
-  <meta name="twitter:image" content="https://quarter-on-causality.github.io/practice/img/icon.jpg">
-  <meta name="twitter:url" content="https://quarter-on-causality.github.io/practice"/>
-  <meta name="twitter:description" content="{{site.description}}"/>
+  <meta name="twitter:title" content="{{page.title}}"/>
+  <meta name="twitter:image" content="{{page.permalink}}img/icon.jpg">
+  <meta name="twitter:url" content="{{ site.baseurl }}{{ page.permalink }}"/>
+  <meta name="twitter:description" content="{{page.description}}"/>
 
   <!-- CSS  -->
-  <link rel="stylesheet" type="text/css" href="{{ "/practice/css/bootstrap.min.css" | prepend:site.baseurl }}">
-  <link rel="stylesheet" type="text/css" href="{{ "/practice/css/main.css?2" | prepend:site.baseurl }}" media="screen,projection">
+  <link rel="stylesheet" type="text/css" href="{{ "{{page.permalink}}css/bootstrap.min.css" | prepend:site.baseurl }}">
+  <link rel="stylesheet" type="text/css" href="{{ "{{page.permalink}}css/main.css?2" | prepend:site.baseurl }}" media="screen,projection">
 
   <!-- Font Awesome -->
   <script src="{{ "/static/js/jquery.min.js?1" | prepend:site.baseurl }}"></script>

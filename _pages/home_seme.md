@@ -2,7 +2,7 @@
 layout: layout_seme
 urltitle:  "Study Week on Causal Inference for Industry"
 title: "Study Week on Causal Inference for Industry"
-categories: causality, code, causal inference
+categories: "causality, causal hackathon, causal inference, python, dowhy"
 permalink: /seme/
 favicon: /seme/img/icon.jpg
 bibtex: true
