@@ -100,7 +100,7 @@ acknowledgements: ""
 
 <div class="row">
   <div class="col-xs-12"><a class="anchor" id="dinner"></a>
-     <h2>Social dinner</h2>The social dinner will be at Chez Camille. The address is <a href="#" target="_blank">3 Rue Verrier, 91400 Orsay.</a>
+     <h2>Social dinner</h2>The social dinner will be at Chez Camille. The address is <a href="https://goo.gl/maps/B3cNuWGTSwaML8Jt7" target="_blank">3 Rue Verrier, 91400 Orsay.</a>
   </div>
 </div>
 
