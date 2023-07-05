@@ -126,7 +126,7 @@ acknowledgements: ""
       <tbody>
         <tr>
           <td>9:00am - 10:30am</td>
-          <td>Do Why</td>
+          <td>Double ML</td>
         </tr>
       	<tr>
           <td>10:30am - 11:00am</td>
@@ -134,7 +134,7 @@ acknowledgements: ""
         </tr>
         <tr>
           <td>11:00am - 12:30pm</td>
-          <td>Do Why</td>
+          <td>Double ML</td>
         </tr>
         <tr>
           <td>12:30pm - 2:00pm</td>
@@ -142,7 +142,7 @@ acknowledgements: ""
         </tr>
         <tr>
           <td>2:00pm - 3:30pm</td>
-	  <td>Double ML</td>
+	  <td>Causal Learn</td>
         </tr>
       </tbody>      
       <thead class="thead-light">
@@ -154,7 +154,7 @@ acknowledgements: ""
       <tbody>
         <tr>
           <td>9:00am - 10:30am</td>
-	      <td>Causal Learn</td>
+	      <td>Do Why</td>
         </tr>
 	      <tr>
         <td>10:30am - 11:00am</td>
@@ -162,7 +162,7 @@ acknowledgements: ""
         </tr>
         <tr>
           <td>11:00am - 12:30pm</td>
-	      <td>Causal Learn</td>
+	      <td>Do Why</td>
         </tr>
 	  <tr>
           <td>12:30pm - 2:00pm</td>
@@ -190,7 +190,7 @@ acknowledgements: ""
         </tr>
         <tr>
           <td>11:00am - 12:30pm</td>
-          <td>Double ML	</td>
+          <td>Double ML</td>
         </tr>
         <tr>
           <td>12:30am - 2:00pm</td>
@@ -198,7 +198,7 @@ acknowledgements: ""
         </tr> 
         <tr>
           <td>2:00pm - 3:30pm</td>
-          <td>Do Why</td>
+          <td>Causal Learn</td>
         </tr>
         <tr>
           <td>3:30pm - 5:30pm</td>
@@ -226,7 +226,7 @@ acknowledgements: ""
         </tr>
         <tr>
           <td>11:00am - 12:30pm</td>
-          <td>Double ML	</td>
+          <td>Do Why</td>
         </tr>
       </tbody>
      </table>
@@ -235,7 +235,7 @@ acknowledgements: ""
 
 <!-- ########## -->
 
- <<div class="row">
+ <div class="row">
   <div class="col-xs-12"><a class="anchor" id="speakers"></a>
     <h2>Speakers</h2>
     <br/>
@@ -339,6 +339,7 @@ acknowledgements: ""
     </div>
     <br/>
   </div>
+</div>
 
 <div class="row">
   <div class="col-xs-12"><a class="anchor" id="organizers"></a>
