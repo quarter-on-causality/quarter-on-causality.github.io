@@ -76,7 +76,6 @@ acknowledgements: ""
   <div class="col-xs-12"><a class="anchor" id="schedule"></a>
      <h2>Schedule (Draft)</h2>
      <br>     
-	  
      <table class="table schedule" style="border:none !important;">
       <thead class="thead-light">
         <tr>
@@ -230,9 +229,7 @@ acknowledgements: ""
           <td>Double ML	</td>
         </tr>
       </tbody>
-
      </table>
-	  
   </div>      
 </div> 
 
@@ -342,7 +339,6 @@ acknowledgements: ""
     </div>
     <br/>
   </div>
-</div> 
 
 <div class="row">
   <div class="col-xs-12"><a class="anchor" id="organizers"></a>
@@ -379,7 +375,7 @@ acknowledgements: ""
       <h6>University of Grenoble Alpes</h6>
     </div>
   </div>
-  <div class="col-xs-2">
+  <!--<div class="col-xs-2">
     <a href="http://pop-art.inrialpes.fr/~goessler/" target="_blank">
       <img class="people-pic" src="{{ "/challenges/img/people/GregorG.jpeg" | prepend:site.baseurl }}">
     </a>
@@ -387,7 +383,7 @@ acknowledgements: ""
       <a href="http://pop-art.inrialpes.fr/~goessler/" target="_blank">Gregor Goessler</a>
       <h6>Inria</h6>
     </div>
-  </div>  
+  </div> -->  
 </div>
 <br>
 
