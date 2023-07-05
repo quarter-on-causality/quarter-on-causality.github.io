@@ -410,7 +410,7 @@ acknowledgements: ""
 <div class="row">
   <div class="col-xs-3 award-sponsor">
      <img src="/quarter/img/support_sponsors.jpg"/>
-	<img src="/quarter/img/SFDS.png" style="width: 20vw;"/>
+	<img src="/quarter/img/SFDS.png" style="width: 15vw;"/>
   </div>
 </div>
 <br/>
