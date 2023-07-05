@@ -71,10 +71,10 @@ acknowledgements: ""
 </div>
 
 
-<!--
+
 <div class="row">
   <div class="col-xs-12"><a class="anchor" id="schedule"></a>
-     <h2>Schedule</h2>
+     <h2>Schedule (Draft)</h2>
      <br>     
 	  
      <table class="table schedule" style="border:none !important;">
@@ -235,10 +235,10 @@ acknowledgements: ""
 	  
   </div>      
 </div> 
--->
+
 <!-- ########## -->
 
-<!-- <<div class="row">
+ <<div class="row">
   <div class="col-xs-12"><a class="anchor" id="speakers"></a>
     <h2>Speakers</h2>
     <br/>
@@ -289,32 +289,7 @@ acknowledgements: ""
           </div></div>
         </div>
       </div>
-    </div>
-    <br/>
-    <div class="row speaker">
-      <div class="col-sm-3 speaker-pic">
-        <a href="https://www.bwl.uni-hamburg.de/statistik/team/klaassen.html" target="_blank">
-          <img class="people-pic" src="/tools/img/people/klaassen.jpeg" />
-        </a>
-        <div class="people-name">
-          <a href="https://www.bwl.uni-hamburg.de/statistik/team/klaassen.html" target="_blank">Sven Klaassen</a>
-          <h6>University of Hamburg</h6>
-        </div>
-      </div>
-      <div class="col-sm-9">
-        <h3>Double Machine Learning</h3><br />
-        <div class="panel panel-default">
-          <div class="panel-heading" data-toggle="collapse" href="#sk-bio" style="cursor:pointer;text-align:center">
-            <b>Biography <span style="font-weight:normal">(click to expand/collapse)</span></b>
-          </div>
-          <div id="sk-bio" class="panel-collapse collapse in"><div class="panel-body">
-            <p class="speaker-bio">
-            Sven Klaassen is a postdoctoral researcher in Statistics at University of Hamburg, and a visiting Scholar at MIT, Department of Economics. He did a PhD at Hamburg University, supervised by Martin Spindler. His main research fields are inference in high-dimensional settings, machine learning, causal inference, deep learning and empirical processes.
-            </p>
-          </div></div>
-        </div>
-      </div>
-    </div>    
+    </div>  
     <br/>    
     <div class="row speaker">
       <div class="col-sm-3 speaker-pic">
@@ -367,7 +342,7 @@ acknowledgements: ""
     </div>
     <br/>
   </div>
-</div> -->
+</div> 
 
 <div class="row">
   <div class="col-xs-12"><a class="anchor" id="organizers"></a>
