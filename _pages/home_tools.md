@@ -71,12 +71,11 @@ acknowledgements: ""
 </div>
 
 
-<!--
+
 <div class="row">
   <div class="col-xs-12"><a class="anchor" id="schedule"></a>
-     <h2>Schedule</h2>
+     <h2>Schedule (Draft)</h2>
      <br>     
-	  
      <table class="table schedule" style="border:none !important;">
       <thead class="thead-light">
         <tr>
@@ -127,7 +126,7 @@ acknowledgements: ""
       <tbody>
         <tr>
           <td>9:00am - 10:30am</td>
-          <td>Do Why</td>
+          <td>Double ML</td>
         </tr>
       	<tr>
           <td>10:30am - 11:00am</td>
@@ -135,7 +134,7 @@ acknowledgements: ""
         </tr>
         <tr>
           <td>11:00am - 12:30pm</td>
-          <td>Do Why</td>
+          <td>Double ML</td>
         </tr>
         <tr>
           <td>12:30pm - 2:00pm</td>
@@ -143,7 +142,7 @@ acknowledgements: ""
         </tr>
         <tr>
           <td>2:00pm - 3:30pm</td>
-	  <td>Double ML</td>
+	  <td>Causal Learn</td>
         </tr>
       </tbody>      
       <thead class="thead-light">
@@ -155,7 +154,7 @@ acknowledgements: ""
       <tbody>
         <tr>
           <td>9:00am - 10:30am</td>
-	      <td>Causal Learn</td>
+	      <td>Do Why</td>
         </tr>
 	      <tr>
         <td>10:30am - 11:00am</td>
@@ -163,7 +162,7 @@ acknowledgements: ""
         </tr>
         <tr>
           <td>11:00am - 12:30pm</td>
-	      <td>Causal Learn</td>
+	      <td>Do Why</td>
         </tr>
 	  <tr>
           <td>12:30pm - 2:00pm</td>
@@ -191,7 +190,7 @@ acknowledgements: ""
         </tr>
         <tr>
           <td>11:00am - 12:30pm</td>
-          <td>Double ML	</td>
+          <td>Double ML</td>
         </tr>
         <tr>
           <td>12:30am - 2:00pm</td>
@@ -199,7 +198,7 @@ acknowledgements: ""
         </tr> 
         <tr>
           <td>2:00pm - 3:30pm</td>
-          <td>Do Why</td>
+          <td>Causal Learn</td>
         </tr>
         <tr>
           <td>3:30pm - 5:30pm</td>
@@ -227,18 +226,16 @@ acknowledgements: ""
         </tr>
         <tr>
           <td>11:00am - 12:30pm</td>
-          <td>Double ML	</td>
+          <td>Do Why</td>
         </tr>
       </tbody>
-
      </table>
-	  
   </div>      
 </div> 
--->
+
 <!-- ########## -->
 
-<!-- <<div class="row">
+ <div class="row">
   <div class="col-xs-12"><a class="anchor" id="speakers"></a>
     <h2>Speakers</h2>
     <br/>
@@ -289,32 +286,7 @@ acknowledgements: ""
           </div></div>
         </div>
       </div>
-    </div>
-    <br/>
-    <div class="row speaker">
-      <div class="col-sm-3 speaker-pic">
-        <a href="https://www.bwl.uni-hamburg.de/statistik/team/klaassen.html" target="_blank">
-          <img class="people-pic" src="/tools/img/people/klaassen.jpeg" />
-        </a>
-        <div class="people-name">
-          <a href="https://www.bwl.uni-hamburg.de/statistik/team/klaassen.html" target="_blank">Sven Klaassen</a>
-          <h6>University of Hamburg</h6>
-        </div>
-      </div>
-      <div class="col-sm-9">
-        <h3>Double Machine Learning</h3><br />
-        <div class="panel panel-default">
-          <div class="panel-heading" data-toggle="collapse" href="#sk-bio" style="cursor:pointer;text-align:center">
-            <b>Biography <span style="font-weight:normal">(click to expand/collapse)</span></b>
-          </div>
-          <div id="sk-bio" class="panel-collapse collapse in"><div class="panel-body">
-            <p class="speaker-bio">
-            Sven Klaassen is a postdoctoral researcher in Statistics at University of Hamburg, and a visiting Scholar at MIT, Department of Economics. He did a PhD at Hamburg University, supervised by Martin Spindler. His main research fields are inference in high-dimensional settings, machine learning, causal inference, deep learning and empirical processes.
-            </p>
-          </div></div>
-        </div>
-      </div>
-    </div>    
+    </div>  
     <br/>    
     <div class="row speaker">
       <div class="col-sm-3 speaker-pic">
@@ -367,7 +339,7 @@ acknowledgements: ""
     </div>
     <br/>
   </div>
-</div> -->
+</div>
 
 <div class="row">
   <div class="col-xs-12"><a class="anchor" id="organizers"></a>
@@ -404,7 +376,7 @@ acknowledgements: ""
       <h6>University of Grenoble Alpes</h6>
     </div>
   </div>
-  <div class="col-xs-2">
+  <!--<div class="col-xs-2">
     <a href="http://pop-art.inrialpes.fr/~goessler/" target="_blank">
       <img class="people-pic" src="{{ "/challenges/img/people/GregorG.jpeg" | prepend:site.baseurl }}">
     </a>
@@ -412,7 +384,7 @@ acknowledgements: ""
       <a href="http://pop-art.inrialpes.fr/~goessler/" target="_blank">Gregor Goessler</a>
       <h6>Inria</h6>
     </div>
-  </div>  
+  </div> -->  
 </div>
 <br>
 
@@ -438,6 +410,7 @@ acknowledgements: ""
 <div class="row">
   <div class="col-xs-3 award-sponsor">
      <img src="/quarter/img/support_sponsors.jpg"/>
+	<img src="/quarter/img/SFDS.png" style="width: 15vw;"/>
   </div>
 </div>
 <br/>
