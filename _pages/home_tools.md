@@ -79,7 +79,7 @@ acknowledgements: ""
      <table class="table schedule" style="border:none !important;">
       <thead class="thead-light">
         <tr>
-	        <th>Monday 22 May</th>
+	        <th>Monday 25 September</th>
 	        <th></th>
         </tr>
       </thead>
@@ -119,7 +119,7 @@ acknowledgements: ""
       </tbody>
       <thead class="thead-light">
         <tr>
-	        <th>Tuesday 23 May</th>
+	        <th>Tuesday 26 September</th>
 	        <th></th>
         </tr>
       </thead>
@@ -147,7 +147,7 @@ acknowledgements: ""
       </tbody>      
       <thead class="thead-light">
       	<tr>
-	        <th>Wednesday 24 May</th>
+	        <th>Wednesday 27 September</th>
 	        <th></th>
         </tr>
       </thead>
@@ -175,7 +175,7 @@ acknowledgements: ""
       </tbody>
       <thead class="thead-light">
       	<tr>
-	        <th>Thursday 25 May</th>
+	        <th>Thursday 28 September</th>
 	        <th></th>
         </tr>
       </thead>
@@ -211,7 +211,7 @@ acknowledgements: ""
       </tbody>
  	      <thead class="thead-light">
       	<tr>
-	        <th>Friday 26 May</th>
+	        <th>Friday 29 September</th>
 	        <th></th>
         </tr>
       </thead>
