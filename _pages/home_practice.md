@@ -204,7 +204,7 @@ acknowledgements: ""
 
 <div class="row">
   <div class="col-xs-12"><a class="anchor" id="speakers"></a>
-    <h2>Speakers (alphabetic order)</h2>
+    <h2>Speakers (Alphabetical order)</h2>
     <br/>
     <!--  -->
     <div class="row speaker" id="abecassis">
