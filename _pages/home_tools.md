@@ -217,15 +217,15 @@ acknowledgements: ""
       </thead>
       <tbody>
         <tr>
-          <td>9:00am - 10:30am</td>
+          <td>8:30am - 10:00am</td>
 		<td>Do Why</td>
         </tr>
 	      <tr>
-          <td>10:30am - 11:00am</td>
+          <td>10:00am - 10:30am</td>
           <td>Coffee break</td>
         </tr>
         <tr>
-          <td>11:00am - 12:30pm</td>
+          <td>10:30am - 12:00pm</td>
           <td>Do Why</td>
         </tr>
       </tbody>
