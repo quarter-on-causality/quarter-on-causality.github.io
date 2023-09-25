@@ -122,7 +122,7 @@ acknowledgements: ""
         </tr>
 	<tr>
           <td>7:30pm - 21:00pm</td>
-          <td>Diner</td>
+          <td>Dinner</td>
         </tr>
       </tbody>
       <thead class="thead-light">
@@ -158,7 +158,7 @@ acknowledgements: ""
         </tr>
 	<tr>
           <td>7:30pm - 21:00pm</td>
-          <td>Diner</td>
+          <td>Dinner</td>
         </tr>
       </tbody>      
       <thead class="thead-light">
@@ -194,7 +194,7 @@ acknowledgements: ""
         </tr>
 	<tr>
           <td>7:30pm - 21:00pm</td>
-          <td>Diner</td>
+          <td>Dinner</td>
         </tr>
       </tbody>
       <thead class="thead-light">
@@ -238,7 +238,7 @@ acknowledgements: ""
         </tr> 
 	<tr>
           <td>7:30pm - 21:00pm</td>
-          <td>Diner</td>
+          <td>Dinner</td>
         </tr>
       </tbody>
  	      <thead class="thead-light">
