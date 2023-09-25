@@ -84,6 +84,10 @@ acknowledgements: ""
         </tr>
       </thead>
       <tbody>
+	<tr>
+          <td>8:00am - 9:00am</td>
+          <td>Breakfast</td>
+        </tr>
         <tr>
           <td>9:00am - 10:30am</td>
           <td>Introduction</td>
@@ -98,7 +102,7 @@ acknowledgements: ""
         </tr>
 	<tr>
           <td>12:30pm - 2:00pm</td>
-          <td>Lunch break</td>
+          <td>Lunch</td>
         </tr>
         <tr>
           <td>2:00pm - 3:30pm</td>
@@ -114,7 +118,11 @@ acknowledgements: ""
         </tr>
       	<tr>
           <td>5:30pm - 7:00pm</td>
-          <td>Poster</td>
+          <td>Poster + apéro</td>
+        </tr>
+	<tr>
+          <td>7:30pm - 21:00pm</td>
+          <td>Diner</td>
         </tr>
       </tbody>
       <thead class="thead-light">
@@ -124,6 +132,10 @@ acknowledgements: ""
         </tr>
       </thead>
       <tbody>
+	<tr>
+          <td>8:00am - 9:00am</td>
+          <td>Breakfast</td>
+        </tr>
         <tr>
           <td>9:00am - 10:30am</td>
           <td>Double ML</td>
@@ -138,11 +150,15 @@ acknowledgements: ""
         </tr>
         <tr>
           <td>12:30pm - 2:00pm</td>
-          <td>Lunch break</td>
+          <td>Lunch</td>
         </tr>
         <tr>
           <td>2:00pm - 3:30pm</td>
 	  <td>Causal Learn</td>
+        </tr>
+	<tr>
+          <td>7:30pm - 21:00pm</td>
+          <td>Diner</td>
         </tr>
       </tbody>      
       <thead class="thead-light">
@@ -152,6 +168,10 @@ acknowledgements: ""
         </tr>
       </thead>
       <tbody>
+	<tr>
+          <td>8:00am - 9:00am</td>
+          <td>Breakfast</td>
+        </tr>
         <tr>
           <td>9:00am - 10:30am</td>
 	      <td>Do Why</td>
@@ -172,6 +192,10 @@ acknowledgements: ""
           <td>2:00pm - 5:30pm</td>
           <td>Social activity</td>
         </tr>
+	<tr>
+          <td>7:30pm - 21:00pm</td>
+          <td>Diner</td>
+        </tr>
       </tbody>
       <thead class="thead-light">
       	<tr>
@@ -180,6 +204,10 @@ acknowledgements: ""
         </tr>
       </thead>
       <tbody>
+	<tr>
+          <td>8:00am - 9:00am</td>
+          <td>Breakfast</td>
+        </tr>
         <tr>
           <td>9:00am - 10:30am</td>
 		<td>Double ML</td>
@@ -194,7 +222,7 @@ acknowledgements: ""
         </tr>
         <tr>
           <td>12:30am - 2:00pm</td>
-	        <td>Lunch break</td>
+	        <td>Lunch</td>
         </tr> 
         <tr>
           <td>2:00pm - 3:30pm</td>
@@ -206,8 +234,12 @@ acknowledgements: ""
         </tr> 
         <tr>
           <td>5:30pm - 7:00pm</td>
-          <td>Poster</td>
+          <td>Poster + apéro</td>
         </tr> 
+	<tr>
+          <td>7:30pm - 21:00pm</td>
+          <td>Diner</td>
+        </tr>
       </tbody>
  	      <thead class="thead-light">
       	<tr>
@@ -216,6 +248,10 @@ acknowledgements: ""
         </tr>
       </thead>
       <tbody>
+	<tr>
+          <td>7:30am - 8:30am</td>
+          <td>Breakfast</td>
+        </tr>
         <tr>
           <td>8:30am - 10:00am</td>
 		<td>Do Why</td>
