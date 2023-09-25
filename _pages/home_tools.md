@@ -264,6 +264,14 @@ acknowledgements: ""
           <td>10:30am - 12:00pm</td>
           <td>Do Why</td>
         </tr>
+	<tr>
+          <td>12:00am - 1:00pm</td>
+	        <td>Lunch</td>
+        </tr> 
+	<tr>
+          <td>1:30pm</td>
+	        <td>Bus departure</td>
+        </tr> 
       </tbody>
      </table>
   </div>      
