@@ -282,7 +282,7 @@ acknowledgements: ""
           </div>
           <div id="jj-bio" class="panel-collapse collapse in"><div class="panel-body">
             <p class="speaker-bio">
-           Elise Dumas did a PhD thesis at Institut Curie, under the supervision of Fabien Reyal and Chloé-Agathe Azencott about the impact of comedications on breast cancer relapse free survival. She is particularly interested in causal inference, with applications in biosciences and health. <strong>[<a href="intro_causal_inference_elise_dumas.pdf" target="_blank">Slides</a>]</strong> </p>
+           Elise Dumas did a PhD thesis at Institut Curie, under the supervision of Fabien Reyal and Chloé-Agathe Azencott about the impact of comedications on breast cancer relapse free survival. She is particularly interested in causal inference, with applications in biosciences and health. <strong>[<a href="tools/intro_causal_inference_elise_dumas.pdf" target="_blank">Slides</a>]</strong> </p>
           </div></div>
         </div>
       </div>
