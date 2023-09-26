@@ -376,7 +376,6 @@ acknowledgements: ""
           <div id="yz-bio" class="panel-collapse collapse in"><div class="panel-body">
             <p class="speaker-bio">
             Yujia Zheng is a graduate student at CMU Philosophy, advised by Prof. Kun Zhang. His research interests lie primarily in the linear span of causality and machine learning. Specifically, he focus on causal discovery, causal representation learning, and structure learning. <strong>[<a href="{{ 'summer2023_Yujia.pdf'| prepend:site.baseurl }}" target="_blank">Slides</a>]</strong> </p>
-            </p>
           </div></div>
         </div>
       </div>
