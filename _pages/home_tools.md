@@ -301,7 +301,7 @@ acknowledgements: ""
           </div>
           <div id="pb-bio" class="panel-collapse collapse in"><div class="panel-body">
             <p class="speaker-bio">
-           Philipp Bach is a postdoctoral researcher in Statistics, at University of Hamburg. He holds the chair of Statistics with Application in Business Administration. He did a PhD at Hamburg university, supervised by Martin Spindler. His main research fields are estimation of causal effects and inference in high dimensional settings with machine learning methods, machine learning, and deep learning, with applications in labor, health and financial economics.
+           Philipp Bach is a postdoctoral researcher in Statistics, at University of Hamburg. He holds the chair of Statistics with Application in Business Administration. He did a PhD at Hamburg university, supervised by Martin Spindler. His main research fields are estimation of causal effects and inference in high dimensional settings with machine learning methods, machine learning, and deep learning, with applications in labor, health and financial economics. <strong>[<a href="https://docs.doubleml.org/tutorial/stable/2023/09/25/welcome-tools-for-causality/" target="_blank">Web page</a>]</strong>
             </p>
           </div></div>
         </div>
