@@ -205,11 +205,11 @@ acknowledgements: ""
       </thead>
       <tbody>
 	<tr>
-          <td>8:00am - 9:00am</td>
+          <td>7:30am - 8:30am</td>
           <td>Breakfast</td>
         </tr>
         <tr>
-          <td>9:00am - 10:30am</td>
+          <td>8:30am - 10:30am</td>
 		<td>Double ML</td>
         </tr>
 	      <tr>
@@ -217,7 +217,7 @@ acknowledgements: ""
           <td>Coffee break</td>
         </tr>
         <tr>
-          <td>11:00am - 12:30pm</td>
+          <td>11:00am - 12:00pm</td>
           <td>Double ML</td>
         </tr>
         <tr>
