@@ -350,7 +350,7 @@ acknowledgements: ""
           </div>
           <div id="rn-bio" class="panel-collapse collapse in"><div class="panel-body">
             <p class="speaker-bio">
-            Robert Ness is a Senior Researcher at Microsoft Research AI in the Societal Resilience group. In his research, he explores how to combine causal discovery, causal inference, deep probabilistic modeling, and programming languages to power new capabilities in AI. <strong>[<a href="{{ 'Autrans_Tuturalial_Identification.pdf'| prepend:site.baseurl }}" target="_blank">Tutorial </a>]</strong> <strong>[<a href="{{ 'Causal_LLM_Autrans_Tools_for_Causality_Sept_2023.pdf'| prepend:site.baseurl }}" target="_blank">Slides </a>]</strong> </p>
+            Robert Ness is a Senior Researcher at Microsoft Research AI in the Societal Resilience group. In his research, he explores how to combine causal discovery, causal inference, deep probabilistic modeling, and programming languages to power new capabilities in AI. <strong>[<a href="{{ 'Autrans_Tuturalial_Identification.pdf'| prepend:site.baseurl }}" target="_blank">Tutorial </a>]</strong> <strong>[<a href="{{ 'Causal_LLM_Autrans_Tools_for_Causality_Sept_2023.pdf'| prepend:site.baseurl }}" target="_blank">Slides </a>]</strong>
             </p>
           </div></div>
         </div>
