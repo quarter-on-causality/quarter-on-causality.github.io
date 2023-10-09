@@ -163,7 +163,8 @@ acknowledgements: ""
       </div>
       <div class="col-sm-9">
         <h3><b>Estimating Marketing Uplifts as Heterogeneous Treatment Effects with Meta-learners</b> </h3><br />
-        <b>Description</b><p class="speaker-abstract">Marketing can be defined as a set of techniques to study a company's business strategy with regard to the market. Among these techniques, Mix Marketing Modeling (MMM) is used to optimize the commercial strategy maximizing the sales volume. MMM consists in modeling the contributions, called uplifts, of each marketing activity to the sales revenue. The goal is to estimate the Return On Investment (ROI) of the numerous marketing campaigns to decide on the next marketing plan. Please check the full description <a href="{{ 'problems/Ekimetrics.pdf'| prepend:site.baseurl }}" target="_blank">here</a>.</p>
+        <b>Description</b><p class="speaker-abstract">Marketing can be defined as a set of techniques to study a company's business strategy with regard to the market. Among these techniques, Mix Marketing Modeling (MMM) is used to optimize the commercial strategy maximizing the sales volume. MMM consists in modeling the contributions, called uplifts, of each marketing activity to the sales revenue. The goal is to estimate the Return On Investment (ROI) of the numerous marketing campaigns to decide on the next marketing plan. Please check the full description <a href="{{ 'problems/Ekimetrics.pdf'| prepend:site.baseurl }}" target="_blank">here</a>. The code is available <a href="https://github.com/SCoumes/MetaLearnersForCausalInference" target="_blank">here</a>.</p>
+        <!--  -->
     </div>
     <!--  -->
     <!-- <br /> -->
