@@ -384,12 +384,6 @@ acknowledgements: ""
   </div>
 </div>
 
-<div class="row" id="intro">
-  <div class="col-md-12">    
-    <center><img class="img-fluid" src="{{ "img/photo_ecole.png" | prepend:site.baseurl }}" width="100%" height="50%"></center>
-    <!--<small style="float:right;margin-top:1mm;margin-right:5mm;">Image credit to <a href="https://escandille.com" target="_blank">L'Escandille</a></small>-->
-  </div>
-</div>
 
 
 
@@ -466,6 +460,15 @@ acknowledgements: ""
   </div>
 </div>
 <br/>
+
+
+<div class="row" id="intro">
+  <div class="col-md-12">    
+    <center><img class="img-fluid" src="{{ "img/photo_ecole.png" | prepend:site.baseurl }}" width="100%" height="50%"></center>
+    <!--<small style="float:right;margin-top:1mm;margin-right:5mm;">Image credit to <a href="https://escandille.com" target="_blank">L'Escandille</a></small>-->
+  </div>
+</div>
+
 
 <div class="row">
   <div class="col-xs-12"><a class="anchor" id="CodeOfConduct"></a>
